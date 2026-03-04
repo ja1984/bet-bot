@@ -197,3 +197,80 @@
 2. **Everton at home** — they've lost 6 of 14 home games. Burnley could nick a point
 3. **Barcelona dead rubber** — if the crowd is flat and there's no real tension, the match could fizzle out
 4. **Brentford H2H streak** — 5 wins is strong but all streaks end eventually
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+
+| Match | Score (90 min) | Goalscorers | 1H Goals |
+|---|---|---|---|
+| Wolves vs Liverpool | **2-1** | Gomes 78', Salah 83', André 90'+4' | None (0-0 at HT) |
+| Bournemouth vs Brentford | **0-0** | — | None |
+| Everton vs Burnley | **2-0** | Tarkowski 32', Dewsbury-Hall 60' | Tarkowski 32' |
+| Leeds vs Sunderland | **0-1** | Diarra 70' (pen) | None (0-0 at HT) |
+| Barcelona vs Atletico Madrid | **3-0** (3-4 agg) | Bernal 29', Raphinha 45'+5' (pen), Bernal 72' | Bernal 29', Raphinha 45'+5' |
+
+### Market Results
+
+| Match | Market | Predicted | Actual | Result |
+|---|---|---|---|---|
+| Wolves vs Liverpool | Liverpool Win (7/10) | ✅ expected | Wolves 2-1 | ❌ |
+| Wolves vs Liverpool | Over 2.5 (6.5/10) | Possible | 3 goals | ✅ |
+| Wolves vs Liverpool | BTTS (5/10) | Risky | Both scored | ✅ |
+| Bournemouth vs Brentford | Brentford DC (8/10) | ✅ expected | 0-0 Draw | ✅ |
+| Bournemouth vs Brentford | Brentford Win (7/10) | ✅ expected | 0-0 Draw | ❌ |
+| Bournemouth vs Brentford | BTTS (6/10) | Possible | 0 goals | ❌ |
+| Everton vs Burnley | Everton Win (6.5/10) | ✅ expected | Everton 2-0 | ✅ |
+| Everton vs Burnley | Under 2.5 (6.5/10) | ✅ expected | 2 goals | ✅ |
+| Everton vs Burnley | BTTS No (6/10) | ✅ expected | Burnley 0 goals | ✅ |
+| Leeds vs Sunderland | Under 2.5 (6.5/10) | ✅ expected | 1 goal | ✅ |
+| Leeds vs Sunderland | Draw (5.5/10) | Possible | Sunderland 1-0 | ❌ |
+| Leeds vs Sunderland | Leeds Win (5.5/10) | Possible | Sunderland won | ❌ |
+| Barcelona vs Atletico | 1H O0.5 (7.5/10) | ✅ expected | 2 goals in 1H | ✅ |
+| Barcelona vs Atletico | Barca O1.5 goals (6.5/10) | ✅ expected | Barca scored 3 | ✅ |
+| Barcelona vs Atletico | BTTS Yes (6.5/10) | Possible | Atletico 0 goals | ❌ |
+
+**Individual market record: 9/15 correct (60%)**
+
+### Combo Results
+
+| Combo | Stakes | Legs | Result | Detail |
+|---|---|---|---|---|
+| Combo 1 — Anchor (30-35%) | Liverpool Win + Brentford DC | ❌ | Liverpool lost 1-2 at Wolves |
+| Combo 2 — Main Bet (25-30%) | 1H O0.5 (Barca) + Everton Win | ✅ | Bernal 29' + Everton 2-0 |
+| Combo 3 — Defensive Hedge (20-25%) | Everton U2.5 + Leeds/Sunderland U2.5 | ✅ | 2 goals + 1 goal |
+| Combo 4 — Upside/Treble (15%) | Liverpool Win + Brentford Win + BTTS Barca | ❌ | All 3 legs failed |
+
+### Overall: 2/4 combos hit — best night so far
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:**
+- Brentford DC at 8/10 (highest rated): ✅ — correctly identified as safest pick
+- 1H O0.5 Barca at 7.5/10: ✅ — 2 goals in 1H, spot on
+- Liverpool Win at 7/10: ❌ — even after the -2 weakened squad rule, still overrated vs a desperate bottom team
+- Everton Win at 6.5/10: ✅ — correctly cautious but hit comfortably (2-0)
+- Under markets at 6.5/10: ✅✅ — both landed easily, could have been rated higher
+- BTTS Barca at 6.5/10: ❌ — we warned about Simeone bus-parking then ignored our own warning
+
+**Best reads of the night:**
+- Everton vs Burnley was a **perfect 3/3** — Win ✅, Under 2.5 ✅, BTTS No ✅
+- Barcelona 1H goal — Bernal 29' and Raphinha 45'+5' confirmed the "start at 100mph" thesis
+- Barcelona scoring 3 (Over 1.5 team goals) — Raphinha/Pedri/Rashford returning was correctly identified as key
+- Defensive hedge strategy (Combo 3) — saved the night again, just like the framework designed it to
+
+**Worst reads of the night:**
+- **Liverpool losing at Wolves** — the biggest shock. André's 94th-minute deflected winner was freakish, but Gomes scoring first in the 78th minute showed Liverpool were toothless without Wirtz/Isak. The -2 confidence rule wasn't enough.
+- **BTTS in Barca/Atletico** — we literally wrote "Simeone will park the bus" and "bus-parking teams kill BTTS" in our own framework, then put BTTS Yes in Combo 4 anyway. Atletico scored 0.
+- **Combo 4 going 0/3** — the "fun bet" had zero diversification. All 3 legs were aggressive offensive picks. A treble should still have at least 1 safe leg.
+
+**Key learnings:**
+1. **Desperate bottom teams at HOME are dangerous** — Wolves' 100% relegation probability meant they had nothing to lose. Away wins at bottom teams should cap at 6/10, not 7/10.
+2. **Simeone + aggregate lead = NEVER BTTS** — if we identify bus-parking, DO NOT include BTTS in any combo. This is a direct contradiction of our own framework.
+3. **The defensive hedge strategy works** — Combo 3 (pure Under) hit for the second time. Always include it.
+4. **Trebles need at least 1 safe leg** — Combo 4 had 3 risky picks and all failed. Even the "fun bet" should anchor with something solid.
+5. **Under markets were undervalued** — 4 of 5 matches had 2 or fewer goals. The PL midweek schedule seems to favour low-scoring games.
