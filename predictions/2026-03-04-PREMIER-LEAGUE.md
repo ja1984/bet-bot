@@ -275,3 +275,132 @@ No single pick appears in more than 2 of 4 combos. Defensive hedge (Combo 3) is 
 
 *Analysis completed: 4 March 2026*
 *Budget: 300 kr | 4 combos | Diversified across 4 of 5 matches*
+
+---
+
+## Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Aston Villa vs Chelsea | **1-4** | Douglas Luiz 2', Joao Pedro 35' 51' 64', Cole Palmer 56' |
+| Brighton vs Arsenal | **0-1** | Saka 9' |
+| Fulham vs West Ham | **0-1** | Summerville 65' (Leno error) |
+| Man City vs Nottingham Forest | **2-2** | Semenyo 31', Gibbs-White 56', Rodri 62', Anderson 76' |
+| Newcastle vs Man United | **2-1** | Gordon 45'+4 (pen), Casemiro 45'+8, Osula 90'. Ramsey red card 45'+1 |
+
+### Market Results
+
+**Aston Villa 1-4 Chelsea**
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS | 8/10 | Villa 1, Chelsea 4 | ✅ |
+| O2.5 | 7.5/10 | 5 goals | ✅ |
+| 1H O0.5 | 7/10 | Douglas Luiz 2', Joao Pedro 35' | ✅ |
+| Result | Coin flip | Chelsea dominant win | N/A (not backed) |
+
+**Brighton 0-1 Arsenal**
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| Arsenal Win | 6.5/10 | 0-1 Arsenal | ✅ |
+| Under 2.5 | 6.5/10 | 1 goal | ✅ |
+| 1H O0.5 | 7/10 | Saka 9' | ✅ |
+| BTTS | 5.5/10 | Brighton failed to score | ✅ (correctly rated low) |
+
+**Fulham 0-1 West Ham**
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| Fulham Win | 8/10 | West Ham won 1-0 | ❌ |
+| O2.5 | 6.5/10 | 1 goal | ❌ |
+| BTTS | 6/10 | Only West Ham scored | ❌ |
+
+**Man City 2-2 Nottingham Forest**
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| City Win | 9/10 | Draw 2-2 | ❌ |
+| City Win to Nil | 7.5/10 | Forest scored TWICE | ❌ |
+| City -1 AH | 7/10 | Draw | ❌ |
+| O2.5 | 6/10 | 4 goals | ✅ (but not backed) |
+
+**Newcastle 2-1 Man United**
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| Man Utd Win | 6.5/10 | Newcastle 2-1 | ❌ |
+| O2.5 | 7.5/10 | 3 goals | ✅ |
+| BTTS | 7/10 | Both scored | ✅ |
+| 1H O0.5 | 8/10 | Gordon 45'+4 | ✅ (just!) |
+
+### Combo Results
+| Combo | Picks | Result | Failed Leg(s) |
+|---|---|---|---|
+| Combo 1 — Anchor (100 kr) | City Win + Fulham Win | ❌ | **Both legs failed** — City drew 2-2, Fulham lost 0-1 |
+| Combo 2 — Main Bet (80 kr) | Villa-Chelsea BTTS + Newcastle-Utd 1H O0.5 | ✅ | — |
+| Combo 3 — Hedge (70 kr) | City Win to Nil | ❌ | Forest scored twice at the Etihad |
+| Combo 4 — Upside (50 kr) | Villa-Chelsea O2.5 + Man Utd Win | ❌ | Man Utd lost 1-2 at Newcastle |
+
+### Overall: 1/4 combos hit | Loss: -144 kr
+
+| | Stake | Return | P/L |
+|---|---|---|---|
+| Combo 1 | 100 kr | 0 kr | -100 kr |
+| Combo 2 | 80 kr | 156 kr | +76 kr |
+| Combo 3 | 70 kr | 0 kr | -70 kr |
+| Combo 4 | 50 kr | 0 kr | -50 kr |
+| **TOTAL** | **300 kr** | **156 kr** | **-144 kr** |
+
+---
+
+### Self-Evaluation
+
+**Confidence calibration:**
+| Pick | Rated | Actual | Verdict |
+|---|---|---|---|
+| Villa-Chelsea BTTS | 8/10 | ✅ (1-4) | CORRECT — landed emphatically |
+| Newcastle-Utd 1H O0.5 | 8/10 | ✅ (45'+4) | CORRECT — but barely, goal in 1H added time |
+| Fulham Win | 8/10 | ❌ (lost 0-1) | OVERCONFIDENT — should have been 6/10 max |
+| City Win | 9/10 | ❌ (drew 2-2) | OVERCONFIDENT by 2+ points — should have been 7/10 |
+| City Win to Nil | 7.5/10 | ❌ (Forest scored 2!) | OVERCONFIDENT — 3 data points was not a pattern |
+| Man Utd Win | 6.5/10 | ❌ (lost 1-2) | CORRECTLY CAUTIOUS — confidence reflected the doubt |
+| Villa-Chelsea O2.5 | 7.5/10 | ✅ (5 goals) | CORRECT |
+
+**Best read of the night:** Villa-Chelsea goals analysis. Called it "THE GOALS GAME" — it delivered 5 goals, BTTS ✅, O2.5 ✅, 1H goal ✅. Joao Pedro hat-trick. Chelsea's BTTS streak extended to 7. The 8/9 H2H stat at Villa Park held once more. Perfect read.
+
+**Second best read:** Brighton-Arsenal. Called it "tight, controlled" with Under 2.5 at 6.5/10 and BTTS No implied. Result: 0-1, Saka 9'. Arsenal's evening kickoff unbeaten streak extended to 20. Every defensive market landed. Shame none of it was in the combos.
+
+**Worst read of the night:** The "hedge" strategy. Combo 3 (City WTN) was supposed to be the safety net — the one combo that survives if everything else fails. Instead, it was the WORST pick of the night. Forest scored TWICE at the Etihad after 0 goals in 3 previous visits. The hedge wasn't truly independent because Combo 1 ALSO relied on City winning. When City dropped points, Combos 1 AND 3 both died — that's 170 kr (57% of the budget) wiped out by one result.
+
+**Critical structural flaw:** Combos 1 and 3 both depended on Man City. Despite the diversification check claiming "no single pick in more than 2 combos", City Win and City WTN are essentially THE SAME BET (City must win for both to land). That means 2/4 combos (and 57% of the budget) were on one outcome. This is fake diversification.
+
+---
+
+### Key Learnings
+
+1. **"Historical aggregate at a venue" is NOT a reliable pattern with 3 data points.** Forest 0 goals in 3 Etihad visits = 270 minutes of football. The framework SAYS require 8+ data points. 3 is not 8. We broke our own rule and rated City WTN at 7.5/10 based on it. Forest scored TWICE.
+
+2. **The hedge MUST be independent of the anchor.** Combo 1 (City Win) and Combo 3 (City WTN) both needed City to win. A true hedge would have been based on a COMPLETELY different game — e.g., Brighton-Arsenal Under 2.5 (which landed at 0-1) or Arsenal Win to Nil (which also landed). That would have returned 70 x 2.70 = 189 kr and saved the night.
+
+3. **Desperate relegation teams AWAY can also be dangerous.** Framework only warned about desperate teams at HOME (Wolves vs Liverpool). West Ham away at Fulham showed the same nothing-to-lose mentality — Summerville's 7th goal in 10 games. Update the rule: desperate relegation teams are dangerous PERIOD, not just at home.
+
+4. **Goalkeeper errors make "bankers" meaningless.** Leno's gift to Summerville killed the Fulham Win at 8/10. When a result depends on one human not making a mistake, 8/10 is too high.
+
+5. **10-man teams at home under the lights can win.** Newcastle got Ramsey red-carded at 45'+1 but still won 2-1 with a 90th-minute winner. The "SJP under lights" warning in the analysis was RIGHT but not incorporated strongly enough.
+
+6. **The correct reads were in the wrong combos.** Brighton-Arsenal analysis was spot on (Under 2.5 ✅, Arsenal Win ✅, 1H O0.5 ✅). None of it was in any combo. Meanwhile the two "banker" results (City Win, Fulham Win) both failed. Better combo construction would have included Brighton-Arsenal markets.
+
+---
+
+### What Should Have Been Different
+
+**Better Combo 3 (Hedge):** Brighton-Arsenal Under 2.5 @ ~1.80 (single, 70 kr)
+- Would have returned: 70 x 1.80 = 126 kr ✅
+- Truly independent of City result
+
+**Better Combo 1 (Anchor):** Fulham Win + Brighton-Arsenal 1H O0.5 @ ~1.60 x ~1.25 = ~2.00
+- Would have still failed (Fulham lost), but at least wouldn't have had City exposure in 2 combos
+
+**Best possible night with our analysis:** If Combo 3 had been Brighton Under 2.5, we'd have gone 2/4 with returns of 156 + 126 = 282 kr on 300 kr stake = only -18 kr. Much more survivable.
+
+---
+
+*Evaluation completed: 5 March 2026*
+*Result: 1/4 combos | -144 kr | Key lesson: hedge must be TRULY independent of anchor*
