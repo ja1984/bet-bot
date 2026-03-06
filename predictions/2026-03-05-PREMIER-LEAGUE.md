@@ -211,3 +211,81 @@ The H2H history (63% Under, 33% BTTS) combined with Palace's striker crisis poin
 **My strongest conviction: BTTS No (6/10).** Palace simply don't have the personnel to score tonight without both Mateta and Nketiah. If they DO score, it'll be through a moment of Eze magic or a set piece — not sustained attacking pressure.
 
 **My best value bet: Draw + Under 2.5 (Combo 4).** Low confidence but likely ~4.5-5.0 odds. Two broken teams grinding out a stalemate is the most thematically appropriate result for this fixture.
+
+---
+
+## 📊 Post-Match Results
+
+### Final Score: Tottenham 1-3 Crystal Palace
+
+### Match Events
+| Minute | Event | Detail |
+|---|---|---|
+| 29' | ❌ Goal disallowed | Sarr offside (VAR) |
+| 34' | ⚽ Spurs 1-0 | Solanke (assist: Archie Gray) |
+| 38' | 🟥 Red card | Micky van de Ven — dragged Sarr down, denied clear chance |
+| 40' | ⚽ Spurs 1-1 | Sarr (penalty) |
+| 45+1' | ⚽ Spurs 1-2 | Strand Larsen (assist: Wharton) |
+| 45+7' | ⚽ Spurs 1-3 | Sarr (assist: Wharton) |
+
+**Key turning point:** Van de Ven's red card (38') completely changed the match. Spurs were leading 1-0 and relatively comfortable. Palace then scored 3 goals in 12 minutes to end the half with a commanding lead. The second half was a non-event.
+
+### Market Results
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| Spurs Win | 5/10 | ❌ Lost 1-3 | Correct to rate low |
+| Draw | 5/10 | ❌ | — |
+| Palace Win | 4.5/10 | ✅ Palace won 3-1 | **Underrated** — should have been higher |
+| Over 2.5 | 5/10 | ✅ 4 goals | Correct but rated too cautiously |
+| Under 2.5 | 5.5/10 | ❌ 4 goals | **Wrong lean** |
+| BTTS Yes | 4.5/10 | ✅ Both scored | **Underrated** |
+| BTTS No | 6/10 | ❌ Both scored | **Wrong — strongest conviction was wrong** |
+| 1H Over 0.5 | 6.5/10 | ✅ 4 goals in 1H | Correct — easily landed |
+| 1H Over 1.5 | 4/10 | ✅ 4 goals in 1H | **Massively underrated** |
+
+### Combo Results
+| Combo | Stake | Result | Failed Leg(s) |
+|---|---|---|---|
+| **Combo 1** — 1H Over 0.5 | 52 kr | ✅ **WON** | — |
+| **Combo 2** — Under 2.5 + BTTS No | 38 kr | ❌ LOST | Both legs failed (Over 2.5 + BTTS Yes) |
+| **Combo 3** — Over 2.5 | 38 kr | ✅ **WON** | — |
+| **Combo 4** — Draw + Under 2.5 | 22 kr | ❌ LOST | Both legs failed (Palace win + Over 2.5) |
+
+### Overall: 2/4 combos hit | Budget: 150 kr staked
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration: Mixed**
+- 1H Over 0.5 at 6.5/10 was the correct anchor — easily landed with 4 first-half goals
+- Over 2.5 at 5/10 was too cautious — Spurs' defensive record (2+ conceded in 8 straight, now 9 straight) should have pushed this higher
+- BTTS No at 6/10 as "strongest conviction" was **wrong** — this was the biggest miss of the night
+
+**Best read of the night: 1H Over 0.5 (Combo 1)**
+- The "Spurs games are chaotic" thesis was 100% correct — 4 goals before the break
+- Using this as the anchor with 35% of the budget was the right structural decision
+
+**Worst read of the night: BTTS No at 6/10 as strongest conviction**
+- We wrote: "Palace simply don't have the personnel to score without Mateta and Nketiah"
+- Reality: Sarr scored twice and Strand Larsen scored once — neither are Mateta or Nketiah
+- **The lesson:** Missing named strikers ≠ inability to score. Palace had Sarr, Strand Larsen, Eze, and Wharton creating. We over-indexed on the striker absences and forgot that Palace's attacking system creates chances for MULTIPLE positions, not just the #9
+- The red card amplified this, but Sarr had already had a goal disallowed (29') BEFORE the red card — Palace were threatening even at 11v11
+
+**Key learning: "Missing strikers" is NOT the same as "can't score"**
+- Teams with strong creative midfields (Wharton, Eze) can redistribute goals across the squad
+- A system-based team like Glasner's Palace creates chances structurally — they don't depend on one finisher
+- Sarr (winger) and Strand Larsen (backup striker) stepped up immediately
+- **New rule:** Only downgrade BTTS/scoring confidence for missing strikers if the team ALSO lacks creative midfielders. If the creative engine is intact, the goals will come from elsewhere.
+
+**Structural evaluation: Framework worked**
+- 2/4 combos hit — acceptable for a single match night
+- The mutual exclusivity of Combos 2 & 3 guaranteed one would hit — Combo 3 landed
+- The anchor (Combo 1) survived as designed — biggest stake, safest play
+- Budget reduction for single match night was correct
+- No result market in the anchor was correct — unpredictable game confirmed
+
+**What the red card teaches:**
+- Van de Ven's red card was unforecastable — but Spurs' disciplinary chaos IS a pattern
+- A team in crisis doesn't just concede goals — they concede cards, penalties, and collapses
+- **Possible future rule:** For teams in crisis/freefall, factor in higher probability of disciplinary incidents (red cards, penalties conceded) which amplify offensive markets
