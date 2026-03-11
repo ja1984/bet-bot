@@ -286,3 +286,113 @@ Newcastle without Bruno is a different team. The virus adds further uncertainty.
 **If Atlético win to nil AND Atalanta-Bayern delivers goals:** Combos 1, 2, AND 3 all hit
 
 *Analysis complete. All markets based on 90-minute outcomes. Good luck!* ⚽
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Galatasaray vs Liverpool | **1-0** | Lemina 7' (header from Osimhen corner) — Konate goal ruled out 70' (VAR handball) |
+| Atalanta vs Bayern München | **1-6** | Stanisic 12', Olise 22' & 64', Gnabry 25', Jackson 52', Musiala 67' / Pasalic 90+3' |
+| Atlético Madrid vs Tottenham | **5-2** | Llorente 6', Griezmann 14', Alvarez 16' & 55', Le Normand 22' / Porro 26', Solanke 76' — Kinsky subbed off after 17' (2 blunders) |
+| Newcastle vs Barcelona | **1-1** | Barnes 86' / Yamal 90+6' (pen, Thiaw foul on Dani Olmo) |
+
+### Market Results
+
+#### Galatasaray 1-0 Liverpool
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS | 6/10 | Only Gala scored | ❌ |
+| Over 2.5 | 5.5/10 | 1 goal | ❌ |
+| 1H Over 0.5 | 7/10 | Lemina 7' | ✅ |
+| Gala Win | 5/10 | 1-0 | ✅ |
+| Draw | 5/10 (called "most likely") | No | ❌ |
+
+#### Atalanta 1-6 Bayern München
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS | 7.5/10 ("BEST READ") | Pasalic 90+3' consolation | ✅ (barely!) |
+| Over 2.5 | 7/10 | 7 goals | ✅ |
+| 1H Over 0.5 | 7.5/10 | Stanisic 12' | ✅ |
+| Bayern Win | 5/10 | 6-1 demolition | ✅ (massively underrated) |
+| Atalanta Win | 4/10 | No | ✅ (correctly low) |
+
+#### Atlético Madrid 5-2 Tottenham
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| Atlético Win | 7.5/10 | 5-2 | ✅ |
+| BTTS No | 6.5/10 | Spurs scored twice | ❌ |
+| Under 2.5 | 6/10 | 7 goals | ❌ |
+| BTTS Yes | 3.5/10 | Both scored | ❌ (should have been higher) |
+| Over 2.5 | 4/10 | 7 goals | ❌ (should have been higher) |
+| 1H Over 0.5 | 6/10 | Llorente 6' (4 goals in first 22 mins!) | ✅ (should have been 8+/10) |
+
+#### Newcastle 1-1 Barcelona
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS | 6.5/10 | Barnes 86', Yamal 90+6' | ✅ (very late) |
+| 1H Over 0.5 | 7/10 | 0-0 at half time | ❌ |
+| Over 2.5 | 5.5/10 | 2 goals | ❌ |
+| Draw | 5/10 | 1-1 | ✅ |
+| Barca Win | 5.5/10 | No | ✅ (correctly cautious) |
+
+### Combo Results
+| Combo | Stake | Legs | Result | Failed Leg(s) |
+|---|---|---|---|---|
+| **C1 — Anchor** | 100 kr | Atalanta-Bayern BTTS + Atletico-Spurs 1H O0.5 | ✅ **WIN** | — |
+| **C2 — Main** | 80 kr | Atletico Win + Atalanta-Bayern O2.5 | ✅ **WIN** | — |
+| **C3 — Hedge** | 70 kr | Atletico BTTS No + Gala-Liverpool 1H O0.5 | ❌ LOSS | Atletico BTTS No (Spurs scored twice) |
+| **C4 — Upside** | 50 kr | Gala-Liverpool BTTS + Atalanta-Bayern BTTS + Newcastle-Barca 1H O0.5 | ❌ LOSS | Gala-Liverpool BTTS ❌ + Newcastle-Barca 1H O0.5 ❌ (2 legs failed) |
+
+### Overall: 2/4 combos hit | Profit/Loss: TBD (depends on actual odds)
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:**
+- **Atalanta-Bayern BTTS at 7.5/10 ("best read"):** Technically correct — it hit. But BARELY. Pasalic's 90+3' consolation in a 6-1 rout saved it. The BTTS thesis was "both teams will score because both are open" — in reality Bayern demolished Atalanta and the consolation goal was an afterthought. The right market was **Bayern Win / Over 3.5** which should have been much higher than 5/10. I massively underestimated Bayern away — "first leg caution" was wrong. Bayern scored 6 away from home without Neuer. The "Neuer out = vulnerability" thesis was completely wrong.
+- **Atletico Win at 7.5/10:** ✅ Correct direction, but the scoreline (5-2) was beyond anything predicted.
+- **Atletico BTTS No at 6.5/10 / BTTS Yes at 3.5/10:** This was the night's WORST calibration. Spurs scored TWICE despite missing their entire creative midfield. Kinsky's GK meltdown (subbed off after 17') created chaos that allowed even a skeleton crew to score. 4 goals in 22 minutes — this was a total collapse, not a controlled Simeone game.
+- **Newcastle-Barca 1H O0.5 at 7/10:** ❌ Wrong. 0-0 at half time. Barca's "100mph start" pattern didn't hold away at St James' Park in a CL knockout. The game was tight and cagey until the 86th minute. First-leg caution won.
+
+**Best read of the night:**
+- **Combo 2 construction (Atletico Win + Atalanta-Bayern O2.5)** — both legs hit emphatically. 5-2 and 1-6. This was the best combo on the card and we had 80 kr on it.
+- **Galatasaray 1H goal** — Lemina 7'. RAMS Park intensity thesis was correct.
+- **Draw at Newcastle-Barca** — called it "very plausible" at 5/10, and it happened (1-1).
+
+**Worst read of the night:**
+- **"Simeone = low-scoring" applied to Atletico-Spurs.** This was the framework's biggest failure. I wrote "Simeone + home = control game after scoring first. Expect 1-0 or 2-0." Reality: 4-0 after 22 minutes, 5-2 final. The framework rule about "teams in freefall = disciplinary risk/collapses" was RIGHT but I didn't take it far enough. I identified the freefall factor but then let the Simeone rule override it. **When the quality gap is THIS extreme (full-strength Atletico vs skeleton crew Spurs with a GK having a meltdown), the freefall factor OVERRIDES the "Simeone = low-scoring" rule.**
+- **Bayern Win at 5/10** — they won 6-1 away. "First leg caution from Kompany" was completely wrong. Bayern are in a different gear this season.
+- **Barca "100mph start"** — didn't apply in a CL knockout away from home at a hostile ground.
+
+**Key learnings:**
+
+1. **FREEFALL OVERRIDES SIMEONE RULE:** When a team is in COMPLETE freefall (6+ losses, skeleton crew, GK errors), even Simeone's "controlled" Atletico can run up a cricket score. The freefall/collapse factor should OVERRIDE the "Simeone = low-scoring" framework when the quality gap is extreme. New rule: **If freefall team + GK crisis → Over 3.5 and BTTS become viable even vs Simeone.**
+
+2. **"NEUER OUT = VULNERABILITY" WAS WRONG:** Bayern scored 6 away without Neuer. The backup GK (Urbig) was irrelevant because Bayern's attack was so dominant. Lesson: **When a team is in steamroller mode (5/5 wins, 15+ goals), a backup GK doesn't slow them down — it's the OPPOSITION that suffers.**
+
+3. **"FIRST LEG CAUTION" IS MATCH-DEPENDENT:** Bayern showed zero caution (6-1). Atletico showed zero caution (5-2). But Newcastle-Barca WAS cagey (1-1) and Gala-Liverpool WAS tight (1-0). The rule only applies when BOTH teams are cautious. If one team smells blood (Bayern vs inconsistent Atalanta, Atletico vs freefall Spurs), they go for the kill.
+
+4. **BARCA "100MPH START" DOESN'T TRAVEL TO HOSTILE CL GROUNDS:** The pattern was confirmed in domestic games (Copa, La Liga). At St James' Park in a CL knockout with backup fullbacks, Barca were cautious. **Domestic patterns don't automatically transfer to CL away matches.**
+
+5. **GK CRISES CREATE CHAOS → OVER MARKETS SURGE:** Kinsky's meltdown (subbed off after 17') turned a controlled Simeone game into a 5-2 rout. Any time a GK is a known weak link (young, inexperienced, error-prone), Over and BTTS should be boosted by 1-2 points.
+
+6. **THE HEDGE WAS INVERSELY WRONG:** Combo 3 (BTTS No) was supposed to save us on a defensive night. But it was an OFFENSIVE night — and the "defensive" pick (Atletico BTTS No) failed precisely because it was so offensive. The hedge should have been built on a genuinely independent axis (e.g. Newcastle-Barca Under 2.5 + Gala-Liverpool Under 1.5) rather than on the Atletico-Spurs match which was always going to be lopsided.
+
+---
+
+### 📈 Updated Track Record
+
+| Day | Tournament | Combos | Result | Profit/Loss |
+|---|---|---|---|---|
+| Tue 25 Feb | CL | 5 combos | 3/5 ✅ | +~€26 |
+| Thu 26 Feb | EL | 4 combos | 0/4 ❌ | -€30 |
+| Mon 2 Mar | La Liga | 4 combos | 0/4 ❌ | -100% budget |
+| Tue 3 Mar | PL + Copa del Rey | 4 combos | 2/4 ✅ | TBD |
+| Wed 4 Mar | PL | 4 combos | 1/4 ❌ | -144 kr |
+| Thu 5 Mar | PL (single) | 4 combos | 2/4 ✅ | TBD |
+| **Tue 10 Mar** | **CL R16** | **4 combos** | **2/4 ✅** | **TBD** |
+| **TOTAL** | | **29 combos** | **10/29** | **TBD** |
