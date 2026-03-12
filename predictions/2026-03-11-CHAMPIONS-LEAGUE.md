@@ -180,3 +180,87 @@ Why: "All 3 goal games deliver" treble. Safe leg = Glimt/Sporting BTTS (8/10). T
 | Cagey CL night (worst case) | X | X | Lev/Ars U2.5 helps | X | **~-95 kr** |
 
 **Key safety net:** Even on a tight CL night, the Leverkusen/Arsenal U2.5 in Combo 3 acts as the parachute.
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Leverkusen vs Arsenal | **1-1** | Andrich 46' (header from corner), Havertz pen (late, off bench vs former club) |
+| PSG vs Chelsea | **5-2** | Barcola 10', Dembélé 40', Vitinha 74', Kvaratskhelia 86' & 90+3' / Gusto 28', Enzo Fernández 57'. 3 PSG goals in final 20 mins |
+| Real Madrid vs Man City | **3-0** | Valverde 20', 27', 42' — **first-half hat-trick**. City blanked |
+| Bodø/Glimt vs Sporting | **3-0** | Fet 31' (pen), Blomberg 45', Høgh 71'. Sporting shut out completely |
+
+### Market Results
+
+#### Leverkusen 1-1 Arsenal
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS No | 6.5/10 | Both scored (Andrich + Havertz) | ❌ |
+| Under 2.5 | 6.5/10 | 2 goals — under | ✅ |
+| Over 2.5 No | 6/10 | 2 goals — no O2.5 | ✅ |
+
+#### PSG 5-2 Chelsea
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS Yes | 7.5/10 | Both scored (PSG 5, Chelsea 2) | ✅ |
+| Over 2.5 | 7.5/10 | 7 goals | ✅ |
+| BTTS & O2.5 | 7/10 | 5-2 | ✅ |
+
+#### Real Madrid 3-0 Man City
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS Yes | 7/10 | Only Madrid scored | ❌ |
+| Over 2.5 | 6.5/10 | 3 goals — over | ✅ |
+| Madrid Win | 5/10 (risky) | 3-0 dominant win | ✅ (massively underrated) |
+
+#### Bodø/Glimt 3-0 Sporting CP
+| Market | Prediction | Actual | Result |
+|---|---|---|---|
+| BTTS Yes | **8/10** (highest of night) | Only Glimt scored | ❌ |
+| Over 2.5 | 7.5/10 | 3 goals — over | ✅ |
+| Over 3.5 | 6/10 | 3 goals — no | ❌ |
+
+### Combo Results
+| Combo | Stake | Result | Detail |
+|---|---|---|---|
+| **C1 — Anchor** | 100 kr | ✅ **WIN** | PSG/Chelsea BTTS & O2.5 ✅ (5-2) |
+| **C2 — Main** | 80 kr | ❌ LOSS | Glimt/Sporting BTTS ❌ (3-0) + RM/City BTTS ❌ (3-0) — BOTH legs failed |
+| **C3 — Hedge** | 70 kr | ✅ **WIN** | Lev/Arsenal U2.5 ✅ (1-1) + Glimt/Sporting O2.5 ✅ (3-0) |
+| **C4 — Upside** | 50 kr | ❌ LOSS | PSG/Chelsea O2.5 ✅ + RM/City O2.5 ✅ + Glimt/Sporting BTTS ❌ (3-0) |
+
+### Overall: 2/4 combos hit | Returns: ~185 kr + ~207 kr = ~392 kr on 300 kr stake = **+92 kr profit**
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:**
+- **PSG/Chelsea BTTS & O2.5 at 7/10** — ✅ PERFECT. Called it "THE GOALS GAME" and it delivered 7 goals. Barcola 10', Gusto 28', Dembélé 40' — 3 goals before half-time. Then 4 more after. Best single read of the night.
+- **Glimt/Sporting BTTS at 8/10** — ❌ WORST CALIBRATION. Highest confidence pick of the night and it failed. Sporting scored in "13 of 14 European away games" but scored 0 at Aspmyra. Glimt's fortress was SO dominant (3-0) that Sporting never got going. The stat was strong but the context was wrong — Aspmyra in March, artificial pitch, hostile atmosphere can shut down even prolific away scorers.
+- **RM/City BTTS at 7/10** — ❌ WRONG. "BTTS in all 5 meetings since 2024" broke emphatically. Valverde's first-half hat-trick (20', 27', 42') killed City before they could respond. The H2H pattern was strong data but one individual performance (Valverde masterclass) rendered it meaningless. Madrid 3-0 despite missing Mbappé, Bellingham, Rodrygo — the "weakened squad" framework was overridden by CL Bernabéu magic.
+- **Leverkusen/Arsenal Under 2.5 at 6.5/10** — ✅ Correct. 1-1, tight game as predicted. "Tightest game of the night" thesis was spot on.
+- **Madrid Win at 5/10** — Should have been higher? No — the framework was right to cap it. A Valverde hat-trick is unforecastable. You can't predict individual brilliance. The framework correctly avoided result markets.
+
+**Best read of the night:**
+- **PSG vs Chelsea "THE GOALS GAME" — absolutely nailed.** 5-2, BTTS ✅, O2.5 ✅, BTTS & O2.5 ✅. The Anchor returned ~185 kr on 100 kr.
+- **Leverkusen/Arsenal "tightest game" — correct.** 1-1, Under 2.5 ✅. The Hedge combo worked exactly as designed.
+- **Combo structure was excellent** — Anchor (PSG/Chelsea) and Hedge (Lev/Arsenal + Glimt O2.5) were truly independent and BOTH hit. This is the framework working as intended.
+
+**Worst read of the night:**
+- **Glimt/Sporting BTTS at 8/10.** This was in 2 of 4 combos (C2 & C4) and killed both. The stat "scored in 13 of 14 European away games" was strong, but Aspmyra is a unique challenge — artificial pitch, sub-zero temperatures, a team that has shut out City and Atletico at home. **Fortress dominance can kill BTTS even against prolific away scorers.** Sporting had 0 shots on target.
+- **RM/City BTTS at 7/10.** H2H patterns (5/5 BTTS) broke when one team has an individual masterclass night. Valverde's hat-trick was unforecastable, but the lesson is: **H2H BTTS streaks can break when one side completely dominates the first half.** City were shell-shocked and never recovered.
+
+**Key learnings:**
+
+1. **FORTRESS DOMINANCE OVERRIDES AWAY SCORING RECORDS:** Glimt's Aspmyra has now shut out or dominated City (3-1), Atletico (2-1), and Sporting (3-0). When a home team is THIS dominant at their fortress, away teams' scoring records elsewhere become irrelevant. BTTS confidence at fortress grounds should be capped at 6/10 max, regardless of away team's record. The home dominance creates an environment where the away team can't play their normal game.
+
+2. **H2H BTTS STREAKS CAN BREAK ON INDIVIDUAL BRILLIANCE NIGHTS:** RM/City BTTS in all 5 meetings was strong data. But Valverde's first-half hat-trick was the kind of individual masterclass that renders patterns meaningless. One player having a career-defining night can kill BTTS by making the game one-sided before the opponent can respond. You simply cannot predict this — but you CAN ensure BTTS picks aren't in too many combos.
+
+3. **THE "3-0 PATTERN" — TWO MATCHES ENDED 3-0:** Both BTTS picks failed with the same scoreline (3-0). In both cases, the home team was SO dominant that the away team was completely neutralized. This wasn't about individual games being cagey — it was about total home dominance. When evaluating BTTS, always ask: "Can the home team be SO dominant that the away team gets zero quality chances?"
+
+4. **COMBO STRUCTURE SAVED THE NIGHT:** Despite the BTTS double (C2) completely failing, the Anchor (C1) and Hedge (C3) — built on truly independent axes — both won. The framework's diversification rules delivered: +92 kr profit despite 2 failed combos. This validates the principle that Anchor + Hedge independence is the most important structural decision.
+
+5. **OVER 2.5 WAS THE BETTER MARKET THAN BTTS:** All 3 games with Over 2.5 predictions hit (PSG 5-2 ✅, RM 3-0 ✅, Glimt 3-0 ✅). The 2 BTTS picks that failed (RM/City, Glimt/Sporting) BOTH had Over 2.5 ✅. Lesson: When one team is dominant, Over 2.5 survives but BTTS dies. In CL R16 first legs at strong home grounds, Over 2.5 may be safer than BTTS.
