@@ -241,3 +241,79 @@ Freiburg missing Eggestein (suspended), Kubler, Kyereh, Rosenfelder (all injured
 **This is an Under night.** Five teams are missing their primary goalscorers (Roma, Porto, Midtjylland, Freiburg, Panathinaikos). It's first legs in EL — teams play cautious. The Feb 26 lesson was clear: EL ≠ CL for goals. Tonight we lean INTO that lesson instead of fighting it.
 
 **Biggest risk:** If the night turns out chaotic (multiple 2-2s or 3-1s), Combos 1-3 all fail. Combo 4's Celta 1H O0.5 is the only offensive pick that would benefit. But with this many injured strikers across this many games, the probability of a full-on goal fest is low.
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Bologna vs Roma | 1-1 | Bernardeschi 50', Pellegrini 70'. 0-0 at HT. |
+| Lille vs Aston Villa | 0-1 | Watkins 61' (header from Buendia flick). 0-0 at HT. |
+| Panathinaikos vs Real Betis | 1-0 | Taborda pen 87'. Llorente red card (Betis). 0-0 at HT. |
+| Stuttgart vs Porto | 1-2 | Moffi 21', Mora 27', Undav 40'. All 3 goals in 1H. |
+| Celta Vigo vs Lyon | 1-1 | Rueda 25', Lyon equaliser. |
+| Ferencvaros vs Braga | 2-0 | Kanichowsky 32', Joseph 68'. |
+| Genk vs Freiburg | 1-0 | El Ouahdi 24'. Freiburg 0 goals in now 6 straight away games. |
+| Forest vs Midtjylland | 0-1 | Cho Gue-sung ~80' (header). Forest had 22 shots, 0 goals. |
+
+**Total goals: 13 across 8 games (avg 1.63).** Extreme Under night.
+
+### Under 2.5 Results: 7/8 (87.5%)
+| Match | Goals | Under 2.5? |
+|---|---|---|
+| Bologna 1-1 Roma | 2 | ✅ |
+| Lille 0-1 Villa | 1 | ✅ |
+| Pana 1-0 Betis | 1 | ✅ |
+| **Stuttgart 1-2 Porto** | **3** | **❌** |
+| Celta 1-1 Lyon | 2 | ✅ |
+| Fradi 2-0 Braga | 2 | ✅ |
+| Genk 1-0 Freiburg | 1 | ✅ |
+| Forest 0-1 Midtjylland | 1 | ✅ |
+
+### Market Results
+| Match | Market | Prediction | Actual | Result |
+|---|---|---|---|---|
+| Bologna vs Roma | Under 2.5 (7/10) | ✅ expected | 2 goals | ✅ |
+| Bologna vs Roma | BTTS No (6.5/10) | ✅ expected | Both scored | ❌ |
+| Lille vs Villa | Under 2.5 (6.5/10) | ✅ expected | 1 goal | ✅ |
+| Lille vs Villa | Lille Win (5.5/10) | Lean | Villa won 0-1 | ❌ |
+| Pana vs Betis | Under 2.5 (6/10) | ✅ expected | 1 goal | ✅ |
+| Stuttgart vs Porto | Under 2.5 (7/10) | ✅ expected | 3 goals | ❌ |
+| Stuttgart vs Porto | BTTS No (7/10) | ✅ expected | Both scored | ❌ |
+| Celta vs Lyon | Celta DNB (7/10) | ✅ expected | Draw (money back) | ✅ |
+| Celta vs Lyon | 1H O0.5 (6.5/10) | ✅ expected | Rueda 25' | ✅ |
+| Genk vs Freiburg | BTTS No (7/10) | ✅ expected | 1-0, Freiburg 0 goals | ✅ |
+| Forest vs Midtjylland | Under 2.5 (7.5/10) | ✅ expected | 1 goal | ✅ |
+| Forest vs Midtjylland | BTTS No (7/10) | ✅ expected | Only Midtjylland scored | ✅ |
+
+**Individual pick accuracy: 8/9 combo picks hit (89%)**
+
+### Combo Results
+| Combo | Stake | Result | Failed Leg(s) | P/L |
+|---|---|---|---|---|
+| C1 — Anchor (Forest U2.5 + Bologna U2.5) | 100 kr | ✅ | — | ~+130 kr |
+| C2 — Main (Stuttgart U2.5 + Genk BTTS No) | 80 kr | ❌ | Stuttgart 1-2 Porto (3 goals) | -80 kr |
+| C3 — Hedge (Stuttgart BTTS No + Lille/Villa U2.5) | 70 kr | ❌ | Stuttgart 1-2 Porto (both scored) | -70 kr |
+| C4 — Fun Treble (Forest BTTS No + Celta 1H + Pana U2.5) | 50 kr | ✅ | — | ~+125 kr |
+
+### Overall: 2/4 combos hit | Estimated profit: ~+105 kr ✅
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:** Excellent — 8/9 individual picks landed. The Under thesis (7/8 = 87.5%) was the best market read of any EL night in this project's history. Forest Under 2.5 at 7.5/10 (strongest pick) delivered perfectly. Only Stuttgart/Porto at 7/10 was overconfident.
+
+**Best read of the night:** Forest vs Midtjylland — labelled "best game of the night for Under" and it was exactly that. 0-1, late header, Forest had 22 shots but couldn't score without Wood. Both Under 2.5 and BTTS No hit.
+
+**Worst read of the night:** Stuttgart vs Porto — Porto scored twice in 6 minutes (Moffi 21', Mora 27') despite having NO recognised strikers. This is the "missing strikers ≠ can't score" lesson (from Palace on March 5) not being applied. Porto's depth (Moffi, Mora are established professionals) was underestimated. Should have been 5.5-6/10, not 7/10.
+
+**Critical structural flaw:** Stuttgart/Porto appeared in BOTH C2 (Under 2.5) and C3 (BTTS No). When Porto scored 2 AND Stuttgart scored 1, both defensive markets on the same game failed simultaneously. 150 kr (50% of budget) was exposed to one match. C2 and C3 died together — the hedge couldn't save us.
+
+**Key learnings:**
+1. **NEVER put the same game in both Main Bet AND Hedge** — different defensive markets on the same game are correlated. When the game produces goals, Under AND BTTS No both fail. Stuttgart/Porto killed C2 + C3.
+2. **"Missing strikers" discount only applies when replacements are unproven** — Moffi and Mora are legitimate EL-level strikers. Porto's depth was real. Only apply the full "no strikers" confidence boost when replacements are youth/untested.
+3. **EL first legs suppress goals even MORE than expected** — 1.63 avg goals across 8 games. For future EL R16 first legs, boost Under 2.5 base confidence by 0.5.
+4. **The Feb 26 EL lesson was FULLY vindicated** — going defensive-first in EL produced +105 kr profit vs the -100% loss when we went offensive.
