@@ -38,15 +38,50 @@
         /* Markdown overrides */
         .prose { max-width: 100%; }
         .dark .prose code { color: #93c5fd; }
+        
+        /* 1. HIDE REDUNDANT MARKDOWN TITLE */
+        /* This hides the very first H1 in the markdown so it doesn't duplicate our UI header */
+        .prose h1:first-child { display: none; }
 
-        /* Mobile-friendly scrollable tables */
+        /* 2. DASHBOARD-STYLE TABLES */
         .prose table {
             display: block;
             width: 100%;
             overflow-x: auto;
             -webkit-overflow-scrolling: touch; 
             white-space: nowrap; 
+            border-collapse: collapse;
+            margin-top: 1rem;
         }
+        
+        /* Style the header row */
+        .prose thead th {
+            background-color: #f1f5f9; /* Light gray background */
+            padding: 0.75rem 1rem !important;
+            border-bottom: 2px solid #e2e8f0;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .dark .prose thead th {
+            background-color: #1e293b;
+            border-bottom: 2px solid #334155;
+        }
+        
+        /* Style the cells and add subtle borders */
+        .prose tbody td {
+            padding: 0.75rem 1rem !important;
+            border-bottom: 1px solid #f1f5f9;
+            font-size: 0.95rem;
+        }
+        .dark .prose tbody td {
+            border-bottom: 1px solid #1e293b;
+        }
+        
+        /* Highlight rows on hover for easier reading */
+        .prose tbody tr { transition: background-color 0.15s; }
+        .prose tbody tr:hover td { background-color: #f8fafc; }
+        .dark .prose tbody tr:hover td { background-color: #0f172a; }
         
         /* Custom styled scrollbar for the tables */
         .prose table::-webkit-scrollbar { height: 6px; }
