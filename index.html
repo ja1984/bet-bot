@@ -26,7 +26,7 @@
     </script>
 
     <style>
-        /* Minimal custom CSS for things Tailwind handles less easily inline */
+        /* Glassmorphism effects */
         .glass-card {
             background: rgba(255, 255, 255, 0.85);
             backdrop-filter: blur(12px);
@@ -36,9 +36,27 @@
             background: rgba(15, 23, 42, 0.85);
             border-bottom: 1px solid rgba(51, 65, 85, 0.5);
         }
-        /* Markdown overriding to ensure dark mode visibility */
+        
+        /* Markdown overrides */
         .prose { max-width: 100%; }
         .dark .prose code { color: #93c5fd; }
+
+        /* Mobile-friendly scrollable tables */
+        .prose table {
+            display: block;
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch; /* Native smooth scrolling on iOS */
+            white-space: nowrap; /* Prevents text from squishing */
+        }
+        
+        /* Custom styled scrollbar for the tables */
+        .prose table::-webkit-scrollbar { height: 6px; }
+        .prose table::-webkit-scrollbar-track { background: transparent; }
+        .prose table::-webkit-scrollbar-thumb { 
+            background-color: rgba(156, 163, 175, 0.5); 
+            border-radius: 10px; 
+        }
     </style>
 </head>
 <body class="bg-gray-50 text-gray-800 dark:bg-dark dark:text-gray-100 transition-colors duration-300 min-h-screen flex flex-col font-sans">
@@ -58,7 +76,7 @@
                         <span class="hidden sm:inline">Results Tracker</span>
                     </button>
                     <button id="theme-toggle" onclick="toggleTheme()" class="p-2 rounded-full bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors shadow-inner text-lg leading-none" aria-label="Toggle theme">
-                        ☾
+                        🌚
                     </button>
                 </div>
             </div>
@@ -119,10 +137,10 @@
         function applyTheme(theme) {
             if (theme === 'dark') {
                 htmlEl.classList.add('dark');
-                themeBtn.textContent = '☀';
+                themeBtn.textContent = '☀️'; // Show Sun to switch back to light
             } else {
                 htmlEl.classList.remove('dark');
-                themeBtn.textContent = '☾';
+                themeBtn.textContent = '🌚'; // Show Moon to switch back to dark
             }
         }
 
@@ -156,6 +174,20 @@
             
         const errorHTML = (msg) => `<div class="text-center p-8 text-red-500 font-medium bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-100 dark:border-red-900/30">${msg}</div>`;
 
+        // Parse markdown string into HTML and inject mobile table hints
+        function renderMarkdown(mdText) {
+            const container = document.getElementById('md-content');
+            container.innerHTML = marked.parse(mdText);
+            
+            // Inject a mobile-only hint above any tables that are rendered
+            container.querySelectorAll('table').forEach(table => {
+                const hint = document.createElement('div');
+                hint.className = 'text-xs text-blue-500 dark:text-blue-400 mb-2 sm:hidden flex items-center gap-1.5 italic font-medium';
+                hint.innerHTML = '<span>↔️ Swipe table to view all columns</span>';
+                table.parentNode.insertBefore(hint, table);
+            });
+        }
+
         function parseFileName(name) {
             const w = name.replace(/\.md$/i, '');
             const m = w.match(/^(\d{4}-\d{2}-\d{2})-(.+)$/);
@@ -184,7 +216,7 @@
                 var res = await fetch(resultsFile.download_url);
                 if (!res.ok) throw new Error('Failed to fetch data');
                 var md = await res.text();
-                document.getElementById('md-content').innerHTML = marked.parse(md);
+                renderMarkdown(md);
             } catch(err) {
                 document.getElementById('md-content').innerHTML = errorHTML(err.message);
             }
@@ -214,71 +246,4 @@
                     el.innerHTML = `
                         <div class="text-center py-16 bg-white dark:bg-darkSurface rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm">
                             <div class="text-5xl mb-4">📭</div>
-                            <p class="text-gray-500 dark:text-gray-400 font-medium">No prediction files found yet.</p>
-                        </div>`;
-                    return;
-                }
-
-                // Render stylish list items
-                el.innerHTML = files.map((f, i) => `
-                    <a onclick="showDetail(${i})" role="button" tabindex="0" class="group flex items-center justify-between p-4 sm:p-5 bg-white dark:bg-darkSurface border border-gray-200 dark:border-gray-700 rounded-xl hover:shadow-md hover:border-blue-500 dark:hover:border-blue-500 transition-all cursor-pointer">
-                        <div class="flex items-center gap-4 sm:gap-6 w-full">
-                            <span class="bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 text-xs sm:text-sm font-bold px-3 py-1.5 rounded-lg whitespace-nowrap tracking-wide">
-                                ${formatDate(f.parsed.date)}
-                            </span>
-                            <span class="font-semibold text-gray-800 dark:text-gray-100 text-base sm:text-lg group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors truncate">
-                                ${f.parsed.league}
-                            </span>
-                        </div>
-                        <span class="text-gray-300 dark:text-gray-600 group-hover:text-blue-500 transform group-hover:translate-x-1 transition-all text-xl ml-4">&rarr;</span>
-                    </a>
-                `).join('');
-
-                handleHash();
-            } catch(err) {
-                el.innerHTML = errorHTML('Failed to load predictions: ' + err.message);
-            }
-        }
-
-        async function showDetail(i) {
-            var file = files[i];
-            if (!file) return;
-            document.getElementById('list-view').style.display = 'none';
-            document.getElementById('detail-view').style.display = 'block';
-            document.getElementById('detail-title').textContent = formatDate(file.parsed.date) + ' — ' + file.parsed.league;
-            document.getElementById('md-content').innerHTML = loadingHTML;
-            window.location.hash = file.name;
-            window.scrollTo(0, 0);
-
-            try {
-                var res = await fetch(file.download_url);
-                if (!res.ok) throw new Error('Failed to fetch data');
-                var md = await res.text();
-                document.getElementById('md-content').innerHTML = marked.parse(md);
-            } catch(err) {
-                document.getElementById('md-content').innerHTML = errorHTML(err.message);
-            }
-        }
-
-        function showList() {
-            document.getElementById('list-view').style.display = 'block';
-            document.getElementById('detail-view').style.display = 'none';
-            window.location.hash = '';
-            window.scrollTo(0, 0);
-        }
-
-        function handleHash() {
-            var h = decodeURIComponent(window.location.hash.replace('#', ''));
-            if (!h) return;
-            if (h === 'results.md') { showResults(); return; }
-            var idx = files.findIndex(f => f.name === h);
-            if (idx !== -1) showDetail(idx);
-        }
-
-        window.addEventListener('hashchange', handleHash);
-        
-        // Boot up
-        loadFileList();
-    </script>
-</body>
-</html>
+                            <p class="text-gray-500 dark:text-gray-400 font-medium">No prediction
