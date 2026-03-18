@@ -266,3 +266,108 @@ Offered at ~50x → implied 2% → **real value (~2.1x EV). Small stake only.**
 ---
 
 *Analysis by Bet Bot | March 17, 2026*
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+
+| Match | HT | 90 min | AET | Agg |
+|---|---|---|---|---|
+| Sporting CP vs Bodø/Glimt | 1-0 | 3-0 | 5-0 | Sporting win 5-3 |
+| Chelsea vs PSG | 0-2 | 0-3 | — | PSG win 8-2 |
+| Arsenal vs Bayer Leverkusen | 1-0 | 2-0 | — | Arsenal win 3-1 |
+| Man City vs Real Madrid | 1-1 | 1-2 | — | Real win 5-1 |
+
+### Goalscorers
+
+- **Sporting 5-0 Glimt (AET):** Inácio 34', Pedro Gonçalves 61', Suárez 78' (pen), Araújo 92' (AET), Nel 120+1' (AET)
+- **Chelsea 0-3 PSG:** Kvaratskhelia 7', Barcola 14', Mayulu 62'
+- **Arsenal 2-0 Leverkusen:** Eze 35', Rice 62'
+- **City 1-2 Real Madrid:** Vinicius Jr 22' (pen), Haaland 41', Vinicius Jr 90+4'
+
+### Cards & Penalties
+
+| Match | Event | Player | Min |
+|---|---|---|---|
+| Sporting vs Glimt | 🟨 Yellow | Blomberg (Glimt) | 6' |
+| Sporting vs Glimt | 🟨 Yellow | Hjulmand (Sporting) | 48' |
+| Sporting vs Glimt | 🟨 Yellow | Høgh (Glimt) | 68' |
+| Sporting vs Glimt | ⚽ Penalty scored | Suárez (Sporting) | 78' |
+| Sporting vs Glimt | 🟨 Yellow (AET) | Santos (Sporting) | 104' |
+| Sporting vs Glimt | 🟨 Yellow (AET) | Bassi (Glimt) | 105' |
+| Sporting vs Glimt | 🟨 Yellow (AET) | Saltnes (Glimt) | 118' |
+| Chelsea vs PSG | — | No cards, no penalty | — |
+| Arsenal vs Leverkusen | — | No cards, no penalty | — |
+| City vs Real Madrid | 🟥 Red card | Bernardo Silva (City) — deliberate handball on line | 22' |
+| City vs Real Madrid | ⚽ Penalty scored | Vinicius Jr (Real) | 22' |
+| City vs Real Madrid | 🟨 Yellow | Guardiola (touchline) | ~22' |
+
+### Market Results
+
+| Match | Market | Confidence | Result | ✅/❌ |
+|---|---|---|---|---|
+| Sporting vs Glimt | Over 1.5 | 6/10 | 3 goals (90 min) | ✅ |
+| Sporting vs Glimt | Over 2.5 | 4.5/10 | 3 goals (90 min) | ✅ |
+| Sporting vs Glimt | BTTS | 5/10 | 3-0 — Glimt never scored | ❌ |
+| Sporting vs Glimt | Sporting Win | 6/10 | Won 3-0 (90 min) | ✅ |
+| Sporting vs Glimt | HT Draw | ~50% | HT 1-0 | ❌ |
+| Chelsea vs PSG | BTTS | 7.5/10 | 0-3 — Chelsea never scored | ❌ |
+| Chelsea vs PSG | Over 2.5 | 7/10 | 3 goals | ✅ |
+| Chelsea vs PSG | 1H Over 0.5 | 7/10 | PSG 7' + 14' | ✅ |
+| Chelsea vs PSG | HT Draw | ~45% | HT 0-2 | ❌ |
+| Chelsea vs PSG | Penalty (avoid Vinčić) | — | No penalty | ✅ dodged |
+| Arsenal vs Leverkusen | Arsenal Win | 7/10 | Won 2-0 | ✅ |
+| Arsenal vs Leverkusen | Under 2.5 | 6/10 | 2 goals | ✅ |
+| Arsenal vs Leverkusen | BTTS | 5.5/10 | Leverkusen never scored | ❌ |
+| Arsenal vs Leverkusen | 1H Over 0.5 | 6.5/10 | Eze 35' | ✅ |
+| Arsenal vs Leverkusen | HT Draw | ~40% | HT 1-0 | ❌ |
+| City vs Real Madrid | Over 2.5 | 7.5/10 | 3 goals | ✅ |
+| City vs Real Madrid | BTTS | 7/10 | City 1, Real 2 | ✅ |
+| City vs Real Madrid | 1H Over 0.5 | 7.5/10 | 2 goals in 1H | ✅ |
+| City vs Real Madrid | HT Draw | ~48% | HT 1-1 | ✅ |
+| City vs Real Madrid | Penalty awarded | ~48% (Turpin!) | Vinicius scored pen 22' | ✅ |
+| City vs Real Madrid | Red card watch | Right match flagged | Bernardo Silva red (wrong player predicted) | ✅/⚠️ |
+| Yellow treble | Tchouaméni + Andrich + Caicedo | ~5.8% | No cards in any of 3 matches | ❌ |
+| 4-match HT Draw | All four | ~4.3% / 50x | Only City/Real was HT draw (1-1) | ❌ |
+
+### Combo Results
+
+| Combo | Picks | Result | Notes |
+|---|---|---|---|
+| C1 — Anchor (140 kr) | Arsenal Win + City/RM Over 2.5 | ✅ WIN | Both legs hit cleanly |
+| C2 — Main (100 kr) | City/RM BTTS + Chelsea/PSG BTTS | ❌ LOSS | Chelsea never scored — 0-3 |
+| C3 — Hedge (90 kr) | Arsenal Under 2.5 + Chelsea/PSG 1H Over 0.5 | ✅ WIN | Arsenal 2-0 + PSG scored 7' & 14' |
+| C4 — Fun treble (70 kr) | Arsenal Win + City/RM BTTS + Chelsea/PSG Over 2.5 | ✅ WIN | All three legs hit |
+
+### Overall: 3/4 combos ✅ | Estimated profit: ~+512 kr on 400 kr staked
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:**
+- City/RM Over 2.5 at 7.5/10 ✅ — perfectly calibrated, delivered
+- Arsenal Win at 7/10 ✅ — correct and controlled
+- Chelsea/PSG BTTS at 7.5/10 ❌ — worst miss of the night, badly overconfident
+- Arsenal Under 2.5 at 6/10 ✅ — underrated, should have been higher
+- Penalty in City/RM at ~48% ✅ — Turpin thesis confirmed again
+
+**Best read of the night:** City vs Real Madrid — Over 2.5 ✅, BTTS ✅, 1H Over 0.5 ✅, penalty ✅, red card in right match ✅. Turpin + Vinicius + Haaland was a bankable combination.
+
+**Worst read of the night:** Chelsea/PSG BTTS at 7.5/10. Chelsea never came close to scoring. PSG were 2-0 up at 14 minutes and never looked back. Dead rubber + elite opponent + poor form = wrong market entirely.
+
+**Key learnings:**
+
+1. **Dead rubber + elite opposition + poor form = BTTS OFF the table.** PSG scored twice in 14 minutes and suffocated Chelsea completely. When the trailing team is in freefall form AND the leading team is the tournament favourite, cap BTTS at 5/10 max regardless of historical BTTS records.
+
+2. **Returning suspended players can change a tie completely.** Araujo and Pedro Gonçalves returning was arguably the decisive factor in Sporting's historic comeback from 3-0 down. Always re-evaluate the "can they chase?" question significantly upward when key suspended players return for the second leg.
+
+3. **Turpin penalty thesis is repeatable and bankable.** Confirmed again: Bernardo Silva deliberate handball on the line → red card + penalty. Vinicius converted. Flag every future Turpin appointment as a high-penalty game.
+
+4. **Elite teams don't ease off in first halves even in dead rubbers.** PSG 2-0 up by the 14th minute. When you're the best team in the tournament, "protecting a 5-2 lead" means killing the game early — not sitting back. HT Draw thesis fundamentally misread PSG's mentality.
+
+5. **Yellow cards dry up in clean, professionally managed knockout matches.** Arsenal-Leverkusen and Chelsea-PSG had zero significant disciplinary incidents. Focus yellow card trebles on genuinely contested, physical matches — not games dominated by one elite team.
+
+*Best night of the season — 3/4 combos, ~+512 kr estimated profit*
