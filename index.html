@@ -7,8 +7,6 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.1/marked.min.js"></script>
     
-    <script src="https://cdn.tailwindcss.com"></script>
-    
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -46,8 +44,8 @@
             display: block;
             width: 100%;
             overflow-x: auto;
-            -webkit-overflow-scrolling: touch; /* Native smooth scrolling on iOS */
-            white-space: nowrap; /* Prevents text from squishing */
+            -webkit-overflow-scrolling: touch; 
+            white-space: nowrap; 
         }
         
         /* Custom styled scrollbar for the tables */
@@ -226,8 +224,15 @@
             var el = document.getElementById('file-list');
             try {
                 var res = await fetch(API_BASE + '/contents/' + FOLDER + '?ref=' + BRANCH);
+                
+                // If GitHub rate-limits the user, throw a clear error
+                if (res.status === 403 || res.status === 429) throw new Error("GitHub API limit reached. Please wait a few minutes before reloading.");
                 if (!res.ok) throw new Error('GitHub API returned ' + res.status);
+                
                 var data = await res.json();
+                
+                // Extra safety check to ensure 'data' is an array before trying to filter it
+                if (!Array.isArray(data)) throw new Error("Unexpected response from GitHub.");
 
                 var allMdFiles = data.filter(f => f.name.endsWith('.md'));
                 resultsFile = allMdFiles.find(f => f.name === 'results.md') || null;
@@ -246,4 +251,70 @@
                     el.innerHTML = `
                         <div class="text-center py-16 bg-white dark:bg-darkSurface rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm">
                             <div class="text-5xl mb-4">📭</div>
-                            <p class="text-gray-500 dark:text-gray-400 font-medium">No prediction
+                            <p class="text-gray-500 dark:text-gray-400 font-medium">No prediction files found yet.</p>
+                        </div>`;
+                    return;
+                }
+
+                el.innerHTML = files.map((f, i) => `
+                    <a onclick="showDetail(${i})" role="button" tabindex="0" class="group flex items-center justify-between p-4 sm:p-5 bg-white dark:bg-darkSurface border border-gray-200 dark:border-gray-700 rounded-xl hover:shadow-md hover:border-blue-500 dark:hover:border-blue-500 transition-all cursor-pointer">
+                        <div class="flex items-center gap-4 sm:gap-6 w-full">
+                            <span class="bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 text-xs sm:text-sm font-bold px-3 py-1.5 rounded-lg whitespace-nowrap tracking-wide">
+                                ${formatDate(f.parsed.date)}
+                            </span>
+                            <span class="font-semibold text-gray-800 dark:text-gray-100 text-base sm:text-lg group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors truncate">
+                                ${f.parsed.league}
+                            </span>
+                        </div>
+                        <span class="text-gray-300 dark:text-gray-600 group-hover:text-blue-500 transform group-hover:translate-x-1 transition-all text-xl ml-4">&rarr;</span>
+                    </a>
+                `).join('');
+
+                handleHash();
+            } catch(err) {
+                el.innerHTML = errorHTML(err.message);
+            }
+        }
+
+        async function showDetail(i) {
+            var file = files[i];
+            if (!file) return;
+            document.getElementById('list-view').style.display = 'none';
+            document.getElementById('detail-view').style.display = 'block';
+            document.getElementById('detail-title').textContent = formatDate(file.parsed.date) + ' — ' + file.parsed.league;
+            document.getElementById('md-content').innerHTML = loadingHTML;
+            window.location.hash = file.name;
+            window.scrollTo(0, 0);
+
+            try {
+                var res = await fetch(file.download_url);
+                if (!res.ok) throw new Error('Failed to fetch data');
+                var md = await res.text();
+                renderMarkdown(md);
+            } catch(err) {
+                document.getElementById('md-content').innerHTML = errorHTML(err.message);
+            }
+        }
+
+        function showList() {
+            document.getElementById('list-view').style.display = 'block';
+            document.getElementById('detail-view').style.display = 'none';
+            window.location.hash = '';
+            window.scrollTo(0, 0);
+        }
+
+        function handleHash() {
+            var h = decodeURIComponent(window.location.hash.replace('#', ''));
+            if (!h) return;
+            if (h === 'results.md') { showResults(); return; }
+            var idx = files.findIndex(f => f.name === h);
+            if (idx !== -1) showDetail(idx);
+        }
+
+        window.addEventListener('hashchange', handleHash);
+        
+        // Boot up
+        loadFileList();
+    </script>
+</body>
+</html>
