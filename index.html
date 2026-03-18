@@ -33,6 +33,16 @@
     header h1 span { color: var(--accent-light); }
     header p { color: var(--text-muted); font-size: 0.95rem; }
 
+    .results-link {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      margin-top: 1rem; padding: 0.6rem 1.25rem;
+      background: var(--accent-bg); border: 1px solid var(--accent);
+      border-radius: 50px; color: var(--accent-light); font-weight: 600;
+      font-size: 0.9rem; cursor: pointer; transition: background 0.15s, transform 0.15s;
+      text-decoration: none;
+    }
+    .results-link:hover { background: var(--accent); color: #fff; transform: translateY(-1px); }
+
     .file-list { display: flex; flex-direction: column; gap: 0.5rem; }
     .file-item {
       display: flex; align-items: center; gap: 1rem; padding: 1rem 1.25rem;
@@ -112,6 +122,7 @@
       <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" onclick="toggleTheme()">&#9790;</button>
       <h1>&#9917; <span>Bet Bot</span> Predictions</h1>
       <p>Match analysis &amp; predictions archive</p>
+      <a class="results-link" onclick="showResults()" role="button" tabindex="0">&#128200; Results Tracker</a>
     </header>
     <div id="list-view">
       <div id="file-list" class="file-list">
@@ -146,7 +157,11 @@
     const BRANCH = 'main';
     const API_BASE = 'https://api.github.com/repos/' + OWNER + '/' + REPO;
 
+    // Files that are NOT predictions — filter these from the main list
+    const NON_PREDICTION_FILES = ['results.md', 'RESULTS-TRACK-RECORD.md'];
+
     let files = [];
+    let resultsFile = null;
 
     function parseFileName(name) {
       const w = name.replace(/\.md$/i, '');
@@ -163,6 +178,23 @@
       } catch(e) { return ds; }
     }
 
+    async function showResults() {
+      if (!resultsFile) return;
+      document.getElementById('list-view').style.display = 'none';
+      document.getElementById('detail-view').style.display = 'block';
+      document.getElementById('detail-title').textContent = '\uD83D\uDCC8 Results Tracker';
+      document.getElementById('md-content').innerHTML = '<div class="loading"><div class="spinner"></div><p>Loading&#8230;</p></div>';
+      window.location.hash = 'results.md';
+      try {
+        var res = await fetch(resultsFile.download_url);
+        if (!res.ok) throw new Error('Failed to fetch');
+        var md = await res.text();
+        document.getElementById('md-content').innerHTML = marked.parse(md);
+      } catch(err) {
+        document.getElementById('md-content').innerHTML = '<div class="error-msg">' + err.message + '</div>';
+      }
+    }
+
     async function loadFileList() {
       var el = document.getElementById('file-list');
       try {
@@ -170,13 +202,19 @@
         if (!res.ok) throw new Error('GitHub API returned ' + res.status);
         var data = await res.json();
 
-        files = data
-          .filter(function(f) { return f.name.endsWith('.md'); })
+        // Find and store the results file separately
+        var allMdFiles = data.filter(function(f) { return f.name.endsWith('.md'); });
+        resultsFile = allMdFiles.find(function(f) { return f.name === 'results.md'; }) || null;
+
+        // Filter out non-prediction files from the main list
+        files = allMdFiles
+          .filter(function(f) { return NON_PREDICTION_FILES.indexOf(f.name) === -1; })
           .map(function(f) {
             var copy = Object.assign({}, f);
             copy.parsed = parseFileName(f.name);
             return copy;
           })
+          .filter(function(f) { return f.parsed.date !== ''; })
           .sort(function(a, b) { return b.parsed.date.localeCompare(a.parsed.date); });
 
         if (!files.length) {
@@ -224,6 +262,7 @@
     function handleHash() {
       var h = decodeURIComponent(window.location.hash.replace('#', ''));
       if (!h) return;
+      if (h === 'results.md') { showResults(); return; }
       var idx = files.findIndex(function(f) { return f.name === h; });
       if (idx !== -1) showDetail(idx);
     }
