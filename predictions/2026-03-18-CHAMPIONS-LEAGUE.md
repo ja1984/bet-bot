@@ -82,7 +82,7 @@
 - **Anfield CL nights are legendary.** Even in poor form, the crowd lifts Liverpool in European knockouts. The "This is Anfield" factor is real.
 - Liverpool MUST attack → opens space for **Osimhen on the counter**. This is a classic BTTS setup.
 - Galatasaray losing Sánchez (CB) weakens their backline at the worst time — Anfield pressure + weaker defense.
-- Without Isak, Liverpool's goalscoring burden falls on Salah, Díaz, Gakpo, Jota. Still quality.
+- Without Isak, Liverpool's goalscoring burden falls on Salah, Wirtz (confirmed starter), Ekitike (11 league goals — main striker), and Gakpo. Still quality — arguably Liverpool's strongest available front three.
 - Mamardashvili is decent but not Alisson — Galatasaray could exploit if they get chances.
 - Liverpool's home CL record historically is much stronger than their away form.
 
@@ -209,7 +209,7 @@
 - [x] Treble has safe leg (Barca Win 7/10)
 - [x] Oblak out noted but Atletico still favoured — Simeone won't need his GK if he parks the bus
 - [x] Bruno Guimaraes out for Newcastle = midfield control lost at Camp Nou
-- [x] Liverpool missing Isak noted — but Salah/Diaz/Gakpo still available
+- [x] Liverpool missing Isak noted — but Salah/Wirtz/Ekitike/Gakpo still available (Wirtz confirmed starter)
 - [x] 4th-choice GK for Bayern noted — not a primary factor in a dead rubber
 
 ---
