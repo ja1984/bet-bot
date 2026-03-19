@@ -219,3 +219,88 @@
 **Biggest risk:** Liverpool BTTS (7/10) — if Galatasaray sit deep and Liverpool's poor 2026 form shows up at home, this could fail. But Osimhen is too good to waste counter-attacks, and Sanchez's suspension leaves Gala's backline weaker.
 
 **Match to avoid betting on:** Bayern vs Atalanta as a standalone — dead rubber with too many unknowns about rotation and intensity. Only used as a supporting leg in C3.
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | HT | Key Events |
+|---|---|---|---|
+| Barcelona vs Newcastle | **7-2** | 3-2 | Raphinha 6', 72', Elanga 15', 28', Bernal 18', Yamal 45+7' pen, Fermín López 52', Lewandowski 56', 61' |
+| Bayern vs Atalanta | **4-1** | 1-0 | Kane 25' pen, 54', Karl 56', Díaz 70', Samardžić 85' |
+| Liverpool vs Galatasaray | **4-0** | 1-0 | Szoboszlai 25', Ekitike 51', Gravenberch 53', Salah 61' |
+| Tottenham vs Atletico | **3-2** | 1-0 | Kolo Muani 30', Álvarez ~48', Simons 52', Hancko 75', Simons 90+' pen |
+
+### Market Results
+| Match | Market | Prediction | Actual | Result |
+|---|---|---|---|---|
+| Barca vs Newcastle | 1H Over 0.5 (8/10) | ✅ expected | 5 goals in 1H! Raphinha 6' | ✅ |
+| Barca vs Newcastle | Over 2.5 (7/10) | ✅ expected | 9 goals | ✅ |
+| Barca vs Newcastle | BTTS (6/10) | Lean yes | 7-2, both scored | ✅ |
+| Barca vs Newcastle | Barca Win (7/10) | ✅ expected | 7-2 | ✅ |
+| Bayern vs Atalanta | 1H Over 0.5 (6.5/10) | Lean yes | Kane pen 25' | ✅ |
+| Bayern vs Atalanta | Over 2.5 (5/10) | Coin flip | 5 goals | ✅ |
+| Bayern vs Atalanta | BTTS (5/10) | Coin flip | 4-1, both scored | ✅ |
+| Liverpool vs Gala | 1H Over 0.5 (8/10) | ✅ expected | Szoboszlai 25' | ✅ |
+| Liverpool vs Gala | BTTS (7/10) | ✅ expected | 4-0, Gala scored 0 | ❌ |
+| Liverpool vs Gala | Over 2.5 (6/10) | Lean yes | 4 goals | ✅ |
+| Liverpool vs Gala | Liverpool Win (6/10) | Lean yes | 4-0 | ✅ |
+| Spurs vs Atletico | Under 2.5 (6/10) | Lean yes | 5 goals (3-2) | ❌ |
+| Spurs vs Atletico | BTTS (4/10) | ❌ expected | 3-2, both scored | Correctly avoided |
+| Spurs vs Atletico | Atletico Win (6/10) | Lean yes | Spurs won 3-2 | ❌ |
+| Spurs vs Atletico | Over 2.5 (4/10) | Lean no | 5 goals | Wrong lean |
+
+### Combo Results
+| Combo | Stake | Result | Failed Leg(s) | Return |
+|---|---|---|---|---|
+| C1 — Anchor: Barca 1H + Liverpool 1H | 100 kr | ✅ | — | ~159 kr |
+| C2 — Main: Barca O2.5 + Liverpool BTTS | 80 kr | ❌ | Liverpool BTTS (4-0, Gala never scored) | 0 kr |
+| C3 — Hedge: Spurs U2.5 + Bayern 1H | 70 kr | ❌ | Spurs Under 2.5 (3-2, 5 goals) | 0 kr |
+| C4 — Fun: Barca Win + Liverpool O2.5 + Atletico Win | 50 kr | ❌ | Atletico Win (Spurs won 3-2) | 0 kr |
+
+### Overall: 1/4 combos hit | Profit/Loss: 159 - 300 = **-141 kr**
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration:**
+- **8/10 picks: 2/2 (100%)** — Barca 1H Over 0.5 ✅ (Raphinha 6'), Liverpool 1H Over 0.5 ✅ (Szoboszlai 25'). Perfectly calibrated. Both landed comfortably.
+- **7/10 picks: 2/3 (67%)** — Barca Over 2.5 ✅, Barca Win ✅, Liverpool BTTS ❌. The BTTS miss stings.
+- **6-6.5/10 picks: 3/5 (60%)** — Bayern 1H ✅, Liverpool O2.5 ✅, Liverpool Win ✅, Spurs Under ❌, Atletico Win ❌. About right for 60% confidence.
+- **High confidence was accurate, mid-range was fair.** The anchor was the best-constructed combo of the night.
+
+**Best read of the night:** Barcelona 1H Over 0.5 (8/10) — Raphinha scored in the **6th minute**. The entire Barca analysis was outstanding: predicted 3+ goals (they scored 7), predicted fast start (goal in 6'), predicted Newcastle's midfield weakness without Bruno (they conceded 7). The 9-goal thriller was beyond anyone's prediction, but the direction was perfect.
+
+**Second best read:** Liverpool will dominate at Anfield — 4-0 demolition. Liverpool Win ✅, Over 2.5 ✅, 1H goal ✅. The Anfield CL night factor was correctly identified.
+
+**Worst read of the night:** Spurs/Atletico Under 2.5 (6/10) — **5 goals, 3-2 Spurs win.** The entire thesis was wrong:
+- "Simeone will park the bus" — he didn't. Atletico scored 2 (Álvarez, Hancko)
+- "Spurs can't field a proper team" — Kolo Muani and Xavi Simons (2 goals!) were excellent. We said "Son and Solanke are about the only fit attackers" and didn't even mention Simons or Kolo Muani
+- "Dead rubber = low intensity" — completely wrong. Spurs played with freedom and pride, delivering their best performance in months
+- The hedge failed because it was built on a fundamentally wrong thesis about this match
+
+**Liverpool BTTS (7/10) — painful miss that killed C2:**
+- Galatasaray scored 0. Zero. The "Osimhen on the counter" thesis never materialized because Liverpool's dominance was so complete that Galatasaray never got to counter-attack
+- This mirrors the PSG 3-0 Chelsea pattern from March 17: when the home team completely suffocates the away team, BTTS dies
+- We even flagged this risk in "Biggest risk" — "if Galatasaray sit deep and Liverpool's poor 2026 form shows up at home" — but the OPPOSITE happened: Liverpool's form showed up brilliantly and Gala couldn't breathe
+- **Lesson:** HOME DOMINATION IN CL CHASE SCENARIOS = BTTS OFF. When a team chases at home and actually plays well, they don't leave space for counters — they strangle the game. Over 2.5 (✅) was safer than BTTS (❌)
+
+**Atletico Win (6/10) — killed C4:**
+- Spurs won 3-2. The "skeleton crew vs Simeone's machine" mismatch didn't play out because Spurs had nothing to lose and played with complete freedom
+- Xavi Simons was the difference-maker — we failed to identify him as a key threat
+
+**Key structural issue:** All 3 losing combos (C2, C3, C4) each had one leg on the Spurs/Atletico match (indirectly for C2, directly for C3 and C4). If we'd avoided Spurs/Atletico entirely and used a different game for the hedge, the night could have been better.
+
+---
+
+### 🔑 New Lessons
+
+1. **"NOTHING TO LOSE" DEAD RUBBERS = FREEDOM, NOT LOW SCORING** — When an eliminated team also has nothing left in their league (Spurs 16th, playing for pride only), they play FREELY. No tactical discipline, no caution, just expression. This produced 5 goals in a "dead rubber." The dead rubber Under thesis only works when BOTH teams have something to protect (e.g. league form, avoiding injuries). When one team has genuinely nothing to lose, expect goals.
+
+2. **HOME CL DOMINATION KILLS BTTS — PREFER OVER 2.5** — Liverpool 4-0 (BTTS ❌, O2.5 ✅). When a home team chases in CL and actually performs well, they suffocate the away team. No space for counters. This mirrors PSG 3-0 Chelsea from the night before. In CL chase scenarios at home, **Over 2.5 is safer than BTTS** because goals come but they come from ONE side.
+
+3. **"SIMEONE PARKS THE BUS" IS CONTEXT-DEPENDENT** — With Oblak out and a 5-2 lead, Simeone's team still scored 2. The bus-parking assumption fails when: (a) the backup GK gives less confidence defensively, (b) the lead is so comfortable there's no downside to attacking, (c) the opposition is so weak that Atletico don't even need to sit back.
+
+4. **ALWAYS IDENTIFY ALL AVAILABLE ATTACKERS** — We said "Son and Solanke are the only fit attackers" and missed Kolo Muani and Xavi Simons entirely. Simons scored 2 (including a penalty). Always search for the full available squad, not just the obvious names.
