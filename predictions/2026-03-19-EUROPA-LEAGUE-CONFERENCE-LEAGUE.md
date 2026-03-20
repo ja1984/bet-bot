@@ -303,3 +303,114 @@ This is an Under night. The only game with real goal potential is Porto vs Stutt
 **Best case:** Under night 2.0 — C1, C2, C3 all hit. Only C4 at risk from the BTTS/1H picks.
 
 **Most likely:** 2-3 combos hit. The Under thesis is strong but one or two games will produce 3+ goals (most likely Porto/Stuttgart or Roma/Bologna if Skorupski is out).
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+
+**Europa League:**
+
+| Match | Score (90 min) | Key Events |
+|---|---|---|
+| Freiburg vs Genk | **5-1** | Ginter 19', Matanovic 25', Smets 39' (G), Grifo 53', Suzuki 56', Eggestein 79' |
+| Lyon vs Celta Vigo | **0-2** | Niakhaté red 19', Rueda 61', Jutglà 90+2'. Tagliafico 2nd yellow |
+| Midtjylland vs Nottingham Forest | **1-2** (pens 0-3) | Dominguez 41' (F), Yates 52' (F), Erlic 69' (M) |
+| Aston Villa vs Lille | **2-0** | McGinn 54', Bailey 85' |
+| Porto vs Stuttgart | **2-0** | W. Gomes 21', Froholdt 72'. Nartey red 77' |
+| Real Betis vs Panathinaikos | **4-0** | Ruibal (1H), Amrabat (1H), Cucho (2H), Antony (2H) |
+| Roma vs Bologna | **3-3** (3-4 AET) | Rowe 22', Ndicka 32', Bernardeschi 47', Castro 58', Malen 69', Pellegrini 81', Cambiaghi 110' |
+
+**Conference League (in combos):**
+
+| Match | Score (90 min) | Key Events |
+|---|---|---|
+| AEK Larnaca vs Crystal Palace | **1-1** (1-2 AET) | Sarr 13' (P), Saborit 63' (L), Sarr 99' (P) |
+| Raków vs Fiorentina | **1-2** | Struski 46' (R), Piccoli 68' (F), Pongracic 90+7' (F) |
+
+### Under 2.5 Results Across All EL Second Legs
+
+| Match | Goals (90 min) | Under 2.5? |
+|---|---|---|
+| Freiburg vs Genk | 6 | ❌ |
+| Lyon vs Celta Vigo | 2 | ✅ |
+| Midtjylland vs Nottingham Forest | 3 | ❌ |
+| Aston Villa vs Lille | 2 | ✅ |
+| Porto vs Stuttgart | 2 | ✅ |
+| Real Betis vs Panathinaikos | 4 | ❌ |
+| Roma vs Bologna | 6 | ❌ |
+| **EL Total** | | **3/7 (43%)** |
+
+### Market Results
+
+| Match | Market | Prediction | Actual | Result |
+|---|---|---|---|---|
+| Lyon vs Celta | Under 2.5 (7/10) | ✅ expected | 2 goals | ✅ |
+| Lyon vs Celta | BTTS No (6/10) | ✅ expected | Lyon 0, Celta 2 | ✅ |
+| Midtjylland vs Forest | Under 2.5 (7/10) | ✅ expected | 3 goals | ❌ |
+| Midtjylland vs Forest | BTTS No (7/10) | ✅ expected | Both scored | ❌ |
+| Midtjylland vs Forest | Forest to score (3/10) | ❌ expected | Forest scored 2 | ❌ calibration |
+| Aston Villa vs Lille | Under 2.5 (6.5/10) | ✅ expected | 2 goals | ✅ |
+| Aston Villa vs Lille | BTTS No (6/10) | ✅ expected | Lille 0 | ✅ |
+| Roma vs Bologna | Under 2.5 (6.5/10) | ✅ expected | 6 goals (90 min) | ❌ |
+| Roma vs Bologna | BTTS (5/10) | Neither way | Both scored 3 each | Would have hit ✅ |
+| Porto vs Stuttgart | BTTS (5.5/10) | ✅ expected | Stuttgart 0 | ❌ |
+| Porto vs Stuttgart | Over 2.5 (5.5/10) | ✅ expected | 2 goals | ❌ |
+| Betis vs Pana | Under 2.5 (6/10) | ✅ expected | 4 goals | ❌ |
+| Betis vs Pana | BTTS No (6.5/10) | ✅ expected | Pana 0 | ✅ |
+| AEK Larnaca vs Palace | Under 2.5 (7/10) | ✅ expected | 2 goals (90 min) | ✅ |
+| AEK Larnaca vs Palace | BTTS No (7/10) | ✅ expected | Both scored (90 min) | ❌ |
+| Raków vs Fiorentina | Under 2.5 (6/10) | ✅ expected | 3 goals | ❌ |
+| Freiburg vs Genk | 1H O0.5 (6/10) | ✅ expected | 3 goals in 1H | ✅ |
+
+### Combo Results
+
+| Combo | Stake | Result | Failed Leg(s) |
+|---|---|---|---|
+| C1 — Anchor (Lyon U2.5 + Forest U2.5) | 100 kr | ❌ | Forest U2.5 (3 goals — Dominguez 41', Yates 52', Erlic 69') |
+| C2 — Main (Villa U2.5 + Roma U2.5) | 80 kr | ❌ | Roma U2.5 (6 goals in 90 min — total goalfest) |
+| C3 — Hedge (Larnaca U2.5 + Betis U2.5) | 70 kr | ❌ | Betis U2.5 (4-0 demolition of Panathinaikos) |
+| C4 — Fun (Raków U2.5 + Porto BTTS + Freiburg 1H) | 50 kr | ❌ | Raków U2.5 (3 goals) + Porto BTTS (2-0, Stuttgart blanked) |
+
+### Overall: 0/4 combos hit | Loss: -300 kr
+
+---
+
+### 🧠 Self-Evaluation
+
+**Confidence calibration: Poor**
+- 7/10 picks: 1/3 (Lyon ✅, Forest ❌, Larnaca ✅ in 90 min but paired with Betis ❌)
+- 6.5/10 picks: 1/2 (Villa ✅, Roma ❌)
+- 6/10 picks: 0/3 (Betis ❌, Raków ❌, Freiburg 1H ✅ but other legs failed)
+- 5.5/10 picks: 0/2 (Porto BTTS ❌, Porto O2.5 ❌)
+
+**Best read of the night: Aston Villa vs Lille Under 2.5 ✅**
+Perfect call. Villa protected the 1-0 lead pragmatically, scored only in the 2nd half (McGinn 54', Bailey 85'). Lille's decimated squad never threatened. Textbook protect-and-counter.
+
+**Second best read: Lyon vs Celta Under 2.5 ✅**
+Correct outcome (0-2), though the game changed dramatically when Niakhaté was sent off at 19'. Both goals came after 60 minutes from a Celta team we called "decimated" — Rueda and Jutglà proved that missing Borja Iglesias didn't kill their attack.
+
+**Worst read of the night: Real Betis vs Panathinaikos Under 2.5 ❌ (4-0)**
+The "Benítez bus + Betis missing Isco/Lo Celso = probably not enough" thesis was obliterated. Betis scored 4 without their creative engine. Ruibal and Amrabat struck before half-time — the bus was broken within 45 minutes. When a team is at HOME, trailing on aggregate, in a European knockout, the crowd + desperation finds a way.
+
+**Second worst read: Roma vs Bologna Under 2.5 ❌ (3-3 in 90 min)**
+"Italian pragmatism" was completely wrong. When BOTH teams are level on aggregate and BOTH need a result, there's no pragmatism — it's a fight for survival. 6 goals in 90 minutes. Rowe opened at 22', Bernardeschi made it 1-2, Castro 1-3, then Roma mounted a 3-3 comeback. This was one of the most dramatic games of the tournament.
+
+**Third worst read: Midtjylland vs Forest Under 2.5 ❌**
+Forest scored 2 AWAY without Chris Wood. Dominguez (41') and Yates (52') — both midfielders. **"Missing strikers ≠ can't score" lesson violated AGAIN** despite being in the framework. "22 shots, 0 goals" in the first leg was bad luck/poor finishing, not structural inability to score.
+
+**Structural failure: ALL-UNDER COMBOS = CORRELATED RISK**
+Despite putting each game in only 1 combo and using different games across C1-C3, the underlying thesis was the same: "Under night." When that thesis failed (3/7 Under in EL, not 7/8), ALL combos died. The "hedge" (C3) was not a true hedge — it was the same bet in different games. True diversification requires OPPOSING theses in different combos.
+
+**🔴 CRITICAL LESSON: SECOND LEGS ≠ FIRST LEGS FOR UNDER MARKETS**
+EL first legs (March 12): Under 2.5 hit 7/8 (87.5%). EL second legs (March 19): Under 2.5 hit 3/7 (43%). First legs are cagey because teams protect for the return. Second legs are the OPPOSITE — trailing teams MUST attack, and at home they actually DO produce goals. Betis (trailing 0-1) scored 4. Forest (trailing 0-1) scored 2. Roma/Bologna (level) produced 6 goals. The "Under night 2.0" thesis was fundamentally flawed.
+
+**🔴 "BUS-PARKING AWAY FROM HOME" IS FRAGILE**
+Benítez's Panathinaikos bus collapsed 0-4 in Seville. Bus-parking works at HOME where the crowd supports defensive discipline. AWAY, when the home team scores early and the crowd roars, the bus disintegrates. One early goal → crowd noise → panic → second goal → game over. Away bus-parking in knockout second legs should LOWER Under confidence, not raise it.
+
+**🔴 "MISSING CREATIVE ENGINE" MATTERS LESS IN DO-OR-DIE SECOND LEGS**
+Betis without Isco and Lo Celso scored 4. Forest without Chris Wood scored 2. In desperation scenarios at home, teams don't need their usual creative channels. Set pieces, direct play, individual moments, and crowd energy create goals that wouldn't happen in regular season play. Only apply "missing creative engine" discount in league matches, not in do-or-die European second legs.
+
+**🔴 ALL-SAME-THESIS COMBOS = ZERO DIVERSIFICATION**
+C1-C3 were all Under doubles on different games. Framework rule says "anchor and hedge must be truly independent" — but independence means different THESES, not just different games. If C1 = Under + Under, then C3 (hedge) MUST include at least one Over/BTTS pick. Otherwise when the market direction is wrong, everything dies simultaneously. This is the same correlated risk trap from March 12 (Stuttgart U2.5 in C2 + Stuttgart BTTS No in C3), but at a portfolio level.
