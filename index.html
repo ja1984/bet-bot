@@ -6,6 +6,7 @@
     <title>Bet Bot Predictions</title>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.1/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
     
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
 
@@ -236,6 +237,157 @@
             } catch(e) { return ds; }
         }
 
+        let plChart = null;
+
+        function parseResultsTable(md) {
+            const rows = [];
+            const lines = md.split('\n');
+            for (const line of lines) {
+                // Match table rows with date pattern, skip header/separator
+                const m = line.match(/^\|\s*(2\d{3}-\d{2}-\d{2})\s*\|.*\|.*\|\s*(\d+)\/(\d+)\s*[✅❌]\s*\|\s*(.+?)\s*\|$/);
+                if (!m) continue;
+                const date = m[1];
+                const wins = parseInt(m[2]);
+                const total = parseInt(m[3]);
+                const plRaw = m[4];
+                // Parse profit/loss value
+                let pl = 0;
+                const numMatch = plRaw.match(/([+-]?\s*~?\+?)(\d+)/);
+                if (numMatch) {
+                    pl = parseInt(numMatch[2]);
+                    if (plRaw.includes('-') && !plRaw.includes('+')) pl = -pl;
+                }
+                // Skip EUR entries for the kr chart
+                if (plRaw.includes('€')) continue;
+                // Handle "100% budget" as -300
+                if (plRaw.includes('100%')) pl = -300;
+                rows.push({ date, wins, total, pl });
+            }
+            // Reverse to chronological order
+            rows.reverse();
+            // Calculate cumulative P/L
+            let cumulative = 0;
+            for (const row of rows) {
+                cumulative += row.pl;
+                row.cumulative = cumulative;
+            }
+            return rows;
+        }
+
+        function renderPLChart(rows) {
+            const isDark = htmlEl.classList.contains('dark');
+            const labels = rows.map(r => {
+                const d = new Date(r.date + 'T00:00:00');
+                return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+            });
+            const cumulativeData = rows.map(r => r.cumulative);
+            const dailyData = rows.map(r => r.pl);
+
+            const gridColor = isDark ? 'rgba(148, 163, 184, 0.15)' : 'rgba(148, 163, 184, 0.25)';
+            const textColor = isDark ? '#94a3b8' : '#64748b';
+            const zeroLineColor = isDark ? 'rgba(148, 163, 184, 0.3)' : 'rgba(148, 163, 184, 0.4)';
+
+            // Gradient for cumulative line
+            const canvas = document.getElementById('pl-chart');
+            const ctx = canvas.getContext('2d');
+            const gradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+            const lastVal = cumulativeData[cumulativeData.length - 1] || 0;
+            if (lastVal >= 0) {
+                gradient.addColorStop(0, 'rgba(34, 197, 94, 0.25)');
+                gradient.addColorStop(1, 'rgba(34, 197, 94, 0.02)');
+            } else {
+                gradient.addColorStop(0, 'rgba(239, 68, 68, 0.05)');
+                gradient.addColorStop(1, 'rgba(239, 68, 68, 0.25)');
+            }
+
+            if (plChart) plChart.destroy();
+
+            plChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Cumulative P/L (kr)',
+                            data: cumulativeData,
+                            borderColor: lastVal >= 0 ? '#22c55e' : '#ef4444',
+                            backgroundColor: gradient,
+                            borderWidth: 2.5,
+                            fill: true,
+                            tension: 0.3,
+                            pointBackgroundColor: cumulativeData.map(v => v >= 0 ? '#22c55e' : '#ef4444'),
+                            pointBorderColor: cumulativeData.map(v => v >= 0 ? '#22c55e' : '#ef4444'),
+                            pointRadius: 4,
+                            pointHoverRadius: 6,
+                        },
+                        {
+                            label: 'Daily P/L (kr)',
+                            data: dailyData,
+                            borderColor: isDark ? 'rgba(96, 165, 250, 0.7)' : 'rgba(59, 130, 246, 0.6)',
+                            backgroundColor: 'transparent',
+                            borderWidth: 1.5,
+                            borderDash: [5, 5],
+                            fill: false,
+                            tension: 0.1,
+                            pointBackgroundColor: dailyData.map(v => v >= 0 ? '#22c55e' : '#ef4444'),
+                            pointBorderColor: dailyData.map(v => v >= 0 ? '#22c55e' : '#ef4444'),
+                            pointRadius: 3,
+                            pointHoverRadius: 5,
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: { mode: 'index', intersect: false },
+                    plugins: {
+                        legend: {
+                            labels: { color: textColor, font: { family: 'Inter', size: 12 }, usePointStyle: true, pointStyle: 'circle' }
+                        },
+                        tooltip: {
+                            backgroundColor: isDark ? '#1e293b' : '#fff',
+                            titleColor: isDark ? '#e2e8f0' : '#1e293b',
+                            bodyColor: isDark ? '#cbd5e1' : '#475569',
+                            borderColor: isDark ? '#334155' : '#e2e8f0',
+                            borderWidth: 1,
+                            padding: 12,
+                            titleFont: { family: 'Inter', weight: '600' },
+                            bodyFont: { family: 'Inter' },
+                            callbacks: {
+                                label: function(ctx) {
+                                    const val = ctx.parsed.y;
+                                    const prefix = val >= 0 ? '+' : '';
+                                    return ctx.dataset.label + ': ' + prefix + val + ' kr';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: { color: gridColor },
+                            ticks: { color: textColor, font: { family: 'Inter', size: 11 } }
+                        },
+                        y: {
+                            grid: {
+                                color: function(context) {
+                                    if (context.tick.value === 0) return zeroLineColor;
+                                    return gridColor;
+                                },
+                                lineWidth: function(context) {
+                                    return context.tick.value === 0 ? 2 : 1;
+                                }
+                            },
+                            ticks: {
+                                color: textColor,
+                                font: { family: 'Inter', size: 11 },
+                                callback: function(val) { return (val >= 0 ? '+' : '') + val + ' kr'; }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
         async function showResults() {
             if (!resultsFile) return;
             document.getElementById('list-view').style.display = 'none';
@@ -244,12 +396,28 @@
             document.getElementById('md-content').innerHTML = loadingHTML;
             window.location.hash = 'results.md';
             window.scrollTo(0, 0);
-            
+
             try {
                 var res = await fetch(resultsFile.download_url);
                 if (!res.ok) throw new Error('Failed to fetch data');
                 var md = await res.text();
-                renderMarkdown(md);
+
+                // Parse data and render chart + markdown
+                var rows = parseResultsTable(md);
+                var container = document.getElementById('md-content');
+
+                // Build chart container + markdown below
+                container.innerHTML = '<div class="not-prose mb-8"><div style="position:relative;height:320px"><canvas id="pl-chart"></canvas></div></div>' + marked.parse(md);
+
+                // Inject mobile table hints
+                container.querySelectorAll('table').forEach(table => {
+                    const hint = document.createElement('div');
+                    hint.className = 'text-xs text-blue-500 dark:text-blue-400 mb-2 sm:hidden flex items-center gap-1.5 italic font-medium';
+                    hint.innerHTML = '<span>↔️ Swipe table to view all columns</span>';
+                    table.parentNode.insertBefore(hint, table);
+                });
+
+                if (rows.length > 0) renderPLChart(rows);
             } catch(err) {
                 document.getElementById('md-content').innerHTML = errorHTML(err.message);
             }
