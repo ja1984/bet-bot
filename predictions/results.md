@@ -2,6 +2,7 @@
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-03-19 | EL/ECL R16 2nd legs | 4 | 0/4 ❌ | -300 kr |
 | 2026-03-18 | CL R16 2nd legs | 4 | 1/4 ❌ | -141 kr |
 | 2026-03-17 | CL R16 2nd legs | 4 | 3/4 ✅ | ~+512 kr |
 | 2026-03-16 | PL (single) | 1 | 0/1 ❌ | -160 kr |
@@ -19,4 +20,4 @@
 
 ---
 
-**Running totals:** 46 bets | 18/46 wins (39.1%) | Net: ~+493 kr estimated (excl. Feb dates in €)
+**Running totals:** 50 bets | 18/50 wins (36.0%) | Net: ~+193 kr estimated (excl. Feb dates in €)
