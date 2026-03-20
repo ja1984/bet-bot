@@ -257,10 +257,6 @@
                     pl = parseInt(numMatch[2]);
                     if (plRaw.includes('-') && !plRaw.includes('+')) pl = -pl;
                 }
-                // Skip EUR entries for the kr chart
-                if (plRaw.includes('€')) continue;
-                // Handle "100% budget" as -300
-                if (plRaw.includes('100%')) pl = -300;
                 rows.push({ date, wins, total, pl });
             }
             // Reverse to chronological order
