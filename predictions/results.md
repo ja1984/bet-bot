@@ -1,5 +1,17 @@
 # 📈 Betting Results Tracker
 
+## Cumulative Profit/Loss (kr)
+
+```mermaid
+xychart-beta
+    title "Cumulative P/L (kr, excl. Feb EUR bets)"
+    x-axis ["02/3","03/3","04/3","05/3","10/3","11/3","12/3","16/3","17/3","18/3","19/3"]
+    y-axis "Profit/Loss (kr)" -400 --> 400
+    line [-300,-201,-345,-350,-215,-123,-18,-178,334,193,-107]
+```
+
+---
+
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
 | 2026-03-19 | EL/ECL R16 2nd legs | 4 | 0/4 ❌ | -300 kr |
@@ -20,4 +32,4 @@
 
 ---
 
-**Running totals:** 50 bets | 18/50 wins (36.0%) | Net: ~+193 kr estimated (excl. Feb dates in €)
+**Running totals:** 50 bets | 18/50 wins (36.0%) | Net: ~-107 kr estimated (excl. Feb dates in €)
