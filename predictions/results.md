@@ -13,11 +13,11 @@
 | 2026-03-04 | PL | 4 | 1/4 ❌ | -144 kr |
 | 2026-03-03 | PL + Copa del Rey | 4 | 2/4 ✅ | ~+99 kr* |
 | 2026-03-02 | La Liga | 4 | 0/4 ❌ | -300 kr |
-| 2026-02-26 | EL | 4 | 0/4 ❌ | -€30 |
-| 2026-02-25 | CL | 5 | 3/5 ✅ | +~€26 |
+| 2026-02-26 | EL | 4 | 0/4 ❌ | -300 kr |
+| 2026-02-25 | CL | 5 | 3/5 ✅ | ~+260 kr |
 
 *\* = estimated from typical odds (exact odds not recorded)*
 
 ---
 
-**Running totals:** 50 bets | 18/50 wins (36.0%) | Net: ~-107 kr estimated (excl. Feb dates in €)
+**Running totals:** 50 bets | 18/50 wins (36.0%) | Net: ~-147 kr
