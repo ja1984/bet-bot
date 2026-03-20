@@ -388,8 +388,8 @@ Newcastle without Bruno is a different team. The virus adds further uncertainty.
 
 | Day | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
-| Tue 25 Feb | CL | 5 combos | 3/5 ✅ | +~€26 |
-| Thu 26 Feb | EL | 4 combos | 0/4 ❌ | -€30 |
+| Tue 25 Feb | CL | 5 combos | 3/5 ✅ | +~260 kr |
+| Thu 26 Feb | EL | 4 combos | 0/4 ❌ | -300 kr |
 | Mon 2 Mar | La Liga | 4 combos | 0/4 ❌ | -100% budget |
 | Tue 3 Mar | PL + Copa del Rey | 4 combos | 2/4 ✅ | TBD |
 | Wed 4 Mar | PL | 4 combos | 1/4 ❌ | -144 kr |
