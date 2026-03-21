@@ -246,3 +246,63 @@ This is a **CL qualification 6-pointer**. Hoffenheim 3 points ahead of Leipzig. 
 ---
 
 **Bottom line:** Tonight's anchor is built on the two clearest mismatches: Lens at home vs goal-shy Angers, and Napoli vs crisis-ridden Cagliari. The Bournemouth Over/Under hedge across C2 and C3 guarantees one direction hits on the most unpredictable game. The fun treble backs Bournemouth's 4-draw pattern with safe defensive legs from Lens and Genoa.
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Bournemouth vs Man United | 2-2 | Fernandes pen 61', Hill OG 71' / Christie 67', Kroupi pen 81'. Maguire red card. **0-0 at HT** |
+| Villarreal vs Real Sociedad | 3-1 | G. Moreno 7', Mikautadze ~15', Pépé ~25' / Sučić 46'. **3-0 at HT** |
+| RB Leipzig vs Hoffenheim | 5-0 | Gruda x2, Baumgartner x2, Henrichs 78'. **4-0 at HT** |
+| Cagliari vs Napoli | 0-1 | McTominay 2'. Cagliari 0 shots on target |
+| Genoa vs Udinese | 0-1 | Ekkelenkamp 66' |
+| Lens vs Angers | 5-1 | Thauvin 13', Édouard 25' & 48', Sangaré 39', Udol 72' / Machine 62' |
+
+### Market Results
+| Match | Market | Prediction | Actual | Result |
+|---|---|---|---|---|
+| Bournemouth/Utd | 1H O0.5 (6.5/10) | Goal expected | 0-0 at HT | ❌ |
+| Bournemouth/Utd | O2.5 (6/10) | Lean yes | 4 goals | ✅ |
+| Bournemouth/Utd | BTTS (5.5/10) | Lean yes | Both scored | ✅ |
+| Bournemouth/Utd | Draw (6/10) | Most likely result | 2-2 | ✅ |
+| Villarreal/RSO | Win (6/10) | Lean yes | 3-1 | ✅ |
+| Villarreal/RSO | O2.5 (6/10) | Lean yes | 4 goals | ✅ |
+| Villarreal/RSO | BTTS (6/10) | Lean yes | 3-1 | ✅ |
+| Villarreal/RSO | 1H O0.5 (6.5/10) | Goal expected | 3 goals in 1H | ✅ |
+| Leipzig/Hoffenheim | U2.5 (5.5/10) | Slight lean | 5-0 | ❌ |
+| Leipzig/Hoffenheim | 1H O0.5 (6/10) | Goal expected | 4-0 at HT | ✅ |
+| Cagliari/Napoli | Napoli Win (7/10) | Yes | 0-1 | ✅ |
+| Cagliari/Napoli | U2.5 (6/10) | Lean yes | 1 goal | ✅ |
+| Cagliari/Napoli | BTTS No (6.5/10) | Yes | 0-1 | ✅ |
+| Genoa/Udinese | Genoa Win (6.5/10) | Lean yes | 0-1 loss | ❌ |
+| Genoa/Udinese | BTTS No (7/10) | Yes | 0-1 | ✅ |
+| Genoa/Udinese | U2.5 (6/10) | Lean yes | 1 goal | ✅ |
+| Lens/Angers | Lens Win (7.5/10) | Strong yes | 5-1 | ✅ |
+| Lens/Angers | BTTS No (7/10) | Yes | 5-1 (Angers scored) | ❌ |
+
+### Combo Results
+| Combo | Stake | Legs | Result |
+|---|---|---|---|
+| C1 — Anchor | 100 kr | Lens Win ✅ + Napoli Win ✅ | ✅ WINNER |
+| C2 — Main Bet | 80 kr | Bournemouth O2.5 ✅ + Villarreal/RSO BTTS ✅ | ✅ WINNER |
+| C3 — Hedge | 70 kr | Genoa BTTS No ✅ + Bournemouth U2.5 ❌ | ❌ LOST |
+| C4 — Fun Treble | 50 kr | Lens BTTS No ❌ + Bournemouth Draw ✅ + Genoa Win ❌ | ❌ LOST |
+
+### Overall: 2/4 combos hit | Profit/Loss: ~+158 kr
+
+### 🧠 Self-Evaluation
+
+- **Market accuracy:** 13/18 (72%)
+- **Confidence calibration:** High-confidence picks (7/10+) went 3/4 (75%) — Lens BTTS No was the miss. Medium-confidence properly uncertain. Good calibration overall.
+- **Best read of the night:** Napoli — textbook Conte away win. McTominay 2', Cagliari 0 shots on target. Every market (Win ✅, Under ✅, BTTS No ✅) landed perfectly.
+- **Second best read:** Villarreal — all 4 markets landed (Win ✅, O2.5 ✅, BTTS ✅, 1H O0.5 ✅). Gerard Moreno 7' set the tone.
+- **Worst read:** Lens BTTS No at 7/10 — treated as "safe leg" but Angers scored at 62' in a 5-1 blowout. When the dominant team leads by 3+, defensive discipline drops and even weak teams find a consolation. BTTS No is fragile in blowouts.
+- **Structural success:** Anchor (C1) at biggest stake + Main Bet (C2) at second-biggest both won. Budget-weighted returns were excellent. The Bournemouth Over/Under hedge across C2/C3 worked as designed — one direction guaranteed.
+- **Key learnings:**
+  1. BTTS No is contradictory with dominant home wins — the more goals scored, the more likely a consolation. Ideal BTTS No scenario is 1-0/2-0, not 5-0.
+  2. Bournemouth's current pattern is "second half explosions" — 0-0 at HT then 4 goals after 61'. 1H markets are traps for Bournemouth right now.
+  3. Correctly excluding Leipzig (no market above 6/10) saved the combos from a 5-0 that broke every defensive read.
+  4. "Failed to score in 4/5" (Angers) is only 5 data points — doesn't meet 8+ threshold. Framework rule confirmed again.
