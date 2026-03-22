@@ -2,6 +2,7 @@
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-03-21 | PL + La Liga | 4 | 0/4 ❌ | -300 kr |
 | 2026-03-20 | PL + La Liga + Bundesliga + Serie A + Ligue 1 | 4 | 2/4 ✅ | ~+158 kr |
 | 2026-03-19 | EL/ECL R16 2nd legs | 4 | 0/4 ❌ | -300 kr |
 | 2026-03-18 | CL R16 2nd legs | 4 | 1/4 ❌ | -141 kr |
@@ -21,4 +22,4 @@
 
 ---
 
-**Running totals:** 54 bets | 20/54 wins (37.0%) | Net: ~+11 kr
+**Running totals:** 58 bets | 20/58 wins (34.5%) | Net: ~-289 kr
