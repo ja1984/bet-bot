@@ -225,3 +225,58 @@ Sources:
 - [Leeds vs Brentford Preview](https://sports.yahoo.com/articles/preview-leeds-united-vs-brentford-201000431.html)
 - [Sevilla vs Valencia Preview](https://www.sportsmole.co.uk/football/valencia/preview/sevilla-vs-valencia-prediction-team-news-lineups_594149.html)
 - [Man City vs Crystal Palace Postponed](https://www.cpfc.co.uk/news/announcement/man-city-v-palace-match-to-be-rearranged/)
+
+---
+
+## 📊 Post-Match Results
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| Brighton vs Liverpool | 2-1 | Welbeck 14', Kerkez 30', Welbeck 56' |
+| Fulham vs Burnley | 3-1 | Flemming 60' (BUR), King 67', Wilson 73', Jimenez 90+5' pen. Laurent red card |
+| Everton vs Chelsea | 3-0 | Beto 33', 62', Ndiaye 76'. Chelsea's 3rd consecutive 3-0 defeat |
+| Leeds vs Brentford | 0-0 | Under 20 shots combined. Stalemate |
+| Sevilla vs Valencia | 0-2 | Hugo Duro 38', Ramazani 45+5' |
+
+### Market Results
+| Match | Market | Confidence | Actual | Result |
+|---|---|---|---|---|
+| Brighton vs Liverpool | 1H Over 0.5 | 7/10 | Welbeck 14' | ✅ |
+| Brighton vs Liverpool | Under 2.5 | 6/10 | 3 goals (2-1) | ❌ |
+| Brighton vs Liverpool | BTTS | 6/10 | Both scored | ✅ |
+| Brighton vs Liverpool | Liverpool Win | 6/10 | Brighton won 2-1 | ❌ |
+| Fulham vs Burnley | Fulham Win | 7/10 | 3-1 Fulham | ✅ |
+| Fulham vs Burnley | 1H Over 0.5 | 6/10 | 0-0 at HT, all goals after 60' | ❌ |
+| **Everton vs Chelsea** | **BTTS** | **7.5/10** | **Chelsea scored 0** | **❌** |
+| Everton vs Chelsea | Over 2.5 | 7/10 | 3 goals (3-0) | ✅ |
+| Everton vs Chelsea | 1H Over 0.5 | 7/10 | Beto 33' | ✅ |
+| Leeds vs Brentford | BTTS | 6.5/10 | 0-0 | ❌ |
+| **Sevilla vs Valencia** | **BTTS** | **7/10** | **Sevilla scored 0** | **❌** |
+| Sevilla vs Valencia | Over 2.5 | 6.5/10 | 2 goals (0-2) | ❌ |
+| Sevilla vs Valencia | 1H Over 0.5 | 6.5/10 | Duro 38' | ✅ |
+
+### Combo Results
+| Combo | Stake | Result | Failed Leg(s) |
+|---|---|---|---|
+| C1 — Anchor | 100 kr | ❌ | Brighton 1H O0.5 ✅, **Everton/Chelsea BTTS ❌** (Chelsea 0 goals) |
+| C2 — Main | 80 kr | ❌ | Everton/Chelsea O2.5 ✅, **Sevilla/Valencia BTTS ❌** (Sevilla 0 goals) |
+| C3 — Hedge | 70 kr | ❌ | **Brighton/Liverpool U2.5 ❌** (3 goals), Fulham Win ✅ |
+| C4 — Fun | 50 kr | ❌ | Everton 1H O0.5 ✅, **Leeds/Brentford BTTS ❌**, **Sevilla/Valencia O2.5 ❌** |
+
+### Overall: 0/4 combos hit | Loss: -300 kr
+
+### 🧠 Self-Evaluation
+
+- **Confidence calibration: TERRIBLE** — Highest confidence pick (Everton/Chelsea BTTS 7.5/10) was the worst miss. Chelsea scored 0 for the THIRD consecutive game (0-1 Newcastle, 0-3 PSG, 0-3 Everton). BTTS was 1/5 on the night (only Brighton/Liverpool). The framework's existing "freefall + poor form = BTTS OFF" rule was not applied to Chelsea despite clear evidence.
+
+- **Best read of the night:** Fulham Win (7/10 ✅) — came from behind to win 3-1. Quality gap thesis confirmed. Also Brighton 1H O0.5 (7/10 ✅) — Welbeck scored at 14'.
+
+- **Worst read of the night:** Everton/Chelsea BTTS at 7.5/10 — Chelsea were in COMPLETE FREEFALL (L3 of 5, two consecutive 0-3 defeats to PSG). The "defensive crisis = both teams score" thesis failed because Chelsea's problems were a TOTAL TEAM COLLAPSE. When a team is mentally broken, they can't score either. Over 2.5 (✅) was the right market — goals came from ONE side only.
+
+- **Key learnings:**
+  1. **FREEFALL TEAM = CAN'T SCORE, NOT "WILL CONCEDE AND SCORE"** — Chelsea 0 goals in 3 consecutive games. When a team is in freefall (3+ losses), their attacking confidence is destroyed too. Prefer Over 2.5 or BTTS No over BTTS Yes. The goals come from ONE side only (Everton 3-0, PSG 3-0 Chelsea twice).
+  2. **"WORST DEFENSIVE RECORD" ≠ "WILL SCORE"** — Sevilla concede the most in La Liga but scored 0 at home vs Valencia. Poor defending and poor attacking often go hand in hand for struggling teams.
+  3. **DESPERATE WITHOUT BELIEF = PARALYSIS** — Leeds 0-0 Brentford (under 20 shots). Desperation without confidence produces fear, not energy. Only apply "desperate = dangerous" when the team has recent positive results to feed belief.
+  4. **BTTS WAS 1/5 — 1H OVER 0.5 WAS 3/5** — First-half goal markets were the strongest performers. When multiple teams are in crisis, prefer 1H Over 0.5 over BTTS.
+  5. **FULHAM LATE GOALS — ANOTHER "SECOND HALF EXPLOSION"** — All 4 goals after 60'. First goal at 60'. Like Bournemouth's pattern. Check goal-timing patterns before backing 1H markets.
