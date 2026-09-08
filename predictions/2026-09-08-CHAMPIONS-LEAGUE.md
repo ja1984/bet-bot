@@ -6,14 +6,14 @@ Sex matcher. Ny säsong = **ingen aggregat-logik, inga "must chase"-scenarier**.
 
 | Tid | Match | Domare |
 |---|---|---|
-| 18:45 | AEK Aten – LASK | Luis Godinho (POR) |
-| 18:45 | Club Brugge – Aston Villa | Sandro Schärer (SUI) |
-| 21:00 | Real Madrid – Inter | **Michael Oliver (ENG)** |
-| 21:00 | Borussia Dortmund – Villarreal | Simone Sozza (ITA) |
-| 21:00 | Porto – Manchester City | **Szymon Marciniak (POL)** |
+| 18:45 | AEK Aten – LASK | **Luis Godinho (POR)** |
+| 18:45 | Club Brugge – Aston Villa | **Sandro Schärer (SUI)** |
+| 21:00 | Real Madrid – Inter | Michael Oliver (ENG) |
+| 21:00 | Borussia Dortmund – Villarreal | **Simone Sozza (ITA)** |
+| 21:00 | Porto – Manchester City | Szymon Marciniak (POL) |
 | 21:00 | Lille – Real Betis | Georgi Kabakov (BUL) |
 
-Ingen Turpin i kväll — inget penalty-signalspel att hänga upp sig på.
+Ingen Turpin i kväll — inget penalty-signalspel att hänga upp sig på. Fetstil = domare med förhöjt kortsnitt (se kortavsnittet längst ner). **Notera: Oliver och Marciniak är INTE bland dem** — Oliver är kvällens snällaste domare.
 
 ---
 
@@ -44,7 +44,9 @@ Ingen Turpin i kväll — inget penalty-signalspel att hänga upp sig på.
 - **Inter:** i princip fullt manskap (bara Dimarco ute), 4 vinster på 5, vände 0-2 till 3-2 mot Napoli. Chivu. Lautaro + Thuram.
 - Mourinho i storslagsmatch = kontroll och kontring, inte öppet spel. Det dämpar Over.
 
-→ BTTS 6.5/10 · Over 2.5 6/10 · Madrid vinst 5.5/10 · **Michael Oliver = förhöjd kort/straff-risk**
+→ BTTS 6.5/10 · Over 2.5 6/10 · Madrid vinst 5.5/10
+
+> **Rättelse:** i en tidigare version av den här analysen markerade jag Michael Oliver som en kort-/straffrisk. Statistiken säger motsatsen — 3.49 gula/match över karriären, kvällens lägsta. Markeringen byggde på renommé, inte data.
 
 ### 🚨 Club Brugge – Aston Villa — Villa är i fritt fall
 - **Villa: 0 mål på tre Premier League-matcher.** Vinstlösa på 6. Förlorade fem raka innan 0-0 mot Hull. Bara andra laget någonsin att inte göra mål i sina tre öppningsmatcher två säsonger i rad. Tielemans, Rogers och Konsa sålda. Onana och Manzambi skadade.
@@ -101,6 +103,51 @@ Diversifiering enligt ramverket: C1+C2 offensiva, **C3 defensiv hedge utan någo
 
 ---
 
+## 🟨 Kort- och foulsmarknaden
+
+### Domarna rankade på kort
+
+| Domare | Match | Gula/match | Rött | Övrigt |
+|---|---|---|---|---|
+| **Godinho** (POR) | AEK–LASK | **4.88** (karriär, 392 matcher) | 50 röda | Kvällens högsta snitt |
+| **Sozza** (ITA) | Dortmund–Villarreal | **4.78** karriär · 4.24 i 25/26 | **röd i 29.4% av matcherna** | **0.55 straffar/match** |
+| **Schärer** (SUI) | Brugge–Villa | 3.86 gula + 0.29 röda = 4.14 kort | **röd i 28.6%** | 21.7 fouls/match, 0.21 straffar |
+| Kabakov (BUL) | Lille–Betis | 4.72 karriär — men **bara 2 matcher i år (2.00)** | 31 röda / 383 | För tunt underlag |
+| Marciniak (POL) | Porto–City | 4.29 karriär · 3.68 i 25/26 | 0.19 röda i år | Moderat |
+| Oliver (ENG) | Real–Inter | **3.49 — lägst i kväll** | 0.07 röda | Snäll i storslagsmatcher |
+
+### 🎯 Kortspel — kör som SINGLAR, inte trippel
+
+**⭐ 1. Santiago Mouriño (Villarreal) att bli varnad — 7/10, kvällens bästa kortspel**
+- **3 gula på 5 matcher** i år + **11 gula i La Liga förra säsongen** — över 8-datapunktsgränsen, inte en anekdot
+- Sozza dömer: 4.78 gula/match, rött i 29.4%
+- Villarreal har **10 gula på 5 matcher**, Dortmund bara 4 — obalansen är tydlig
+- Ska jaga Guirassy med ett försvar som redan släppt in 3 mot Depor
+
+**⭐ 2. Villarreal lagkort över — 6.5/10**
+Samma logik utan spelarrisken. **Undvik totalt antal kort i matchen** — Dortmunds 4 gula på 5 matcher drar ner totalen.
+
+**⭐ 3. Aston Villa lagkort över — 6.5/10**
+- Ramverksregel: **lag i fritt fall drar kort, inte bara insläppta mål.** Villa vinstlösa på 6, noll mål på 3.
+- **João Gomes fick rött för violent conduct mot Brighton** i augusti (andra gula, 40:e min, i debuten). Avstängningen gäller **bara inhemskt — han spelar i kväll.**
+- Kamara bredvid honom mot Vanaken/Potts
+- Schärer: rött i 28.6% av matcherna
+
+**4. AEK–LASK totalt antal kort över — 6/10**
+Rent domarspel (Godinho 4.88). Två jämna pott 4-lag, grekisk hemmapublik, LASK:s första CL-match på 60+ år. Svaghet: ingen spelardata på trupperna.
+
+### 🚫 Undvik
+- **Real Madrid–Inter kort** — Oliver är snällast av alla sex, och storslagsmatcher med elitdomare torkar ut kortmarknaden (0/3 på gula-trippeln 17 mars)
+- **Lille–Betis kort** — Kabakov har två matcher i år. Två datapunkter är inte ett mönster.
+- **Kort-trippel** — exakt så förlorades 17 mars. Singlar, små insatser.
+
+### ⚠️ Fouls — otillräckligt underlag
+**Ingen foulsrekommendation i kväll.** Jag har Schärers 21.7 fouls/match och Dortmunds 53 fouls på 5 matcher (~10.6/match), men saknar fouls-begångna per lag för alla tolv lagen och — viktigast — bookmakerns linjer. Utan linjen går det inte att veta om 21.7 är över eller under.
+
+Närmast en tes: **Porto lagfouls över** (jagar bollen mot Citys innehav på Dragão). Men det är en tes utan siffror bakom — **5.5/10, spelas inte.**
+
+---
+
 ## 📚 Källor
 - [UEFA — alla ligafas-matcher 2026/27](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/)
 - [Law 5 — domartillsättningar omgång 1](https://law5-theref.blogspot.com/2026/09/champions-league-202627-referee.html)
@@ -117,3 +164,12 @@ Diversifiering enligt ramverket: C1+C2 offensiva, **C3 defensiv hedge utan någo
 - [Covers — Matchday 1 moneyline picks](https://www.covers.com/soccer/champions-league-moneyline-picks-matchday-1-2026)
 - [RG.org — Matchday 1 odds & best bets](https://rg.org/news/soccer/champions-league-matchday-1-odds-predictions-best-bets)
 - [Goal.com — Club Brugge v Aston Villa preview](https://www.goal.com/en/news/club-brugge-aston-villa-champions-league-preview/blt737012dce103690f)
+- [StatsHub — Michael Oliver domarstatistik](https://www.statshub.com/referee/oliver-michael/65702)
+- [StatsHub — Szymon Marciniak domarstatistik](https://www.statshub.com/referee/marciniak-szymon/72926)
+- [StatsHub — Simone Sozza domarstatistik](https://www.statshub.com/referee/simone-sozza/785420)
+- [StatsHub — Sandro Schärer domarstatistik](https://statshub.com/pt/referee/scharer-sandro/137333)
+- [StatsHub — Luís Godinho domarstatistik](https://www.statshub.com/referee/luis-godinho)
+- [PlayerStats — Georgi Kabakov domarstatistik](https://playerstats.football/referee/466)
+- [Sky Sports — João Gomes utvisad mot Brighton](https://www.skysports.com/football/video/12606/13576286/off-j-gomes-40-brighton-4-0-aston-villa)
+- [Statbunker — Villarreal gula kort La Liga](https://po.statbunker.com/competitions/TopYellowCards?comp_id=777&club_id=152)
+- [Tips.GG — Dortmund v Villarreal statistik](https://tips.gg/article/borussia-dortmund-vs-villarreal-08-09-2026/)
