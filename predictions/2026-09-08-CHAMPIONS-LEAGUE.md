@@ -173,3 +173,59 @@ Närmast en tes: **Porto lagfouls över** (jagar bollen mot Citys innehav på Dr
 - [Sky Sports — João Gomes utvisad mot Brighton](https://www.skysports.com/football/video/12606/13576286/off-j-gomes-40-brighton-4-0-aston-villa)
 - [Statbunker — Villarreal gula kort La Liga](https://po.statbunker.com/competitions/TopYellowCards?comp_id=777&club_id=152)
 - [Tips.GG — Dortmund v Villarreal statistik](https://tips.gg/article/borussia-dortmund-vs-villarreal-08-09-2026/)
+
+---
+
+## 🔄 Uppdatering 20:15 — bekräftade startelvor, 21:00-matcherna
+
+Detta är en **delta, inte en ny analys**. Spelen lades 18:00 och står kvar; nedan är bara vad de bekräftade elvorna ändrar. **18:45-matcherna (AEK–LASK, Brugge–Villa) rörs inte — de har sparkat igång.** Varje elva är korsverifierad mot två oberoende källor.
+
+**Dortmund–Villarreal:** Guirassy startar ✓ · den ihopplockade trebacken Gadou–Anton–Svensson bekräftad ✓ · **Mouriño startar ✓**
+
+⚠ Men **Gerard Moreno OCH Nicolás Pepe är utanför elvan.** Villarreals front är Buchanan–Mikautadze–Oluwaseyi bakom en mittfältstrio (Comesaña/Gueye/Saliba) — en kontringsuppställning på bortaplan. Analysens Over-tes vilade uttryckligen på "Mikautadze, Gerard Moreno, Nicolas Pepe"; två av tre startar på bänken.
+
+- → **Over 2.5 sänks 7/10 → 6/10** · p **55%** · rättvist odds **1.82**. Ingen indikativ prislapp på målinjen gick att få (RG.org listar bara 1X2 för matchen), så EV kan inte räknas — jämför själv mot 1.82.
+- → **1H Over 0.5 står kvar 7/10** (p 78%, rättvist odds 1.28). Det benet hänger på Dortmunds start, och deras framåtdel är intakt.
+- → **Mouriño varning står kvar 7/10** · p **37%** · rättvist odds **2.70**. Han ska nu försvara med bara tre på mittfältet framför sig. **Villarreal lagkort över 6.5/10 oförändrat.**
+
+*Förbehåll: källorna är oeniga om Dortmunds mittfält (Veerman/Jobe Bellingham/Nwaneri i en version, Sabitzer/Nmecha i en annan). Det som styr målläsningen — Guirassy och trebacken — är samstämmigt.*
+
+**Real Madrid–Inter:** Mbappé, Vinícius och Bellingham startar ✓ · Lautaro + Thuram startar ✓ · Cucurella spelar trots tveksamheten ✓
+
+⚠ **Mourinho ställer Trent Alexander-Arnold som central mittfältare** i en tvåa med Valverde — en högerback på innermittfältet mot Barella/Calhanoğlu, med Camavinga, Güler och Bernardo Silva avstängda och Tchouaméni inte riskerad. Bakom honom är Konaté–Huijsen ett helt nytt mittbackspar.
+
+- → **BTTS höjs 6.5/10 → 7/10** · p **62%** · rättvist odds **1.61**. Inter har misslyckats med att göra mål i bara 2 av sina 19 senaste CL-matcher (RG.org) och möter Madrids mest improviserade mittfält på år. Inget indikativt BTTS-pris hittat — jämför mot 1.61.
+- → **Madrid vinst står kvar 5.5/10.** En högerback på innermittfältet är ingen uppgradering, och A4-taket gäller ändå.
+- → **Over 2.5 oförändrat 6/10** — Mourinho-kontrollen är intakt. **Mbappé mål: startar ✓, ingen ändring** (5.5/10, p 52%, rättvist odds 1.92).
+
+**Porto–Man City:** inga överraskningar. Bednarek avstängd som väntat, Doku och O'Reilly borta som väntat, Haaland startar, Portos front (W. Gomes–A. Silva–Pepe) intakt, Dias–Guehi–Gvardiol i Citys backlinje.
+
+Noterat utan att ändra något: **Bouaddi, 18, gör full debut i Citys mittfältstvåa** på Dragão vid sidan av Nico Fernández, med Anderson och Ndiaye på bänken. Det höjer bolltappsrisken, men Maresca har valt en kontrollform och båda försvaren är som analyserade.
+
+- → **Under 2.5 oförändrat 6.5/10. Ingen ändring.**
+
+**Lille–Betis:** Giroud startar ✓, Lille i sin vanliga uppställning (Özer; T. Santos, Ngoy, Alexsandro, Perraud; Bentaleb, André; Bakwa, Haraldsson, Onal; Giroud).
+
+⚠ **Betis går ut i en anfallsinriktad 4-3-3 med Isco, Riquelme, Parrott och Antony.** Under-tesen byggde på Betis 1-0-mönster plus CL-nervositet — Pellegrini har valt motsatsen.
+
+- → **Under 2.5 sänks 6.5/10 → 6/10** · p **55%** · rättvist odds **1.82**.
+- → **Marginalen är tunn (I5):** ligger sanningen i stället på 52% är rättvist odds 1.92, och spelet är i praktiken break-even mot ett normalt Under-pris. Hellre mindre insats än större.
+
+*Förbehåll: för Betis har jag formationen och de fyra offensiva namnen bekräftade, inte hela elvan mot två källor.*
+
+### Vad detta gör med kupongerna
+
+**Inga nya kuponger och inga omflyttade insatser** — spelen var lagda 18:00, det här är en delta. Men läget efter elvorna: C1:s Dortmund-ben är svagare (6/10) och dess andra ben (AEK) rullar redan. C2 är starkare — BTTS-benet höjdes till 7/10. C3:s Porto-ben är oförändrat. C4:s Lille-ben är svagare. Nettoeffekten är ungefär neutral, med tyngdpunkten flyttad från C1 till C2.
+
+### 📚 Källor — uppdateringen
+- [BuliNews — Confirmed Lineups: Dortmund vs Villarreal](https://bulinews.com/confirmed-lineups-borussia-dortmund-villarreal-1)
+- [AllFootball — Dortmund vs Villarreal line-ups confirmed](https://www.allfootballapp.com/articles/5281900-dortmund-vs-villarreal-line-ups-confirmed)
+- [Madrid Universal — Confirmed Real Madrid XI, Trent in midfield](https://madriduniversal.com/confirmed-real-madrid-starting-lineup-against-inter-milan-trent-in-midfield/)
+- [Yahoo Sports — Confirmed: Real Madrid starting lineup vs Inter](https://ca.sports.yahoo.com/news/confirmed-real-madrid-starting-lineup-180000732.html)
+- [AllFootball — Real Madrid vs Inter line-ups](https://www.allfootballapp.com/articles/5281940-real-madrid-vs-inter-line-ups)
+- [Sports Mole — Porto vs Man City confirmed XIs](https://www.sportsmole.co.uk/football/man-city/champions-league/news/porto-vs-man-city-confirmed-xis-anderson-benched-as-maresca-makes-three-changes_604741.html)
+- [CityXtra — Confirmed line-ups: Porto vs Man City](https://cityxtra.co.uk/match-coverage/confirmed-line-ups-fc-porto-vs-man-city-uefa-champions-league)
+- [101 Great Goals — Porto vs Man City line-ups confirmed](https://www.101greatgoals.com/football/champions-league/porto-vs-manchester-city-line-ups-confirmed/)
+- [AllFootball — Lille vs Betis line-ups confirmed](https://www.allfootballapp.com/articles/5281928-lille-vs-betis-line-ups-confirmed)
+- [africasoccer — Lille and Betis reveal starting line-ups](https://africasoccer.com/losc-lille-and-real-betis-reveal-starting-line-ups-for-uefa-champions-league-meeting/)
+- [RG.org — Matchday 1 odds & best bets](https://rg.org/news/soccer/champions-league-matchday-1-odds-predictions-best-bets)
