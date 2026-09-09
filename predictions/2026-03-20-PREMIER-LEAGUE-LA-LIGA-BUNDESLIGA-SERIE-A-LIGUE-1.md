@@ -112,17 +112,17 @@ Sex matcher i fem ligor, samtliga **enkelmatcher**. **B1/B2** gäller alltså in
 
 Ett kupongset för hela kvällen (originalet delade inte upp per avsparkstid).
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Lens vinst + Napoli vinst | 🟡 7/10 | — | — | — | — | 100 kr |
 | 2 | Huvudspel | Bournemouth ö2,5 + Villarreal–RSO BTTS | 🟡 6/10 | — | — | — | — | 80 kr |
 | 3 | Hedge | Genoa BTTS-N + Bournemouth u2,5 | 🟡 6/10 | — | — | — | — | 70 kr |
 | 4 | Uppsida | Lens BTTS-N + Bournemouth kryss + Genoa vinst | 🟡 6,5/10 | — | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: kvällens två tydligaste obalanser, olika ligor, fullt oberoende · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: offensiv dubbel — Uniteds läckande bortaspel plus BTTS i 3 av 4 H2H · Regel: **H1** (max 2–3 skänklar)
-**C3 — Hedge.** Tes: defensiv motvikt som håller om kvällen blir mållös · Regel: **H6** (motsatt tes mot C2), **H3** (defensiv kupong finns)
-**C4 — Uppsida.** Tes: Bournemouths krysserie med trygga skänklar från Lens och Genoa · Regel: **H7** (Lens BTTS-N 7/10 är den trygga skänkeln)
+- **C1 — Ankare.** Tes: kvällens två tydligaste obalanser, olika ligor, fullt oberoende · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: offensiv dubbel — Uniteds läckande bortaspel plus BTTS i 3 av 4 H2H · Regel: **H1** (max 2–3 skänklar)
+- **C3 — Hedge.** Tes: defensiv motvikt som håller om kvällen blir mållös · Regel: **H6** (motsatt tes mot C2), **H3** (defensiv kupong finns)
+- **C4 — Uppsida.** Tes: Bournemouths krysserie med trygga skänklar från Lens och Genoa · Regel: **H7** (Lens BTTS-N 7/10 är den trygga skänkeln)
 
 **Matcher per kupong:** C1 Lens, Napoli · C2 Bournemouth, Villarreal · C3 Genoa, Bournemouth · C4 Lens, Bournemouth, Genoa
 

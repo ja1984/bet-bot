@@ -93,17 +93,17 @@ Fem matcher, samtliga **enkelmatcher** i ligaspel. **B1/B2** gäller inte; midwe
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | City vinst + Fulham vinst | 🟢 8/10 | ~2,08 | — | — | — | 100 kr |
 | 2 | Huvudspel | Villa–Chelsea BTTS + Newcastle–United 1H ö0,5 | 🟢 7,5/10 | ~1,95 | — | — | — | 80 kr |
 | 3 | Hedge | City vinst utan insläppt mål (singel) | 🟡 7/10 | ~2,50 | — | — | — | 70 kr |
 | 4 | Uppsida | Villa–Chelsea ö2,5 + United vinst | 🔴 5,5/10 | ~4,33 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: två dominanta hemmalag mot nedflyttningsstrid · Regel: **H10** (säkraste marknaden)
-**C2 — Huvudspel.** Tes: Chelseas BTTS-serie mot decimerat Villa-mittfält, plus tidigt mål på SJP · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: Forest mållösa på Etihad · Regel: **H3** (defensiv) — men **H6 bruten**: samma tes som C1, inte motsatt
-**C4 — Uppsida.** Tes: målrik H2H på Villa Park plus 2026:s form · Regel: **H7** (Villa ö2,5 på 7,5/10 är den trygga skänkeln)
+- **C1 — Ankare.** Tes: två dominanta hemmalag mot nedflyttningsstrid · Regel: **H10** (säkraste marknaden)
+- **C2 — Huvudspel.** Tes: Chelseas BTTS-serie mot decimerat Villa-mittfält, plus tidigt mål på SJP · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: Forest mållösa på Etihad · Regel: **H3** (defensiv) — men **H6 bruten**: samma tes som C1, inte motsatt
+- **C4 — Uppsida.** Tes: målrik H2H på Villa Park plus 2026:s form · Regel: **H7** (Villa ö2,5 på 7,5/10 är den trygga skänkeln)
 
 **Matcher per kupong:** C1 City, Fulham · C2 Villa–Chelsea, Newcastle · C3 City · C4 Villa–Chelsea, Newcastle — **H5 bruten:** City delas av C1 och C3, Villa–Chelsea av C2 och C4, Newcastle av C2 och C4.
 

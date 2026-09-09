@@ -79,17 +79,17 @@ Fyra matcher, samtliga **andra ben**. **B2** gäller: andra ben lutar **inte** U
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Barça 1H ö0,5 + Liverpool 1H ö0,5 | 🟡 7,5/10 | ~1,59 | — | — | — | 100 kr |
 | 2 | Huvudspel | Barça ö2,5 + Liverpool BTTS | 🟡 6,5/10 | ~2,23 | — | — | — | 80 kr |
 | 3 | Hedge | Spurs–Atlético u2,5 + Bayern 1H ö0,5 | 🟡 6/10 | ~2,50 | — | — | — | 70 kr |
 | 4 | Uppsida | Barça vinst + Liverpool ö2,5 + Atlético vinst | 🔴 5,5/10 | ~5,60 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: båda hemmalagen måste göra mål tidigt i CL-knockout · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: Barça har 3+ mål i 9 raka, Liverpool jagar och Osimhen kontrar · Regel: **H1** (max 2–3 skänklar)
-**C3 — Hedge.** Tes: de två dead rubbers — Simeone förvaltar 5-2, Kane hittar ett före pausen · Regel: **H6** (motsatt tes mot C1/C2), **H3** (defensiv)
-**C4 — Uppsida.** Tes: målkväll plus kvalitetsgap i London · Regel: **H7** (Barça vinst 7/10 är den trygga skänkeln)
+- **C1 — Ankare.** Tes: båda hemmalagen måste göra mål tidigt i CL-knockout · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: Barça har 3+ mål i 9 raka, Liverpool jagar och Osimhen kontrar · Regel: **H1** (max 2–3 skänklar)
+- **C3 — Hedge.** Tes: de två dead rubbers — Simeone förvaltar 5-2, Kane hittar ett före pausen · Regel: **H6** (motsatt tes mot C1/C2), **H3** (defensiv)
+- **C4 — Uppsida.** Tes: målkväll plus kvalitetsgap i London · Regel: **H7** (Barça vinst 7/10 är den trygga skänkeln)
 
 **Matcher per kupong:** C1 Barcelona, Liverpool · C2 Barcelona, Liverpool · C3 Tottenham, Bayern · C4 Barcelona, Liverpool, Tottenham
 

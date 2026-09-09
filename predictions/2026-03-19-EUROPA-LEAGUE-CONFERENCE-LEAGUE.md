@@ -142,17 +142,17 @@ Femton matcher, samtliga **andra ben** i en tvåmötesomgång. **A6** gäller (E
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Lyon u2,5 + Midtjylland–Forest u2,5 | 🟡 7/10 | — | — | — | — | 100 kr |
 | 2 | Huvudspel | Villa u2,5 + Roma–Bologna u2,5 | 🟡 6,5/10 | — | — | — | — | 80 kr |
 | 3 | Hedge | Larnaca u2,5 + Betis u2,5 | 🟡 6,5/10 | — | — | — | — | 70 kr |
 | 4 | Uppsida | Raków u2,5 + Porto BTTS + Freiburg 1H ö0,5 | 🔴 5,5/10 | — | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: två jämna tvåmötesomgångar där inget lag har eldkraften · Regel: **H10** (säkraste marknaden)
-**C2 — Huvudspel.** Tes: två lag som skyddar ledning, Villa hemma och ett italienskt derby · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: Larnacas fästning plus Benítez-bussen — men samma Under-tes som C1/C2 · Regel: **H6 ❌ bruten** (ingen motsatt tes; olika matcher är inte hedge)
-**C4 — Uppsida.** Tes: diversifiering med Raków-Under som trygg skänkel plus två offensiva spel · Regel: **H7** (Raków u2,5 6/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: två jämna tvåmötesomgångar där inget lag har eldkraften · Regel: **H10** (säkraste marknaden)
+- **C2 — Huvudspel.** Tes: två lag som skyddar ledning, Villa hemma och ett italienskt derby · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: Larnacas fästning plus Benítez-bussen — men samma Under-tes som C1/C2 · Regel: **H6 ❌ bruten** (ingen motsatt tes; olika matcher är inte hedge)
+- **C4 — Uppsida.** Tes: diversifiering med Raków-Under som trygg skänkel plus två offensiva spel · Regel: **H7** (Raków u2,5 6/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 Lyon, Midtjylland · C2 Villa, Roma · C3 Larnaca, Betis · C4 Raków, Porto, Freiburg — inga delade matcher (**H5** ✅, **H2** ✅).
 

@@ -106,7 +106,7 @@ Ingen Turpin i kväll, alltså inget straffsignalspel att hänga upp sig på (**
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Dortmund ö2,5 + AEK vinst/kryss | 🟡 7/10 | ~2,08 indik. | — | — | — | 100 kr |
 | 2 | Huvudspel | Dortmund 1H ö0,5 + Real–Inter BTTS | 🟡 7/10 | — | — | — | — | 80 kr |
@@ -115,10 +115,10 @@ Ingen Turpin i kväll, alltså inget straffsignalspel att hänga upp sig på (**
 
 *Odds, p, rimligt odds och EV angavs inte per kupong i originalfilen — de kan inte rekonstrueras i efterhand utan att hittas på. Från och med mallen är de obligatoriska (**I1**, **I2**, **I3**).*
 
-**C1 — Ankare.** Tes: BVB:s ihopplockade försvar möter ett Villarreal som gör mål men inte vinner; AEK hemma obesegrade i 6 mot en CL-debutant · Regel: **H1**
-**C2 — Huvudspel.** Tes: Signal Iduna Park startar aldrig långsamt, och Inter gör mål mot alla · Regel: **H1** — *tesen bakom 1H-benet var inte verifierad, se checklistan*
-**C3 — Hedge.** Tes: två täta matcher där favoriten kontrollerar · Regel: **H3** (defensiv), **H5** (ingen match delad med ankaret) — *men inte **H6**: det här är samma tes i två matcher, inte en motsatt tes*
-**C4 — Uppsida.** Tes: Brugges målserie bär trippeln · Regel: **H7** (Brugge gör mål, 7,5/10, är den trygga skänkeln)
+- **C1 — Ankare.** Tes: BVB:s ihopplockade försvar möter ett Villarreal som gör mål men inte vinner; AEK hemma obesegrade i 6 mot en CL-debutant · Regel: **H1**
+- **C2 — Huvudspel.** Tes: Signal Iduna Park startar aldrig långsamt, och Inter gör mål mot alla · Regel: **H1** — *tesen bakom 1H-benet var inte verifierad, se checklistan*
+- **C3 — Hedge.** Tes: två täta matcher där favoriten kontrollerar · Regel: **H3** (defensiv), **H5** (ingen match delad med ankaret) — *men inte **H6**: det här är samma tes i två matcher, inte en motsatt tes*
+- **C4 — Uppsida.** Tes: Brugges målserie bär trippeln · Regel: **H7** (Brugge gör mål, 7,5/10, är den trygga skänkeln)
 
 **Matcher per kupong:** C1 Dortmund, AEK · C2 **Dortmund**, Real Madrid · C3 Porto, Brugge · C4 Brugge, Lille, Real Madrid
 

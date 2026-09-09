@@ -42,7 +42,7 @@ En match. **H9** gäller: sänkt budget, och minst en kupong ska överleva att f
 
 ## 🎯 Kuponger — 160 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Enkelspel | Brentford vinst | 🟡 6/10 | ~1,60 | — | — | — | 160 kr |
 

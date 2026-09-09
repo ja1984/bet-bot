@@ -133,17 +133,17 @@
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Forest u2,5 + Bologna u2,5 | 🟡 7/10 | ~2,2–2,5 | — | — | — | 100 kr |
 | 2 | Huvudspel | Stuttgart u2,5 + Genk BTTS-N | 🟡 7/10 | ~2,0–2,3 | — | — | — | 80 kr |
 | 3 | Hedge | Stuttgart BTTS-N + Lille u2,5 | 🟡 6,5/10 | ~2,3–2,7 | — | — | — | 70 kr |
 | 4 | Uppsida | Forest BTTS-N + Celta 1H ö0,5 + Pana u2,5 | 🟡 6/10 | ~3,5–4,5 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: de två matcher där båda lagen saknar spetsar · Regel: **H10** (säkraste marknaden)
-**C2 — Huvudspel.** Tes: Porto kan inte göra mål, Freiburg kan inte göra mål borta · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: samma defensiva tes en gång till plus Villas formkollaps · Regel: **H6** ej uppfylld — hedgen har samma riktning som C1/C2, inte motsatt
-**C4 — Uppsida.** Tes: trygg skänkel plus ett offensivt inslag som gynnas om målen kommer · Regel: **H7** (Forest BTTS-N är trygga skänkeln)
+- **C1 — Ankare.** Tes: de två matcher där båda lagen saknar spetsar · Regel: **H10** (säkraste marknaden)
+- **C2 — Huvudspel.** Tes: Porto kan inte göra mål, Freiburg kan inte göra mål borta · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: samma defensiva tes en gång till plus Villas formkollaps · Regel: **H6** ej uppfylld — hedgen har samma riktning som C1/C2, inte motsatt
+- **C4 — Uppsida.** Tes: trygg skänkel plus ett offensivt inslag som gynnas om målen kommer · Regel: **H7** (Forest BTTS-N är trygga skänkeln)
 
 **Matcher per kupong:** C1 Forest, Bologna · C2 Stuttgart, Genk · C3 Stuttgart, Lille · C4 Forest, Celta, Panathinaikos — **delade matcher (H5 bruten)**: Stuttgart ligger i C2 och C3, Forest i C1 och C4. 150 kr (halva budgeten) hängde på Stuttgart–Porto.
 
