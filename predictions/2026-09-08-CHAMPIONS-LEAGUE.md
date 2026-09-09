@@ -67,7 +67,7 @@ Ingen Turpin i kväll, alltså inget straffsignalspel att hänga upp sig på (**
 
 **Truppnytt (bekräftat 8 sep).** Villa: Tielemans, Rogers och Konsa sålda; Onana och Manzambi skadade. Brugge: bara Ordóñez skadad.
 
-**Läsning.** **C4** ger BTTS max 5/10 vid noll mål i 2+ raka, och **F2** säger att desperation utan tro är förlamning — Villa har inte vunnit på 6. **Men motbevisen står i samma stycke:** Emery har 67% vinstprocent i CL med Villa, är regerande EL-mästare och har **9 nollor på 16 senaste UEFA-matcherna**. Villa är ett annat lag i Europa än i ligan. Den konflikten löstes till Unders fördel — se självutvärderingen.
+**Läsning.** **C4** ger BTTS max 5/10 vid noll mål i 2+ raka, och **F2** säger att desperation utan tro är förlamning — Villa har inte vunnit på 6. **Motbevisen står i samma stycke:** Emery 67% vinstprocent i CL, regerande EL-mästare, **9 nollor på 16 senaste UEFA-matcherna**. Villa är ett annat lag i Europa. Konflikten löstes till Unders fördel — se självutvärderingen.
 
 **Marknader.**
 - **Under 2,5 mål** — 🟡 6,5/10.
@@ -122,7 +122,7 @@ Ingen Turpin i kväll, alltså inget straffsignalspel att hänga upp sig på (**
 
 **Matcher per kupong:** C1 Dortmund, AEK · C2 **Dortmund**, Real Madrid · C3 Porto, Brugge · C4 Brugge, Lille, Real Madrid
 
-⚠️ **C1 och C2 delar Dortmund–Villarreal — 180 av 300 kr på en match.** Det bryter mot **H5**. Filen identifierade själv risken och namngav det strängare alternativet (byt C2:s 1H-ben mot Porto–City Under 2,5) men flyttade ingen insats. Det bytet hade gjort kvällen 2/4 i stället för 1/4. Raden *Matcher per kupong* finns i mallen just för att den här konflikten ska bli synlig innan spelen läggs, inte efteråt.
+⚠️ **C1 och C2 delar Dortmund–Villarreal — 180 av 300 kr på en match, i strid med H5.** Filen flaggade risken, namngav bytet (C2:s 1H-ben → Porto–City Under 2,5) och flyttade ingen insats. Bytet hade gett 2/4 i stället för 1/4.
 
 ---
 
@@ -178,7 +178,7 @@ Originalfilen angav ingen felmarginal per kupong och ingen Kelly-beräkning. Vad
 
 **Lille–Betis Under 2,5 efter elvorna (I5):** p 55% ger rimligt odds 1,82 — men ligger sanningen på 52% är rimligt odds 1,92, och spelet är i praktiken break-even mot ett normalt Under-pris. Hellre mindre insats än större.
 
-**Kvällens svagaste punkt, uttryckligen identifierad före avspark:** C1 och C2 hängde båda på Dortmund–Villarreal, 60% av budgeten på en match. Riskflaggan formulerades, men ingen insats flyttades. **En flaggad risk som inte ändrar en insats är inte riskhantering.**
+**Svagaste punkt, identifierad före avspark:** C1 och C2 båda på Dortmund–Villarreal, 60% av budgeten. Flaggan formulerades, insatsen flyttades inte. **En flaggad risk som inte ändrar en insats är inte riskhantering.**
 
 *Kvarts-Kelly (**I6**) beräknades inte den här kvällen. Det går inte att räkna i efterhand, eftersom p aldrig sattes för de fyra kupongerna.*
 
