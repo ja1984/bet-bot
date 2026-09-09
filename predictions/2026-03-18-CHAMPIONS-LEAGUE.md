@@ -1,306 +1,216 @@
-# CL Round of 16 — Second Legs, Wednesday 18 March 2026
+# ⚽ Champions League — åttondelsfinaler, andra ben, onsdag 18 mars 2026
 
-## Tonight's Fixtures & First Leg Results
+Fyra matcher, samtliga **andra ben**. **B2** gäller: andra ben lutar **inte** Under — lag som jagar hemma attackerar och gör mål. **E5**, **E7** och **F11** prövas per match där originalet ger underlag.
 
-| Match | 1st Leg | Agg | KO |
+## 📋 Kvällens matcher & domare
+
+| Tid | Match | Första ben | Sammanlagt | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|---|
+| 18:45 | Barcelona – Newcastle | 1-1 (Barnes 86', Yamal 90' straff) | 1-1 | — | — | ej verifierad |
+| 21:00 | Bayern München – Atalanta | 6-1 (Stanišić, Olise ×2, Gnabry, Jackson, Musiala; Pašalić 90+3') | 6-1 | Bastien (FRA) | — | ej verifierad |
+| 21:00 | Liverpool – Galatasaray | 0-1 (Lemina 7') | 0-1 | Marciniak (POL) | — | ej verifierad |
+| 21:00 | Tottenham – Atlético Madrid | 2-5 (Porro, Solanke; Llorente, Griezmann, Álvarez ×2, Le Normand) | 2-5 | — | — | ej verifierad |
+
+---
+
+## 🔍 Match för match
+
+### 1. Barcelona – Newcastle (18:45)
+
+**Läge.** Oavgjort sammanlagt — Barça måste vinna på Camp Nou. Barça: 1-0 mot Athletic, 5-2 mot Sevilla (Raphinha hattrick), **3+ mål i 9 raka matcher** i alla turneringar, leder La Liga med 4 poäng. Newcastle: 2-1 mot Man Utd, 1-0 borta mot Chelsea, nia i PL. **F10**: Barças "100 km/h-start" är ett hemma- och ligamönster.
+
+**Truppnytt (bekräftat 18 mar).** Barça utan Koundé (hamstring, ute till april), De Jong (6 veckor), Balde (4 veckor), Christensen; Araújo och Bernal tillgängliga, Eric García lätt tveksam. Newcastle utan **Bruno Guimarães** (muskel) — deras kreativa motor — samt Schär, Krafth och Miley; Tonali sjukdomstveksam.
+
+**Läsning.** Utan Bruno tappar Newcastle kontrollen över mittfältet på Camp Nou. Newcastle **kan** göra mål (Barnes 86' i första benet), men det var på St James' Park. Koundés frånvaro svagar Barças högersida — Gordon/Barnes kan straffa på omställning. **E7** gäller inte här: det är Barça som är hemmalaget i ett do-or-die-ben, inte Newcastle.
+
+**Marknader.**
+- **1H över 0,5** — odds ~1,22. p —, rimligt odds —, EV —. 🟢 8/10. *Måltidsfördelning ej dragen (**D2**).*
+- **Över 2,5** — odds ~1,35. p —, rimligt odds —, EV —. 🟡 7/10
+- **Barça vinst** — odds ~1,55. p —, rimligt odds —, EV —. 🟡 7/10, kapad av **A1**
+- **BTTS** — odds —. 🟡 6/10. Newcastles kreativa produktion faller utan Bruno.
+
+### 2. Bayern München – Atalanta (21:00)
+
+**Läge.** Bayern leder 6-1. Ren dead rubber. Båda lag roterar rimligen.
+
+**Truppnytt (bekräftat 18 mar).** Bayern utan **Olise och Kimmich (avstängda)**. **Målvaktskris:** Neuer, Ulreich och Urbig otillgängliga — **fjärdemålvakt** (Bärtl/Prescott). Kane vilad i första benet, bör starta. Atalanta: De Ketelaere tillbaka, Scalvini och Musah avstängda, Raspadori tveksam.
+
+**Läsning.** Dead rubber ≠ garanterade mål, men ≠ garanterat mållöst när Kane spelar hemma i Golden Boot-jakten. Fjärdemålvakten vägs ned: ångvältsläge (6-1 borta) överskrider backup-GK-oro. **E5** prövad: inga avstängda som återvänder till Bayern denna kväll — Olise/Kimmich går ut, inte in, så ingen uppvärdering av "kan de jaga?".
+
+**Marknader.**
+- **1H över 0,5** — odds ~1,35. p —, rimligt odds —, EV —. 🟡 6,5/10. *Måltidsfördelning ej dragen (**D2**).*
+- **Över 2,5** — odds —. 🔴 5/10, oförutsägbart
+- **Under 2,5** — odds —. 🔴 5/10, slantsingling
+- **BTTS** — odds —. 🔴 5/10
+
+**Slutsats.** Svårläst. Endast stödskänkel, aldrig ankare.
+
+### 3. Liverpool – Galatasaray (21:00)
+
+**Läge.** Liverpool 0-1 under och måste göra mål — klassiskt jaga-hemma-scenario i CL. Form svag: femma i PL (49 p på 30, 14-7-9), senaste fem 2-1-2. Förlust borta mot Wolves, förlust i Istanbul, 1-1 mot Spurs — men 5-2 mot West Ham hemma och 3-1 mot Wolves i FA-cupen. Galatasaray i utmärkt form: 1-0 borta mot Beşiktaş (Osimhen) och bröt deras 18-matchers svit, leder Süper Lig.
+
+**Truppnytt (bekräftat 18 mar).** Liverpool utan **Isak** (ej matchfit), Endo, Bradley, Leoni; Gomez tveksam, Danns ny hamstring. **Mamardashvili i mål** (fjärde CL-starten), inte Alisson. Van Dijk, Gravenberch och Jones en varning från avstängning. Galatasaray **nästan fullt friska** — bara reservmålvakten skadad; Baltacı och Davinson Sánchez avstängda.
+
+**Läsning.** Anfield i europeisk knockout lyfter Liverpool även i svag form. De måste attackera från minut ett → ytor för **Osimhen** på omställning. Sánchez borta svagar Galas mittback-par vid värsta tänkbara tillfälle. Utan Isak vilar målbördan på Salah, Wirtz (bekräftad start), Ekitike (11 ligamål) och Gakpo — fortfarande deras starkaste tillgängliga trio. **E5** prövad: Galas avstängda återvänder inte ikväll, de går ut — deras försvar är svagare, inte starkare.
+
+**Marknader.**
+- **1H över 0,5** — odds ~1,30. p —, rimligt odds —, EV —. 🟢 8/10. *Måltidsfördelning ej dragen (**D2**).*
+- **BTTS** — odds ~1,65. p —, rimligt odds —, EV —. 🟡 7/10
+- **Över 2,5** — odds ~1,72. p —, rimligt odds —, EV —. 🟡 6/10
+- **Liverpool vinst** — odds —. 🟡 6/10, 2026-formen är genuint svag
+
+### 4. Tottenham – Atlético Madrid (21:00)
+
+**Läge.** Spurs 2-5 under och behöver fyra mål utan svar, med **13 spelare ute**. Form i fritt fall: sextonde i PL, 30 p på 30 (7-9-14), **0 vinster på fem PL-matcher** (1-4 Arsenal, 1-2 Fulham, 1-3 Palace, 1-1 Liverpool), ~3,0 insläppta per match. Atlético: fyra raka La Liga-vinster, trea med 57 p.
+
+**Truppnytt (bekräftat 18 mar).** Spurs ute: Maddison, Kulusevski, Kudus, Bergvall, Bissouma, Bentancur, Odobert (korsband), Davies, Van de Ven (avstängd efter rött i första benet). Tveksamma: Gallagher (sjuk), Romero (hjärnskakning), Palhinha (hjärnskakning), Udogie. Atlético utan **Oblak** (muskel), Barrios och Mendoza. Tudor (tillfällig tränare) kan spela in ungdomar.
+
+**Läsning.** Matematiskt dött för Spurs. Simeone leder 5-2 och förväntas förvalta konservativt. Oblak ute ger Spurs en teoretisk öppning, men vem gör målen — Son och Solanke bedöms som de enda anfallsspelarna i form. **E7 prövas och avfärdas i originalet** — det är ett do-or-die hemmaben där set pieces och publik ska ersätta den saknade kreativiteten; originalet väljer i stället motsatt tes. **F11 prövas och avfärdas likaså** — bussparkering borta i ett andra ben är skör, men originalet höjer Under i stället för att sänka det.
+
+**Marknader.**
+- **Under 2,5** — odds ~1,85. p —, rimligt odds —, EV —. 🟡 6/10. *Går emot **B2**, **E7** och **F11**.*
+- **Atlético vinst** — odds ~2,10. p —, rimligt odds —, EV —. 🟡 6/10
+- **BTTS** — odds —. 🔴 4/10. Avstå.
+- **Över 2,5** — odds —. 🔴 4/10. Avstå.
+
+*p, rimligt odds och EV är ej dokumenterade i originalet för någon marknad (**I1**, **I2**, **I3**).*
+
+---
+
+## 🎯 Kuponger — 300 kr
+
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | Barça 1H ö0,5 + Liverpool 1H ö0,5 | 🟡 7,5/10 | ~1,59 | — | — | — | 100 kr |
+| 2 | Huvudspel | Barça ö2,5 + Liverpool BTTS | 🟡 6,5/10 | ~2,23 | — | — | — | 80 kr |
+| 3 | Hedge | Spurs–Atlético u2,5 + Bayern 1H ö0,5 | 🟡 6/10 | ~2,50 | — | — | — | 70 kr |
+| 4 | Uppsida | Barça vinst + Liverpool ö2,5 + Atlético vinst | 🔴 5,5/10 | ~5,60 | — | — | — | 50 kr |
+
+**C1 — Ankare.** Tes: båda hemmalagen måste göra mål tidigt i CL-knockout · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+**C2 — Huvudspel.** Tes: Barça har 3+ mål i 9 raka, Liverpool jagar och Osimhen kontrar · Regel: **H1** (max 2–3 skänklar)
+**C3 — Hedge.** Tes: de två dead rubbers — Simeone förvaltar 5-2, Kane hittar ett före pausen · Regel: **H6** (motsatt tes mot C1/C2), **H3** (defensiv)
+**C4 — Uppsida.** Tes: målkväll plus kvalitetsgap i London · Regel: **H7** (Barça vinst 7/10 är den trygga skänkeln)
+
+**Matcher per kupong:** C1 Barcelona, Liverpool · C2 Barcelona, Liverpool · C3 Tottenham, Bayern · C4 Barcelona, Liverpool, Tottenham
+
+⚠️ **Barcelona och Liverpool ligger i tre av fyra kuponger var** (C1, C2, C4) — **H2** tillåter max två. **H5** är däremot uppfylld: huvudspelet (C2) och hedgen (C3) delar ingen match.
+
+---
+
+## ⚠️ Medvetet undvikna spel
+
+| Marknad | Varför |
+|---|---|
+| BTTS Spurs–Atlético 4/10 | Dead rubber, Simeones buss, decimerat Spurs |
+| Över 2,5 Spurs–Atlético 4/10 | Inget incitament från något lag |
+| Bayern–Atalanta som singel | Dead rubber, för många okända kring rotation och intensitet |
+| Alla kortspel | Ingen kortstatistik uppslagen för Bastien eller Marciniak (**G1**, **G5**) |
+| 1H-marknader | **Undvikna gjordes inte** — tre 1H-spel lades i kuponger utan verifierad måltidsfördelning, i strid med **D2** |
+
+---
+
+## 🟨 Kort
+
+| Domare | Match | Gula/match | Urval |
 |---|---|---|---|
-| **Barcelona** vs Newcastle | 1-1 (Barnes 86', Yamal 90' pen) | 1-1 | 18:45 |
-| **Bayern Munich** vs Atalanta | 6-1 (Stanišić, Olise x2, Gnabry, Jackson, Musiala; Pašalić 90+3') | 6-1 | 21:00 |
-| **Liverpool** vs Galatasaray | 0-1 (Lemina 7') | 0-1 | 21:00 |
-| **Tottenham** vs Atletico Madrid | 2-5 (Porro, Solanke; Llorente, Griezmann, Alvarez x2, Le Normand) | 2-5 | 21:00 |
+| Bastien (FRA) | Bayern – Atalanta | — | ej verifierad |
+| Marciniak (POL) | Liverpool – Galatasaray | — | ej verifierad |
+| — | Barcelona – Newcastle | — | ej dokumenterad i originalet |
+| — | Tottenham – Atlético | — | ej dokumenterad i originalet |
+
+Två av fyra domare namngivna, ingen med gula/match-statistik och inga lagsiffror. Utan bookmakerlinje rekommenderas inget kortspel (**G5**, **G9**). Kortspel hör ändå aldrig i kupongerna (**G4**).
 
 ---
 
-## Match-by-Match Analysis
+## 📐 Felmarginal & insatser
 
-### 1. Barcelona vs Newcastle (1-1 agg) — THE MAIN EVENT
+Ingen felmarginal, ingen p-skattning och ingen Kelly-beräkning i originalet — insatserna är satta efter övertygelse, inte efter kvarts-Kelly (**I5**, **I6** ej uppfyllda). Utan p och rimligt odds går EV inte att kontrollera för något av de fyra spelen (**I1–I3**).
 
-**Situation:** All square. Barca MUST win at Camp Nou to progress.
+Kvällens svagaste punkt är **koncentration**: Barcelona och Liverpool bär tre kuponger var, så en tyst kväll i någon av dem raderar C1, C2 och C4 samtidigt. Hedgen är formellt oberoende men vilar i sin helhet på en Under-tes i ett andra ben, vilket **B2** motsäger.
 
-**Barcelona form:** Incredible. Beat Athletic 1-0, thrashed Sevilla 5-2 at the weekend. **Scored 3+ goals in 9 straight games** across all competitions. Leading La Liga by 4 points. Raphinha hat-trick vs Sevilla. Yamal, Pedri, Lewandowski all firing.
-
-**Barcelona injuries:** Koundé (hamstring, out until April), De Jong (femoral biceps, 6 weeks), Balde (4 weeks), Christensen. Araujo and Bernal available (cramps only from first leg). Eric Garcia minor doubt.
-
-**Newcastle form:** Beat Man Utd 2-1 (Osula 90'), beat Chelsea 1-0 away. Solid results. 9th in PL.
-
-**Newcastle injuries:** Bruno Guimarães (muscle) OUT — **massive blow, their creative engine**. Schär (ankle), Krafth (knee), Miley (knee) all out. **Tonali illness doubt** — if he misses too, Newcastle's midfield is severely weakened.
-
-**Key dynamics:**
-- Camp Nou CL knockout night. Barca's attacking form is absurd. Without Bruno, Newcastle lose their ability to control midfield and transition.
-- Newcastle showed they CAN score (Barnes 86' in first leg) but that was at St James' Park. Camp Nou is a different beast.
-- Barca missing Koundé weakens their right side — Anthony Gordon/Barnes could exploit this on the counter.
-- But Barca's "100mph start" is a domestic AND home pattern — Camp Nou is their turf.
-
-**Market reads:**
-- **Over 2.5:** ⭐⭐⭐⭐⭐⭐⭐ 7/10 — Barca have 3+ in 9 straight. Newcastle without Bruno will struggle to keep them out. Odds ~1.35 (short but justified)
-- **BTTS:** ⭐⭐⭐⭐⭐⭐ 6/10 — Newcastle CAN score but without Bruno their creative output drops significantly. Camp Nou is harder than St James' Park
-- **1H Over 0.5:** ⭐⭐⭐⭐⭐⭐⭐⭐ 8/10 — Barca will start at 100mph. CL knockout at home. They scored in the first half vs Sevilla (multiple) and have been fast starters all season
-- **Barca Win:** ⭐⭐⭐⭐⭐⭐⭐ 7/10 — capped per framework. Newcastle are stubborn but missing too much in midfield
+Identifierade risker i originalet: Liverpool BTTS 7/10 (om Galatasaray sitter djupt och Liverpools svaga 2026-form följer med hem) och Bayern–Atalanta som helt oläsbar rotationsmatch. Scenarioband: bästa fall ~+492 kr, realistiskt +59 till +262 kr, sämsta fall -125 till -300 kr.
 
 ---
 
-### 2. Bayern Munich vs Atalanta (6-1 agg) — DEAD RUBBER
+## ✅ Checklista
 
-**Situation:** Bayern lead 6-1. This is over. Classic dead rubber.
-
-**Bayern team news:** Olise + Kimmich SUSPENDED (yellow cards). **GK CRISIS:** Neuer, Ulreich, Urbig ALL unavailable — Bayern playing their **4th-choice keeper** (Bärtl from Bayern II or Prescott U-19). Kane rested in first leg, should start.
-
-**Atalanta:** De Ketelaere back from injury. Scalvini + Musah suspended. Raspadori doubtful.
-
-**Referee:** Benoît Bastien (FRA)
-
-**Key dynamics:**
-- Dead rubber — both teams will rotate. Kompany has nothing to gain from going full throttle.
-- BUT: Kane at home will want goals (Golden Boot race). Bayern at Allianz Arena still put on a show.
-- Framework: "Dead rubber ≠ guaranteed goals" (Stuttgart 0-1 Celtic). But also ≠ guaranteed no goals when Kane plays.
-- The 4th-choice GK is interesting but per framework: "Steamroller mode overrides backup GK concerns." Bayern ARE in steamroller mode (6-1 away!). Atalanta might test the young keeper but this is a dead rubber.
-- Both teams may rest legs for league campaigns.
-
-**Market reads:**
-- **Over 2.5:** ⭐⭐⭐⭐⭐ 5/10 — unpredictable. Kane scores but intensity could be low
-- **Under 2.5:** ⭐⭐⭐⭐⭐ 5/10 — coin flip
-- **1H Over 0.5:** ⭐⭐⭐⭐⭐⭐½ 6.5/10 — even in a dead rubber, Kane at Allianz Arena should find one early
-- **BTTS:** ⭐⭐⭐⭐⭐ 5/10 — 4th-choice GK could concede, but Atalanta may not push hard
-
-**Verdict:** Hard to call. Use for hedge markets only, avoid as an anchor.
+**Verifiering** — skador/avstängningar ✅ alla 8 lag · full trupp ❌ (Spurs tillgängliga anfallare ofullständigt listade — Kolo Muani och Simons saknas) · turneringsomfång ✅ · domarstatistik ❌ (2/4 namngivna, 0 med gula/match)
+**Kalibrering** — inget resultatspel över 8 ✅ (högst Barça vinst 7) · **8+ datapunkter ⚠️** (Barças 3+ i 9 raka ✅; "snabb start" och dead-rubber-tesen vilar på 1–2 datapunkter, **A2**) · A1 ✅
+**Situation** — **B2 ❌** (hedgen byggd på Under i ett andra ben) · **E7 ❌** (do-or-die hemmaben-undantaget avfärdat för Spurs) · **F11 ❌** (bussparkering borta i andra ben behandlad som stark, inte skör) · E5 ⚠️ prövad men utan återvändande avstängda att värdera · F10 ✅
+**Målmarknader** — C1 ⚠️ (Över kontra BTTS inte vägt för Liverpool) · C9 ✅ Simeone-bussen identifierad · C10 ✅ · **D2 ❌** (tre 1H-spel i kupong utan måltidsfördelning — C1 båda skänklarna, C3 ena)
+**Odds & värde** — odds ✅ indikativa · **p ❌ · rimligt odds ❌ · EV ❌** · I5/I6 ❌ ingen felmarginal, ingen Kelly
+**Kuponger** — **H2 ❌** (Barcelona och Liverpool i 3 av 4 var) · H3 ✅ C3 defensiv · H5 ✅ huvudspel och hedge delar ingen match · H6 ✅ · H7 ✅ Barça vinst är trygg skänkel · H10 ✅
+**Kort** — **G1 ❌** ingen kortstatistik · G4 ✅ inga kortspel i kupongerna · G5/G9 ✅ inget rekommenderat
 
 ---
 
-### 3. Liverpool vs Galatasaray (0-1 agg) — ANFIELD MUST CHASE
+## 📚 Källor
 
-**Situation:** Liverpool MUST score to stay alive. Down 0-1 from Istanbul. This is exactly the "must chase" CL knockout scenario.
+Ej dokumenterade i originalfilen.
 
-**Liverpool form:** POOR overall. 5th in PL (49pts from 30, 14W 7D 9L). Last 5: W2 D1 L2. Lost to Wolves away (PL), lost at Galatasaray (CL), drew 1-1 with Spurs (PL). BUT beat West Ham 5-2 at home and Wolves 3-1 (FA Cup).
-
-**Liverpool injuries:** **Isak OUT** (running outdoors, not fit) — their marquee striker unavailable. Endo, Bradley, Leoni, Gomez (doubt) all out. Jayden Danns new hamstring setback. **Mamardashvili in goal** (4th CL start this season, not Alisson). Van Dijk, Gravenberch, Curtis Jones all one booking from suspension.
-
-**Galatasaray form:** EXCELLENT. Beat Besiktas 1-0 away (Osimhen) — ended their 18-game unbeaten run. Turkish Super Lig leaders. **Nearly fully fit** — only reserve GK injured. Baltaci (suspended) and Davinson Sánchez (suspended) are the notable absentees.
-
-**Referee:** Szymon Marciniak (POL) — experienced, generally fair
-
-**Key dynamics:**
-- **Anfield CL nights are legendary.** Even in poor form, the crowd lifts Liverpool in European knockouts. The "This is Anfield" factor is real.
-- Liverpool MUST attack → opens space for **Osimhen on the counter**. This is a classic BTTS setup.
-- Galatasaray losing Sánchez (CB) weakens their backline at the worst time — Anfield pressure + weaker defense.
-- Without Isak, Liverpool's goalscoring burden falls on Salah, Wirtz (confirmed starter), Ekitike (11 league goals — main striker), and Gakpo. Still quality — arguably Liverpool's strongest available front three.
-- Mamardashvili is decent but not Alisson — Galatasaray could exploit if they get chances.
-- Liverpool's home CL record historically is much stronger than their away form.
-
-**Market reads:**
-- **1H Over 0.5:** ⭐⭐⭐⭐⭐⭐⭐⭐ 8/10 — Anfield will DEMAND an early goal. Liverpool must chase from minute 1. Galatasaray showed they concede when pressed (Besiktas had chances). Marciniak won't slow the game.
-- **BTTS:** ⭐⭐⭐⭐⭐⭐⭐ 7/10 — Liverpool will score at home (they got 5 vs West Ham). Osimhen on the counter against a Liverpool team pushing high = goals both ways. Sánchez's absence hurts Gala defensively.
-- **Over 2.5:** ⭐⭐⭐⭐⭐⭐ 6/10 — likely but not certain. Galatasaray are well-drilled and can slow the game.
-- **Liverpool Win:** ⭐⭐⭐⭐⭐⭐ 6/10 — they need it, Anfield supports it, but their 2026 form is genuinely poor. Galatasaray are a quality side.
+*Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
 
 ---
 
-### 4. Tottenham vs Atletico Madrid (2-5 agg) — DEAD & BURIED
+## 📊 Efteranalys
 
-**Situation:** Spurs trail 5-2. Need 4 goals with no reply (or 3 + go to extra time). With **13 players out.** This is over.
+**90-minutersverifiering (C10):** ingen match gick till förlängning; samtliga mål inom ordinarie tid.
 
-**Spurs form:** COMPLETE FREEFALL. 16th in PL, 30pts from 30 games (7W 9D 14L). **0 wins in last 5 PL** (1-4 Arsenal, 1-2 Fulham, 1-3 Palace, 1-1 Liverpool). Conceding 3.0 goals per game recently.
+### Resultat
 
-**Spurs injuries:** DECIMATED. Out: Maddison, Kulusevski, Kudus, Bergvall, Bissouma, Bentancur, Odobert (ACL), Davies, Van de Ven (suspended after first-leg red card). Doubts: Gallagher (illness), Romero (concussion), Palhinha (concussion), Udogie.
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Barcelona – Newcastle | 7-2 (HT 3-2) | Raphinha 6', 72', Elanga 15', 28', Bernal 18', Yamal 45+7' straff, Fermín López 52', Lewandowski 56', 61' |
+| Bayern – Atalanta | 4-1 (HT 1-0) | Kane 25' straff, 54', Karl 56', Díaz 70', Samardžić 85' |
+| Liverpool – Galatasaray | 4-0 (HT 1-0) | Szoboszlai 25', Ekitike 51', Gravenberch 53', Salah 61' |
+| Tottenham – Atlético | 3-2 (HT 1-0) | Kolo Muani 30', Álvarez ~48', Simons 52', Hancko 75', Simons 90+' straff |
 
-**Atletico form:** Excellent. 4 straight La Liga wins (1-0 Oviedo, 3-2 Real Sociedad, 1-0 Getafe). 3rd in La Liga, 57pts. Simeone's machine is purring.
+### Marknadsutfall
 
-**Atletico injuries:** **Oblak OUT** (muscular) — significant. Barrios (thigh), Mendoza (ankle).
-
-**Key dynamics:**
-- This is mathematically dead for Spurs. 4 goals with a skeleton crew vs Simeone? Not happening.
-- Simeone leads 5-2. He will **100% manage this conservatively**. Park the bus, protect, run the clock.
-- Framework: "Dead rubber + elite opposition + trailing team in poor form = BTTS OFF, cap at 5/10"
-- Spurs' freefall pattern (concede goals, discipline issues) continues but the INCENTIVE to push forward is minimal when needing 4 goals with no squad.
-- Oblak out is interesting — gives Spurs a THEORETICAL opening. But who's going to score? Son and Solanke are about the only fit attackers.
-- Tudor (interim manager) may use this to blood youngsters.
-
-**Market reads:**
-- **Under 2.5:** ⭐⭐⭐⭐⭐⭐ 6/10 — Simeone manages conservatively, Spurs can't field a proper team. 1-0 or 0-0 probable. Odds ~1.85.
-- **BTTS:** ⭐⭐⭐⭐ 4/10 — Dead rubber, Simeone's bus, Spurs decimated. BTTS OFF.
-- **Atletico Win:** ⭐⭐⭐⭐⭐⭐ 6/10 — better team, but Simeone may rest players too. Low priority.
-- **Over 2.5:** ⭐⭐⭐⭐ 4/10 — no incentive from either side for a goal-fest.
-
----
-
-## Combo Construction (Budget: 300 kr)
-
-### Combo 1 — Anchor (100 kr) | Double
-| Leg | Match | Market | Confidence | Est. Odds |
+| Match | Marknad | Prognos | Utfall | Resultat |
 |---|---|---|---|---|
-| A | Barcelona vs Newcastle | 1H Over 0.5 | ⭐⭐⭐⭐⭐⭐⭐⭐ 8/10 | ~1.22 |
-| B | Liverpool vs Galatasaray | 1H Over 0.5 | ⭐⭐⭐⭐⭐⭐⭐⭐ 8/10 | ~1.30 |
-| | **Combined** | | **7.5/10** | **~1.59** |
+| Barcelona – Newcastle | 1H över 0,5 | ✅ väntat (8/10) | 5 mål i 1H, Raphinha 6' | ✅ |
+| Barcelona – Newcastle | Över 2,5 | ✅ väntat (7/10) | 9 mål | ✅ |
+| Barcelona – Newcastle | BTTS | lutning ja (6/10) | 7-2, båda gjorde mål | ✅ |
+| Barcelona – Newcastle | Barça vinst | ✅ väntat (7/10) | 7-2 | ✅ |
+| Bayern – Atalanta | 1H över 0,5 | lutning ja (6,5/10) | Kane straff 25' | ✅ |
+| Bayern – Atalanta | Över 2,5 | slantsingling (5/10) | 5 mål | ✅ |
+| Bayern – Atalanta | BTTS | slantsingling (5/10) | 4-1, båda gjorde mål | ✅ |
+| Liverpool – Galatasaray | 1H över 0,5 | ✅ väntat (8/10) | Szoboszlai 25' | ✅ |
+| Liverpool – Galatasaray | **BTTS** | ✅ väntat (**7/10**) | 4-0, Gala gjorde 0 mål | ❌ |
+| Liverpool – Galatasaray | Över 2,5 | lutning ja (6/10) | 4 mål | ✅ |
+| Liverpool – Galatasaray | Liverpool vinst | lutning ja (6/10) | 4-0 | ✅ |
+| Tottenham – Atlético | **Under 2,5** | lutning ja (**6/10**) | 5 mål (3-2) | ❌ |
+| Tottenham – Atlético | BTTS | ❌ väntat (4/10) | 3-2, båda gjorde mål | Korrekt undviket |
+| Tottenham – Atlético | Atlético vinst | lutning ja (6/10) | Spurs vann 3-2 | ❌ |
+| Tottenham – Atlético | Över 2,5 | lutning nej (4/10) | 5 mål | Fel lutning |
 
-**Logic:** Both home teams MUST score in CL knockouts. Barca's 100mph starts at Camp Nou + Anfield's European atmosphere demanding urgency from minute 1. Two of the strongest 1H reads of the season. Combined confidence is the highest of any combo tonight.
+### Kupongutfall
 
-**Potential return:** 100 kr x 1.59 = ~159 kr (+59 kr profit)
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare (100 kr) | ✅ | — (~159 kr) |
+| C2 — Huvudspel (80 kr) | ❌ | Liverpool BTTS (4-0, Gala gjorde aldrig mål) |
+| C3 — Hedge (70 kr) | ❌ | Spurs–Atlético under 2,5 (3-2, 5 mål) |
+| C4 — Uppsida (50 kr) | ❌ | Atlético vinst (Spurs vann 3-2) |
 
----
+### Kortspel (singlar, utanför kupongerna — G4)
 
-### Combo 2 — Main Bet (80 kr) | Double
-| Leg | Match | Market | Confidence | Est. Odds |
-|---|---|---|---|---|
-| A | Barcelona vs Newcastle | Over 2.5 | ⭐⭐⭐⭐⭐⭐⭐ 7/10 | ~1.35 |
-| B | Liverpool vs Galatasaray | BTTS | ⭐⭐⭐⭐⭐⭐⭐ 7/10 | ~1.65 |
-| | **Combined** | | **6.5/10** | **~2.23** |
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Inga | — | — | — |
 
-**Logic:** Barca have scored 3+ in 9 straight games — Camp Nou CL night extends that. Liverpool attack, Osimhen counters — BTTS is the natural market when a team chases at home against a side with Osimhen. Galatasaray losing Sanchez (suspended CB) makes them more vulnerable.
+### Totalt: 1/4 kuponger | Vinst/förlust: 159 − 300 = **-141 kr**
 
-**Potential return:** 80 kr x 2.23 = ~178 kr (+98 kr profit)
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
----
+### 🧠 Självutvärdering
 
-### Combo 3 — Hedge (70 kr) | Double — FULLY INDEPENDENT
-| Leg | Match | Market | Confidence | Est. Odds |
-|---|---|---|---|---|
-| A | Spurs vs Atletico | Under 2.5 | ⭐⭐⭐⭐⭐⭐ 6/10 | ~1.85 |
-| B | Bayern vs Atalanta | 1H Over 0.5 | ⭐⭐⭐⭐⭐⭐½ 6.5/10 | ~1.35 |
-| | **Combined** | | **6/10** | **~2.50** |
-
-**Logic:** Built on the TWO DEAD RUBBERS — completely independent of Barca and Liverpool. Simeone's conservative management of a 5-2 lead + Spurs' inability to field a team = Under 2.5. Meanwhile, even in a dead rubber, Kane at the Allianz Arena should find at least one goal before half-time.
-
-**Potential return:** 70 kr x 2.50 = ~175 kr (+105 kr profit)
-
-**Why this is a true hedge:** If Barca and Liverpool both have unexpectedly quiet nights (killing C1 + C2), C3 survives on completely different games and different market logic.
-
----
-
-### Combo 4 — Fun Treble (50 kr)
-| Leg | Match | Market | Confidence | Est. Odds |
-|---|---|---|---|---|
-| A | Barcelona vs Newcastle | Barca Win | ⭐⭐⭐⭐⭐⭐⭐ 7/10 (safe leg) | ~1.55 |
-| B | Liverpool vs Galatasaray | Over 2.5 | ⭐⭐⭐⭐⭐⭐ 6/10 | ~1.72 |
-| C | Spurs vs Atletico | Atletico Win | ⭐⭐⭐⭐⭐⭐ 6/10 | ~2.10 |
-| | **Combined** | | **5.5/10** | **~5.60** |
-
-**Logic:** Barca Win is the safe leg (7/10 — Camp Nou, best form in Europe, Newcastle without Bruno). Liverpool Over 2.5 extends the "must chase" thesis. Atletico Win against a skeleton-crew Spurs even with Oblak out — quality gap is enormous.
-
-**Potential return:** 50 kr x 5.60 = ~280 kr (+230 kr profit)
-
----
-
-## Budget Summary
-
-| Combo | Type | Stake | Est. Odds | Potential Return |
-|---|---|---|---|---|
-| C1 — Anchor | Double (1H goals) | 100 kr | ~1.59 | ~159 kr |
-| C2 — Main | Double (O2.5 + BTTS) | 80 kr | ~2.23 | ~178 kr |
-| C3 — Hedge | Double (Under + dead rubber) | 70 kr | ~2.50 | ~175 kr |
-| C4 — Fun | Treble (3 results/goals) | 50 kr | ~5.60 | ~280 kr |
-| **Total** | | **300 kr** | | |
-
-**Best case (all 4 hit):** +492 kr
-**Realistic case (2-3 hit):** +59 to +262 kr
-**Worst case (0-1 hit):** -125 to -300 kr
-
----
-
-## Pre-Bet Checklist
-
-- [x] Injuries/suspensions verified for all 8 teams
-- [x] Must chase: Liverpool (CAN they? Yes at Anfield, but form is shaky), Spurs (CAN they? NO — 13 out, 5-2 down)
-- [x] Tournament level: All CL — offensive markets justified for live ties
-- [x] Dead rubbers identified: Bayern/Atalanta + Spurs/Atletico — treated with caution
-- [x] Simeone + aggregate lead = BTTS OFF for Spurs/Atletico
-- [x] No result market above 8/10 (highest: Barca Win 7/10)
-- [x] Hedge (C3) fully independent of anchor (C1) — different games, different markets
-- [x] Main bet and hedge share NO game
-- [x] Best defensive read (Under 2.5 Spurs/Atletico) IS in a combo (C3)
-- [x] Treble has safe leg (Barca Win 7/10)
-- [x] Oblak out noted but Atletico still favoured — Simeone won't need his GK if he parks the bus
-- [x] Bruno Guimaraes out for Newcastle = midfield control lost at Camp Nou
-- [x] Liverpool missing Isak noted — but Salah/Wirtz/Ekitike/Gakpo still available (Wirtz confirmed starter)
-- [x] 4th-choice GK for Bayern noted — not a primary factor in a dead rubber
-
----
-
-**Best read of the night:** Barcelona 1H Over 0.5 (8/10) — their attacking form is the strongest in European football right now, and this is a must-win CL knockout at Camp Nou.
-
-**Biggest risk:** Liverpool BTTS (7/10) — if Galatasaray sit deep and Liverpool's poor 2026 form shows up at home, this could fail. But Osimhen is too good to waste counter-attacks, and Sanchez's suspension leaves Gala's backline weaker.
-
-**Match to avoid betting on:** Bayern vs Atalanta as a standalone — dead rubber with too many unknowns about rotation and intensity. Only used as a supporting leg in C3.
-
----
-
-## 📊 Post-Match Results
-
-### Match Results
-| Match | Score | HT | Key Events |
-|---|---|---|---|
-| Barcelona vs Newcastle | **7-2** | 3-2 | Raphinha 6', 72', Elanga 15', 28', Bernal 18', Yamal 45+7' pen, Fermín López 52', Lewandowski 56', 61' |
-| Bayern vs Atalanta | **4-1** | 1-0 | Kane 25' pen, 54', Karl 56', Díaz 70', Samardžić 85' |
-| Liverpool vs Galatasaray | **4-0** | 1-0 | Szoboszlai 25', Ekitike 51', Gravenberch 53', Salah 61' |
-| Tottenham vs Atletico | **3-2** | 1-0 | Kolo Muani 30', Álvarez ~48', Simons 52', Hancko 75', Simons 90+' pen |
-
-### Market Results
-| Match | Market | Prediction | Actual | Result |
-|---|---|---|---|---|
-| Barca vs Newcastle | 1H Over 0.5 (8/10) | ✅ expected | 5 goals in 1H! Raphinha 6' | ✅ |
-| Barca vs Newcastle | Over 2.5 (7/10) | ✅ expected | 9 goals | ✅ |
-| Barca vs Newcastle | BTTS (6/10) | Lean yes | 7-2, both scored | ✅ |
-| Barca vs Newcastle | Barca Win (7/10) | ✅ expected | 7-2 | ✅ |
-| Bayern vs Atalanta | 1H Over 0.5 (6.5/10) | Lean yes | Kane pen 25' | ✅ |
-| Bayern vs Atalanta | Over 2.5 (5/10) | Coin flip | 5 goals | ✅ |
-| Bayern vs Atalanta | BTTS (5/10) | Coin flip | 4-1, both scored | ✅ |
-| Liverpool vs Gala | 1H Over 0.5 (8/10) | ✅ expected | Szoboszlai 25' | ✅ |
-| Liverpool vs Gala | BTTS (7/10) | ✅ expected | 4-0, Gala scored 0 | ❌ |
-| Liverpool vs Gala | Over 2.5 (6/10) | Lean yes | 4 goals | ✅ |
-| Liverpool vs Gala | Liverpool Win (6/10) | Lean yes | 4-0 | ✅ |
-| Spurs vs Atletico | Under 2.5 (6/10) | Lean yes | 5 goals (3-2) | ❌ |
-| Spurs vs Atletico | BTTS (4/10) | ❌ expected | 3-2, both scored | Correctly avoided |
-| Spurs vs Atletico | Atletico Win (6/10) | Lean yes | Spurs won 3-2 | ❌ |
-| Spurs vs Atletico | Over 2.5 (4/10) | Lean no | 5 goals | Wrong lean |
-
-### Combo Results
-| Combo | Stake | Result | Failed Leg(s) | Return |
-|---|---|---|---|---|
-| C1 — Anchor: Barca 1H + Liverpool 1H | 100 kr | ✅ | — | ~159 kr |
-| C2 — Main: Barca O2.5 + Liverpool BTTS | 80 kr | ❌ | Liverpool BTTS (4-0, Gala never scored) | 0 kr |
-| C3 — Hedge: Spurs U2.5 + Bayern 1H | 70 kr | ❌ | Spurs Under 2.5 (3-2, 5 goals) | 0 kr |
-| C4 — Fun: Barca Win + Liverpool O2.5 + Atletico Win | 50 kr | ❌ | Atletico Win (Spurs won 3-2) | 0 kr |
-
-### Overall: 1/4 combos hit | Profit/Loss: 159 - 300 = **-141 kr**
-
----
-
-### 🧠 Self-Evaluation
-
-**Confidence calibration:**
-- **8/10 picks: 2/2 (100%)** — Barca 1H Over 0.5 ✅ (Raphinha 6'), Liverpool 1H Over 0.5 ✅ (Szoboszlai 25'). Perfectly calibrated. Both landed comfortably.
-- **7/10 picks: 2/3 (67%)** — Barca Over 2.5 ✅, Barca Win ✅, Liverpool BTTS ❌. The BTTS miss stings.
-- **6-6.5/10 picks: 3/5 (60%)** — Bayern 1H ✅, Liverpool O2.5 ✅, Liverpool Win ✅, Spurs Under ❌, Atletico Win ❌. About right for 60% confidence.
-- **High confidence was accurate, mid-range was fair.** The anchor was the best-constructed combo of the night.
-
-**Best read of the night:** Barcelona 1H Over 0.5 (8/10) — Raphinha scored in the **6th minute**. The entire Barca analysis was outstanding: predicted 3+ goals (they scored 7), predicted fast start (goal in 6'), predicted Newcastle's midfield weakness without Bruno (they conceded 7). The 9-goal thriller was beyond anyone's prediction, but the direction was perfect.
-
-**Second best read:** Liverpool will dominate at Anfield — 4-0 demolition. Liverpool Win ✅, Over 2.5 ✅, 1H goal ✅. The Anfield CL night factor was correctly identified.
-
-**Worst read of the night:** Spurs/Atletico Under 2.5 (6/10) — **5 goals, 3-2 Spurs win.** The entire thesis was wrong:
-- "Simeone will park the bus" — he didn't. Atletico scored 2 (Álvarez, Hancko)
-- "Spurs can't field a proper team" — Kolo Muani and Xavi Simons (2 goals!) were excellent. We said "Son and Solanke are about the only fit attackers" and didn't even mention Simons or Kolo Muani
-- "Dead rubber = low intensity" — completely wrong. Spurs played with freedom and pride, delivering their best performance in months
-- The hedge failed because it was built on a fundamentally wrong thesis about this match
-
-**Liverpool BTTS (7/10) — painful miss that killed C2:**
-- Galatasaray scored 0. Zero. The "Osimhen on the counter" thesis never materialized because Liverpool's dominance was so complete that Galatasaray never got to counter-attack
-- This mirrors the PSG 3-0 Chelsea pattern from March 17: when the home team completely suffocates the away team, BTTS dies
-- We even flagged this risk in "Biggest risk" — "if Galatasaray sit deep and Liverpool's poor 2026 form shows up at home" — but the OPPOSITE happened: Liverpool's form showed up brilliantly and Gala couldn't breathe
-- **Lesson:** HOME DOMINATION IN CL CHASE SCENARIOS = BTTS OFF. When a team chases at home and actually plays well, they don't leave space for counters — they strangle the game. Over 2.5 (✅) was safer than BTTS (❌)
-
-**Atletico Win (6/10) — killed C4:**
-- Spurs won 3-2. The "skeleton crew vs Simeone's machine" mismatch didn't play out because Spurs had nothing to lose and played with complete freedom
-- Xavi Simons was the difference-maker — we failed to identify him as a key threat
-
-**Key structural issue:** All 3 losing combos (C2, C3, C4) each had one leg on the Spurs/Atletico match (indirectly for C2, directly for C3 and C4). If we'd avoided Spurs/Atletico entirely and used a different game for the hedge, the night could have been better.
-
----
-
-### 🔑 New Lessons
-
-1. **"NOTHING TO LOSE" DEAD RUBBERS = FREEDOM, NOT LOW SCORING** — When an eliminated team also has nothing left in their league (Spurs 16th, playing for pride only), they play FREELY. No tactical discipline, no caution, just expression. This produced 5 goals in a "dead rubber." The dead rubber Under thesis only works when BOTH teams have something to protect (e.g. league form, avoiding injuries). When one team has genuinely nothing to lose, expect goals.
-
-2. **HOME CL DOMINATION KILLS BTTS — PREFER OVER 2.5** — Liverpool 4-0 (BTTS ❌, O2.5 ✅). When a home team chases in CL and actually performs well, they suffocate the away team. No space for counters. This mirrors PSG 3-0 Chelsea from the night before. In CL chase scenarios at home, **Over 2.5 is safer than BTTS** because goals come but they come from ONE side.
-
-3. **"SIMEONE PARKS THE BUS" IS CONTEXT-DEPENDENT** — With Oblak out and a 5-2 lead, Simeone's team still scored 2. The bus-parking assumption fails when: (a) the backup GK gives less confidence defensively, (b) the lead is so comfortable there's no downside to attacking, (c) the opposition is so weak that Atletico don't even need to sit back.
-
-4. **ALWAYS IDENTIFY ALL AVAILABLE ATTACKERS** — We said "Son and Solanke are the only fit attackers" and missed Kolo Muani and Xavi Simons entirely. Simons scored 2 (including a penalty). Always search for the full available squad, not just the obvious names.
+- **Kalibrering:** 8/10-spelen gick 2/2 (Barça 1H ✅ Raphinha 6', Liverpool 1H ✅ Szoboszlai 25') — perfekt kalibrerat. 7/10-spelen gick 2/3 (Barça över 2,5 ✅, Barça vinst ✅, Liverpool BTTS ❌). 6–6,5/10-spelen gick 3/5 (Bayern 1H ✅, Liverpool över 2,5 ✅, Liverpool vinst ✅, Spurs under ❌, Atlético vinst ❌) — rimligt för 60 %. Hög konfidens var träffsäker, mellanskiktet medelmåttigt. Ankaret var kvällens bäst byggda kupong.
+- **Kvällens bästa läsning:** Barcelona 1H över 0,5 (8/10) — Raphinha i 6:e minuten. Hela Barça-analysen höll: 3+ mål förutspått (det blev 7), snabb start förutspådd (mål i 6'), Newcastles mittfältssvaghet utan Bruno förutspådd (de släppte in 7). Nio mål gick inte att förutse, men riktningen var exakt rätt. Näst bästa: Liverpool dominerar på Anfield — 4-0, vinst ✅, över 2,5 ✅, 1H-mål ✅.
+- **Kvällens sämsta läsning:** Spurs–Atlético under 2,5 (6/10) — 5 mål och 3-2 till Spurs. Hela tesen var fel: Simeone parkerade inte bussen (Atlético gjorde 2 mål), Spurs kunde ställa upp ett lag (Kolo Muani och Simons, 2 mål, nämndes inte alls i analysen), och dead rubber betydde inte låg intensitet — Spurs spelade fritt och levererade sin bästa insats på månader. Hedgen föll för att den byggde på en i grunden felaktig matchläsning. Liverpool BTTS (7/10) dödade C2: Galatasaray gjorde noll mål, och "Osimhen på kontring" materialiserades aldrig eftersom Liverpools dominans var total. Samma mönster som PSG 3-0 Chelsea den 17 mars. Risken var till och med flaggad — men i motsatt form: det var Liverpools form som infann sig, inte deras svaghet. Atlético vinst (6/10) dödade C4 på samma match. Strukturellt fel: alla tre fallande kuponger hade en skänkel kopplad till Spurs–Atlético (indirekt för C2, direkt för C3 och C4).
+- **Lärdom:**
+  1. **Dead rubbers med "inget att förlora" ger frihet, inte lågt målsnitt.** När ett utslaget lag inte heller har något kvar i ligan (Spurs sextonde, spelar för stoltheten) spelar de fritt — ingen taktisk disciplin, ingen försiktighet. Under-tesen i en dead rubber håller bara när **båda** lagen har något att skydda.
+  2. **Hemmadominans i CL dödar BTTS — föredra över 2,5.** Liverpool 4-0 (BTTS ❌, ö2,5 ✅). När ett hemmalag jagar i CL och faktiskt presterar, stryper de matchen och lämnar inga ytor för kontring. Målen kommer, men från ett håll (**C1**).
+  3. **"Simeone parkerar bussen" är kontextberoende.** Med Oblak ute och 5-2 i ryggen gjorde Atlético ändå 2 mål. Antagandet faller när reservmålvakten sänker den defensiva tryggheten, när ledningen är så bekväm att det inte finns någon nedsida i att attackera, eller när motståndet är så svagt att man inte behöver sitta tillbaka (**F11** pekade åt rätt håll och avfärdades).
+  4. **Identifiera alltid hela den tillgängliga anfallsuppsättningen.** "Son och Solanke är de enda anfallarna i form" missade Kolo Muani och Xavi Simons helt. Simons gjorde 2 mål, varav ett på straff (**E1**).

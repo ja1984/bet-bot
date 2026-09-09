@@ -1,406 +1,247 @@
-# Premier League — Wednesday 4 March 2026
+# ⚽ Premier League — omgång 28, onsdag 4 mars 2026
 
-## Tonight's Card (5 matches)
+Fem matcher, samtliga **enkelmatcher** i ligaspel. **B1/B2** gäller inte; midweek-mönstret (låga målsummor) är kvällens situationsfaktor.
 
-| KO | Match | Venue | Table Pos |
-|----|-------|-------|-----------|
-| 19:30 | Aston Villa vs Chelsea | Villa Park | 4th vs 6th |
-| 19:30 | Brighton vs Arsenal | Amex Stadium | 12th vs 1st |
-| 19:30 | Fulham vs West Ham | Craven Cottage | 10th vs 18th |
-| 19:30 | Man City vs Nottingham Forest | Etihad | 2nd vs 17th |
-| 20:15 | Newcastle vs Manchester United | St James' Park | 13th vs 3rd |
+## 📋 Kvällens matcher & domare
 
----
-
-## Match-by-Match Analysis
-
-### 1. Aston Villa vs Chelsea (19:30) — THE GOALS GAME
-
-**Injuries & Suspensions:**
-- **Villa OUT:** Kamara, Tielemans, Harvey Elliott, McGinn, Andres Garcia — decimated midfield
-- **Chelsea OUT:** Pedro Neto (suspended), Colwill, Essugo, Gittens, Estevao. Cucurella late fitness test
-
-**Form:**
-- Villa: 1W 2D 3L in last 6. Just lost 2-0 to Wolves. Struggling badly.
-- Chelsea: 3W 2D 1L in last 6. Lost 2-1 to Arsenal. Inconsistent but more dangerous.
-
-**Key Stats:**
-- Chelsea BTTS in last 6 consecutive PL games
-- O2.5 in Chelsea's last 4 away PL matches
-- O2.5 in **8 of last 9** Villa vs Chelsea H2H at Villa Park
-- BTTS probability: 61% | O2.5 probability: 61%
-- Reverse fixture: Chelsea 1-2 Villa (Joao Pedro 37', Watkins 64' & 79')
-
-**Key Read:** Both defenses weakened by injuries. Neither can trust their backline. Chelsea's BTTS streak is real (6 games!). The H2H at Villa Park screams goals — 8/9 over 2.5 is a remarkable stat. This is the best goals game on the card.
-
-**Market Assessment:**
-| Market | Confidence | Reasoning |
-|--------|-----------|-----------|
-| BTTS | 8/10 | Chelsea 6-game BTTS streak + Villa's leaky defense without Kamara/Tielemans |
-| O2.5 | 7.5/10 | 8/9 H2H at Villa Park, both defenses stretched by injuries |
-| 1H O0.5 | 7/10 | H2H tends to produce early goals, both teams concede from set pieces |
-| Result | Coin flip | Both teams too inconsistent to call — no lean |
+| Tid | Match | Arena | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 19:30 | Aston Villa – Chelsea | Villa Park | — | — | ej verifierad |
+| 19:30 | Brighton – Arsenal | Amex | — | — | ej verifierad |
+| 19:30 | Fulham – West Ham | Craven Cottage | — | — | ej verifierad |
+| 19:30 | Man City – Nottingham Forest | Etihad | — | — | ej verifierad |
+| 20:15 | Newcastle – Manchester United | St James' Park | — | — | ej verifierad |
 
 ---
 
-### 2. Brighton vs Arsenal (19:30) — TITLE DEFENCE TESTED
+## 🔍 Match för match
 
-**Injuries & Suspensions:**
-- **Arsenal:** Rice (fatigue — "much better", likely to play), Odegaard (knee — doubt), Merino (OUT — foot surgery), Ben White (OUT — knock), Dowman (OUT — ankle)
-- **Brighton:** Webster, Tzimas (OUT — long-term knee). Ayari late fitness test.
+### 1. Aston Villa – Chelsea (19:30)
 
-**Form:**
-- Brighton: Won 2 straight (Brentford & Forest). 11th, chasing Europe.
-- Arsenal: Beat Chelsea 2-1. Unbeaten in last 19 PL evening kickoffs.
+**Läge.** Villa 1V-2K-3F på sex, senast 0-2 mot Wolves, 4:a. Chelsea 3V-2K-1F, senast 1-2 mot Arsenal, 6:a. Omvänt möte: Chelsea 1-2 Villa (João Pedro 37', Watkins 64' och 79').
 
-**Key Stats:**
-- H2H averages 2.76 goals, BTTS 62%
-- Brighton home O2.5 only 33% this season — surprisingly tight at the Amex
-- Arsenal away: 1.93 PPG. Disciplined even without key players.
+**Truppnytt (bekräftat 4 mar).** Villa utan Kamara, Tielemans, Harvey Elliott, McGinn och Andrés García — **decimerat mittfält**. Chelsea utan Pedro Neto (avstängd), Colwill, Essugo, Gittens, Estêvão; Cucurella sent fystest.
 
-**Key Read:** Arsenal's evening kickoff record (19 unbeaten) is remarkable. But potentially missing Rice AND Odegaard is significant — that's the spine of the team. Brighton at home have been more defensively solid than their league position suggests (only 33% O2.5). This feels like a controlled, tight game. Arsenal's discipline should see them through, but I'm not backing it with high confidence given the injury doubts. Wait for confirmed lineups.
+**Läsning.** Kvällens målmatch. Båda försvaren skadesvaga, ingen kan lita på sin backlinje. Chelsea har haft BTTS i **6 raka ligamatcher**, Över 2,5 i sina 4 senaste bortamatcher, och H2H på Villa Park har gett Över 2,5 i **8 av 9**.
 
-**Market Assessment:**
-| Market | Confidence | Reasoning |
-|--------|-----------|-----------|
-| Arsenal Win | 6.5/10 | Form + evening record, but missing midfield pieces |
-| Under 2.5 | 6.5/10 | Brighton's home games aren't high-scoring (33% O2.5) |
-| 1H O0.5 | 7/10 | Arsenal start well historically, even away |
-| BTTS | 5.5/10 | Arsenal's defense still solid; Brighton may struggle to score |
+**Marknader.**
+- **BTTS** — p **61%**, rimligt odds **1,64**. Marknad ~1,62 (indikativt). EV ej dokumenterad i originalet. 🟢 8/10
+- **Över 2,5** — p **61%**, rimligt odds **1,64**. Marknad ~1,73 (indikativt). EV ej dokumenterad. 🟢 7,5/10
+- **1H över 0,5** — 🟡 7/10. Ingen verifierad måltidsfördelning (**D2**) — se sektion 5.
+- **Resultat** — slantsingling, ingen lutning. Avstå.
 
----
+### 2. Brighton – Arsenal (19:30)
 
-### 3. Fulham vs West Ham (19:30) — HOME BANKER
+**Läge.** Brighton 12:a, två raka segrar (Brentford, Forest), jagar Europa. Arsenal 1:a, slog Chelsea 2-1, obesegrade i **19 raka kvällsmatcher** i ligan, 1,93 poäng/match borta.
 
-**Injuries & Suspensions:**
-- **Fulham:** Harry Wilson (ankle doubt), Andersen back from illness, Lukic could return
-- **West Ham:** Pablo Felipe (OUT — calf), Freddie Potts (suspended — final game of 3-match ban)
+**Truppnytt (bekräftat 4 mar).** Arsenal: Rice (trötthet, "mycket bättre", trolig), Ødegaard (knä, tveksam), Merino (fotoperation, borta), Ben White (borta), Dowman (fotled, borta). Brighton: Webster och Tzimas borta (knä, långtid); Ayari sent fystest.
 
-**Form:**
-- Fulham: Won 3 straight (including 2-1 at Spurs). 5/7 home wins with multiple goals in 5 of those.
-- West Ham: 18th. Just lost 5-2 at Liverpool. Lost 7/8 London derbies this season.
+**Läsning.** Kvällsrekordet är starkt, men Rice **och** Ødegaard tveksamma är lagets ryggrad. Brighton hemma är tätare än tabellplatsen antyder — bara **33% Över 2,5** på Amex. Kontrollerad, tät match; Arsenals disciplin räcker, men inte med hög konfidens innan startelvorna.
 
-**Key Stats:**
-- West Ham conceded 54 goals — 2nd worst in PL (only Burnley worse)
-- O2.5 in 6/9 West Ham's last games, 5/6 Fulham's last games
-- H2H: 2.83 avg goals, BTTS 58%
-- Fulham BTTS & O2.5 priced at 21/20 (2.05)
+**Marknader.**
+- **Arsenal vinst** — 🟡 6,5/10, odds ej dokumenterat i originalet
+- **Under 2,5** — 🟡 6,5/10, odds ej dokumenterat
+- **1H över 0,5** — 🟡 7/10. Måltidsdata ej verifierad (**D2**).
+- **BTTS** — 🔴 5,5/10. Arsenals försvar solidt, Brighton kan bli mållöst. Avstå.
 
-**Key Read:** West Ham are in total freefall. 54 goals conceded in 28 games is catastrophic. Fulham at Craven Cottage have been dominant — 3 straight wins, scoring freely. West Ham DO have the ability to nick one (scored 2 at Anfield) but their away defense is non-existent. Fulham should control this comfortably.
+### 3. Fulham – West Ham (19:30)
 
-**Market Assessment:**
-| Market | Confidence | Reasoning |
-|--------|-----------|-----------|
-| Fulham Win | 8/10 | West Ham can't defend, can't win London derbies, Fulham in form |
-| O2.5 | 6.5/10 | Both in high-scoring games recently, but midweek may dampen |
-| BTTS | 6/10 | West Ham CAN score but Fulham solid at home recently |
+**Läge.** Fulham 10:a, tre raka segrar (inkl. 2-1 borta mot Spurs), 5 av 7 hemmasegrar med flera mål i 5 av dem. West Ham 18:a, senast 2-5 på Anfield, förlorat 7 av 8 Londonderbyn.
 
----
+**Truppnytt (bekräftat 4 mar).** Fulham: Harry Wilson (fotled, tveksam), Andersen tillbaka efter sjukdom, Lukić kan återvända. West Ham: Pablo Felipe (vad, borta), Freddie Potts (avstängd, sista matchen av tre).
 
-### 4. Man City vs Nottingham Forest (19:30) — FORTRESS ETIHAD
+**Läsning.** West Ham i fritt fall — **54 insläppta mål** på 28 matcher, näst sämst i ligan. Fulham dominant på Craven Cottage. West Ham kan knipa ett mål (två på Anfield), men bortaförsvaret finns inte.
 
-**Injuries & Suspensions:**
-- **Man City:** Haaland "feels much better" — decision after final training session. Semenyo scored winner vs Leeds.
-- **Forest:** No major additional absentees reported. New manager Pereira still winless in PL.
+**Marknader.**
+- **Fulham vinst** — 🟢 8/10, odds ~1,60 (indikativt)
+- **Över 2,5** — 🟡 6,5/10. Över 2,5 i 6 av West Hams 9 senaste och 5 av Fulhams 6 senaste; H2H 2,83 mål i snitt, BTTS 58%. Midweek dämpar.
+- **BTTS** — 🟡 6/10. Fulham BTTS & Över 2,5 prissatt 2,05 (indikativt).
 
-**Form:**
-- City: Won 6 straight across all comps. 16/19 home PL wins. Clinical 1-0 at Leeds.
-- Forest: 17th, 27 pts. Lost 2-1 at Brighton. Pereira can't buy a win.
+### 4. Man City – Nottingham Forest (19:30)
 
-**Key Stats:**
-- Forest lost ALL 3 Etihad away trips since promotion: aggregate **11-0**
-- BTTS in H2H: only 25%
-- City -1 Handicap priced at 11/10 (2.10)
-- City 3-0 priced at 17/2 (9.50)
+**Läge.** City 2:a, sex raka segrar i alla turneringar, 16 av 19 hemmasegrar i ligan, 1-0 borta mot Leeds. Forest 17:a på 27 poäng, senast 1-2 borta mot Brighton; Pereira fortfarande utan ligaseger.
 
-**Key Read:** This is as close to a certainty as you'll find in football. Forest haven't scored a single goal in 3 visits to the Etihad. City are in ruthless form. Even without Haaland, Semenyo and the supporting cast should be too much. The only question is the margin. If Haaland plays, expect a demolition.
+**Truppnytt (bekräftat 4 mar).** City: Haaland "känner sig mycket bättre", beslut efter sista träningen. Semenyo gjorde avgörandet mot Leeds. Forest: inga ytterligare större frånvaron rapporterade.
 
-**Market Assessment:**
-| Market | Confidence | Reasoning |
-|--------|-----------|-----------|
-| City Win | 9/10 | Fortress Etihad, Forest 0 goals in 3 visits, 6-game winning streak |
-| City Win to Nil | 7.5/10 | Forest historically can't score here — 0 in 3, aggregate 11-0 |
-| City -1 AH | 7/10 | Should win by 2+ but midweek caution applies |
-| O2.5 | 6/10 | Depends on Haaland; without him could be a controlled 2-0 |
+**Läsning.** Forest har förlorat **alla 3** bortabesök på Etihad sedan uppflyttningen, totalt **11-0** — och gjort noll mål. Endast marginalen är öppen. **A2 bruten:** tre datapunkter är inget mönster. BTTS i H2H bara 25%.
+
+**Marknader.**
+- **City vinst** — 🔴 9/10 angivet i originalet, **över A1-taket 8** på resultatmarknad. Ska ha kapats.
+- **City vinst utan insläppt mål** — 🟢 7,5/10, odds ~2,50 (indikativt). Vilar på tre datapunkter (**A2**).
+- **City -1 handikapp** — 🟡 7/10, odds 2,10 (indikativt). Midweek-försiktighet.
+- **Över 2,5** — 🟡 6/10. Hänger på Haaland; utan honom kontrollerad 2-0.
+- *City 3-0 prissatt 9,50 (indikativt), ej spelat.*
+
+### 5. Newcastle – Manchester United (20:15)
+
+**Läge.** Newcastle 13:a, **tre raka hemmaförluster** med 8 insläppta (Villa, Brentford, Everton) — kris på St James' Park. United 3:a, obesegrade sedan 1 januari, Carrick 19 av 21 poäng, men 4 av 6 segrar med ett mål — slitvargar. Bortaodds dött jämnt: 6/4 båda.
+
+**Truppnytt (bekräftat 4 mar).** Newcastle utan Bruno Guimarães, Livramento och Miley; Harvey Barnes tillgänglig, Ramsey återställd. United: Shaw och Maguire (sjukdom, tveksamma), De Ligt, Dorgu och Martínez tveksamma; Mount kan nå bänken.
+
+**Läsning.** Kvällens svåraste match. Newcastles hemmaform är i spillror och Bruno är motorn — men SJP i kvällsljus är en annan sak, och Newcastle har vunnit 5 av 6 senaste H2H (dock med Bruno och bättre hemmaform). Över 2,5 i **9 av Newcastles 10 senaste** ligamatcher; H2H 3,06 mål i snitt, BTTS 47%. Mål är spelet, inte resultatet.
+
+**Marknader.**
+- **United vinst** — 🟡 6,5/10, odds ~2,50 (indikativt). Kapad medvetet för bortamatch på oförutsägbar arena.
+- **Över 2,5** — 🟢 7,5/10, odds ej dokumenterat
+- **BTTS** — 🟡 7/10, odds ej dokumenterat
+- **1H över 0,5** — 🟢 8/10, odds ~1,20 (indikativt). Högsta konfidensen i matchen — men **måltidsfördelning ej verifierad (D2)**.
+- **Över 3,5** — 🟡 6/10, odds 2,25 (indikativt). Bookmakern väntar mål; kräver att båda lagen levererar.
+
+*p och rimligt odds finns bara för Villa–Chelsea. EV ej dokumenterad för något spel i originalet.*
 
 ---
 
-### 5. Newcastle vs Manchester United (20:15) — THE HEADLINE ACT
+## 🎯 Kuponger — 300 kr
 
-**Injuries & Suspensions:**
-- **Newcastle:** Bruno Guimaraes (OUT), Livramento (OUT), Miley (OUT). Harvey Barnes available. Ramsey recovered from sickness.
-- **Man United:** Shaw & Maguire (illness doubts), De Ligt (doubt), Dorgu (doubt), Martinez (doubt). Mount could return to bench.
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | City vinst + Fulham vinst | 🟢 8/10 | ~2,08 | — | — | — | 100 kr |
+| 2 | Huvudspel | Villa–Chelsea BTTS + Newcastle–United 1H ö0,5 | 🟢 7,5/10 | ~1,95 | — | — | — | 80 kr |
+| 3 | Hedge | City vinst utan insläppt mål (singel) | 🟡 7/10 | ~2,50 | — | — | — | 70 kr |
+| 4 | Uppsida | Villa–Chelsea ö2,5 + United vinst | 🔴 5,5/10 | ~4,33 | — | — | — | 50 kr |
 
-**Form:**
-- Newcastle: Lost 3 straight at home (conceding 8 goals to Villa, Brentford, Everton). In crisis at St James' Park.
-- Man United: THE team of 2026. Unbeaten since Jan 1. Carrick: 19/21 points. But 4/6 wins by just 1 goal — grinders.
+**C1 — Ankare.** Tes: två dominanta hemmalag mot nedflyttningsstrid · Regel: **H10** (säkraste marknaden)
+**C2 — Huvudspel.** Tes: Chelseas BTTS-serie mot decimerat Villa-mittfält, plus tidigt mål på SJP · Regel: **H1** (två skänklar)
+**C3 — Hedge.** Tes: Forest mållösa på Etihad · Regel: **H3** (defensiv) — men **H6 bruten**: samma tes som C1, inte motsatt
+**C4 — Uppsida.** Tes: målrik H2H på Villa Park plus 2026:s form · Regel: **H7** (Villa ö2,5 på 7,5/10 är den trygga skänkeln)
 
-**Key Stats:**
-- H2H averages 3.06 goals, BTTS 47%
-- Newcastle won 5/6 recent H2H — BUT that was with Bruno and better home form
-- O2.5 in **9 of Newcastle's last 10** PL games
-- O3.5 priced at just 5/4 (2.25) — bookies EXPECT goals
-- Man United away: Newcastle 6/4, United 6/4 — dead even
+**Matcher per kupong:** C1 City, Fulham · C2 Villa–Chelsea, Newcastle · C3 City · C4 Villa–Chelsea, Newcastle — **H5 bruten:** City delas av C1 och C3, Villa–Chelsea av C2 och C4, Newcastle av C2 och C4.
 
-**Key Read:** This is the match of the night and the hardest to call. Newcastle's home record is in shambles AND they're missing Bruno — that's their engine. But St James' Park midweek under the lights is electric and Newcastle have historically dominated this fixture. United are grinding but haven't faced a wounded, desperate Newcastle at home yet. The O2.5/O3.5 angle is strong — 9/10 Newcastle PL games had 3+ goals. Both defenses have concerns. Goals are the play here more than the result.
-
-**Market Assessment:**
-| Market | Confidence | Reasoning |
-|--------|-----------|-----------|
-| Man Utd Win | 6.5/10 | Elite 2026 form, but away at an unpredictable SJP |
-| O2.5 | 7.5/10 | 9/10 Newcastle PL games, both defenses leaky, 8 conceded in 3 Newcastle home games |
-| BTTS | 7/10 | Newcastle conceding AND scoring at home, United grinding out close wins |
-| 1H O0.5 | 8/10 | Highest confidence pick for this game — neither team has been tight in the first half |
-| O3.5 | 6/10 | Value at 5/4 but needs both teams firing |
+⚠️ **City vinst (C1) och City vinst utan insläppt mål (C3) är i praktiken samma spel** — 170 kr, 57% av budgeten, hängde på ett enda resultat. Originalets diversifieringstest räknade dem som olika och missade det.
 
 ---
 
-## Combo Sheet
+## ⚠️ Medvetet undvikna spel
 
-**Budget: 300 kr**
-
-### Combo 1 — Anchor (100 kr / 33%)
-| Pick | Match | Odds (est.) |
-|------|-------|-------------|
-| Man City Win | City vs Forest | ~1.30 |
-| Fulham Win | Fulham vs West Ham | ~1.60 |
-| **Double** | | **~2.08** |
-
-**Confidence: 8/10**
-
-Two dominant home teams vs relegation-zone opposition. City are a fortress (11-0 agg vs Forest at home). Fulham have won 3 straight and West Ham can't win London derbies (1/8). The safest double of the night.
-
-**Potential return: 100 x 2.08 = 208 kr (+108 profit)**
+| Marknad | Varför |
+|---|---|
+| Villa–Chelsea resultat | Båda lagen för ojämna att läsa — ingen lutning |
+| Brighton–Arsenal BTTS | Arsenals försvar solidt, Brighton kan bli mållöst (5,5/10) |
+| Alla 1H-marknader | Måltidsfördelning ej dragen för något lag (**D2**) — men **1H ö0,5 spelades ändå i C2**, vilket är regelbrottet |
+| Man City 3-0 (9,50) | Rent marginalspel utan underlag |
+| Alla kortspel | Ingen domare uppslagen (**G1**) |
 
 ---
 
-### Combo 2 — Main Bet (80 kr / 27%)
-| Pick | Match | Odds (est.) |
-|------|-------|-------------|
-| BTTS Yes | Villa vs Chelsea | ~1.62 |
-| 1H Over 0.5 Goals | Newcastle vs Man Utd | ~1.20 |
-| **Double** | | **~1.95** |
+## 🟨 Kort
 
-**Confidence: 7.5/10**
+| Domare | Match | Gula/match | Urval |
+|---|---|---|---|
+| — | samtliga fem | — | ej verifierad |
 
-Chelsea's 6-game BTTS streak meets a Villa defense missing Kamara, Tielemans AND McGinn. Both teams scoring here feels almost inevitable. Newcastle-United should produce an early goal — 8 conceded in Newcastle's last 3 home games, and United's Dorgu/Sesko have shown a tendency to start fast. The 1H O0.5 is the safe leg at ~1.20.
-
-**Potential return: 80 x 1.95 = 156 kr (+76 profit)**
+Ingen domare och ingen kortstatistik dokumenterad i originalet. Inget kortspel rekommenderas (**G5**, **G9**).
 
 ---
 
-### Combo 3 — Defensive Hedge (70 kr / 23%)
-| Pick | Match | Odds (est.) |
-|------|-------|-------------|
-| Man City Win to Nil | City vs Forest | ~2.50 |
-| **Single** | | **~2.50** |
+## 📐 Felmarginal & insatser
 
-**Confidence: 7/10**
+Ingen felmarginal och ingen Kelly-beräkning i originalet (**I5**, **I6** ej uppfyllda). Scenarioutfall som angavs: bästa fall +456 kr, realistiskt ~+180 kr, sämsta fall -300 kr.
 
-The hedge. Forest have scored 0 goals in 3 Etihad visits since promotion (aggregate 11-0). City's defense is organized and Pereira's Forest simply don't have the firepower. Standalone single — survives regardless of what happens in Villa-Chelsea or Newcastle-United.
+Kvällens svagaste punkt är **koncentration förklädd till diversifiering**: C1 och C3 kräver båda City-seger. Övriga risker som flaggades i originalet:
 
-**Potential return: 70 x 2.50 = 175 kr (+105 profit)**
-
----
-
-### Combo 4 — Upside (50 kr / 17%)
-| Pick | Match | Odds (est.) |
-|------|-------|-------------|
-| Over 2.5 Goals | Villa vs Chelsea | ~1.73 |
-| Man Utd Win | Newcastle vs Man Utd | ~2.50 |
-| **Double** | | **~4.33** |
-
-**Confidence: 5.5/10**
-
-The value play. Villa-Chelsea O2.5 has landed in 8/9 H2H at Villa Park — the historical record is ridiculous. Man United are the team of 2026 (unbeaten, 19/21 points) facing a Newcastle in home crisis without Bruno Guimaraes. United grind, but they WIN. If both land, this pays nicely at ~4.33.
-
-**Potential return: 50 x 4.33 = 217 kr (+167 profit)**
+1. **Midweek-mönstret** — föregående midweek (3 mars) hade 4 av 5 ligamatcher 2 mål eller färre. Inte gå all-in på mål.
+2. **Startelvorna avgör** — Rice och Ødegaard i start gör Arsenal starkare; Haaland i start gör City -1 attraktivare. Kontroll 18:30.
+3. **SJP i kvällsljus** — trots formen är United vinst inget bankspel, därav bara i uppsidan.
+4. **West Ham desperation** — 18:a och behöver poäng; kaotisk insats möjlig, men desperata bortalag levererar sällan resultat.
 
 ---
 
-## Summary
+## ✅ Checklista
 
-| Combo | Type | Picks | Odds | Stake | Confidence |
-|-------|------|-------|------|-------|------------|
-| 1 | Anchor | City Win + Fulham Win | ~2.08 | 100 kr | 8/10 |
-| 2 | Main | Villa-Chelsea BTTS + Newcastle-Utd 1H O0.5 | ~1.95 | 80 kr | 7.5/10 |
-| 3 | Hedge | City Win to Nil | ~2.50 | 70 kr | 7/10 |
-| 4 | Upside | Villa-Chelsea O2.5 + Man Utd Win | ~4.33 | 50 kr | 5.5/10 |
-
-**Total stake: 300 kr**
-**Best case (4/4): +456 kr profit**
-**Realistic (2/4): ~+180 kr profit**
-**Worst case (0/4): -300 kr**
+**Verifiering** — skador/avstängningar från dagens presskonferenser ✅ · full trupp ⚠️ (Forest bara "inga ytterligare frånvaron") · **domarstatistik ❌ 0/5**
+**Kalibrering** — **inget resultatspel över 8 ❌ (City vinst 9/10)** · **8+ datapunkter ❌ (City utan insläppt mål vilar på 3 Etihad-besök; Chelsea BTTS 6; Brighton hemma-33% urval ej angivet)** · A4 ✅ · United vinst kapad till 6,5 ✅
+**Målmarknader** — C1/C2/C3 ✅ · **D2 ❌ 1H ö0,5 spelat i C2 utan verifierad måltidsfördelning** · C9 ✅ ingen bussparkering identifierad · C10 ✅
+**Situation** — midweek-mönstret vägt in ✅ · hemma/borta-statistik för alla fem ✅
+**Odds & värde** — odds ⚠️ endast indikativa och delvis saknade · **p ❌ bara Villa–Chelsea** · **rimligt odds ❌** · **EV ❌**
+**Kuponger** — H1 ✅ · H2 ✅ max två per spel · **H5 ❌ tre delade matcher (City, Villa–Chelsea, Newcastle)** · **H6 ❌ hedgen har samma tes som ankaret** · H7 ✅ · H10 ⚠️ ankaret var det bredaste, inte det säkraste
 
 ---
 
-## Diversification Check
+## 📚 Källor
 
-| Scenario | Combos that survive |
-|----------|-------------------|
-| Villa-Chelsea is a 0-0 bore | Combo 1, 3 (2/4) |
-| Man City loses to Forest | Combo 2, 4 (2/4) |
-| Man United loses at Newcastle | Combo 1, 2, 3 (3/4) |
-| Fulham drops points vs West Ham | Combo 2, 3, 4 (3/4) |
-| Everything goes wrong | At least 1 combo should survive |
+Ej dokumenterade i originalfilen.
 
-No single pick appears in more than 2 of 4 combos. Defensive hedge (Combo 3) is fully independent. Man Utd Win only in 1 combo — lesson learned from the La Liga Madrid night.
+*Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
 
 ---
 
-## Pre-Bet Checklist
+## 📊 Efteranalys
 
-- [x] Verified injuries from TODAY's press conferences (Rice, Haaland, Shaw/Maguire)
-- [x] Checked which teams must chase AND whether they actually CAN
-- [x] Checked home/away specific stats for all 5 matches
-- [x] Confidence scores are honest (no 9/10 on result markets away from home)
-- [x] Same pick in max 2 of 4 combos
-- [x] At least one Under/defensive combo (Combo 3: City WTN)
-- [x] Hedge survives if main thesis fails
-- [x] Not basing patterns on fewer than 8 data points
-- [x] Midweek PL low-scoring pattern factored in (not going all-in on O2.5)
-- [x] Man Utd Win capped at 6.5/10 despite great form (away, unpredictable venue)
-- [x] Treble/fun bet has a safe leg (Villa O2.5 at 7.5/10)
+**90-minutersverifiering (C10):** ligamatcher, ingen förlängning existerar. Osulas 90:e och Newcastles båda tilläggstidsmål i första halvlek räknas alla inom ordinarie tid.
 
----
+### Resultat
 
-## Key Warnings
-
-1. **Midweek PL pattern:** Last midweek (March 3), 4 of 5 PL matches had 2 or fewer goals. Don't go all-in on goals markets.
-2. **Confirmed lineups matter:** If Rice AND Odegaard both start, Arsenal become a much stronger bet. If Haaland plays, City -1 becomes more attractive. CHECK LINEUPS at 18:30.
-3. **Newcastle at home under lights:** Despite terrible form, SJP midweek is a different beast. Man Utd Win is NOT a banker — that's why it's only in the Upside combo.
-4. **West Ham desperation:** 18th place, need points. Could produce a chaotic performance. But "desperate" teams away from home rarely produce results (different from desperate teams at HOME — see Wolves vs Liverpool lesson).
-
----
-
-*Analysis completed: 4 March 2026*
-*Budget: 300 kr | 4 combos | Diversified across 4 of 5 matches*
-
----
-
-## Post-Match Results
-
-### Match Results
-| Match | Score | Key Events |
+| Match | Resultat | Nyckelhändelser |
 |---|---|---|
-| Aston Villa vs Chelsea | **1-4** | Douglas Luiz 2', Joao Pedro 35' 51' 64', Cole Palmer 56' |
-| Brighton vs Arsenal | **0-1** | Saka 9' |
-| Fulham vs West Ham | **0-1** | Summerville 65' (Leno error) |
-| Man City vs Nottingham Forest | **2-2** | Semenyo 31', Gibbs-White 56', Rodri 62', Anderson 76' |
-| Newcastle vs Man United | **2-1** | Gordon 45'+4 (pen), Casemiro 45'+8, Osula 90'. Ramsey red card 45'+1 |
+| Aston Villa – Chelsea | 1-4 | Douglas Luiz 2', João Pedro 35', 51', 64' (hattrick), Cole Palmer 56' |
+| Brighton – Arsenal | 0-1 | Saka 9' |
+| Fulham – West Ham | 0-1 | Summerville 65' (Leno-miss) |
+| Man City – Nottingham Forest | 2-2 | Semenyo 31', Gibbs-White 56', Rodri 62', Anderson 76' |
+| Newcastle – Manchester United | 2-1 | Gordon 45'+4 (straff), Casemiro 45'+8, Osula 90'. Ramsey utvisad 45'+1 |
 
-### Market Results
+### Marknadsutfall
 
-**Aston Villa 1-4 Chelsea**
-| Market | Prediction | Actual | Result |
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Villa – Chelsea | BTTS | ✅ väntat (8/10) | Villa 1, Chelsea 4 | ✅ |
+| Villa – Chelsea | Över 2,5 | ✅ väntat (7,5/10) | 5 mål | ✅ |
+| Villa – Chelsea | 1H över 0,5 | ✅ väntat (7/10) | 2' och 35' | ✅ |
+| Villa – Chelsea | Resultat | slantsingling, ej spelat | Chelsea dominant | — |
+| Brighton – Arsenal | Arsenal vinst | ✅ väntat (6,5/10) | 0-1 | ✅ |
+| Brighton – Arsenal | Under 2,5 | ✅ väntat (6,5/10) | 1 mål | ✅ |
+| Brighton – Arsenal | 1H över 0,5 | ✅ väntat (7/10) | Saka 9' | ✅ |
+| Brighton – Arsenal | BTTS | 5,5/10, avstått | Brighton mållöst | ✅ rätt lågt satt |
+| Fulham – West Ham | **Fulham vinst** | ✅ väntat (**8/10**) | West Ham vann 1-0 | ❌ |
+| Fulham – West Ham | Över 2,5 | 6,5/10 | 1 mål | ❌ |
+| Fulham – West Ham | BTTS | 6/10 | Bara West Ham | ❌ |
+| Man City – Forest | **City vinst** | ✅ väntat (**9/10**) | Kryss 2-2 | ❌ |
+| Man City – Forest | **City utan insläppt** | ✅ väntat (**7,5/10**) | Forest gjorde **två** mål | ❌ |
+| Man City – Forest | City -1 handikapp | 7/10 | Kryss | ❌ |
+| Man City – Forest | Över 2,5 | 6/10, ej spelat | 4 mål | ✅ |
+| Newcastle – United | United vinst | 6,5/10 | Newcastle 2-1 | ❌ |
+| Newcastle – United | Över 2,5 | ✅ väntat (7,5/10) | 3 mål | ✅ |
+| Newcastle – United | BTTS | ✅ väntat (7/10) | Båda gjorde mål | ✅ |
+| Newcastle – United | 1H över 0,5 | ✅ väntat (8/10) | Gordon 45'+4 | ✅ nätt och jämnt |
+
+### Kupongutfall
+
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare (100 kr) | ❌ | **Båda skänklarna** — City kryssade 2-2, Fulham förlorade 0-1 |
+| C2 — Huvudspel (80 kr) | ✅ | — |
+| C3 — Hedge (70 kr) | ❌ | Forest gjorde två mål på Etihad |
+| C4 — Uppsida (50 kr) | ❌ | United vinst (1-2 borta) |
+
+### Kortspel (singlar, utanför kupongerna — G4)
+
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| — | — | — | inga kortspel lagda |
+
+### Totalt: 1/4 kuponger | Vinst/förlust: -144 kr
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
+
+| | Insats | Retur | P/L |
 |---|---|---|---|
-| BTTS | 8/10 | Villa 1, Chelsea 4 | ✅ |
-| O2.5 | 7.5/10 | 5 goals | ✅ |
-| 1H O0.5 | 7/10 | Douglas Luiz 2', Joao Pedro 35' | ✅ |
-| Result | Coin flip | Chelsea dominant win | N/A (not backed) |
+| C1 | 100 kr | 0 kr | -100 kr |
+| C2 | 80 kr | 156 kr | +76 kr |
+| C3 | 70 kr | 0 kr | -70 kr |
+| C4 | 50 kr | 0 kr | -50 kr |
+| **Totalt** | **300 kr** | **156 kr** | **-144 kr** |
 
-**Brighton 0-1 Arsenal**
-| Market | Prediction | Actual | Result |
-|---|---|---|---|
-| Arsenal Win | 6.5/10 | 0-1 Arsenal | ✅ |
-| Under 2.5 | 6.5/10 | 1 goal | ✅ |
-| 1H O0.5 | 7/10 | Saka 9' | ✅ |
-| BTTS | 5.5/10 | Brighton failed to score | ✅ (correctly rated low) |
+### 🧠 Självutvärdering
 
-**Fulham 0-1 West Ham**
-| Market | Prediction | Actual | Result |
-|---|---|---|---|
-| Fulham Win | 8/10 | West Ham won 1-0 | ❌ |
-| O2.5 | 6.5/10 | 1 goal | ❌ |
-| BTTS | 6/10 | Only West Ham scored | ❌ |
+- **Kalibrering:** Villa–Chelsea BTTS 8/10 och Newcastle 1H ö0,5 8/10 landade båda (det senare först i tilläggstid i första halvlek). Villa–Chelsea ö2,5 7,5/10 rätt. Fulham vinst 8/10 var övertro — högst 6/10. City vinst 9/10 var övertro med 2+ poäng och bröt dessutom **A1** — högst 7/10. City utan insläppt mål 7,5/10 var övertro: tre datapunkter var inget mönster (**A2**). United vinst 6,5/10 var korrekt försiktigt — konfidensen speglade tvivlet.
+- **Kvällens bästa läsning:** Villa–Chelsea som målmatchen. Fem mål, BTTS ✅, ö2,5 ✅, 1H-mål ✅, João Pedro-hattrick, Chelseas BTTS-serie till sju, och 8 av 9 i H2H på Villa Park höll igen. Näst bäst: Brighton–Arsenal som tät och kontrollerad — 0-1, Saka 9', alla defensiva marknader landade, Arsenals kvällsserie till 20. Inget av det låg i en kupong.
+- **Kvällens sämsta läsning:** hedgen. C3 (City utan insläppt mål) skulle vara skyddsnätet men blev kvällens sämsta spel — Forest gjorde **två** mål efter noll på tre tidigare besök. Hedgen var inte oberoende: C1 krävde också City-seger, så när City tappade poäng dog C1 och C3 samtidigt — 170 kr, 57% av budgeten, på ett resultat. Det är falsk diversifiering (**H5**, **H6**).
+- **Lärdom:**
+  1. **"Historiskt facit på en arena" är inget mönster med tre datapunkter.** Forest 0 mål på tre Etihad-besök är 270 minuter fotboll. Ramverket kräver 8+ (**A2**) — regeln bröts och City utan insläppt mål sattes till 7,5/10. Forest gjorde två.
+  2. **Hedgen måste vara oberoende av ankaret (H6).** Ett riktigt hedge hade legat i en helt annan match — Brighton–Arsenal under 2,5 (landade) eller Arsenal vinst utan insläppt (landade också).
+  3. **Desperata nedflyttningslag är farliga även borta.** Ramverket varnade bara för desperata hemmalag (Wolves–Liverpool). West Ham borta på Craven Cottage visade samma inställning — Summervilles sjunde mål på tio matcher. Uppdatera regeln: desperata nedflyttningslag är farliga överallt.
+  4. **Målvaktsmissar gör bankspel meningslösa.** Lenos misstag mot Summerville dödade Fulham vinst på 8/10. När ett resultat hänger på att en människa inte gör fel är 8/10 för högt.
+  5. **Tio man hemma i kvällsljus kan vinna.** Newcastle fick Ramsey utvisad 45'+1 och vann ändå 2-1 med mål i 90:e. Varningen om SJP i kvällsljus var rätt men vägdes inte in tillräckligt hårt.
+  6. **De rätta läsningarna låg i fel kuponger.** Brighton–Arsenal var träffsäkert på varje marknad men fanns inte i någon kupong, medan båda "bankspelen" (City vinst, Fulham vinst) föll.
+  7. **Vad som borde varit annorlunda:** C3 som Brighton–Arsenal under 2,5 ~1,80 singel (70 kr → 126 kr ✅) och ett ankare utan dubbel City-exponering. Med Brighton under 2,5 som hedge hade kvällen blivit 2/4 och 156 + 126 = 282 kr på 300 kr, alltså -18 kr istället för -144 kr.
 
-**Man City 2-2 Nottingham Forest**
-| Market | Prediction | Actual | Result |
-|---|---|---|---|
-| City Win | 9/10 | Draw 2-2 | ❌ |
-| City Win to Nil | 7.5/10 | Forest scored TWICE | ❌ |
-| City -1 AH | 7/10 | Draw | ❌ |
-| O2.5 | 6/10 | 4 goals | ✅ (but not backed) |
-
-**Newcastle 2-1 Man United**
-| Market | Prediction | Actual | Result |
-|---|---|---|---|
-| Man Utd Win | 6.5/10 | Newcastle 2-1 | ❌ |
-| O2.5 | 7.5/10 | 3 goals | ✅ |
-| BTTS | 7/10 | Both scored | ✅ |
-| 1H O0.5 | 8/10 | Gordon 45'+4 | ✅ (just!) |
-
-### Combo Results
-| Combo | Picks | Result | Failed Leg(s) |
-|---|---|---|---|
-| Combo 1 — Anchor (100 kr) | City Win + Fulham Win | ❌ | **Both legs failed** — City drew 2-2, Fulham lost 0-1 |
-| Combo 2 — Main Bet (80 kr) | Villa-Chelsea BTTS + Newcastle-Utd 1H O0.5 | ✅ | — |
-| Combo 3 — Hedge (70 kr) | City Win to Nil | ❌ | Forest scored twice at the Etihad |
-| Combo 4 — Upside (50 kr) | Villa-Chelsea O2.5 + Man Utd Win | ❌ | Man Utd lost 1-2 at Newcastle |
-
-### Overall: 1/4 combos hit | Loss: -144 kr
-
-| | Stake | Return | P/L |
-|---|---|---|---|
-| Combo 1 | 100 kr | 0 kr | -100 kr |
-| Combo 2 | 80 kr | 156 kr | +76 kr |
-| Combo 3 | 70 kr | 0 kr | -70 kr |
-| Combo 4 | 50 kr | 0 kr | -50 kr |
-| **TOTAL** | **300 kr** | **156 kr** | **-144 kr** |
-
----
-
-### Self-Evaluation
-
-**Confidence calibration:**
-| Pick | Rated | Actual | Verdict |
-|---|---|---|---|
-| Villa-Chelsea BTTS | 8/10 | ✅ (1-4) | CORRECT — landed emphatically |
-| Newcastle-Utd 1H O0.5 | 8/10 | ✅ (45'+4) | CORRECT — but barely, goal in 1H added time |
-| Fulham Win | 8/10 | ❌ (lost 0-1) | OVERCONFIDENT — should have been 6/10 max |
-| City Win | 9/10 | ❌ (drew 2-2) | OVERCONFIDENT by 2+ points — should have been 7/10 |
-| City Win to Nil | 7.5/10 | ❌ (Forest scored 2!) | OVERCONFIDENT — 3 data points was not a pattern |
-| Man Utd Win | 6.5/10 | ❌ (lost 1-2) | CORRECTLY CAUTIOUS — confidence reflected the doubt |
-| Villa-Chelsea O2.5 | 7.5/10 | ✅ (5 goals) | CORRECT |
-
-**Best read of the night:** Villa-Chelsea goals analysis. Called it "THE GOALS GAME" — it delivered 5 goals, BTTS ✅, O2.5 ✅, 1H goal ✅. Joao Pedro hat-trick. Chelsea's BTTS streak extended to 7. The 8/9 H2H stat at Villa Park held once more. Perfect read.
-
-**Second best read:** Brighton-Arsenal. Called it "tight, controlled" with Under 2.5 at 6.5/10 and BTTS No implied. Result: 0-1, Saka 9'. Arsenal's evening kickoff unbeaten streak extended to 20. Every defensive market landed. Shame none of it was in the combos.
-
-**Worst read of the night:** The "hedge" strategy. Combo 3 (City WTN) was supposed to be the safety net — the one combo that survives if everything else fails. Instead, it was the WORST pick of the night. Forest scored TWICE at the Etihad after 0 goals in 3 previous visits. The hedge wasn't truly independent because Combo 1 ALSO relied on City winning. When City dropped points, Combos 1 AND 3 both died — that's 170 kr (57% of the budget) wiped out by one result.
-
-**Critical structural flaw:** Combos 1 and 3 both depended on Man City. Despite the diversification check claiming "no single pick in more than 2 combos", City Win and City WTN are essentially THE SAME BET (City must win for both to land). That means 2/4 combos (and 57% of the budget) were on one outcome. This is fake diversification.
-
----
-
-### Key Learnings
-
-1. **"Historical aggregate at a venue" is NOT a reliable pattern with 3 data points.** Forest 0 goals in 3 Etihad visits = 270 minutes of football. The framework SAYS require 8+ data points. 3 is not 8. We broke our own rule and rated City WTN at 7.5/10 based on it. Forest scored TWICE.
-
-2. **The hedge MUST be independent of the anchor.** Combo 1 (City Win) and Combo 3 (City WTN) both needed City to win. A true hedge would have been based on a COMPLETELY different game — e.g., Brighton-Arsenal Under 2.5 (which landed at 0-1) or Arsenal Win to Nil (which also landed). That would have returned 70 x 2.70 = 189 kr and saved the night.
-
-3. **Desperate relegation teams AWAY can also be dangerous.** Framework only warned about desperate teams at HOME (Wolves vs Liverpool). West Ham away at Fulham showed the same nothing-to-lose mentality — Summerville's 7th goal in 10 games. Update the rule: desperate relegation teams are dangerous PERIOD, not just at home.
-
-4. **Goalkeeper errors make "bankers" meaningless.** Leno's gift to Summerville killed the Fulham Win at 8/10. When a result depends on one human not making a mistake, 8/10 is too high.
-
-5. **10-man teams at home under the lights can win.** Newcastle got Ramsey red-carded at 45'+1 but still won 2-1 with a 90th-minute winner. The "SJP under lights" warning in the analysis was RIGHT but not incorporated strongly enough.
-
-6. **The correct reads were in the wrong combos.** Brighton-Arsenal analysis was spot on (Under 2.5 ✅, Arsenal Win ✅, 1H O0.5 ✅). None of it was in any combo. Meanwhile the two "banker" results (City Win, Fulham Win) both failed. Better combo construction would have included Brighton-Arsenal markets.
-
----
-
-### What Should Have Been Different
-
-**Better Combo 3 (Hedge):** Brighton-Arsenal Under 2.5 @ ~1.80 (single, 70 kr)
-- Would have returned: 70 x 1.80 = 126 kr ✅
-- Truly independent of City result
-
-**Better Combo 1 (Anchor):** Fulham Win + Brighton-Arsenal 1H O0.5 @ ~1.60 x ~1.25 = ~2.00
-- Would have still failed (Fulham lost), but at least wouldn't have had City exposure in 2 combos
-
-**Best possible night with our analysis:** If Combo 3 had been Brighton Under 2.5, we'd have gone 2/4 with returns of 156 + 126 = 282 kr on 300 kr stake = only -18 kr. Much more survivable.
-
----
-
-*Evaluation completed: 5 March 2026*
-*Result: 1/4 combos | -144 kr | Key lesson: hedge must be TRULY independent of anchor*
+*Mål verifierade på 90 minuter (**C10**) — Osulas 90:e och Newcastles båda tilläggstidsmål i första halvlek räknas alla inom ordinarie tid.*

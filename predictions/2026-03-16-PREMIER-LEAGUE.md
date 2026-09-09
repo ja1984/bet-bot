@@ -1,155 +1,138 @@
-# ⚽ Match Analysis — Monday 16 March 2026
+# ⚽ Premier League — omgång 31, måndag 16 mars 2026
 
-## 🏟️ Brentford vs Wolverhampton Wanderers
-**PL Matchday 31 | Gtech Community Stadium | 21:00 GMT**
+En match. **H9** gäller: sänkt budget, och minst en kupong ska överleva att favoriten inte vinner.
 
-⚠️ **SINGLE MATCH NIGHT** — framework rules apply: reduced budget, at least 1 combo survives if favourite loses, no result market in every combo.
+## 📋 Kvällens matcher & domare
+
+| Tid | Match | Domare | Gula/match | Urval |
+|---|---|---|---|---|
+| 21:00 | Brentford – Wolverhampton | — | — | ej verifierad |
 
 ---
 
-## 📋 Situation
+## 🔍 Match för match
+
+### 1. Brentford – Wolverhampton (21:00)
+
+**Läge.**
 
 | | Brentford | Wolves |
 |---|---|---|
-| **Position** | 7th (44 pts, 29 GP) | 20th (~16 pts, 30 GP) |
-| **Overall form** | W-D-L-W-D (8 pts from 5) | Recent surge: Drew Arsenal, beat Villa & Liverpool at home |
-| **Home/Away** | Home: W7 D4 L3 (24 scored, 15 conceded) | Away: 0W 4D 10L — worst in the league |
-| **Last match** | 0-0 at Bournemouth | 2-1 vs Liverpool (André 94') |
-| **Top scorer** | Igor Thiago (18 goals) | Rodrigo Gomes, André contributing |
-| **Key absences** | Henry, Hickey, Janelt, Milambo, Carvalho, Dasilva | Enso Gonzalez (knee) |
-| **Manager** | Thomas Frank | Rob Edwards (since Nov 2025) |
+| Position | 7:a (44 p, 29 matcher) | 20:a (~16 p, 30 matcher) |
+| Form | W-D-L-W-D, 8 p av 15 | Kryss mot Arsenal, vinster mot Villa och Liverpool |
+| Hemma/borta | Hemma W7 D4 L3 (24-15) | Borta **0W 4D 10L** — ligans sämsta |
+| Senast | 0-0 i Bournemouth | 2-1 mot Liverpool (André 94') |
+| Målskytt | Igor Thiago, 18 mål | Rodrigo Gomes, André |
+| Tränare | Thomas Frank | Rob Edwards |
 
-### Key Context
+**Truppnytt (bekräftat 16 mar).** Brentford utan Henry, Hickey, Janelt, Milambo, Carvalho, Dasilva. Wolves utan Enso Gonzalez (knä).
 
-**Wolves' revival is REAL but HOME-ONLY.** Back-to-back wins over Villa and Liverpool at Molineux, plus a draw with Arsenal. But ALL of this is at home. Away record: 0W 4D 10L. That's the worst in the league. 12 points from safety with 8 games left — mathematically alive but realistically doomed.
+**Läsning.** Wolves uppsving är verkligt men **hemmabaserat** — allt kom på Molineux, bortafacit 0W 4D 10L. 12 poäng från säker mark med 8 kvar. **F1** kapar därför vinsten på 6/10. Brentford kommer från 0-0 och tappade både Mbeumo och Wissa i somras, men Thiago har fyllt luckan. BTTS i de 5 senaste mötena på Gtech — fem datapunkter, under **A2**.
 
-**Brentford drew 0-0 last time out** at Bournemouth. Not in sparkling attacking form. Lost both Mbeumo (to Man Utd) and Wissa (to Newcastle) in summer — but Igor Thiago has filled the void superbly with 18 goals. Schade and Ouattara provide support.
+**Marknader.**
+- **Brentford vinst** — 🟡 6/10, odds ~1,60. Cap enligt **F1** och **A1**.
+- **1H Över 0,5** — 🟡 6,5/10. Kvällens bästa läsning.
+- **Över 2,5** — 🔴 5,5/10, odds ~1,75.
+- **BTTS Ja** — 🔴 5/10, odds ~1,72. **BTTS Nej** 🔴 5/10, odds ~2,02.
+- **Under 2,5** — 🔴 5/10, odds ~2,10.
 
-**Monday night PL games tend to be lower-scoring** — framework lesson from earlier in the season.
-
-**Framework rule: Cap confidence against desperate relegation teams at 6/10 max.** Wolves away is 0W 4D 10L — their desperation hasn't translated to away results AT ALL.
-
-### H2H at Gtech
-BTTS has landed in the last 5 meetings at Gtech Community Stadium. That's a solid 5-point data set.
-
----
-
-## 📊 Market Analysis
-
-### Brentford Win — 6/10
-- Odds: ~1.60
-- 7th vs 20th at home. Wolves 0 away wins all season.
-- Framework caps at 6/10 (desperate relegation team) and 8/10 max for any PL result market
-- Brentford's 0-0 last game + Monday night = slight caution
-- Igor Thiago is a real threat and Wolves concede 2.2 goals/game overall
-
-### Over 2.5 Goals — 5.5/10
-- Odds: ~1.75
-- Brentford home: 24 goals in 14 games (1.71/game). Wolves concede heavily.
-- But: Monday night games trend Under. Brentford's last was 0-0. Wolves may park the bus away.
-
-### BTTS Yes — 5/10
-- Odds: ~1.72
-- H2H at Gtech: BTTS in last 5 — decent record
-- But Wolves away is DIRE. 0 wins, which likely means few goals scored on the road
-
-### BTTS No — 5/10
-- Odds: ~2.02
-- Wolves' away record suggests they struggle to score
-- But H2H at Gtech has BTTS in last 5... tension with this stat
-
-### Under 2.5 Goals — 5/10
-- Odds: ~2.10
-- Monday night factor. Wolves will defend. Brentford not in free-flowing form.
-- But Wolves concede 2.2/game — hard to keep it Under when you're that leaky
-
-### 1H Over 0.5 Goals — 6.5/10
-- Vast majority of PL games have a first-half goal
-- Brentford at home tend to start positively. Igor Thiago is a consistent threat
+*p, rimligt odds och EV ej dokumenterade i originalet.*
 
 ---
 
-## 🎯 Recommendation
+## 🎯 Kuponger — 160 kr
 
-**Single bet: 160 SEK on Brentford Win @ ~1.60**
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Enkelspel | Brentford vinst | 🟡 6/10 | ~1,60 | — | — | — | 160 kr |
 
-Target return: ~256 SEK for CL bankroll tomorrow.
+**C1 — Enkelspel.** Tes: 7:a hemma mot ett lag utan bortavinster på 14 försök · Syfte: bygga bankrulle till CL-returerna
 
-### Rationale
-- Wolves have 0 away wins in 14 attempts this season
-- Brentford are 7th with 7 home wins and Igor Thiago (18 goals)
-- Wolves' recent revival is entirely home-based at Molineux
-- Simplest, highest-probability single market available tonight
-- Goal: grow bankroll for CL second legs, not get fancy
+⚠️ **H9 uppfylld på pappret men inte i praktiken:** det finns bara en kupong, alltså överlever ingenting att favoriten inte vinner. **H10** pekade dessutom på 1H Över 0,5 (~1,25) framför vinsten — säkraste marknaden, inte bästa oddset.
 
-### Alternatives considered but rejected
+**Matcher per kupong:** C1 Brentford — enkelmatchkväll, koncentration oundviklig.
 
-| Alternative | Problem |
+---
+
+## ⚠️ Medvetet undvikna spel
+
+| Marknad | Varför |
 |---|---|
-| 1H Over 0.5 | Safer but odds ~1.25 → only 200 SEK. Not enough growth. |
-| Double chance | ~1.15 odds → 184 SEK. Barely worth it. |
-| Brentford Win + Over 1.5 | Better odds (~2.00) but adds unnecessary risk for bankroll-builder |
-| Over 2.5 / BTTS | Coin-flip markets (5-5.5/10). Not "safe-ish." |
+| 1H Över 0,5 (~1,25) | Avvisad som "för lite tillväxt" — **fel enligt H10** |
+| Dubbelchans (~1,15) | 184 kr av 160, knappt värt det |
+| Brentford vinst + Över 1,5 | Onödig risk i ett bankrullespel |
+| Över 2,5 / BTTS | Slantsingling (5–5,5/10) |
+| Alla 1H-marknader utöver ovan | Måltidsfördelning ej dragen (**D2**) |
 
 ---
 
-## 📊 Post-Match Results
+## 🟨 Kort
 
-### Final Score: Brentford 2-2 Wolverhampton Wanderers
+Ingen domare och ingen kortstatistik dokumenterad i originalet. Inget kortspel.
 
-| Minute | Event | Score |
+---
+
+## 📐 Felmarginal & insatser
+
+Ej angiven i originalet. **H9**:s budgetsänkning tillämpades (160 kr mot normala 300), men kravet att en kupong ska överleva favoritens fall gjordes inte.
+
+---
+
+## ✅ Checklista
+
+**Verifiering** — skador ✅ · tränare ✅ · domarstatistik ❌ ej uppslagen
+**Kalibrering** — inget resultatspel över 8 ✅ · 8+ datapunkter ⚠️ (Gtech-BTTS har 5) · F1-cap ✅
+**Målmarknader** — C6 ❌ Wolves *gjorda* mål borta kontrollerades aldrig, bara W/D/L · D2 ⚠️ 1H-marknad bedömd utan måltidsdata
+**Situation** — F1 ✅ · **F2/F3 ❌ Wolves hade vunnit 2 av 3 — de hade tro, och den reste**
+**Odds & värde** — p och rimligt odds ❌ saknas · EV ❌ · **H10 ❌**
+**Kuponger** — **H9 ❌ ingen kupong överlevde favoritens fall**
+
+---
+
+## 📚 Källor
+
+Ej dokumenterade i originalfilen.
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** ligamatch, ingen förlängning existerar. Samtliga fyra mål inom ordinarie tid.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
 |---|---|---|
-| 22' | ⚽ Michael Kayode (Brentford) — headed home Lewis-Potter cross | 1-0 |
-| 37' | ⚽ Igor Thiago (Brentford) — tap-in from Ouattara assist | 2-0 |
-| 44' | ⚽ Adam Armstrong (Wolves) — cut inside, lovely side-foot finish | 2-1 |
-| 77' | ⚽ Tolu Arokodare (Wolves) — header at the back post | 2-2 |
+| Brentford – Wolverhampton | 2-2 (HT 2-1) | Kayode 22', Thiago 37', Armstrong 44', Arokodare 77'. Publik 17 155 |
 
-Attendance: 17,155
+### Marknadsutfall
 
-### Market Results
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Brentford – Wolves | Brentford vinst | ✅ väntat (6/10) | 2-2 | ❌ |
+| Brentford – Wolves | Över 2,5 | lutade ja (5,5/10) | 4 mål | ✅ |
+| Brentford – Wolves | BTTS Ja | 50/50 (5/10) | Båda gjorde mål | ✅ |
+| Brentford – Wolves | BTTS Nej | 50/50 (5/10) | — | ❌ |
+| Brentford – Wolves | Under 2,5 | hedgevärde (5/10) | 4 mål | ❌ |
+| Brentford – Wolves | **1H Över 0,5** | bästa marknaden (6,5/10) | **3 mål i 1H** | ✅ |
 
-| Market | Prediction | Actual | Result |
-|---|---|---|---|
-| Brentford Win | ✅ expected (6/10) | 2-2 Draw | ❌ |
-| Over 2.5 | Lean yes (5.5/10) | 4 goals | ✅ |
-| BTTS Yes | 50/50 (5/10) | Both scored | ✅ |
-| BTTS No | 50/50 (5/10) | Both scored | ❌ |
-| Under 2.5 | Hedge value (5/10) | 4 goals | ❌ |
-| 1H Over 0.5 | Best market (6.5/10) | 3 goals in 1H | ✅ |
+### Kupongutfall
 
-### Bet Result
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Enkelspel (160 kr) | ❌ | Brentford vinst → 2-2 |
 
-| Bet | Stake | Result | Return |
-|---|---|---|---|
-| Brentford Win @ ~1.60 | 160 SEK | ❌ | -160 SEK |
+### Totalt: 0/1 spel | Vinst/förlust: -160 kr
 
-### Overall: 0/1 bets hit | Loss: -160 SEK
+### 🧠 Självutvärdering
 
----
-
-### 🧠 Self-Evaluation
-
-**Confidence calibration:**
-- Brentford Win at 6/10 was honest — framework correctly capped this. The result (draw) falls within the expected range of a 6/10 pick. The cap was justified.
-- 1H Over 0.5 at 6.5/10 was the best read — 3 first-half goals. Should have found a way to use this.
-- BTTS at 5/10 was correct as a coin-flip — it landed, and the H2H at Gtech (now BTTS in last 6) continues to hold.
-
-**Best read of the night:**
-- 1H Over 0.5. Three goals before half-time. The market analysis was spot-on but it was dismissed as "not enough growth" at ~1.25 odds.
-- The H2H BTTS pattern at Gtech held perfectly (now 6/6).
-
-**Worst read of the night:**
-- Dismissing Wolves' ability to score away. "0W 4D 10L away" masked the fact that they HAD scored in several away draws. Armstrong's quality finish and Arokodare's impact sub header showed a team with genuine attacking options.
-- The "Wolves' revival is HOME-ONLY" thesis was wrong — their confidence clearly travelled. Back-to-back wins over Villa and Liverpool gave them belief, even away.
-
-**Key learnings:**
-1. **"0 away wins" ≠ "can't score away"** — Wolves had 4 away draws, meaning they DID score in several. The win column is not the only measure of attacking threat. Should have checked goals scored in away games, not just W/D/L.
-2. **Momentum travels** — Wolves' confidence from beating Villa and Liverpool carried to the Gtech. The "home-only revival" thesis was too dismissive. When a team has beaten top-6 sides in consecutive games, their belief transcends venue.
-3. **Teams with nothing to lose and newfound confidence are the MOST dangerous** — this is an evolution of the "desperate relegation teams" rule. Wolves weren't just desperate — they were desperate AND confident. That's the worst combination for favourites.
-4. **2-0 leads against desperate teams are fragile** — Brentford's collapse from 2-0 to 2-2 mirrors a classic pattern. Desperate teams don't give up when behind; they often play BETTER because the pressure is off.
-5. **The "safe-ish" bankroll bet should have been 1H Over 0.5** — at ~1.25 odds, 160 SEK → 200 SEK. Less growth but would have survived. When the goal is "preserve and grow for tomorrow," the safest market should win over the best-odds market.
-6. **H2H BTTS at a specific ground is a STRONG signal** — now 6/6 at Gtech. This is beyond pattern territory (8+ data points threshold is close). Future Brentford home games vs Wolves: BTTS is near-automatic.
-
----
-
-*Analysis by Bet Bot | March 16, 2026*
+- **Kalibrering:** 6/10 på vinsten var ärligt, och ett kryss ligger inom det intervallet — **F1**-capen var berättigad. 1H Över 0,5 på 6,5/10 var kvällens bästa läsning och användes inte. BTTS på 5/10 som slantsingling var rätt.
+- **Kvällens bästa läsning:** 1H Över 0,5 — tre mål före pausen, avvisat som "för lite tillväxt" på ~1,25.
+- **Kvällens sämsta läsning:** att Wolves inte kunde göra mål borta. "0W 4D 10L" döljer att de **gjorde mål i flera av kryssen**. Tesen "uppsvinget är hemmabaserat" var för avvisande — deras tro reste.
+- **Lärdom:**
+  1. **"0 bortavinster" ≠ "kan inte göra mål borta".** Kontrollera gjorda mål, inte W/D/L (**C6**).
+  2. **Momentum reser.** Ett lag som slagit topp-sex-motstånd två matcher i rad bär tron även borta (**F3**).
+  3. **Desperat *och* självsäker** är den värsta kombinationen för en favorit (**F1** + **F2**).
+  4. **2-0-ledningar mot desperata lag är sköra** — trycket lyfter och det jagande laget spelar bättre (**F4**).
+  5. **Bankrullespel ska ta den säkraste marknaden, inte bästa oddset** (**H10**).
+  6. Gtech-BTTS är nu 6/6 — nära **A2**:s åttagräns, men ännu inte där.

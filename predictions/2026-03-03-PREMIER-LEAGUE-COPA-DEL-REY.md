@@ -1,276 +1,214 @@
-# ⚽ Tonight's Analysis — Tuesday 3 March 2026
+# ⚽ Premier League & Copa del Rey — tisdag 3 mars 2026
 
-## 📋 Tonight's Card (5 matches)
+Fyra ligamatcher plus ett **andra ben** i Copa del Rey-semifinalen. **B2** gäller för Barcelona–Atlético: andra ben lutar inte Under.
 
-| Match | Comp | KO | Context |
+## 📋 Kvällens matcher & domare
+
+| Tid | Match | Turnering | Läge | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|---|
+| 19:30 | Bournemouth – Brentford | PL | båda jagar topp 7 | — | — | ej verifierad |
+| 19:30 | Everton – Burnley | PL | 8:a mot 19:a | — | — | ej verifierad |
+| 19:30 | Leeds – Sunderland | PL | 15:a mot 12:a | — | — | ej verifierad |
+| 20:15 | Wolves – Liverpool | PL | 20:a mot 5:a | — | — | ej verifierad |
+| 21:00 | Barcelona – Atlético | Copa SF 2L | **Atlético leder 4-0** | — | — | ej verifierad |
+
+---
+
+## 🔍 Match för match
+
+### 1. Wolves – Liverpool (20:15)
+
+**Läge.** Wolves **sist** (20:a), 1W-7D-20L, 100% nedflyttningssannolikhet enligt Opta — men de slog Aston Villa hemma nyligen. Liverpool 5:a (48 p), 4 vinster på 5. Wolves släpper in 2+ mål per match i snitt.
+
+**Truppnytt (bekräftat 3 mar).** Liverpool utan **Wirtz** (rygg) och **Isak** (fotledsoperation) — två nyckelanfallare. Wolves utan Hwang Hee-Chan och Krejci (avstängda).
+
+**Läsning.** **A4** sänker vinsten från 9/10 till 7/10. ⚠️ **F1 tillämpades inte** — ett desperat bottenlag hemma ska kapas till 6/10.
+
+**Marknader.**
+- **Liverpool vinst** — 🟡 7/10
+- **Över 2,5** — 🟡 6,5/10
+- **BTTS** — 🔴 5/10. Avstå.
+
+### 2. Bournemouth – Brentford (19:30)
+
+**Läge.** Brentford 7:a (43 p), obesegrade i 8, vann 4-3 i Burnley. Bournemouth 10:a (39 p), obesegrade i 6. **Brentford har vunnit de 5 senaste mötena**, inklusive båda i år — fem datapunkter, under **A2**.
+
+**Truppnytt (bekräftat 3 mar).** Bournemouth utan **Kluivert** (knä, stor förlust), Ben Doak och Lewis Cook. Brentford utan Carvalho, Hickey, Milambo, Dasilva.
+
+**Läsning.** H2H-dominansen är tung och Bournemouth tappar sin kreativa spets. Brentfords 4-3 visar att de gör mål men också släpper in.
+
+**Marknader.**
+- **Brentford dubbelchans** — 🟢 8/10. Kvällens säkraste.
+- **Brentford vinst** — 🟡 7/10
+- **BTTS** — 🟡 6/10
+
+### 3. Everton – Burnley (19:30)
+
+**Läge.** Everton 8:a men **svaga hemma**: 16 p på 14 hemmamatcher (4W-4D-6L). Burnley 19:a, **56 insläppta** (ligans mest), 8 p från säker mark. Omvända mötet slutade **0-0**.
+
+**Truppnytt (bekräftat 3 mar).** Burnley utan Alcaraz (3–4 veckor) och Cullen (korsband, långtid).
+
+**Läsning.** Evertons hemmaform kapar vinsten, men Burnley saknar kvalitet borta. 0-0 i omvända mötet pekar lågt.
+
+**Marknader.**
+- **Everton vinst** — 🟡 6,5/10
+- **Under 2,5** — 🟡 6,5/10
+- **BTTS Nej** — 🟡 6/10
+
+### 4. Leeds – Sunderland (19:30)
+
+**Läge.** Leeds 15:a (31 p), slog Newcastle 3-2 senast. Sunderland 12:a (37 p), 4 vinster på 19, 1-1 i Bournemouth.
+
+**Truppnytt (bekräftat 3 mar).** Sunderland saknar **sju spelare**, inklusive **Brobbey** (förstacenter), Mukiele och Mandava; Xhaka tillbaka. Leeds utan Grealish (säsongen), Alcaraz, Okafor.
+
+**Läsning.** Båda trupperna plockade, Sunderlands kris värre. Utan Brobbey har de ingen fixpunkt.
+
+**Marknader.**
+- **Under 2,5** — 🟡 6,5/10
+- **Kryss** — 🔴 5,5/10
+- **Leeds vinst** — 🔴 5,5/10
+
+### 5. Barcelona – Atlético Madrid (21:00) — Copa SF, andra ben
+
+**Läge.** Atlético vann första benet **4-0**. Barcelona behöver fem mål utan att släppa in — praktiskt taget omöjligt. H2H historiskt: 67% Över 2,5, snitt 2,2 mål.
+
+**Truppnytt (bekräftat 3 mar).** Barcelona utan **Lewandowski** (brutet ögonhål), De Jong, Christensen (skada) och Eric García (avstängd). **Raphinha, Pedri och Rashford är tillbaka** — alla missade 4-0-matchen (**E5**).
+
+**Läsning.** Matchen är avgjord, men **E5** gör den enskilda matchen intressant: tre returnerande nyckelspelare höjer Barcelonas kapacitet mot en Simeone som sitter djupt med en 4-0-kudde. ⚠️ **C9 identifierades korrekt — bussparkering — och ignorerades sedan i C4.**
+
+**Marknader.**
+- **1H Över 0,5** — 🟢 7,5/10
+- **Barcelona över 1,5 lagmål** — 🟡 6,5/10
+- **BTTS** — 🟡 6,5/10. **Borde varit av bordet enligt C9.**
+
+*p, rimligt odds och EV ej dokumenterade i originalet.*
+
+---
+
+## 🎯 Kuponger — andelar av budget
+
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | Liverpool vinst + Brentford DC | 🟡 7,5/10 | — | — | — | — | 30–35% |
+| 2 | Huvudspel | Barça 1H ö0,5 + Everton vinst | 🟡 7/10 | — | — | — | — | 25–30% |
+| 3 | Hedge | Everton u2,5 + Leeds u2,5 | 🟡 6,5/10 | — | — | — | — | 20–25% |
+| 4 | Uppsida | Liverpool vinst + Brentford vinst + Barça BTTS | 🔴 5,5/10 | — | — | — | — | 15% |
+
+**C1 — Ankare.** Tes: de två starkaste enskilda spelen · Regel: **H1**
+**C2 — Huvudspel.** Tes: Barcelona startar i 100 km/h av stolthet; Everton hanterar 19:an · Regel: **H1**
+**C3 — Hedge.** Tes: två lågmålsprofiler · Regel: **H3** (defensiv)
+**C4 — Uppsida.** Tes: favoriterna plus kontringsmål i Copa-matchen · ⚠️ **H7 bruten — ingen trygg skänkel, tre offensiva spel**
+
+**Matcher per kupong:** C1 **Wolves**, **Bournemouth** · C2 Barcelona, **Everton** · C3 **Everton**, Leeds · C4 **Wolves**, **Bournemouth**, Barcelona
+
+⚠️ **C1 och C4 delar båda matcher** — bryter mot **H5** och mot **H2** i praktiken. Everton ligger i C2 och C3. Kupongerna är väsentligt mer korrelerade än fördelningen antyder.
+
+---
+
+## ⚠️ Medvetet undvikna spel
+
+| Marknad | Varför |
+|---|---|
+| Barcelona-comeback | Narrativfälla, 4-0 är oöverstigligt |
+| Wolves BTTS | Wolves gör sällan mål (5/10) |
+| Alla kortspel | Ingen domare uppslagen (**G1**) |
+| Alla 1H-marknader utom Barça | Måltidsfördelning ej dragen (**D2**) — även Barça-benet saknade den |
+
+---
+
+## 🟨 Kort
+
+Ingen domare och ingen kortstatistik dokumenterad i originalet. Inget kortspel.
+
+---
+
+## 📐 Felmarginal & insatser
+
+Ingen felmarginal eller Kelly-beräkning i originalet. Riskerna som identifierades före avspark:
+
+1. Liverpool utan Wirtz och Isak — bör slå Wolves men avslutningen kan bli slarvig.
+2. Everton har förlorat 6 av 14 hemma — Burnley kan snuva dem på en poäng.
+3. Barcelona i en avgjord match — matchen kan pysa ut om stämningen är flat.
+4. Brentfords H2H-serie — fem vinster är starkt, men alla serier tar slut.
+
+Risk 1 och 4 realiserades båda, i samma kupong.
+
+---
+
+## ✅ Checklista
+
+**Verifiering** — skador ✅ · avstängningar ✅ · domarstatistik ❌
+**Kalibrering** — inget resultatspel över 8 ✅ · **8+ datapunkter ❌ Brentfords H2H har 5** · A4 ✅ Liverpool -2 · **F1 ❌ ej tillämpad på Wolves hemma**
+**Målmarknader** — C9 ⚠️ **identifierad men ignorerad** · C10 ✅ · D2 ❌ 1H-ben utan måltidsdata
+**Situation** — E5 ✅ Raphinha/Pedri/Rashford · F6 ✅ prövad
+**Odds & värde** — p, rimligt odds och EV ❌ saknas helt
+**Kuponger** — **H2 ❌** · H3 ✅ C3 · **H5 ❌ C1 och C4 delar två matcher** · **H7 ❌ C4 saknar trygg skänkel**
+
+---
+
+## 📚 Källor
+
+Ej dokumenterade i originalfilen.
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** ligamatcher plus ett andra ben som avgjordes på totalen — ingen förlängning spelades. Raphinhas 45+5' är tilläggstid i första halvlek och räknas in.
+
+### Resultat
+
+| Match | Resultat (90 min) | Nyckelhändelser | 1H |
 |---|---|---|---|
-| Bournemouth vs Brentford | PL | 19:30 | Both chasing top 7 |
-| Everton vs Burnley | PL | 19:30 | 8th vs 19th |
-| Leeds vs Sunderland | PL | 19:30 | 15th vs 12th, both struggling |
-| Wolves vs Liverpool | PL | 20:15 | Bottom (20th) vs 5th |
-| Barcelona vs Atletico Madrid | Copa del Rey SF 2L | 21:00 | Atletico leads **4-0** from 1st leg |
+| Wolves – Liverpool | **2-1** | Gomes 78', Salah 83', André 90+4' | 0-0 |
+| Bournemouth – Brentford | **0-0** | — | 0-0 |
+| Everton – Burnley | **2-0** | Tarkowski 32', Dewsbury-Hall 60' | 1-0 |
+| Leeds – Sunderland | **0-1** | Diarra 70' (straff) | 0-0 |
+| Barcelona – Atlético | **3-0** (3-4 tot.) | Bernal 29', Raphinha 45+5' (straff), Bernal 72' | 2-0 |
 
-5 matches = good diversification potential.
+### Marknadsutfall
 
----
-
-## 🔍 Match-by-Match Breakdown
-
-### 1. Wolves vs Liverpool (PL)
-
-**Key facts:**
-- Wolves are **dead last** (20th), 1W-7D-20L, 100% relegation probability per Opta
-- Liverpool 5th (48pts), won 4 of last 5
-- **Liverpool missing Wirtz (back) AND Isak (ankle surgery)** — 2 key attackers out
-- Wolves missing Hwang Hee-Chan + Krejci (suspended)
-
-**Assessment:**
-- Even without Wirtz and Isak, Liverpool are far superior to bottom-of-table Wolves
-- **Rule applied:** 2+ key attackers missing → drop win confidence by 2 points. Would be 9/10 → **7/10**
-- Wolves have conceded 2+ goals per game on average
-- Wolves did beat Aston Villa at home recently — not a complete walkover
-
-| Market | Confidence | Logic |
-|---|---|---|
-| Liverpool Win | 7/10 | Vastly superior but weakened attack |
-| Over 2.5 | 6.5/10 | Wolves leak goals but Liverpool less clinical without Wirtz/Isak |
-| BTTS | 5/10 | Wolves rarely score — risky |
-
----
-
-### 2. Bournemouth vs Brentford (PL)
-
-**Key facts:**
-- Brentford 7th (43pts), **unbeaten in 8 games**, just won 4-3 at Burnley
-- Bournemouth 10th (39pts), unbeaten in 6
-- **Brentford have beaten Bournemouth 5 times in a row** including both this season
-- Bournemouth missing **Kluivert** (knee — huge loss), Ben Doak, Lewis Cook
-- Brentford missing Carvalho, Hickey, Milambo, Dasilva
-
-**Assessment:**
-- H2H dominance is overwhelming: 5 straight Brentford wins
-- Bournemouth without Kluivert lose their main creative spark
-- Brentford's 4-3 win shows they can score but also concede
-
-| Market | Confidence | Logic |
-|---|---|---|
-| Brentford Double Chance | 8/10 | 5 straight H2H wins, Kluivert out for Bournemouth |
-| Brentford Win | 7/10 | H2H dominance + Bournemouth missing key man |
-| BTTS | 6/10 | 4-3 in Brentford's last match, but Bournemouth weakened |
-
----
-
-### 3. Everton vs Burnley (PL)
-
-**Key facts:**
-- Everton 8th but **terrible at home**: 16pts from 14 home games (4W-4D-6L)
-- Burnley 19th, **conceded 56 goals** (most in the league), 8pts from safety
-- Reverse fixture was **0-0**
-- Burnley missing Alcaraz (3-4 weeks), Cullen (ACL long-term)
-
-**Assessment:**
-- Everton's poor home form is a red flag — 6 home losses this season
-- Burnley are desperate but lack quality away from home
-- The 0-0 reverse fixture suggests low-scoring potential
-
-| Market | Confidence | Logic |
-|---|---|---|
-| Everton Win | 6.5/10 | Should beat 19th but poor home form caps confidence |
-| Under 2.5 | 6.5/10 | Reverse was 0-0, Everton home games aren't goal-fests |
-| BTTS No | 6/10 | Burnley rarely score away |
-
----
-
-### 4. Leeds vs Sunderland (PL)
-
-**Key facts:**
-- Leeds 15th (31pts), just beat Newcastle 3-2 — big momentum boost
-- Sunderland 12th (37pts), won only 4 of last 19, drew 1-1 at Bournemouth
-- Sunderland **missing 7 players** including Brobbey (main striker!), Mukiele, Mandava
-- Leeds missing Grealish (season), Alcaraz, Okafor
-- Xhaka back for Sunderland — big boost
-
-**Assessment:**
-- Both squads depleted, but Sunderland's injury crisis is worse
-- Sunderland without Brobbey have no focal point in attack
-- Leeds coming off a high-energy Newcastle win — but can they sustain it?
-
-| Market | Confidence | Logic |
-|---|---|---|
-| Under 2.5 | 6.5/10 | Sunderland without Brobbey, both teams inconsistent |
-| Draw | 5.5/10 | Form suggests stalemate but low confidence |
-| Leeds Win | 5.5/10 | Momentum from Newcastle, but inconsistent at home |
-
----
-
-### 5. Barcelona vs Atletico Madrid (Copa del Rey Semi-Final 2nd Leg)
-
-**1st leg: Atletico Madrid 4-0 Barcelona**
-
-**Key facts:**
-- Barcelona need to score **5 goals** without reply — virtually impossible
-- **Lewandowski OUT** (fractured eye socket)
-- Frenkie de Jong OUT, Eric Garcia suspended, Christensen injured
-- **Raphinha, Pedri, Rashford ALL BACK** — missed the 4-0 first leg
-- Simeone will park the bus with a 4-0 cushion
-- H2H historically: 67% Over 2.5, avg 2.2 goals per match
-
-**Assessment:**
-- The tie is DEAD — Barcelona can't overturn 4-0 against Simeone's Atletico
-- But the individual match is interesting: Barcelona will attack out of pride
-- Simeone will sit deep and counter — classic Atletico approach
-- Without Lewandowski, Barcelona's finishing drops significantly
-- Atletico may rotate given the massive lead — which could open the game
-- 1H goal is very likely — Barcelona will start fast out of desperation
-- BTTS is possible: Barcelona attack, Atletico counter into the spaces
-
-| Market | Confidence | Logic |
-|---|---|---|
-| 1H Over 0.5 goals | 7.5/10 | Barcelona will start at 100mph out of desperation |
-| Barcelona Over 1.5 team goals | 6.5/10 | Camp Nou, Raphinha/Pedri/Rashford back, nothing to lose |
-| BTTS Yes | 6.5/10 | Barca will leave gaps, Atletico counter with Griezmann/Álvarez |
-
----
-
-## 📐 Combo Proposals
-
-### Combo 1 — Anchor/Safe (30-35% stake)
-| Leg | Match | Market | Conf |
-|---|---|---|---|
-| 1 | Wolves vs Liverpool | Liverpool Win | 7/10 |
-| 2 | Bournemouth vs Brentford | Brentford Double Chance | 8/10 |
-
-**Combined: 7.5/10** — Two strongest individual picks. Liverpool should handle bottom Wolves even without Wirtz/Isak. Brentford haven't lost to Bournemouth in 5 straight.
-
----
-
-### Combo 2 — Main Bet (25-30% stake)
-| Leg | Match | Market | Conf |
-|---|---|---|---|
-| 1 | Barcelona vs Atletico | 1H Over 0.5 Goals | 7.5/10 |
-| 2 | Everton vs Burnley | Everton Win | 6.5/10 |
-
-**Combined: 7/10** — Barcelona will start fast out of desperation. Everton should handle 19th-place Burnley at home despite poor home form.
-
----
-
-### Combo 3 — Defensive Hedge (20-25% stake)
-| Leg | Match | Market | Conf |
-|---|---|---|---|
-| 1 | Everton vs Burnley | Under 2.5 | 6.5/10 |
-| 2 | Leeds vs Sunderland | Under 2.5 | 6.5/10 |
-
-**Combined: 6.5/10** — Pure Under hedge. Reverse Everton/Burnley was 0-0. Sunderland without Brobbey lack any firepower. Both matches have under profiles.
-
----
-
-### Combo 4 — Upside/Treble (15% stake)
-| Leg | Match | Market | Conf |
-|---|---|---|---|
-| 1 | Wolves vs Liverpool | Liverpool Win | 7/10 |
-| 2 | Bournemouth vs Brentford | Brentford Win | 7/10 |
-| 3 | Barcelona vs Atletico | BTTS Yes | 6.5/10 |
-
-**Combined: 5.5/10** — Higher odds treble. Best individual picks plus BTTS in the Copa match where Barca will leave spaces for Atletico counters.
-
----
-
-## ✅ Pre-Bet Checklist
-
-- [x] Injuries verified from today's sources
-- [x] Which teams must chase? Barcelona (4-0 deficit = dead tie), Burnley (relegation)
-- [x] Home/away stats checked — Everton poor at home, Wolves terrible everywhere
-- [x] Tournament level adjusted — PL (high quality) + Copa del Rey (top quality)
-- [x] Confidence scores honest — reduced Liverpool from 9 to 7 due to 2 missing attackers
-- [x] BTTS/Over = 90 minutes
-- [x] Same pick in max 2 of 4 combos — Liverpool 2/4, Brentford 2/4 ✅
-- [x] At least one Under/defensive combo — Combo 3 ✅
-- [x] Not a single match night — 5 matches, good diversification
-- [x] 2+ key attackers missing (Liverpool): confidence dropped by 2 points
-- [x] Narrative trap avoided — not hyping a Barcelona comeback
-
----
-
-## ⚠️ Key Risks
-
-1. **Liverpool without Wirtz AND Isak** — they should still beat Wolves but finishing could be wasteful
-2. **Everton at home** — they've lost 6 of 14 home games. Burnley could nick a point
-3. **Barcelona dead rubber** — if the crowd is flat and there's no real tension, the match could fizzle out
-4. **Brentford H2H streak** — 5 wins is strong but all streaks end eventually
-
----
-
-## 📊 Post-Match Results
-
-### Match Results
-
-| Match | Score (90 min) | Goalscorers | 1H Goals |
-|---|---|---|---|
-| Wolves vs Liverpool | **2-1** | Gomes 78', Salah 83', André 90'+4' | None (0-0 at HT) |
-| Bournemouth vs Brentford | **0-0** | — | None |
-| Everton vs Burnley | **2-0** | Tarkowski 32', Dewsbury-Hall 60' | Tarkowski 32' |
-| Leeds vs Sunderland | **0-1** | Diarra 70' (pen) | None (0-0 at HT) |
-| Barcelona vs Atletico Madrid | **3-0** (3-4 agg) | Bernal 29', Raphinha 45'+5' (pen), Bernal 72' | Bernal 29', Raphinha 45'+5' |
-
-### Market Results
-
-| Match | Market | Predicted | Actual | Result |
+| Match | Marknad | Prognos | Utfall | Resultat |
 |---|---|---|---|---|
-| Wolves vs Liverpool | Liverpool Win (7/10) | ✅ expected | Wolves 2-1 | ❌ |
-| Wolves vs Liverpool | Over 2.5 (6.5/10) | Possible | 3 goals | ✅ |
-| Wolves vs Liverpool | BTTS (5/10) | Risky | Both scored | ✅ |
-| Bournemouth vs Brentford | Brentford DC (8/10) | ✅ expected | 0-0 Draw | ✅ |
-| Bournemouth vs Brentford | Brentford Win (7/10) | ✅ expected | 0-0 Draw | ❌ |
-| Bournemouth vs Brentford | BTTS (6/10) | Possible | 0 goals | ❌ |
-| Everton vs Burnley | Everton Win (6.5/10) | ✅ expected | Everton 2-0 | ✅ |
-| Everton vs Burnley | Under 2.5 (6.5/10) | ✅ expected | 2 goals | ✅ |
-| Everton vs Burnley | BTTS No (6/10) | ✅ expected | Burnley 0 goals | ✅ |
-| Leeds vs Sunderland | Under 2.5 (6.5/10) | ✅ expected | 1 goal | ✅ |
-| Leeds vs Sunderland | Draw (5.5/10) | Possible | Sunderland 1-0 | ❌ |
-| Leeds vs Sunderland | Leeds Win (5.5/10) | Possible | Sunderland won | ❌ |
-| Barcelona vs Atletico | 1H O0.5 (7.5/10) | ✅ expected | 2 goals in 1H | ✅ |
-| Barcelona vs Atletico | Barca O1.5 goals (6.5/10) | ✅ expected | Barca scored 3 | ✅ |
-| Barcelona vs Atletico | BTTS Yes (6.5/10) | Possible | Atletico 0 goals | ❌ |
+| Wolves – Liverpool | Liverpool vinst | ✅ väntat (7/10) | Wolves 2-1 | ❌ |
+| Wolves – Liverpool | Över 2,5 | möjligt (6,5/10) | 3 mål | ✅ |
+| Wolves – Liverpool | BTTS | riskabelt (5/10) | Båda gjorde mål | ✅ |
+| Bournemouth – Brentford | Brentford DC | ✅ väntat (8/10) | 0-0 | ✅ |
+| Bournemouth – Brentford | Brentford vinst | ✅ väntat (7/10) | 0-0 | ❌ |
+| Bournemouth – Brentford | BTTS | möjligt (6/10) | 0 mål | ❌ |
+| Everton – Burnley | Everton vinst | ✅ väntat (6,5/10) | 2-0 | ✅ |
+| Everton – Burnley | Under 2,5 | ✅ väntat (6,5/10) | 2 mål | ✅ |
+| Everton – Burnley | BTTS Nej | ✅ väntat (6/10) | Burnley 0 | ✅ |
+| Leeds – Sunderland | Under 2,5 | ✅ väntat (6,5/10) | 1 mål | ✅ |
+| Leeds – Sunderland | Kryss | möjligt (5,5/10) | 0-1 | ❌ |
+| Leeds – Sunderland | Leeds vinst | möjligt (5,5/10) | Sunderland vann | ❌ |
+| Barcelona – Atlético | 1H Över 0,5 | ✅ väntat (7,5/10) | 2 mål i 1H | ✅ |
+| Barcelona – Atlético | Barça ö1,5 lagmål | ✅ väntat (6,5/10) | 3 mål | ✅ |
+| Barcelona – Atlético | BTTS | möjligt (6,5/10) | Atlético 0 | ❌ |
 
-**Individual market record: 9/15 correct (60%)**
+**Enskilda marknader: 9/15 (60%).**
 
-### Combo Results
+### Kupongutfall
 
-| Combo | Stakes | Legs | Result | Detail |
-|---|---|---|---|---|
-| Combo 1 — Anchor (30-35%) | Liverpool Win + Brentford DC | ❌ | Liverpool lost 1-2 at Wolves |
-| Combo 2 — Main Bet (25-30%) | 1H O0.5 (Barca) + Everton Win | ✅ | Bernal 29' + Everton 2-0 |
-| Combo 3 — Defensive Hedge (20-25%) | Everton U2.5 + Leeds/Sunderland U2.5 | ✅ | 2 goals + 1 goal |
-| Combo 4 — Upside/Treble (15%) | Liverpool Win + Brentford Win + BTTS Barca | ❌ | All 3 legs failed |
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare | ❌ | Liverpool vinst (1-2 i Wolverhampton) |
+| C2 — Huvudspel | ✅ | — (Bernal 29' + Everton 2-0) |
+| C3 — Hedge | ✅ | — (2 mål + 1 mål) |
+| C4 — Uppsida | ❌ | **Alla tre skänklarna** |
 
-### Overall: 2/4 combos hit — best night so far
+### Totalt: 2/4 kuponger | Vinst/förlust: ej beräknad (odds saknas i originalet)
 
----
+*P/L-underlag: originalet dokumenterade varken odds eller insatser i kronor, bara procentandelar av budgeten (**I7**). Summan kan inte räknas i efterhand.*
 
-### 🧠 Self-Evaluation
+### 🧠 Självutvärdering
 
-**Confidence calibration:**
-- Brentford DC at 8/10 (highest rated): ✅ — correctly identified as safest pick
-- 1H O0.5 Barca at 7.5/10: ✅ — 2 goals in 1H, spot on
-- Liverpool Win at 7/10: ❌ — even after the -2 weakened squad rule, still overrated vs a desperate bottom team
-- Everton Win at 6.5/10: ✅ — correctly cautious but hit comfortably (2-0)
-- Under markets at 6.5/10: ✅✅ — both landed easily, could have been rated higher
-- BTTS Barca at 6.5/10: ❌ — we warned about Simeone bus-parking then ignored our own warning
-
-**Best reads of the night:**
-- Everton vs Burnley was a **perfect 3/3** — Win ✅, Under 2.5 ✅, BTTS No ✅
-- Barcelona 1H goal — Bernal 29' and Raphinha 45'+5' confirmed the "start at 100mph" thesis
-- Barcelona scoring 3 (Over 1.5 team goals) — Raphinha/Pedri/Rashford returning was correctly identified as key
-- Defensive hedge strategy (Combo 3) — saved the night again, just like the framework designed it to
-
-**Worst reads of the night:**
-- **Liverpool losing at Wolves** — the biggest shock. André's 94th-minute deflected winner was freakish, but Gomes scoring first in the 78th minute showed Liverpool were toothless without Wirtz/Isak. The -2 confidence rule wasn't enough.
-- **BTTS in Barca/Atletico** — we literally wrote "Simeone will park the bus" and "bus-parking teams kill BTTS" in our own framework, then put BTTS Yes in Combo 4 anyway. Atletico scored 0.
-- **Combo 4 going 0/3** — the "fun bet" had zero diversification. All 3 legs were aggressive offensive picks. A treble should still have at least 1 safe leg.
-
-**Key learnings:**
-1. **Desperate bottom teams at HOME are dangerous** — Wolves' 100% relegation probability meant they had nothing to lose. Away wins at bottom teams should cap at 6/10, not 7/10.
-2. **Simeone + aggregate lead = NEVER BTTS** — if we identify bus-parking, DO NOT include BTTS in any combo. This is a direct contradiction of our own framework.
-3. **The defensive hedge strategy works** — Combo 3 (pure Under) hit for the second time. Always include it.
-4. **Trebles need at least 1 safe leg** — Combo 4 had 3 risky picks and all failed. Even the "fun bet" should anchor with something solid.
-5. **Under markets were undervalued** — 4 of 5 matches had 2 or fewer goals. The PL midweek schedule seems to favour low-scoring games.
+- **Kalibrering:** Brentford DC på 8/10 var korrekt identifierad som kvällens säkraste. 1H Över 0,5 på 7,5/10 träffade. Liverpool vinst på 7/10 var för högt även efter **A4**:s tvåpoängssänkning. Under-marknaderna på 6,5/10 landade lätt och kunde satts högre. BTTS i Copa-matchen på 6,5/10 var fel — vi skrev själva att Simeone skulle parkera bussen.
+- **Kvällens bästa läsning:** Everton–Burnley 3/3 — vinst, Under 2,5 och BTTS Nej. Plus Barcelonas 1H-mål och tre lagmål, där **E5** på Raphinha/Pedri/Rashford var rätt identifierad.
+- **Kvällens sämsta läsning:** Liverpool borta i Wolverhampton. Andrés inlagda 94:e-minutsmål var freakigt, men Gomes 1-0 i 78:e visade ett tandlöst Liverpool utan Wirtz och Isak. **A4**:s sänkning räckte inte — **F1** behövdes också.
+- **Lärdom:**
+  1. **Desperata bottenlag hemma är farliga.** Bortavinst mot ett bottenlag ska kapas till 6/10, inte 7 (**F1**).
+  2. **Identifierad bussparkering betyder BTTS av bordet — i varje kupong.** Vi skrev regeln och bröt den i samma fil (**C9**).
+  3. **Den defensiva hedgen fungerar.** C3 som ren Under-kupong träffade för andra gången (**H3**).
+  4. **Trebles behöver en trygg skänkel.** C4 hade tre riskspel och gick 0/3 (**H7**).
+  5. Under-marknaderna var undervärderade — 4 av 5 matcher gav 2 mål eller mindre.

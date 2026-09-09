@@ -1,319 +1,269 @@
-# Europa League R16 First Legs — March 12, 2026
+# ⚽ Europa League — åttondelsfinaler, första ben, torsdag 12 mars 2026
 
-## Tonight's Fixtures (All times CET)
+Åtta matcher, samtliga **första ben**. **A6** gäller: EL ligger 1–2 poäng under CL-motsvarigheten. **B1** gäller: EL:s första ben lutar Under. **B3** prövas per match — lutningen får bara användas när båda lagen faktiskt är försiktiga.
 
-| Match | Kickoff | Venue |
+## 📋 Kvällens matcher & domare
+
+| Tid | Match | Arena | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 18:45 | Bologna – Roma | Dall'Ara | — | — | ej verifierad |
+| 18:45 | Lille – Aston Villa | Pierre-Mauroy | — | — | ej verifierad |
+| 21:00 | Panathinaikos – Real Betis | Apostolos Nikolaidis | — | — | ej verifierad |
+| 21:00 | Stuttgart – Porto | MHPArena | — | — | ej verifierad |
+| 21:00 | Celta Vigo – Lyon | Balaídos | — | — | ej verifierad |
+| 21:00 | Ferencváros – Braga | Groupama Arena | — | — | ej verifierad |
+| 21:00 | Genk – Freiburg | Cegeka Arena | — | — | ej verifierad |
+| 21:00 | Nottingham Forest – Midtjylland | City Ground | — | — | ej verifierad |
+
+*Conference League spelas samma kväll (Crystal Palace – AEK Larnaca, Fiorentina – Raków m.fl.) men analyseras inte.*
+
+---
+
+## 🔍 Match för match
+
+### 1. Bologna – Roma (18:45)
+
+**Läge.** Bologna föll 1-2 mot Verona och bröt fem raka vinster. Roma föll 1-2 mot Genoa och bröt fyra obesegrade. Roma obesegrade i 23 av 24 Serie A-matcher, sex nollor på åtta. H2H: Roma vann 1-0 på Olimpico tidigare i säsongen.
+
+**Truppnytt (bekräftat 12 mar).** Roma utan Dybala (knä), Dovbyk (lår) och Ferguson (fotled); Soulé tveksam, Mancini avstängd. Roma har i praktiken ingen etablerad anfallare tillgänglig.
+
+**Läsning.** Italiensk taktisk match, första ben, Roma utan anfallsspets. **B3** uppfylld — båda är försiktiga.
+
+**Marknader.**
+- **Under 2,5** — 🟡 7/10. Odds, p, rimligt odds och EV ej dokumenterade i originalet.
+- **BTTS Nej** — 🟡 6,5/10. Roma decimerade, men Bologna gör mål hemma.
+- **1H över 0,5** — 🔴 5/10. Kan bli mållös första halvlek. Måltidsfördelning ej dragen (**D2**). Avstå.
+
+### 2. Lille – Aston Villa (18:45)
+
+**Läge.** Villa i fritt fall: en vinst på sju (D2 L4), 1-4 hemma mot Chelsea. Lille tre vinster på fem EL-hemmamatcher men bara två av åtta hemma i alla turneringar.
+
+**Truppnytt (bekräftat 12 mar).** Villa utan Tielemans (fotled), Kamara (knä), Barkley (ej spelklar); McGinn (knä) och Cash (vad) tveksamma. Lille utan Igamane (korsband), Sahraoui (ljumske), Mbappé Lottin (lår), Touré (knä).
+
+**Läsning.** Villas anfall har torkat ut och kreatörerna är borta; Lille är ojämna hemma. Första ben.
+
+**Marknader.**
+- **Under 2,5** — 🟡 6,5/10. Odds/p/EV ej dokumenterade.
+- **Lille vinst** — 🔴 5,5/10. Villa har fortfarande Watkins och Rogers.
+- **BTTS** — 🔴 5/10. Tielemans + Kamara ute begränsar servicen. Avstå.
+
+### 3. Panathinaikos – Real Betis (21:00)
+
+**Läge.** Betis fyra i EL:s ligafas (17 p), föll nyligen 0-2 mot Getafe.
+
+**Truppnytt (bekräftat 12 mar).** Pana utan Bakasetas och Touba (avstängda), Hernández (rött kort), Dessers (långtidsskadad), Chirivella (vad), Palmer-Brown (fotled) — sex nyckelspelare. Betis utan Isco, Amrabat och Lo Celso men med mer djup.
+
+**Läsning.** Kraftigt decimerat hemmalag, försiktigt bortalag i första benet i Aten.
+
+**Marknader.**
+- **Under 2,5** — 🟡 6/10. Odds/p/EV ej dokumenterade.
+- **Betis DNB** — 🔴 5,5/10. Kvalitetsövertag, men publiktrycket i Aten. Avstå.
+- **BTTS** — 🔴 5/10. Pana har haft BTTS i fyra raka, men saknar för många. Avstå.
+
+### 4. Stuttgart – Porto (21:00)
+
+**Läge.** Första mötet någonsin mellan klubbarna. Stuttgart defensivt stabilare.
+
+**Truppnytt (bekräftat 12 mar).** Porto utan Samu Omorodion och Luuk de Jong (båda knä, resten av säsongen) samt Nehuén Pérez (hälsena); Martim Fernandes tveksam. Stuttgart utan Jovanović, Vagnoman, Zagadou och Diehl.
+
+**Läsning.** Porto utan sina två spetsar, första ben och första möte gör båda avvaktande. Ersättarnas kvalitet är **inte** prövad i läsningen.
+
+**Marknader.**
+- **Under 2,5** — 🟡 7/10. Odds/p/EV ej dokumenterade.
+- **BTTS Nej** — 🟡 7/10. Porto att göra mål borta utan Samu och De Jong bedömdes osannolikt.
+- **Stuttgart vinst** — 🟡 6/10. Hemmafördel plus Portos spetskris, men första bens försiktighet dämpar.
+
+### 5. Celta Vigo – Lyon (21:00)
+
+**Läge.** Lyon vann ligafasen men är i fritt fall: fyra matcher utan vinst (L2 D2). Celta i fin form, fyra vinster på fem, obesegrade i fyra senaste EL-matcher.
+
+**Truppnytt (bekräftat 12 mar).** Lyon utan Nuamah (korsband), Fofana (fotled), Kluivert (muskel), Šulc (hamstring), Moreira (hamstring), Maitland-Niles (adduktor). Celta bara med småskador (Durán, Cervi, Román).
+
+**Läsning.** Formkurva plus hemmaplan mot ett urholkat Lyon — men Lyon har ändå kvalitet, därför inget över 7.
+
+**Marknader.**
+- **Celta DNB** — 🟡 7/10. Odds/p/EV ej dokumenterade.
+- **Celta vinst** — 🟡 6/10.
+- **1H över 0,5** — 🟡 6,5/10. Måltidsfördelning ej dragen (**D2**) — marknaden användes ändå.
+- **Under 2,5** — 🔴 5,5/10. Celta kontrollerade EL-matcher (1-0 mot PAOK), men tunt.
+
+### 6. Ferencváros – Braga (21:00)
+
+**Läge.** Fradi på fem raka vinster, ledare i NB I. Braga sexa i EL:s ligafas, obesegrade borta i ligafasen (fyra matcher, 8 p).
+
+**Truppnytt (bekräftat 12 mar).** Fradi utan Gartenmann och Ötvös. Braga utan Víctor Gómez (avstängd) och Barišić; El Uzzani och Niakaté tveksamma.
+
+**Läsning.** Föregående EL-kväll föll Fradi BTTS när Ludogorets spelade för kryss (2-0). Braga är bättre och rankade högre — troligare att de söker bortamål. Läsningen landar utan tydlig kant.
+
+**Marknader.**
+- **Under 2,5** — 🔴 5,5/10. Fradi är aggressiva hemma. Avstå.
+- **Fradi vinst** — 🔴 5,5/10. Bragas bortafacit väger emot. Avstå.
+- **1H över 0,5** — 🟡 6/10. Måltidsfördelning ej dragen (**D2**). Avstå.
+
+### 7. Genk – Freiburg (21:00)
+
+**Läge.** Freiburg har en vinst på sju bortamatcher och **noll mål på de fem senaste borta**. Genks matcher är kaotiska — 3+ mål i åtta av nio senaste; samtidigt ingen vinst i tre av fyra.
+
+**Truppnytt (bekräftat 12 mar).** Freiburg utan Eggestein (avstängd), Küblér, Kyereh och Rosenfelder.
+
+**Läsning.** Bortatorkan är kvällens tydligaste mönster, men den vilar på **fem** datapunkter — under åttagränsen (**A2**).
+
+**Marknader.**
+- **BTTS Nej** — 🟡 7/10. Odds/p/EV ej dokumenterade.
+- **Genk vinst** — 🔴 5,5/10. Ojämn form. Avstå.
+- **Under 2,5** — 🔴 5/10. Genks matcher går ofta högt. Avstå.
+
+### 8. Nottingham Forest – Midtjylland (21:00)
+
+**Läge.** Forest har hållit nollan i sina tre senaste EL-hemmamatcher, 65 % nollor hemma i Europa (17 av 26), tre nollor på tre EL-matcher under Dyche.
+
+**Truppnytt (bekräftat 12 mar).** Forest utan Chris Wood (knä), Savona och Boly; Ortega (vad) tveksam, Sels kan starta. Midtjylland utan skyttekungen Franculino (21 mål), Osorio (avstängd) och Gogorza.
+
+**Läsning.** Forests europeiska hemmadefensiv mot ett Midtjylland utan sin målskytt — men Forest saknar också sin spets. Kvällens starkaste Under-läge.
+
+**Marknader.**
+- **Under 2,5** — 🟢 7,5/10. Kvällens högsta konfidens. Odds/p/EV ej dokumenterade.
+- **BTTS Nej** — 🟡 7/10.
+- **Forest vinst** — 🟡 6/10. Kontroll, men utan Wood saknas målen.
+- **1H under 0,5** — 🟡 6/10. Måltidsfördelning ej dragen (**D2**). Avstå.
+
+*p, rimligt odds och EV är inte dokumenterade någonstans i originalet och räknas inte fram i efterhand (**I1**, **I2**, **I3** ej uppfyllda).*
+
+---
+
+## 🎯 Kuponger — 300 kr
+
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | Forest u2,5 + Bologna u2,5 | 🟡 7/10 | ~2,2–2,5 | — | — | — | 100 kr |
+| 2 | Huvudspel | Stuttgart u2,5 + Genk BTTS-N | 🟡 7/10 | ~2,0–2,3 | — | — | — | 80 kr |
+| 3 | Hedge | Stuttgart BTTS-N + Lille u2,5 | 🟡 6,5/10 | ~2,3–2,7 | — | — | — | 70 kr |
+| 4 | Uppsida | Forest BTTS-N + Celta 1H ö0,5 + Pana u2,5 | 🟡 6/10 | ~3,5–4,5 | — | — | — | 50 kr |
+
+**C1 — Ankare.** Tes: de två matcher där båda lagen saknar spetsar · Regel: **H10** (säkraste marknaden)
+**C2 — Huvudspel.** Tes: Porto kan inte göra mål, Freiburg kan inte göra mål borta · Regel: **H1** (två skänklar)
+**C3 — Hedge.** Tes: samma defensiva tes en gång till plus Villas formkollaps · Regel: **H6** ej uppfylld — hedgen har samma riktning som C1/C2, inte motsatt
+**C4 — Uppsida.** Tes: trygg skänkel plus ett offensivt inslag som gynnas om målen kommer · Regel: **H7** (Forest BTTS-N är trygga skänkeln)
+
+**Matcher per kupong:** C1 Forest, Bologna · C2 Stuttgart, Genk · C3 Stuttgart, Lille · C4 Forest, Celta, Panathinaikos — **delade matcher (H5 bruten)**: Stuttgart ligger i C2 och C3, Forest i C1 och C4. 150 kr (halva budgeten) hängde på Stuttgart–Porto.
+
+---
+
+## ⚠️ Medvetet undvikna spel
+
+| Marknad | Varför |
+|---|---|
+| Alla resultatmarknader utom Celta DNB och Stuttgart vinst | Första ben, ingen måste jaga (**B1**) |
+| Betis DNB, Genk vinst, Fradi vinst, Lille vinst | Läsningen 5,5/10 — för tunn (**I4**) |
+| BTTS Lille–Villa, BTTS Pana–Betis | Kreatörer/spetsar ute, negativ läsning |
+| Ferencváros–Braga i sin helhet | Ingen kant åt något håll |
+| 1H-marknader Bologna, Fradi, Forest | Måltidsfördelning ej dragen (**D2**) |
+| Alla kortspel | Ingen domare uppslagen (**G1**) |
+
+---
+
+## 🟨 Kort
+
+| Domare | Match | Gula/match | Urval |
+|---|---|---|---|
+| — | samtliga | — | ej verifierad |
+
+Ingen domare och ingen kortstatistik dokumenterad i originalet, och inga lagsiffror för kort per match. Inget kortspel rekommenderas (**G5**, **G9**). Kortspel skulle ändå ligga som singel utanför kupongerna (**G4**).
+
+---
+
+## 📐 Felmarginal & insatser
+
+Ingen felmarginal och ingen kvarts-Kelly i originalet (**I5**, **I6** ej uppfyllda) — utan p och rimligt odds går edgen inte att mäta.
+
+Kvällens svagaste punkt är korrelation och koncentration: C2 och C3 vilar båda på Stuttgart–Porto med två defensiva marknader på samma match. En målrik match fäller båda samtidigt, och det gör hedgen värdelös. Dessutom lutar alla fyra kuponger i praktiken samma väg (Under/defensivt); enda motvikten är Celta 1H över 0,5 i C4.
+
+---
+
+## ✅ Checklista
+
+**Verifiering** — skador/avstängningar ✅ samma dag · full trupp ⚠️ (ersättarnas kvalitet i Porto ej bedömd) · domarstatistik ❌ (0 av 8)
+**Kalibrering** — inget resultatspel över 8 ✅ · inget spel över 7,5 ✅ · **8+ datapunkter ❌ (Freiburgs bortatorka har 5, Forests nollor 3, Panas BTTS-serie 4)**
+**Situation** — **A6 ✅** EL nedgraderad mot CL · **B1 ✅** Under primärt i första ben · B3 ✅ prövad per match
+**Målmarknader** — C1/C3 ⚠️ (Under vs BTTS-N vägdes inte mot varandra på Stuttgart) · C9 ✅ · **D2 ❌ (Celta 1H ö0,5 spelades utan måltidsfördelning)** · C10 ✅
+**Odds & värde** — odds ⚠️ endast intervall för kupongerna, inga matchodds · **p och rimligt odds ❌** · **EV ❌** · I5/I6 ❌
+**Kuponger** — H1 ✅ · H2 ✅ inget spel i 3+ kuponger · H3 ⚠️ (hedgen är defensiv men inte oberoende) · **H5 ❌ Stuttgart i C2+C3, Forest i C1+C4** · **H6 ❌ hedgen har samma riktning som ankaret** · H7 ✅ · H8 ✅
+
+---
+
+## 📚 Källor
+
+Ej dokumenterade i originalfilen.
+
+*Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** första ben, ingen förlängning. Samtliga 13 mål inom ordinarie tid.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
 |---|---|---|
-| Bologna vs Roma | 18:45 | Stadio Renato Dall'Ara |
-| Lille vs Aston Villa | 18:45 | Stade Pierre-Mauroy |
-| Panathinaikos vs Real Betis | 21:00 | Apostolos Nikolaidis |
-| Stuttgart vs Porto | 21:00 | MHPArena |
-| Celta Vigo vs Lyon | 21:00 | Balaidos |
-| Ferencvaros vs Braga | 21:00 | Groupama Arena |
-| Genk vs Freiburg | 21:00 | Cegeka Arena |
-| Nott'm Forest vs Midtjylland | 21:00 | City Ground |
-
-*(Conference League also on — Crystal Palace vs AEK Larnaca, Fiorentina vs Rakow, etc. — but EL is our main focus)*
-
----
-
-## Framework Check: CL ≠ EL
-
-**This is Europa League.** The lesson from Feb 26 (0/4 combos lost) was brutal: we treated EL like CL and paid the price. Tonight's approach:
-- Under/defensive markets are **primary**, not secondary
-- "Must chase" is irrelevant — it's first legs, nobody must chase
-- First leg caution applies MORE in EL than CL (lower quality teams protect)
-- Multiple teams are missing key strikers — this screams Under
-
----
-
-## Match-by-Match Analysis
-
-### 1. Bologna vs Roma
-**Roma's attacking crisis is SEVERE.** Dybala (knee), Dovbyk (thigh), Ferguson (ankle) ALL out. Soule is a doubt. Mancini suspended. Roma essentially have no recognised strikers available.
-
-- Bologna lost 2-1 to Verona, ending a 5-game winning streak
-- Roma lost 2-1 to Genoa, ending a 4-game unbeaten run
-- Roma undefeated in 23/24 Serie A games, 6 clean sheets in 8
-- H2H: Roma won 1-0 at Olimpico earlier this season
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Under 2.5 | 7/10 | Roma have NO strikers. Italian derby = tactical. First leg. |
-| BTTS No | 6.5/10 | Roma's attack is decimated, but Bologna can score at home |
-| 1H O0.5 | 5/10 | Could easily be cagey 0-0 first half in an Italian matchup |
-
----
-
-### 2. Lille vs Aston Villa
-**Villa are in FREEFALL.** 1 win in 7 games (D2 L4). Lost 4-1 at home to Chelsea. Missing Tielemans (ankle), Kamara (knee), McGinn (knee, doubtful), Cash (calf, doubtful), Barkley (ineligible).
-
-Lille missing Igamane (ACL), Sahraoui (groin), Mbappe Lottin (thigh), Toure (knee). Won 3/5 EL home games but only 2/8 recent home matches across all comps.
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Under 2.5 | 6.5/10 | Villa's attack has dried up in their slump. Lille inconsistent at home. First leg. |
-| Lille Win | 5.5/10 | Villa's form is terrible but they still have quality (Watkins, Rogers) |
-| BTTS | 5/10 | Villa's creative engine is weakened — Tielemans + Kamara out limits service |
-
----
-
-### 3. Panathinaikos vs Real Betis
-Pana HEAVILY depleted: Bakasetas + Touba (suspended), Hernandez (red card), Dessers (long-term), Chirivella (calf), Palmer-Brown (ankle). That's 6 key players out.
-
-Betis missing Isco, Amrabat, Lo Celso — but still more depth. Lost 2-0 to Getafe recently. Finished 4th in EL league phase (17 pts).
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Under 2.5 | 6/10 | Pana heavily depleted, Betis cautious first leg away in Athens |
-| Betis DNB | 5.5/10 | Quality edge, but Greek home support is ferocious |
-| BTTS | 5/10 | Pana's last 4 had BTTS, but missing too many players now |
-
----
-
-### 4. Stuttgart vs Porto
-**Porto's attack is DECIMATED.** Samu Omorodion AND Luuk de Jong both out for the season (knee). Nehuen Perez (Achilles) also out. Martim Fernandes doubtful.
-
-Stuttgart missing Jovanovic, Vagnoman, Zagadou, Diehl — but defensively more solid. First ever meeting between the clubs.
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Under 2.5 | 7/10 | Porto have NO strikers. First leg, first meeting = cautious. |
-| BTTS No | 7/10 | Porto scoring without Samu AND De Jong? Very unlikely away from home |
-| Stuttgart Win | 6/10 | Home advantage + Porto's striker crisis. But first leg caution may limit them |
-
----
-
-### 5. Celta Vigo vs Lyon
-Lyon finished #1 in EL league phase but are in **FREEFALL** — 4 games without a win (L2 D2). MASSIVELY depleted: Nuamah (ACL), Fofana (ankle), Kluivert (muscle), Sulc (hamstring), Moreira (hamstring), Maitland-Niles (adductor).
-
-Celta in great form — 4/5 wins. Unbeaten in last 4 EL games. Only minor injuries (Duran, Cervi, Roman).
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Celta Win | 6/10 | Lyon in freefall + depleted. But still Lyon — can't rate above 6. |
-| Celta DNB | 7/10 | Celta's form + home advantage vs a struggling, depleted Lyon |
-| Under 2.5 | 5.5/10 | Celta controlled games well in EL (beat PAOK 1-0). Lyon may lack threat. |
-| 1H O0.5 | 6.5/10 | Celta's attacking confidence should generate early chances |
-
----
-
-### 6. Ferencvaros vs Braga
-Fradi on 5-win streak, top of Hungarian NB I. Only Gartenmann + Otvos injured.
-
-Braga: Victor Gomez suspended, Barisic out, El Uzzani + Niakate doubtful. Finished 6th in EL. Unbeaten away in league phase (4 games, 8 pts).
-
-**Framework flag:** Last EL night we had Fradi BTTS and it failed (Ludogorets played for a draw → 2-0). Will Braga do the same? Braga are better quality than Ludogorets and finished higher — more likely to try to get an away goal.
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Under 2.5 | 5.5/10 | First leg caution, but Fradi are aggressive at home |
-| Fradi Win | 5.5/10 | Home form excellent but Braga's away EL record is strong |
-| 1H O0.5 | 6/10 | Fradi play high-energy at home, quick transitions |
-
----
-
-### 7. Genk vs Freiburg
-**Freiburg's away crisis:** 1W in 7 away games. **0 GOALS in last 5 away fixtures.** That's 5+ data points — a real pattern.
-
-Genk's games are chaotic — 8 of last 9 had 3+ goals. But Genk also failed to win 3 of last 4.
-
-Freiburg missing Eggestein (suspended), Kubler, Kyereh, Rosenfelder (all injured).
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| BTTS No | 7/10 | Freiburg 0 goals in 5 away games. 5 data points = reliable pattern. Depleted squad. |
-| Genk Win | 5.5/10 | Home advantage + Freiburg can't score away. But Genk's form is patchy |
-| Under 2.5 | 5/10 | Freiburg's away drought says Under, but Genk's games are typically wild |
-
----
-
-### 8. Nottingham Forest vs Midtjylland — BEST GAME OF THE NIGHT (for Under)
-**Forest's European fortress:** Clean sheets in last 3 EL home games. 65% CS ratio at home in Europe (17/26 games). 3 clean sheets in 3 EL games under Sean Dyche.
-
-**BUT:** Chris Wood (knee), Savona, Boly all OUT. Ortega (calf) doubtful — Sels may start.
-
-**Midtjylland GUTTED:** Top scorer Franculino (21 goals) injured. Winger Osorio suspended. Gogorza also out. Their attacking threat is almost non-existent.
-
-**Markets:**
-| Market | Confidence | Reasoning |
-|---|---|---|
-| **Under 2.5** | **7.5/10** | **Strongest pick of the night.** Forest's home European defence + Midtjylland without their top scorer + Forest without Wood. Neither team can score easily. |
-| BTTS No | 7/10 | Midtjylland without Franculino (21 goals) at a European fortress. |
-| Forest Win | 6/10 | Should control the game but missing Wood limits goals |
-| 1H Under 0.5 | 6/10 | Forest's EL home games have been tight, disciplined affairs |
-
----
-
-## Pre-Bet Checklist
-
-- [x] Verified injuries and suspensions from TODAY
-- [x] Adjusted for tournament level — **EL, not CL** (Under markets prioritised)
-- [x] **First legs** = extra caution, especially for away teams
-- [x] Multiple teams missing key strikers: Roma (Dybala + Dovbyk), Porto (Samu + De Jong), Midtjylland (Franculino), Freiburg (multiple + 0 away goals)
-- [x] Confidence scores honest — nothing above 7.5/10
-- [x] No result market above 8/10
-- [x] Using 5+ data points for Freiburg's away drought (not 3)
-- [x] Framework lesson from Feb 26: **Include Under/defensive combos** (tonight they ARE the main combos)
-- [x] Each pick appears in max 2 combos
-- [x] Anchor and hedge are truly independent (different games)
-
----
-
-## Combo Construction (Budget: 300 kr)
-
-### Combo 1 — Anchor (100 kr, 33%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Forest vs Midtjylland | Under 2.5 | 7.5/10 |
-| Bologna vs Roma | Under 2.5 | 7/10 |
-
-**Overall: 7/10** | Expected odds: ~2.2-2.5x
-
-**Logic:** The two games where BOTH teams are missing key strikers. Forest's European fortress + Roma without any recognised forwards = the safest Under double of the night.
-
----
-
-### Combo 2 — Main Bet (80 kr, 27%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Stuttgart vs Porto | Under 2.5 | 7/10 |
-| Genk vs Freiburg | BTTS No | 7/10 |
-
-**Overall: 7/10** | Expected odds: ~2.0-2.3x
-
-**Logic:** Porto can't score (no strikers), Freiburg can't score away (0 in 5). Two different games, two different angles, same defensive thesis. **Completely independent from Combo 1.**
-
----
-
-### Combo 3 — Hedge (70 kr, 23%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Stuttgart vs Porto | BTTS No | 7/10 |
-| Lille vs Villa | Under 2.5 | 6.5/10 |
-
-**Overall: 6.5/10** | Expected odds: ~2.3-2.7x
-
-**Logic:** Stuttgart/Porto BTTS No and Under 2.5 are correlated but not identical — if Stuttgart score 2 and Porto 1, C2's Under fails but C3's BTTS No fails too. BUT if it's 1-0, both survive. Villa's freefall (1W in 7) + depleted squad = limited attacking output. **Independent from Combo 1** (zero shared games).
-
----
-
-### Combo 4 — Fun Treble (50 kr, 17%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Forest vs Midtjylland | BTTS No | 7/10 (safe leg) |
-| Celta Vigo vs Lyon | 1H Over 0.5 | 6.5/10 |
-| Panathinaikos vs Betis | Under 2.5 | 6/10 |
-
-**Overall: 6/10** | Expected odds: ~3.5-4.5x
-
-**Logic:** Safe leg (Forest BTTS No) + Celta's attacking form should produce an early goal vs a depleted Lyon + Greek night with both teams missing players should be tight. Fun bet with upside.
-
----
-
-## Diversification Check
-
-| Pick | Combos | Max 2? |
-|---|---|---|
-| Forest Under 2.5 | C1 | 1 ✅ |
-| Bologna Under 2.5 | C1 | 1 ✅ |
-| Stuttgart Under 2.5 | C2 | 1 ✅ |
-| Genk/Freiburg BTTS No | C2 | 1 ✅ |
-| Stuttgart BTTS No | C3 | 1 ✅ |
-| Lille/Villa Under 2.5 | C3 | 1 ✅ |
-| Forest BTTS No | C4 | 1 ✅ |
-| Celta 1H O0.5 | C4 | 1 ✅ |
-| Pana/Betis Under 2.5 | C4 | 1 ✅ |
-
-**Independence:** C1 shares zero games with C3. C2 shares Stuttgart with C3 (different market). If the entire "Under" thesis fails (goals everywhere), C4 still has Celta 1H O0.5 which benefits from goals.
-
----
-
-## Key Theme Tonight
-
-**This is an Under night.** Five teams are missing their primary goalscorers (Roma, Porto, Midtjylland, Freiburg, Panathinaikos). It's first legs in EL — teams play cautious. The Feb 26 lesson was clear: EL ≠ CL for goals. Tonight we lean INTO that lesson instead of fighting it.
-
-**Biggest risk:** If the night turns out chaotic (multiple 2-2s or 3-1s), Combos 1-3 all fail. Combo 4's Celta 1H O0.5 is the only offensive pick that would benefit. But with this many injured strikers across this many games, the probability of a full-on goal fest is low.
-
----
-
-## 📊 Post-Match Results
-
-### Match Results
-| Match | Score | Key Events |
-|---|---|---|
-| Bologna vs Roma | 1-1 | Bernardeschi 50', Pellegrini 70'. 0-0 at HT. |
-| Lille vs Aston Villa | 0-1 | Watkins 61' (header from Buendia flick). 0-0 at HT. |
-| Panathinaikos vs Real Betis | 1-0 | Taborda pen 87'. Llorente red card (Betis). 0-0 at HT. |
-| Stuttgart vs Porto | 1-2 | Moffi 21', Mora 27', Undav 40'. All 3 goals in 1H. |
-| Celta Vigo vs Lyon | 1-1 | Rueda 25', Lyon equaliser. |
-| Ferencvaros vs Braga | 2-0 | Kanichowsky 32', Joseph 68'. |
-| Genk vs Freiburg | 1-0 | El Ouahdi 24'. Freiburg 0 goals in now 6 straight away games. |
-| Forest vs Midtjylland | 0-1 | Cho Gue-sung ~80' (header). Forest had 22 shots, 0 goals. |
-
-**Total goals: 13 across 8 games (avg 1.63).** Extreme Under night.
-
-### Under 2.5 Results: 7/8 (87.5%)
-| Match | Goals | Under 2.5? |
-|---|---|---|
-| Bologna 1-1 Roma | 2 | ✅ |
-| Lille 0-1 Villa | 1 | ✅ |
-| Pana 1-0 Betis | 1 | ✅ |
-| **Stuttgart 1-2 Porto** | **3** | **❌** |
-| Celta 1-1 Lyon | 2 | ✅ |
-| Fradi 2-0 Braga | 2 | ✅ |
-| Genk 1-0 Freiburg | 1 | ✅ |
-| Forest 0-1 Midtjylland | 1 | ✅ |
-
-### Market Results
-| Match | Market | Prediction | Actual | Result |
+| Bologna – Roma | 1-1 | Bernardeschi 50', Pellegrini 70'. 0-0 i pausen |
+| Lille – Aston Villa | 0-1 | Watkins 61' (nick efter Buendía-flick). 0-0 i pausen |
+| Panathinaikos – Real Betis | 1-0 | Taborda straff 87'. Llorente utvisad (Betis). 0-0 i pausen |
+| Stuttgart – Porto | 1-2 | Moffi 21', Mora 27', Undav 40' — alla tre målen i första halvlek |
+| Celta Vigo – Lyon | 1-1 | Rueda 25', Lyon kvitterade |
+| Ferencváros – Braga | 2-0 | Kanichowsky 32', Joseph 68' |
+| Genk – Freiburg | 1-0 | El Ouahdi 24'. Freiburg nu noll mål i sex raka bortamatcher |
+| Forest – Midtjylland | 0-1 | Cho Gue-sung ~80' (nick). Forest 22 skott, 0 mål |
+
+**Totalt 13 mål på 8 matcher (1,63/match).** Extrem Under-kväll.
+
+### Marknadsutfall
+
+| Match | Marknad | Prognos | Utfall | Resultat |
 |---|---|---|---|---|
-| Bologna vs Roma | Under 2.5 (7/10) | ✅ expected | 2 goals | ✅ |
-| Bologna vs Roma | BTTS No (6.5/10) | ✅ expected | Both scored | ❌ |
-| Lille vs Villa | Under 2.5 (6.5/10) | ✅ expected | 1 goal | ✅ |
-| Lille vs Villa | Lille Win (5.5/10) | Lean | Villa won 0-1 | ❌ |
-| Pana vs Betis | Under 2.5 (6/10) | ✅ expected | 1 goal | ✅ |
-| Stuttgart vs Porto | Under 2.5 (7/10) | ✅ expected | 3 goals | ❌ |
-| Stuttgart vs Porto | BTTS No (7/10) | ✅ expected | Both scored | ❌ |
-| Celta vs Lyon | Celta DNB (7/10) | ✅ expected | Draw (money back) | ✅ |
-| Celta vs Lyon | 1H O0.5 (6.5/10) | ✅ expected | Rueda 25' | ✅ |
-| Genk vs Freiburg | BTTS No (7/10) | ✅ expected | 1-0, Freiburg 0 goals | ✅ |
-| Forest vs Midtjylland | Under 2.5 (7.5/10) | ✅ expected | 1 goal | ✅ |
-| Forest vs Midtjylland | BTTS No (7/10) | ✅ expected | Only Midtjylland scored | ✅ |
+| Bologna – Roma | Under 2,5 | ✅ väntat (7/10) | 2 mål | ✅ |
+| Bologna – Roma | BTTS Nej | ✅ väntat (6,5/10) | Båda gjorde mål | ❌ |
+| Lille – Villa | Under 2,5 | ✅ väntat (6,5/10) | 1 mål | ✅ |
+| Lille – Villa | Lille vinst | 5,5/10, lutning | Villa vann 0-1 | ❌ |
+| Pana – Betis | Under 2,5 | ✅ väntat (6/10) | 1 mål | ✅ |
+| Stuttgart – Porto | Under 2,5 | ✅ väntat (7/10) | 3 mål | ❌ |
+| Stuttgart – Porto | BTTS Nej | ✅ väntat (7/10) | Båda gjorde mål | ❌ |
+| Celta – Lyon | Celta DNB | ✅ väntat (7/10) | Kryss (insats åter) | ✅ |
+| Celta – Lyon | 1H över 0,5 | ✅ väntat (6,5/10) | Rueda 25' | ✅ |
+| Genk – Freiburg | BTTS Nej | ✅ väntat (7/10) | 1-0, Freiburg mållösa | ✅ |
+| Forest – Midtjylland | Under 2,5 | ✅ väntat (7,5/10) | 1 mål | ✅ |
+| Forest – Midtjylland | BTTS Nej | ✅ väntat (7/10) | Bara Midtjylland gjorde mål | ✅ |
 
-**Individual pick accuracy: 8/9 combo picks hit (89%)**
+**Under 2,5 föll in i 7 av 8 matcher (87,5 %)** — enda undantaget Stuttgart–Porto. **Kupongspelen: 8 av 9 skänklar in (89 %).**
 
-### Combo Results
-| Combo | Stake | Result | Failed Leg(s) | P/L |
-|---|---|---|---|---|
-| C1 — Anchor (Forest U2.5 + Bologna U2.5) | 100 kr | ✅ | — | ~+130 kr |
-| C2 — Main (Stuttgart U2.5 + Genk BTTS No) | 80 kr | ❌ | Stuttgart 1-2 Porto (3 goals) | -80 kr |
-| C3 — Hedge (Stuttgart BTTS No + Lille/Villa U2.5) | 70 kr | ❌ | Stuttgart 1-2 Porto (both scored) | -70 kr |
-| C4 — Fun Treble (Forest BTTS No + Celta 1H + Pana U2.5) | 50 kr | ✅ | — | ~+125 kr |
+### Kupongutfall
 
-### Overall: 2/4 combos hit | Estimated profit: ~+105 kr ✅
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare (100 kr) | ✅ | — (~+130 kr) |
+| C2 — Huvudspel (80 kr) | ❌ | Stuttgart u2,5 (3 mål) — -80 kr |
+| C3 — Hedge (70 kr) | ❌ | Stuttgart BTTS-N (båda gjorde mål) — -70 kr |
+| C4 — Uppsida (50 kr) | ✅ | — (~+125 kr) |
 
----
+### Kortspel (singlar, utanför kupongerna — G4)
 
-### 🧠 Self-Evaluation
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| — | — | — | inget kortspel lagt (**G1** ej uppfylld) |
 
-**Confidence calibration:** Excellent — 8/9 individual picks landed. The Under thesis (7/8 = 87.5%) was the best market read of any EL night in this project's history. Forest Under 2.5 at 7.5/10 (strongest pick) delivered perfectly. Only Stuttgart/Porto at 7/10 was overconfident.
+### Totalt: 2/4 kuponger | Vinst/förlust: ~+105 kr
 
-**Best read of the night:** Forest vs Midtjylland — labelled "best game of the night for Under" and it was exactly that. 0-1, late header, Forest had 22 shots but couldn't score without Wood. Both Under 2.5 and BTTS No hit.
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
-**Worst read of the night:** Stuttgart vs Porto — Porto scored twice in 6 minutes (Moffi 21', Mora 27') despite having NO recognised strikers. This is the "missing strikers ≠ can't score" lesson (from Palace on March 5) not being applied. Porto's depth (Moffi, Mora are established professionals) was underestimated. Should have been 5.5-6/10, not 7/10.
+### 🧠 Självutvärdering
 
-**Critical structural flaw:** Stuttgart/Porto appeared in BOTH C2 (Under 2.5) and C3 (BTTS No). When Porto scored 2 AND Stuttgart scored 1, both defensive markets on the same game failed simultaneously. 150 kr (50% of budget) was exposed to one match. C2 and C3 died together — the hedge couldn't save us.
-
-**Key learnings:**
-1. **NEVER put the same game in both Main Bet AND Hedge** — different defensive markets on the same game are correlated. When the game produces goals, Under AND BTTS No both fail. Stuttgart/Porto killed C2 + C3.
-2. **"Missing strikers" discount only applies when replacements are unproven** — Moffi and Mora are legitimate EL-level strikers. Porto's depth was real. Only apply the full "no strikers" confidence boost when replacements are youth/untested.
-3. **EL first legs suppress goals even MORE than expected** — 1.63 avg goals across 8 games. For future EL R16 first legs, boost Under 2.5 base confidence by 0.5.
-4. **The Feb 26 EL lesson was FULLY vindicated** — going defensive-first in EL produced +105 kr profit vs the -100% loss when we went offensive.
+- **Kalibrering:** Utmärkt — 8 av 9 skänklar in. Under-tesen (7/8) var projektets bästa marknadsläsning på en EL-kväll. Forest Under 2,5 på 7,5/10 levererade exakt. Bara Stuttgart–Porto på 7/10 var övertro.
+- **Kvällens bästa läsning:** Forest – Midtjylland, utpekad som kvällens starkaste Under-läge och blev precis det. 0-1 på en sen nick, Forest 22 skott men inget mål utan Wood. Både Under 2,5 och BTTS Nej in.
+- **Kvällens sämsta läsning:** Stuttgart – Porto. Porto gjorde två mål på sex minuter (Moffi 21', Mora 27') trots att de saknade sina etablerade spetsar. Lärdomen från Palace 5 mars — "saknade spetsar ≠ kan inte göra mål" — tillämpades inte. Portos djup (Moffi, Mora är etablerade proffs) underskattades. Borde varit 5,5–6/10, inte 7/10.
+- **Strukturellt fel:** Stuttgart–Porto låg i både C2 (Under 2,5) och C3 (BTTS Nej). När Porto gjorde två och Stuttgart ett föll båda defensiva marknaderna samtidigt. 150 kr — halva budgeten — hängde på en match, och hedgen kunde inte räddas (**H5**, **H6**).
+- **Lärdom:**
+  1. **Lägg aldrig samma match i både huvudspel och hedge.** Olika defensiva marknader på samma match är korrelerade: när målen kommer faller både Under och BTTS Nej. Stuttgart–Porto dödade C2 och C3 (**H5**).
+  2. **"Saknade spetsar"-rabatten gäller bara när ersättarna är oprövade.** Moffi och Mora är EL-mässiga anfallare. Full rabatt endast när ersättarna är ungdom eller otestade.
+  3. **EL:s första ben dämpar målen ännu mer än väntat** — 1,63 mål per match. För kommande EL-åttondelar, första ben: höj basen för Under 2,5 med 0,5 (**B1**, **A6**).
+  4. **Lärdomen från 26 februari bekräftades fullt ut** — defensivt först i EL gav ~+105 kr, mot totalförlust när kvällen spelades offensivt. Skillförslag går via pull request och kräver 8+ datapunkter (**A2**).

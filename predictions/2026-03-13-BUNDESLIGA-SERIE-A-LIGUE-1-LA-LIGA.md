@@ -1,240 +1,152 @@
-# ⚽ Friday Night Multi-League — March 13, 2026
+# ⚽ Bundesliga, Serie A, Ligue 1 & La Liga — fredag 13 mars 2026
 
-## Tonight's Fixtures
+Fyra ligamatcher, alla enkelmatcher. **B1/B2** gäller inte. Med bara fyra matcher är perfekt oberoende mellan kupongerna omöjligt (**H5**) — se kupongavsnittet.
 
-| Match | League | Kickoff (CET) |
-|---|---|---|
-| Gladbach vs St. Pauli | Bundesliga | 20:30 |
-| Torino vs Parma | Serie A | 20:45 |
-| Marseille vs Auxerre | Ligue 1 | 20:45 |
-| Alaves vs Villarreal | La Liga | 21:00 |
+## 📋 Kvällens matcher & domare
 
----
-
-## Match-by-Match Analysis
-
-### 1. Gladbach vs St. Pauli (Bundesliga — Relegation Six-Pointer)
-**Gladbach (12th, 25 pts):** 1W in last 5. Lost 4-1 to Bayern. Missing **Kleindienst** (main striker!), Hack, Ngumu, Takai (all injured), Reitz (suspended).
-
-**St. Pauli (16th, 24 pts — relegation playoff spot):** 7 pts from last 9 (W2 D1). Beat Hoffenheim away. Best defensive record in bottom 7. Missing Jones (ankle), Mets (calf), Sands doubtful.
-
-**Context:** Only 1 point separates them. Both struggle to score. Gladbach without their main striker. Classic "tight, cagey relegation battle."
-
-| Market | Confidence | Reasoning |
-|---|---|---|
-| **Under 2.5** | **7/10** | Both teams struggle in the final third. Kleindienst out for Gladbach. St. Pauli defence is solid. Relegation fear = risk-averse. |
-| BTTS No | 6.5/10 | St. Pauli barely score (worst attack in bottom 7) + Gladbach without main striker |
-| Draw | 5.5/10 | The form + stakes suggest a tight game |
+| Tid | Match | Liga | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 20:30 | Gladbach – St. Pauli | Bundesliga | — | — | ej verifierad |
+| 20:45 | Torino – Parma | Serie A | — | — | ej verifierad |
+| 20:45 | Marseille – Auxerre | Ligue 1 | — | — | ej verifierad |
+| 21:00 | Alavés – Villarreal | La Liga | — | — | ej verifierad |
 
 ---
 
-### 2. Torino vs Parma (Serie A)
-**Torino (15th, 30 pts):** New manager D'Aversa (2 games: beat Lazio 2-0, lost 2-1 at Napoli). Lost 3 of last 4. Only 1W in 6.
+## 🔍 Match för match
 
-**Parma (12th, 34 pts):** Unbeaten in 5 (3W 2D). **3 consecutive away clean sheets** (beat Bologna, beat AC Milan, drew Fiorentina 0-0). 0 goals conceded in 3 away games = real pattern (exactly 3 data points... borderline, but impressive opponents).
+### 1. Gladbach – St. Pauli (20:30) — nedflyttningsmöte
 
-| Market | Confidence | Reasoning |
-|---|---|---|
-| **Under 2.5** | **7/10** | Parma's away defensive form is exceptional — 0 conceded in 3. Torino struggle to score (1W in 6). |
-| BTTS No | 6.5/10 | Parma may keep another clean sheet. But Torino beat Lazio 2-0 at home under new manager. |
-| Parma DNB | 5.5/10 | Better form but Torino's new manager bounce at home complicates things |
+**Läge.** Gladbach 12:a (25 p), 1 vinst på 5, 1-4 mot Bayern senast. St. Pauli 16:a (24 p, kvalplats), 7 p av 9, vann borta mot Hoffenheim, bäst försvar av de sju nedersta. En poäng skiljer.
 
----
+**Truppnytt (bekräftat 13 mar).** Gladbach utan **Kleindienst** (förstacenter), Hack, Ngumu, Takai (skador) och Reitz (avstängd). St. Pauli utan Jones (fotled), Mets (vad); Sands tveksam.
 
-### 3. Marseille vs Auxerre (Ligue 1)
-**Marseille (46 pts, top-4):** Missing Nadir, Gouiri, Timber. But still massive quality advantage.
+**Läsning.** Båda har problem på sista tredjedelen, Gladbach utan sin målskytt, och nedflyttningsrädsla ger riskaversion.
 
-**Auxerre (19 pts, near relegation):** Missing **Sinayoko** (suspended — top scorer, 6 goals), Kiala (ACL), Coulibaly (knock), Faivre + El Azzouzi doubtful. HEAVILY depleted.
+**Marknader.**
+- **Under 2,5** — 🟡 7/10
+- **BTTS Nej** — 🟡 6,5/10
+- **Kryss** — 🔴 5,5/10
 
-**Context:** Huge quality gap. Auxerre without their main threat, away to a top-4 side. Classic domination scenario.
+### 2. Torino – Parma (20:45)
 
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Marseille Win | 7/10 | Massive quality gap. Auxerre depleted + away. But capping at 7 (result market rule). |
-| BTTS No | 6.5/10 | Auxerre without Sinayoko. Only 19 pts, dire away form. |
-| Under 2.5 | 5.5/10 | Marseille should score but may not run up the score. Could be 1-0 or 2-0. |
+**Läge.** Torino 15:a (30 p), ny tränare D'Aversa (2-0 mot Lazio, 1-2 i Napoli), 3 förluster på 4, 1 vinst på 6. Parma 12:a (34 p), obesegrade i 5, **3 raka bortanollor** (Bologna, Milan, 0-0 Fiorentina).
 
----
+**Truppnytt (bekräftat 13 mar).** Inget dokumenterat i originalet.
 
-### 4. Alaves vs Villarreal (La Liga)
-**Alaves (16th, 27 pts — 2 above relegation):** 5-game winless. New manager Sanchez Flores (1 game: lost 2-3 to Valencia). **Pacheco + Guevara both suspended** (red cards), Benavidez doubtful.
+**Läsning.** Parmas bortaförsvar är exceptionellt och Torino gör få mål. ⚠️ **Men tre bortanollor är tre datapunkter — under A2:s åttagräns.** Det noterades i originalet som "borderline" och användes ändå som grund för två kuponger.
 
-**Villarreal (CL zone, 54 pts):** 11 pts above 5th. Won 2-1 vs Elche. Strong form. Rafa Marin doubtful.
+**Marknader.**
+- **Under 2,5** — 🟡 7/10
+- **BTTS Nej** — 🟡 6,5/10
+- **Parma DNB** — 🔴 5,5/10
 
-**Framework flag:** Rule 7 — desperate relegation team. Alaves at home fighting for survival. Cap Villarreal Win at 6/10 despite quality gap.
+### 3. Marseille – Auxerre (20:45)
 
-| Market | Confidence | Reasoning |
-|---|---|---|
-| Villarreal DNB | 6.5/10 | Quality gap is huge but desperate home teams are dangerous. DNB protects. |
-| Under 2.5 | 5.5/10 | New manager's first home game = could be cautious. But Alaves conceded 3 to Valencia... |
-| Villarreal Win | 6/10 | Capped per Rule 7. Alaves desperate but depleted (2 red cards). |
+**Läge.** Marseille 46 p, topp fyra. Auxerre 19 p, nära nedflyttning.
 
----
+**Truppnytt (bekräftat 13 mar).** Marseille utan Nadir, Gouiri, Timber. Auxerre utan **Sinayoko** (avstängd, bäste målskytt med 6), Kiala (korsband), Coulibaly; Faivre och El Azzouzi tveksamma.
 
-## Combo Construction (Budget: 300 kr)
+**Läsning.** Stort kvalitetsgap och en kraftigt plockad bortatrupp. ⚠️ **E2 kontrollerades inte** — Auxerres reservanfallare analyserades aldrig.
 
-**Note:** Only 4 games tonight — perfect independence between all combos is impossible. Minimising overlap.
+**Marknader.**
+- **Marseille vinst** — 🟡 7/10, cap enligt **A1**
+- **BTTS Nej** — 🟡 6,5/10
+- **Under 2,5** — 🔴 5,5/10
 
-### Combo 1 — Anchor (100 kr, 33%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Gladbach vs St. Pauli | Under 2.5 | 7/10 |
-| Torino vs Parma | Under 2.5 | 7/10 |
+### 4. Alavés – Villarreal (21:00)
 
-**Overall: 7/10** | Expected odds: ~2.0-2.3x
+**Läge.** Alavés 16:a (27 p, två över nedflyttning), 5 matcher utan vinst, ny tränare Sánchez Flores (2-3 mot Valencia). Villarreal i CL-zonen (54 p), 11 p över femman, 2-1 mot Elche.
 
-**Logic:** Two relegation-adjacent matches where both teams lack firepower. Kleindienst out for Gladbach, Parma haven't conceded away in 3 games. The safest double.
+**Truppnytt (bekräftat 13 mar).** Alavés utan **Pacheco och Guevara** (båda avstängda efter röda kort); Benavidez tveksam. Villarreal: Rafa Marin tveksam.
 
----
+**Läsning.** **F1** kapar Villarreal vinst på 6/10 — desperat hemmalag. Men Alavés är också plockat: två avstängningar betyder att deras bästa elva inte kan spela.
 
-### Combo 2 — Main Bet (80 kr, 27%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Marseille Win | 7/10 |
-| Villarreal DNB | 6.5/10 |
+**Marknader.**
+- **Villarreal DNB** — 🟡 6,5/10
+- **Villarreal vinst** — 🟡 6/10, cap enligt **F1**
+- **Under 2,5** — 🔴 5,5/10
 
-**Overall: 6.5/10** | Expected odds: ~2.2-2.5x
-
-**Logic:** Backing quality over desperation. Both are heavy favourites with depleted opponents. DNB on Villarreal protects against a draw.
+*p, rimligt odds och EV ej dokumenterade i originalet för någon match.*
 
 ---
 
-### Combo 3 — Hedge (70 kr, 23%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Marseille BTTS No | 6.5/10 |
-| Gladbach vs St. Pauli | Under 2.5 | 7/10 |
+## 🎯 Kuponger — 300 kr
 
-**Overall: 6.5/10** | Expected odds: ~2.3-2.7x
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | Gladbach u2,5 + Torino u2,5 | 🟡 7/10 | ~2,0–2,3 | — | — | — | 100 kr |
+| 2 | Huvudspel | Marseille vinst + Villarreal DNB | 🟡 6,5/10 | ~2,2–2,5 | — | — | — | 80 kr |
+| 3 | Hedge | Marseille BTTS-N + Gladbach u2,5 | 🟡 6,5/10 | ~2,3–2,7 | — | — | — | 70 kr |
+| 4 | Uppsida | Torino BTTS-N + Alavés u2,5 + Villarreal vinst | 🔴 5,5/10 | ~4,5–6 | — | — | — | 50 kr |
 
-**Logic:** If Marseille win but concede (C2 survives, C3 fails on BTTS No). If Marseille draw/lose 0-0 (C2 fails, C3's BTTS No survives). Gladbach U2.5 appears in C1 too (max 2 combos rule). C1 and C3 share Gladbach U2.5 but C1 and C2 are fully independent.
+**C1 — Ankare.** Tes: två lag utan spets möter varandra, Kleindienst ute · Regel: **H1**
+**C2 — Huvudspel.** Tes: kvalitet över desperation, DNB skyddar mot kryss · Regel: **H1**
+**C3 — Hedge.** Tes: Auxerre gör inte mål utan Sinayoko · Regel: **H3** (defensiv)
+**C4 — Uppsida.** Tes: Parmas bortanollor bär trippeln · Regel: **H7** (Torino BTTS-N är trygga skänkeln)
 
----
+**Matcher per kupong:** C1 Gladbach, Torino · C2 **Marseille**, Villarreal · C3 **Marseille**, **Gladbach** · C4 Torino, Alavés, Villarreal
 
-### Combo 4 — Fun Treble (50 kr, 17%)
-| Leg | Market | Confidence |
-|---|---|---|
-| Torino vs Parma | BTTS No | 6.5/10 (safe leg) |
-| Alaves vs Villarreal | Under 2.5 | 5.5/10 |
-| Villarreal Win | 6/10 |
-
-**Overall: 5.5/10** | Expected odds: ~4.5-6x
-
-**Logic:** Parma's 3 consecutive away clean sheets as the safe leg. Alaves Under in a new-manager-cautious scenario. Villarreal Win as the upside leg.
+⚠️ **Två brott mot H5.** C2 och C3 delar Marseille — gör Auxerre mål faller båda. C1 och C3 delar Gladbach. Dessutom är **H6** obruten på pappret men inte i praktiken: alla fyra kuponger är defensiva, alltså ingen motsatt tes någonstans.
 
 ---
 
-## Pre-Bet Checklist
+## ⚠️ Medvetet undvikna spel
 
-- [x] 4 different leagues — no special tournament adjustment needed
-- [x] Injuries verified: Kleindienst (Gladbach), Sinayoko (Auxerre), 2 red-card suspensions (Alaves)
-- [x] Desperate relegation teams: Alaves + St. Pauli — capped accordingly
-- [x] No result market above 7/10
-- [x] Each pick appears in max 2 of 4 combos
-- [x] C1 (Anchor) and C2 (Main) are fully independent (zero shared games)
-- [x] Under/defensive markets dominate (appropriate for these matchups)
-- [x] Fun treble has a safe leg (Parma BTTS No at 6.5/10)
+| Marknad | Varför |
+|---|---|
+| Alla offensiva marknader | Ingen offensiv kupong lades alls — se H6-anmärkningen ovan |
+| Alla 1H-marknader | Måltidsfördelning ej dragen (**D2**) |
+| Alla kortspel | Ingen domare uppslagen (**G1**) |
 
 ---
 
-## 🧪 Sub-Agent Test — Three AI Perspectives
+## 🟨 Kort
 
-After completing the analysis, three AI sub-agents with different temperaments independently reviewed the prediction. Here are their unfiltered takes:
-
----
-
-### 🟢 The Cautious Optimist — Overall Rating: 7.5/10
-
-> "Solid framework application with minor tweaks needed"
-
-**What they liked:**
-- Defensive-first approach is correct for a Friday card with these matchups
-- Anchor (C1) is well-constructed — two genuinely low-scoring matchups
-- Gladbach U2.5 at 7/10 is well-calibrated given Kleindienst's absence
-- Rule 7 correctly applied to Alaves (desperate relegation team)
-- Budget allocation follows the framework perfectly
-
-**What they flagged:**
-- **Marseille concentration risk:** Marseille appears in C2 (Win) AND C3 (BTTS No). If Marseille draw 1-1, both combos die. Not ideal — but with only 4 games, acknowledges perfect independence is impossible
-- **Marseille Win should be 6.5/10, not 7/10** — Auxerre have been scrappy away and Marseille are missing some players too
-- **C4 questionable:** Is a fun treble worth 50 kr when all three legs are 5.5-6.5/10? The expected value might be negative
-
-**Suggested adjustment:** Drop Marseille Win to 6.5/10. Consider whether C4's 50 kr would be better saved.
-
-**Verdict:** "Good discipline overall. The framework is being followed and the defensive lean is appropriate. Minor overconfidence on Marseille is the only real concern."
+Ingen domare och ingen kortstatistik dokumenterad i originalet. Inget kortspel.
 
 ---
 
-### 🔴 The Devil's Advocate — Overall Rating: 4.5/10
+## 📐 Felmarginal & insatser
 
-> "Breaking your own rules on the first day after writing them"
-
-**Critical issues identified:**
-
-1. **Rule 15 violation — ON DAY ONE.** Marseille is in C2 (Main) AND C3 (Hedge). You literally wrote Rule 15 yesterday after Stuttgart/Porto killed 50% of the budget with correlated defensive markets. Now Marseille Win (C2) and Marseille BTTS No (C3) are correlated — if Auxerre score, BOTH fail. The hedge is not truly independent.
-
-2. **Parma's 3-game clean sheet streak violates the 8-data-point rule.** The framework says "3 data points = anecdote, not pattern" and "require 8+ to call something a pattern." Yet Parma's away clean sheets (only 3 games!) are being used as a foundation for C1 and C4. This is the exact same mistake as "Aspas last 3 EL goals before half-time" which didn't hold.
-
-3. **"Missing players" over-reliance.** The entire Auxerre analysis hinges on Sinayoko being out. But the framework also says "missing strikers ≠ can't score" — goals redistribute. Where's the analysis of Auxerre's backup attackers?
-
-4. **All confidence ratings should be 1-1.5 points lower:**
-   - Gladbach U2.5: 6/10 (not 7 — Gladbach scored in their last home game)
-   - Torino U2.5: 5.5/10 (not 7 — Torino scored 2 under new manager at home vs Lazio)
-   - Marseille Win: 5.5/10 (not 7 — they're missing players too)
-   - Parma BTTS No: 5/10 (not 6.5 — based on only 3 data points)
-
-5. **No offensive combo at all.** What if these "cagey" games actually produce goals? There's no upside bet for a Gladbach 2-1 or a Torino 2-1 scenario.
-
-**Verdict:** "The framework is good but you're not following it. If Marseille draw 1-1, C2 AND C3 die — exactly the Stuttgart/Porto scenario. And Parma's clean sheet streak has exactly the number of data points the framework calls an anecdote. I'd rate this night at 4.5/10 for framework compliance."
+Originalet angav ingen felmarginal och ingen Kelly-beräkning. Den strukturella svagheten noterades däremot: med fyra matcher är oberoende omöjligt, **vilket är ett argument för sänkt budget, inte för att bortse från H5**.
 
 ---
 
-### 🟡 The Value Hunter — Overall Rating: 6.5/10
+## ✅ Checklista
 
-> "Too defensive — you're leaving money on the table"
-
-**Their alternative view:**
-
-1. **Marseille Win should be 8.5/10.** They're at home, in form, and Auxerre are massively overperforming their xG all season. Without Sinayoko, Auxerre's attack is practically non-existent away from home. The 7/10 cap is overcorrection from the Madrid loss.
-
-2. **Villarreal Win should be 7.5/10.** Alaves are "desperate" but also DEPLETED — two red-card suspensions means their best XI can't even play. Desperation means nothing without the personnel to execute it.
-
-3. **Missing offensive plays:**
-   - Marseille Over 1.5 Team Goals (7.5/10) — if Marseille are this dominant, why only back the clean sheet?
-   - Marseille vs Auxerre Over 2.5 (6.5/10) — Marseille at home should create enough for 3+ goals
-   - Gladbach vs St. Pauli 1H Under 0.5 (6/10) — if it's truly a cagey relegation battle, the first half should be goalless
-
-4. **Combo structure is too one-dimensional.** All four combos are essentially defensive. If even ONE game produces 3+ goals, the whole card is in trouble. A balanced card needs at least one offensive combo.
-
-5. **Suggested alternative C4:**
-   - Marseille Over 1.5 Team Goals + Villarreal Win — backs the domination scenarios directly
-
-**Verdict:** "You've overcorrected from the EL losses. These are domestic league matches with clear quality gaps and depleted opponents — lean into the favourites more. The entirely defensive structure ignores obvious value in domination scenarios."
+**Verifiering** — skador och avstängningar ✅ (Kleindienst, Sinayoko, två röda i Alavés) · full trupp ⚠️ Auxerres reserver ej granskade (**E2**) · domarstatistik ❌
+**Kalibrering** — inget resultatspel över 7 ✅ · **8+ datapunkter ❌ Parmas bortanollor har 3 och bar två kuponger** · F1-cap ✅ Alavés och St. Pauli
+**Målmarknader** — C6 ⚠️ · D2 ✅ 1H uteslutna
+**Situation** — F1 ✅ · F2 ej prövad
+**Odds & värde** — p och rimligt odds ❌ · EV ❌ · felmarginal ❌
+**Kuponger** — H2 ✅ · H3 ✅ · **H5 ❌ C2/C3 delar Marseille, C1/C3 delar Gladbach** · **H6 ❌ alla fyra kuponger defensiva** · H7 ✅
 
 ---
 
-### 📊 Side-by-Side Comparison
+## 📚 Källor
 
-| Pick | My Rating | Cautious Optimist | Devil's Advocate | Value Hunter |
+Ej dokumenterade i originalfilen.
+
+---
+
+## 🧪 Bilaga — tre AI-perspektiv på analysen
+
+Tre subagenter granskade analysen oberoende före avspark. Sammanfattat:
+
+| Spel | Analysen | Försiktig optimist | Djävulens advokat | Värdejägare |
 |---|---|---|---|---|
-| Gladbach U2.5 | 7/10 | 7/10 | 6/10 | 7/10 |
-| Torino U2.5 | 7/10 | 7/10 | 5.5/10 | 6.5/10 |
-| Marseille Win | 7/10 | 6.5/10 | 5.5/10 | **8.5/10** |
-| Marseille BTTS No | 6.5/10 | 6/10 | 5/10 | 6/10 |
-| Villarreal DNB | 6.5/10 | 6.5/10 | 5.5/10 | 7/10 |
-| Villarreal Win | 6/10 | 5.5/10 | 5/10 | **7.5/10** |
-| Parma BTTS No | 6.5/10 | 6/10 | **5/10** | 6/10 |
-| Rule 15 compliance | ⚠️ | ⚠️ noted | 🔴 **violated** | N/A |
-| Framework score | — | 7.5/10 | 4.5/10 | 6.5/10 |
+| Gladbach u2,5 | 7/10 | 7/10 | 6/10 | 7/10 |
+| Torino u2,5 | 7/10 | 7/10 | 5,5/10 | 6,5/10 |
+| Marseille vinst | 7/10 | 6,5/10 | 5,5/10 | **8,5/10** |
+| Marseille BTTS-N | 6,5/10 | 6/10 | 5/10 | 6/10 |
+| Villarreal DNB | 6,5/10 | 6,5/10 | 5,5/10 | 7/10 |
+| Villarreal vinst | 6/10 | 5,5/10 | 5/10 | **7,5/10** |
+| Parma BTTS-N | 6,5/10 | 6/10 | **5/10** | 6/10 |
+| Ramverksbetyg | — | 7,5/10 | **4,5/10** | 6,5/10 |
+
+**Djävulens advokat hade den starkaste invändningen:** H5 bröts dagen efter att regeln skrevs, och Parmas tre bortanollor är exakt det antal datapunkter **A2** kallar en anekdot. **Värdejägaren** pekade på överkorrigering — en helt defensiv kupongstruktur lämnar värde i tydliga dominansscenarier. Båda invändningarna kvarstår obesvarade i den publicerade versionen.
 
 ---
 
-### 🎯 Honest Takeaway
-
-The Devil's Advocate makes the strongest structural point: **Rule 15 is technically violated on its very first day.** Marseille appears in both C2 and C3, creating correlated risk. With only 4 games, perfect independence is genuinely impossible — but that's an argument for reducing budget, not ignoring the rule.
-
-The Value Hunter correctly identifies overcorrection bias — the entirely defensive combo structure may leave value on the table in clear domination scenarios.
-
-The Cautious Optimist lands closest to the original analysis but with useful minor adjustments.
-
-**The truth is probably somewhere between all three.** This is a thin Friday card, and the honest answer is that confidence should be moderate across the board. The combos are published as-is — let's see which perspective the results vindicate.
+*Ingen efteranalys finns för den här kvällen i originalfilen.*

@@ -1,373 +1,240 @@
-# ⚽ CL R16 Second Legs — Tuesday 17 March 2026
+# ⚽ Champions League — åttondelsfinaler, andra ben, tisdag 17 mars 2026
 
-## Tonight's Card
+Fyra matcher, samtliga **andra ben**. **B2** gäller: andra ben lutar *inte* Under — det jagande laget måste attackera hemma. En genuint levande dubbelmatch (Arsenal–Leverkusen 1-1), tre lägen där hemmalaget jagar ett underläge. **E5** (återvändande avstängda kan flippa en dubbelmatch) och **F11** (bussparkering borta i ett andra ben är skört) prövas per match nedan.
 
-| Match | First Leg | KO (CET) | Status |
-|---|---|---|---|
-| Sporting CP vs Bodø/Glimt | **Glimt 3-0** | 18:45 | Glimt virtually through |
-| Arsenal vs Bayer Leverkusen | **Leverkusen 1-1 Arsenal** | 21:00 | **LIVE TIE** |
-| Chelsea vs PSG | **PSG 5-2 Chelsea** | 21:00 | PSG virtually through |
-| Man City vs Real Madrid | **RM 3-0 City** | 21:00 | RM virtually through |
+## 📋 Kvällens matcher & domare
 
-One genuinely live tie (Arsenal/Leverkusen). Three chasing scenarios where the trailing team must attack but likely can't overturn. Prime CL second-leg territory for goals markets.
-
----
-
-## 🏟️ Match-by-Match Analysis
-
-### 1. Sporting CP vs Bodø/Glimt (18:45)
-**Glimt lead 3-0 on aggregate**
-
-| | Sporting CP | Bodø/Glimt |
-|---|---|---|
-| **Form** | Decent domestically | 5 straight CL wins |
-| **Key absences** | Araújo, Pedro Gonçalves (suspended), Ioannidis, Quenda, Mangas (injured) | Fully fit squad |
-| **Motivation** | Pride, fans — but depleted | Professional job, protect lead |
-
-**Analysis:**
-- Sporting are SERIOUSLY depleted. Two starting attackers suspended, three more injured. Suárez and Trincão lead a thin attack.
-- Framework: "Must chase — but can they?" Sporting's quality is significantly reduced.
-- Glimt will sit deeper than at Aspmyra. 3-0 lead = no need to press.
-- Framework warning: Norwegian team in off-season... BUT Glimt have been playing CL all winter and Norwegian league just started March 14. They're match-sharp.
-- Sporting at home WILL create something — Estádio José Alvalade crowd will push. But overturning 3-0 with this squad? Near impossible.
-
-**Markets:**
-- Over 1.5 Goals: 6/10 — Sporting should score at least once at home, and an open game structure could produce 2+
-- BTTS: 5/10 — Glimt might not commit forward with 3-0 lead
-- Over 2.5: 4.5/10 — Possible if Sporting throw everything forward and Glimt counter
-- Sporting Win: 6/10 — On the night they should edge it, but depleted squad limits confidence
-
----
-
-### 2. Arsenal vs Bayer Leverkusen (21:00) ⭐ THE MAIN EVENT
-**1-1 on aggregate — all to play for**
-
-| | Arsenal | Bayer Leverkusen |
-|---|---|---|
-| **League pos** | 1st PL (70 pts) | — |
-| **Form** | W4 of last 5 (excellent) | W1 D4 of last 5 (draw kings) |
-| **Key absences** | Timber, Odegaard, Merino | Flekken, Bade, Arthur, Lucas Vazquez; Aleix Garcia doubtful |
-| **Key returns** | Trossard close to return | — |
-
-**Analysis:**
-- **Arsenal at the Emirates in a CL knockout decider.** This is their moment. 1st in PL, best form in England.
-- **Odegaard and Merino are BIG misses** — that's their creative engine and midfield control. Framework rule 6: 2+ key players missing → cap win confidence. BUT Arsenal have Saka, Havertz, Rice, and depth. This isn't a crisis.
-- **Leverkusen are the DRAW KINGS** — 4 draws in 5 games. Including 1-1 at Bayern and 1-1 at Arsenal. Supremely hard to beat but struggle to WIN.
-- First leg was 1-1 — tight, tactical, Havertz penalty. Very on-brand for Leverkusen.
-- **Key question:** Can Leverkusen win at the Emirates? They'd need to score AND defend. Their form suggests they'll try to stay tight and counter — but their attack has been blunt (7 goals in 5 games).
-- Arsenal missing Odegaard hurts creativity, but Saka + Havertz + Rice provide enough.
-
-**Markets:**
-- **Arsenal Win: 7/10** — Home, best form, live tie. Short odds (~1.37). Capped from 8/10 due to missing Odegaard + Merino (rule 6). Leverkusen's draw-heavy form is the main risk.
-- **Under 2.5: 6/10** — First leg was 1-1. Leverkusen draw everything. Screams tight game. Could easily be 1-0 Arsenal.
-- **BTTS: 5.5/10** — Leverkusen scored in the first leg. Wirtz has quality. But they've been toothless recently (1W in 5).
-- **Over 2.5: 5/10** — Possible if Arsenal open up, but Leverkusen are built to keep it tight.
-- **1H Over 0.5: 6.5/10** — Arsenal at home in a CL knockout. Saka will be electric. Emirates atmosphere.
-
----
-
-### 3. Chelsea vs PSG (21:00)
-**PSG lead 5-2 on aggregate — tie is OVER**
-
-| | Chelsea | PSG |
-|---|---|---|
-| **Form** | L3 of last 5 (awful) | W3 of last 5 |
-| **Key absences** | Colwill, Mudryk, James; Estevao/Bynoe-Gittens/Gusto doubtful | Fabian Ruiz only |
-| **Context** | Need 4 goals. Impossible. Playing for pride. | Already through. Can rotate slightly. |
-
-**Analysis:**
-- **This tie is dead.** Chelsea need 4 without conceding. After 5-2 in Paris. Not happening.
-- **BUT this is a goals game.** Chelsea's BTTS record is incredible — they score AND concede in almost every game. Averaging 2.2 goals conceded recently.
-- PSG won't fully park the bus. Dembélé, Barcola will still attack. Luis Enrique's teams always play.
-- Chelsea's young squad won't lie down at Stamford Bridge. They'll attack with nothing to lose.
-- **Last 5 Chelsea vs PSG: ALL had Over 2.5 goals.** Strong data (5 data points).
-- **PSG Over 2.5 in last 4 CL away games.** Pattern holds.
-
-**Markets:**
-- **BTTS: 7.5/10** — Chelsea's BTTS record + PSG still attack + dead rubber openness. Near-automatic.
-- **Over 2.5: 7/10** — 5 of 5 H2H have delivered. Both teams attack.
-- **Chelsea Win: 5.5/10** — PSG may ease off. Chelsea have home crowd. Plausible on the night.
-- **1H Over 0.5: 7/10** — Both teams score early. Chelsea will try to give fans something.
-
----
-
-### 4. Man City vs Real Madrid (21:00) ⭐ THE GOALS GAME
-**Real Madrid lead 3-0 on aggregate — Mbappé available from bench**
-
-| | Man City | Real Madrid |
-|---|---|---|
-| **Form** | W1 D2 of last 4 PL (struggling) | W4 of last 5 (excellent) |
-| **Key absences** | Gvardiol (tibial fracture), Rico Lewis (ankle) | Bellingham, Rodrygo (ACL), Ceballos |
-| **Key returns** | Kovacic available | **Mbappé fit — likely bench impact sub** |
-| **Context** | Need 3 to force ET, 4 to win in 90' | 3-0 up. Mbappé as super-sub weapon. |
-
-**Analysis:**
-- **City MUST attack.** Down 3-0 from Valverde's hat-trick. At the Etihad, they'll throw everything forward.
-- **But RM are the PERFECT counter-attacking team for this scenario.** Vinícius + Valverde (form of his life) + Mbappé off the bench = lethal on the break.
-- **Framework: "Must chase at CL level — do they have the quality?"** City YES, but RM have MORE quality AND the tactical advantage (sit back, counter).
-- City's recent form is concerning: drew with Forest (2-2) and West Ham (1-1). Not the City of old.
-- **Mbappé off the bench at 60' when City are desperate and legs are tired = nightmare scenario for City.**
-- **Framework lesson from first leg:** Valverde hat-trick (20', 27', 42') made it completely one-sided. RM in steamroller mode on the counter.
-
-**Markets:**
-- **Over 2.5: 7.5/10** — City MUST score 3+. RM will counter with Viní + Valverde + eventually Mbappé. THE goals game of the night. Framework: "Must chase at CL level = goals" confirmed.
-- **BTTS: 7/10** — RM WILL score on the counter. Mbappé off the bench makes this near-certain. City must score too.
-- **1H Over 0.5: 7.5/10** — City will come out flying at the Etihad. CL knockout desperation. Early goal almost guaranteed.
-- **Over 3.5: 5.5/10** — Possible if the game opens up completely after Mbappé introduction.
-- **City Win: 5.5/10** — They'll dominate possession but RM on the counter might nick it or draw.
-
----
-
-## 📊 Market Rankings (Strongest to Weakest)
-
-| Rank | Match | Market | Confidence |
-|---|---|---|---|
-| 1 | City vs RM | Over 2.5 | 7.5/10 |
-| 2 | Chelsea vs PSG | BTTS | 7.5/10 |
-| 3 | City vs RM | 1H Over 0.5 | 7.5/10 |
-| 4 | Arsenal vs Leverkusen | Arsenal Win | 7/10 |
-| 5 | Chelsea vs PSG | Over 2.5 | 7/10 |
-| 6 | City vs RM | BTTS | 7/10 |
-| 7 | Chelsea vs PSG | 1H Over 0.5 | 7/10 |
-| 8 | Arsenal vs Leverkusen | 1H Over 0.5 | 6.5/10 |
-| 9 | Arsenal vs Leverkusen | Under 2.5 | 6/10 |
-| 10 | Sporting vs Glimt | Over 1.5 | 6/10 |
-
----
-
-## 🎯 Combo Recommendations
-
-**Budget: 400 kr**
-
-| Combo | Type | Stake | Picks | Confidence | Est. Odds |
+| Tid | Match | Första ben | Domare | Gula/match | Urval |
 |---|---|---|---|---|---|
-| **C1** | Anchor | 140 kr | **Arsenal Win + City/RM Over 2.5** | 6.5/10 | ~2.40 |
-| **C2** | Main | 100 kr | **City/RM BTTS + Chelsea/PSG BTTS** | 6.5/10 | ~2.90 |
-| **C3** | Hedge | 90 kr | **Arsenal/Leverkusen Under 2.5 + Chelsea/PSG 1H Over 0.5** | 5.5/10 | ~2.90 |
-| **C4** | Fun treble | 70 kr | **Arsenal Win + City/RM BTTS + Chelsea/PSG Over 2.5** | 5/10 | ~4.50 |
-
-### Combo Logic
-
-**C1 — Anchor (140 kr):** The two strongest reads combined. Arsenal at home in a live CL tie + City MUST attack RM (CL-level chasing = goals). If Arsenal win any scoreline and City/RM has 3+ goals, this hits.
-
-**C2 — Main (100 kr):** Double BTTS across the two "dead rubber" games. City must score, RM will counter (Mbappé off bench). Chelsea score/concede in every game, PSG still attack. Result-independent — only needs goals from both sides.
-
-**C3 — Hedge (90 kr):** Built to survive if Arsenal DON'T win or the main thesis fails. Arsenal/Leverkusen Under 2.5 (Leverkusen are draw kings, first leg was 1-1). Chelsea/PSG 1H goal (near-automatic). NO overlap with C1's direction. If Arsenal draw 0-0 or 1-1, this hits while C1 dies.
-
-**C4 — Fun treble (70 kr):** "Everything goes right" — Arsenal win + both big games produce mutual goals. Safe leg = Arsenal Win (7/10). Pays ~4.50x if it lands.
-
-### Diversification Check
-
-- ✅ Arsenal Win in C1 + C4 only (2/4 max)
-- ✅ City/RM in C1 (Over 2.5) + C2 (BTTS) + C4 (BTTS) — different markets
-- ✅ Chelsea/PSG in C2 (BTTS) + C3 (1H O0.5) + C4 (Over 2.5) — different markets
-- ✅ C3 (Hedge) survives if Arsenal draw — true independence from C1
-- ✅ Best defensive read (Arsenal Under 2.5) IS in a combo
-- ✅ No result market above 8/10 (Arsenal capped at 7/10)
-- ✅ Treble has a safe leg (Arsenal Win 7/10)
-- ✅ Anchor and Hedge are truly independent — different games, different directions
-- ✅ Main (C2) and Hedge (C3) share Chelsea/PSG but different markets (BTTS vs 1H O0.5) — NOT correlated
-
-### Scenario Matrix
-
-| Scenario | C1 | C2 | C3 | C4 |
-|---|---|---|---|---|
-| Arsenal 1-0, City 1-2, Chelsea 2-1 | ✅ | ✅ | ✅ | ✅ |
-| Arsenal 1-0, City 2-1, Chelsea 1-2 | ✅ | ✅ | ✅ | ✅ |
-| Arsenal 0-0, City 1-2, Chelsea 2-1 | ❌ | ✅ | ✅ | ❌ |
-| Arsenal 2-1, City 1-2, Chelsea 0-2 | ✅ | ❌ | ❌ | ❌ |
-| Arsenal 1-1, City 2-0, Chelsea 1-1 | ❌ | ❌ | ✅ | ❌ |
-| Arsenal 2-0, City 3-1, Chelsea 2-2 | ✅ | ✅ | ❌ | ✅ |
-
-**Best case:** Arsenal 1-0 + goals everywhere = 4/4 (~1,200 kr return)
-**Most likely:** Arsenal win tight + CL chasing games produce goals = 2-3/4
-**Worst case:** Arsenal draw + one BTTS fails = only C3 survives (90 kr → ~261 kr)
+| 18:45 | Sporting CP – Bodø/Glimt | Glimt 3-0 | Schärer (SUI) | 4,07 | ej dokumenterat i originalet |
+| 21:00 | Arsenal – Leverkusen | 1-1 | Makkelie (NED) | 3,08 | ej dokumenterat i originalet |
+| 21:00 | Chelsea – PSG | PSG 5-2 | Vinčić (SVN) | 3,66 | ej dokumenterat i originalet |
+| 21:00 | Man City – Real Madrid | Real 3-0 | Turpin (FRA) | 3,37 | 53 CL-matcher (straffar) |
 
 ---
 
-## ⚠️ Key Risks
+## 🔍 Match för match
 
-1. **Leverkusen draw again** — they've drawn 4 of 5. A 1-1 or 0-0 kills C1 and C4. That's why C3 exists.
-2. **City/RM goes low-scoring** — if RM shut up shop entirely (unlikely — they'll counter with Viní/Valverde/Mbappé), Over 2.5 and BTTS could both fail. But City MUST attack at CL level.
-3. **Chelsea/PSG is a flat dead rubber** — PSG rotate heavily, Chelsea lack motivation. Possible but unlikely given both teams' attacking DNA.
+### 1. Sporting CP – Bodø/Glimt (18:45)
+
+**Läge.** Glimt leder 3-0 totalt och har fem CL-vinster i rad. Sporting hyggliga på hemmaplan i ligan. Glimt är matchvassa trots norsk säsongsstart 14 mars — de har spelat CL hela vintern (**F10**).
+
+**Truppnytt (bekräftat 17 mar).** Sporting utan Araújo och Pedro Gonçalves (avstängda) samt Ioannidis, Quenda och Mangas (skadade) — Suárez och Trincão leder en tunn attack. Glimt fullt spelklara. *Avstängningarnas turneringsomfång ej verifierat (**E6**) — se efteranalysen.*
+
+**Läsning.** "Måste jaga — men kan de?" Sporting är kraftigt urholkade, och 3-0 är nära omöjligt att vända med den truppen. Glimt sitter djupare än på Aspmyra — vilket är precis läget **F11** varnar för, men det prövades inte i originalet.
+
+**Marknader.**
+- **Över 1,5** — p —, rimligt odds —, EV —. 🟡 6/10
+- **Sporting vinst** — p —, rimligt odds —, EV —. 🟡 6/10
+- **BTTS** — 🔴 5/10. Glimt kanske aldrig går framåt med 3-0.
+- **Över 2,5** — 🔴 4,5/10. Kräver att Sporting kastar allt framåt.
+
+### 2. Arsenal – Leverkusen (21:00)
+
+**Läge.** 1-1 totalt — kvällens enda levande dubbelmatch. Arsenal 1:a i PL (70 p), 4 vinster på 5. Leverkusen 1 vinst och 4 kryss på 5, inklusive 1-1 hemma mot Arsenal och 1-1 på Bayern. Trubbig attack: 7 mål på 5 matcher.
+
+**Truppnytt (bekräftat 17 mar).** Arsenal utan Timber, Ødegaard och Merino; Trossard nära comeback. Leverkusen utan Flekken, Bade, Arthur och Lucas Vázquez; Aleix García tveksam.
+
+**Läsning.** Emirates i en CL-avgörare är Arsenals läge. Ødegaard + Merino ute är den kreativa motorn — **A4** kapar vinstmarknaden från 8 till 7, men Saka, Havertz och Rice räcker. Leverkusens kryssform är hela risken.
+
+**Marknader.**
+- **Arsenal vinst** — p —, rimligt odds —. Marknad ~1,37 (indikativt, originalet). EV —. 🟡 7/10 (kapad av **A4**)
+- **Under 2,5** — p —, rimligt odds —, EV —. 🟡 6/10
+- **1H Över 0,5** — 🟡 6,5/10. **Måltidsfördelning ej dragen (D2)** — se sektion 5.
+- **BTTS** — 🔴 5,5/10. Leverkusen gjorde mål i första benet men är trubbiga.
+- **Över 2,5** — 🔴 5/10. Avstå.
+
+### 3. Chelsea – PSG (21:00)
+
+**Läge.** PSG leder 5-2 — dubbelmatchen är avgjord. Chelsea 3 förluster på 5, släpper in ~2,2 mål per match. PSG 3 vinster på 5 och attackerar alltid under Luis Enrique. **Alla 5 senaste H2H hade Över 2,5** och PSG Över 2,5 i sina 4 senaste CL-bortamatcher — båda mönstren under åttagränsen (**A2**).
+
+**Truppnytt (bekräftat 17 mar).** Chelsea utan Colwill, Mudryk och James; Estêvão, Bynoe-Gittens och Gusto tveksamma. PSG saknar bara Fabián Ruiz och kan rotera lätt.
+
+**Läsning.** Död dubbelmatch men båda lagens DNA är offensivt: Chelsea gör mål och släpper in mål, PSG parkerar inte bussen. Chelseas unga trupp spelar utan press hemma.
+
+**Marknader.**
+- **BTTS** — p —, rimligt odds —, EV —. 🟢 7,5/10
+- **Över 2,5** — p —, rimligt odds —, EV —. 🟡 7/10
+- **1H Över 0,5** — 🟡 7/10. **D2 ej uppfylld.**
+- **Chelsea vinst** — 🔴 5,5/10. Avstå.
+
+### 4. Man City – Real Madrid (21:00)
+
+**Läge.** Real leder 3-0 efter Valverdes hattrick före pausen. City behöver 3 för förlängning, 4 för avgörande i 90 (**C10**). City vacklar: 2-2 mot Forest, 1-1 mot West Ham, 1 vinst på 4 i PL. Real 4 vinster på 5.
+
+**Truppnytt (bekräftat 17 mar).** City utan Gvardiol (tibiafraktur) och Rico Lewis (fotled); Kovačić tillbaka. Real utan Bellingham, Rodrygo (korsband) och Ceballos — **Mbappé spelklar, väntas som inhoppare**. Real har **sex spelare på två gula** (Tchouaméni, Bellingham, Vinícius, Rodrygo, Huijsen, Carreras).
+
+**Läsning.** City måste attackera, och Real är det perfekta kontringslaget för det läget: Vinícius + Valverde + Mbappé in vid 60' mot trötta ben. **B2** i renodlad form — jagande hemmalag ger mål. Kvalitet finns hos City, men den taktiska fördelen ligger hos Real.
+
+**Marknader.**
+- **Över 2,5** — p —, rimligt odds —, EV —. 🟢 7,5/10. Kvällens målmatch.
+- **BTTS** — p —, rimligt odds —, EV —. 🟡 7/10
+- **1H Över 0,5** — 🟢 7,5/10. **D2 ej uppfylld.**
+- **Över 3,5** — 🔴 5,5/10. Bara om matchen öppnas helt.
+- **City vinst** — 🔴 5,5/10. Avstå.
+
+*p, rimligt odds och EV är inte dokumenterade i originalet för någon marknad (**I1**, **I2**, **I3**).*
 
 ---
 
+## 🎯 Kuponger — 400 kr
+
+| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | Arsenal vinst + City–Real ö2,5 | 🟡 6,5/10 | ~2,40 | — | — | — | 140 kr |
+| 2 | Huvudspel | City–Real BTTS + Chelsea–PSG BTTS | 🟡 6,5/10 | ~2,90 | — | — | — | 100 kr |
+| 3 | Hedge | Arsenal–Leverkusen u2,5 + Chelsea–PSG 1H ö0,5 | 🔴 5,5/10 | ~2,90 | — | — | — | 90 kr |
+| 4 | Uppsida | Arsenal vinst + City–Real BTTS + Chelsea–PSG ö2,5 | 🔴 5/10 | ~4,50 | — | — | — | 70 kr |
+
+**C1 — Ankare.** Tes: kvällens två starkaste läsningar — Arsenal hemma i en levande dubbelmatch plus City tvingade att jaga · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+**C2 — Huvudspel.** Tes: dubbel BTTS i de två döda dubbelmatcherna, resultatoberoende · Regel: **H1** (max 2–3 skänklar)
+**C3 — Hedge.** Tes: Leverkusens kryssform gör Under 2,5 till fallskärmen om Arsenal inte vinner · Regel: **H6** (motsatt tes mot C1), **H3** (defensiv)
+**C4 — Uppsida.** Tes: allt går rätt · Regel: **H7** (Arsenal vinst 7/10 är trygga skänkeln)
+
+**Matcher per kupong:** C1 Arsenal, City–Real · C2 City–Real, Chelsea–PSG · C3 Arsenal, Chelsea–PSG · C4 Arsenal, City–Real, Chelsea–PSG
+
+⚠️ **Alla fyra matcher återkommer i tre kuponger var** (Arsenal C1/C3/C4, City–Real C1/C2/C4, Chelsea–PSG C2/C3/C4) — **H5** kräver odelade matcher och **H2** tillåter max två. Originalet friskrev sig med "olika marknader"; det är inte vad H2/H5 säger.
+
 ---
 
-## 🔍 Alternative Analysis — Disciplinary & Special Markets
+## ⚠️ Medvetet undvikna spel
 
-*Referee data, yellow card trebles, penalty markets and red card watch*
+| Marknad | Varför |
+|---|---|
+| Chelsea vinst 🔴 5,5/10 | PSG kan lätta, men läsningen bär inte ett spel |
+| City vinst 🔴 5,5/10 | Real har den taktiska fördelen på kontring |
+| Arsenal–Leverkusen Över 2,5 🔴 5/10 | Leverkusen byggda för att hålla tätt |
+| Sporting–Glimt Över 2,5 🔴 4,5/10 | Kräver att Glimt öppnar upp med 3-0-ledning |
+| Straffmarknad Chelsea–PSG | Vinčić 0,12 straffar/match (**G9**) |
+| Alla 1H-marknader | Måltidsfördelning ej dragen för något lag (**D2**) — men originalet spelade dem ändå i C3 |
 
-### Referee Overview
+---
 
-| Match | Referee | Yellows/Game | Pens/Game |
+## 🟨 Kort
+
+| Domare | Match | Gula/match | Urval |
 |---|---|---|---|
-| Sporting vs Glimt | Schärer 🇨🇭 | **4.07** (strictest tonight) | — |
-| Chelsea vs PSG | Vinčić 🇸🇮 | 3.66 | **0.12 (almost never)** |
-| Arsenal vs Leverkusen | Makkelie 🇳🇱 | 3.08 | — |
-| **Man City vs Real Madrid** | **Turpin 🇫🇷** | 3.37 | **0.55 (UCL all-time record: 29 in 53 games)** |
+| Schärer (SUI) | Sporting – Glimt | 4,07 (kvällens strängaste) | ej dokumenterat |
+| Vinčić (SVN) | Chelsea – PSG | 3,66 · 0,12 straffar/match | ej dokumenterat |
+| Makkelie (NED) | Arsenal – Leverkusen | 3,08 | ej dokumenterat |
+| Turpin (FRA) | Man City – Real Madrid | 3,37 · **0,55 straffar/match** | 53 CL-matcher, 29 straffar |
+
+**Slutsats.** Kvällens kortdomare är Schärer (4,07), men **G2** pekar på Turpin-matchen: 0,55 straffar/match är CL:s högsta, och Vinícius (mest fällda spelaren i CL) plus Haaland i en desperat City-box gav ~48 % straffsannolikhet i originalet.
+
+Originalet rekommenderade en **kort-trippel** — Tchouaméni (~45 %) + Andrich (~40 %) + Caicedo (~32 %), ~5,8 % kombinerat, värde vid 20x+ — med Patrick Berg (Glimt) som högvarians-alternativ. Två invändningar: **G4** kräver att kortspel är *singlar*, inte en trippel, och **G5/G9** kräver bookmakerlinje plus lagens egna kort per match innan något rekommenderas. Ingen av dem fanns.
+
+Rödkortsbevakning i originalet: Andrich (högst risk — undkom en kroppstackling på Gyökeres i första benet), Vinícius (röda i La Liga, Turpin dömer), Berg (två gula + strängaste domaren).
+
+Halvtidskryss-trippel över alla fyra matcher: ~45 % × ~48 % × ~50 % × ~40 % ≈ 4,3 % mot ~50x (implicit 2 %), liten insats. Tesen var att PSG, Real och Glimt alla skulle sitta djupt — vilket är samma **F11**-antagande som inte prövades.
 
 ---
 
-### 🟨 Yellow Card Treble
+## 📐 Felmarginal & insatser
 
-**Recommended: Tchouaméni + Andrich + Caicedo (~5.8% combined → value at 20x+)**
+Ingen felmarginal och ingen kvarts-Kelly i originalet (**I5**, **I6**). Utan p och rimligt odds går ingen edge att mäta — alla fyra kuponger är prissatta på indikativa odds och konfidenssiffror.
 
-| Player | Club | UCL Yellows | Prob | Reasoning |
-|---|---|---|---|---|
-| **Tchouaméni** | Real Madrid | 2 (on threshold) | ~45% ⭐⭐⭐⭐⭐ | Screens against relentless City press for 90 mins. On 2 UCL yellows — one more = QF ban. Turpin refereeing. Will make repeated tactical fouls. |
-| **Andrich** | Leverkusen | 1 | ~40% ⭐⭐⭐⭐ | Nearly got second yellow in first leg for blatant body-check on Gyokeres — escaped. Same opponent tonight. Physical midfielder in a match both teams need to win. |
-| **Caicedo** | Chelsea | 1 | ~32% ⭐⭐⭐ | Pressing machine chasing 4 goals. Will make desperate tackles when PSG break. Vinčić active with yellows (3.66/game). |
+Identifierade risker (ur originalets "Key Risks"):
+1. **Leverkusen kryssar igen** — 4 kryss på 5. Ett 1-1 eller 0-0 dödar C1 och C4; C3 är därför fallskärmen.
+2. **City–Real blir målfattig** — om Real stänger helt faller både Över 2,5 och BTTS, alltså C1 och C2 samtidigt.
+3. **Chelsea–PSG blir platt** — tung PSG-rotation och Chelsea utan motivation.
 
-**High-variance alternative:** Replace Caicedo with **Patrick Berg (Glimt)** — also on 2 UCL yellows, Schärer is the strictest ref tonight (4.07/game), defending desperately under Sporting's all-out attack. Risk: Glimt may manage him off early to protect his QF availability.
-
-**Real Madrid have 6 players on 2 yellows tonight** (Tchouaméni, Bellingham, Vinicius, Rodrygo, Huijsen, Carreras) — the most exposed squad on the night.
+Kvällens svagaste punkt är **koncentrationen**: varje match ligger i tre kuponger, och City–Real bär både C1 och C2. Scenariomatrisen räknade bästa fall ~1 200 kr (4/4) och sämsta fall att bara C3 överlever (90 kr → ~261 kr).
 
 ---
 
-### 🕐 Half-Time Draw Market
+## ✅ Checklista
 
-With PSG, Real and Glimt all defending massive leads, a 0-0 first half is the natural outcome in three of four games. All three will sit deep and absorb pressure.
+**Verifiering** — skador ✅ · full trupp ✅ · **turneringsomfång ❌ (Sportings avstängningar lästes som gällande denna match; Araújo och Pedro Gonçalves spelade — E6/E5 ej kontrollerade)** · domarstatistik ⚠️ 4/4 domare men **urvalsstorlek saknas för tre av fyra (G3)**
+**Kalibrering** — inget resultatspel över 8 ✅ · **8+ datapunkter ❌ (Chelsea–PSG H2H 5, PSG bortamål 4, Leverkusens kryssform 5 — A2)** · A4 ✅ Arsenal kapad
+**Målmarknader** — C1/C2/C3 ⚠️ (BTTS valdes före Över 2,5 i C2 utan jämförelse) · C9 ⚠️ (**F11** ej prövad för Glimt och Real) · C10 ✅ 90 min · **D2 ❌ 1H-marknader spelade i C3 utan måltidsdata**
+**Situation** — **B2 ✅** andra ben, jagande lag · **E5 ❌ återvändande avstängda ej prövade** · **F11 ❌ ej prövad**
+**Odds & värde** — odds ⚠️ endast indikativa/uppskattade · **p ❌ · rimligt odds ❌ · EV ❌ (I1–I3)** · **I5/I6 ❌ ingen felmarginal, ingen Kelly**
+**Kuponger** — **H2 ❌ varje match i 3 av 4 kuponger** · H3 ✅ C3 · **H5 ❌ inga odelade matcher** · H6 ✅ · H7 ✅ · H8 ✅
+**Kort** — **G4 ❌ kortspelet var en trippel, inte singlar** · **G5/G9 ❌ ingen bookmakerlinje, inga lagkort per match** · G2 ✅ Turpin flaggad
 
-| Match | HT Draw Prob | Reasoning |
+---
+
+## 📚 Källor
+
+Ej dokumenterade i originalfilen.
+
+*Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** Sporting–Glimt gick till förlängning — **Araújo 92' och Nel 120+1' räknas inte**. 90-minutersresultatet var 3-0. Övriga matcher avgjordes inom ordinarie tid.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
 |---|---|---|
-| Chelsea vs PSG | ~45% | PSG sitting deep protecting 5-2 lead |
-| Man City vs Real Madrid | ~48% | Real parking, City trying to unlock |
-| Sporting vs Glimt | ~50% | Glimt fortress — deepest defensive shape tonight |
-| Arsenal vs Leverkusen | ~40% | Level tie — both attack but cautious start likely |
+| Sporting CP – Bodø/Glimt | 3-0 (90 min) · 5-0 efter förlängning · Sporting vidare 5-3 | Inácio 34', Pedro Gonçalves 61', Suárez 78' (straff); Araújo 92' och Nel 120+1' i förlängningen — **räknas inte (C10)**. HT 1-0 |
+| Arsenal – Leverkusen | 2-0 · Arsenal vidare 3-1 | Eze 35', Rice 62'. HT 1-0. Inga kort, ingen straff |
+| Chelsea – PSG | 0-3 · PSG vidare 8-2 | Kvaratskhelia 7', Barcola 14', Mayulu 62'. HT 0-2. Inga kort, ingen straff |
+| Man City – Real Madrid | 1-2 · Real vidare 5-1 | Vinícius 22' (straff), Haaland 41', Vinícius 90+4'. HT 1-1. **Rött: Bernardo Silva 22'** (avsiktlig handboll på linjen), gult Guardiola ~22' |
 
-**Four-match HT Draw treble (all four): ~45% × ~48% × ~50% × ~40% ≈ ~4.3%**
-Offered at ~50x → implied 2% → **real value (~2.1x EV). Small stake only.**
+Gula i Sporting–Glimt: Blomberg 6', Hjulmand 48', Høgh 68'; i förlängningen Santos 104', Bassi 105', Saltnes 118'.
 
----
+### Marknadsutfall
 
-### ⚽ Penalty Market
-
-**Man City vs Real Madrid is the standout — avoid Chelsea vs PSG entirely**
-
-- **Turpin** holds the all-time UCL record: 29 penalties in 53 matches
-- **Vinicius Jr** is the most fouled player in UCL this season — draws penalties constantly
-- **Haaland** in the box under desperate City pressure = classic penalty scenario
-- **~48% chance of a penalty in this match**
-
-**Chelsea vs PSG: Avoid.** Vinčić averages just 0.12 penalties/game. Even with Chelsea needing 4 goals and PSG defending the box, he will let it go.
-
----
-
-### 🟥 Red Card Watch
-
-| Player | Club | Risk | Reasoning |
-|---|---|---|---|
-| **Andrich** | Leverkusen | 🔴 Highest | Committed a blatant body-check on Gyokeres in first leg and escaped. Same opponent tonight, same role. One reckless challenge = walks. |
-| **Vinicius Jr** | Real Madrid | 🔴 High | Has received reds in La Liga this season. Emotional under Etihad pressure with Turpin refereeing — a reaction could end his night. |
-| **Patrick Berg** | Glimt | 🟠 Moderate | On 2 yellows + Schärer (strictest ref) + Sporting desperate = second yellow or last-ditch red card risk. |
-
----
-
-*Analysis by Bet Bot | March 17, 2026*
-
----
-
-## 📊 Post-Match Results
-
-### Match Results
-
-| Match | HT | 90 min | AET | Agg |
+| Match | Marknad | Prognos | Utfall | Resultat |
 |---|---|---|---|---|
-| Sporting CP vs Bodø/Glimt | 1-0 | 3-0 | 5-0 | Sporting win 5-3 |
-| Chelsea vs PSG | 0-2 | 0-3 | — | PSG win 8-2 |
-| Arsenal vs Bayer Leverkusen | 1-0 | 2-0 | — | Arsenal win 3-1 |
-| Man City vs Real Madrid | 1-1 | 1-2 | — | Real win 5-1 |
+| Sporting – Glimt | Över 1,5 | 🟡 6/10 | 3 mål (90 min) | ✅ |
+| Sporting – Glimt | Sporting vinst | 🟡 6/10 | 3-0 (90 min) | ✅ |
+| Sporting – Glimt | Över 2,5 | 🔴 4,5/10, avstådd | 3 mål (90 min) | ✅ |
+| Sporting – Glimt | BTTS | 🔴 5/10 | Glimt gjorde aldrig mål | ❌ |
+| Sporting – Glimt | HT-kryss | ~50 % | HT 1-0 | ❌ |
+| Arsenal – Leverkusen | Arsenal vinst | 🟡 7/10 | 2-0 | ✅ |
+| Arsenal – Leverkusen | Under 2,5 | 🟡 6/10 | 2 mål | ✅ |
+| Arsenal – Leverkusen | 1H Över 0,5 | 🟡 6,5/10 | Eze 35' | ✅ |
+| Arsenal – Leverkusen | BTTS | 🔴 5,5/10 | Leverkusen mållösa | ❌ |
+| Arsenal – Leverkusen | HT-kryss | ~40 % | HT 1-0 | ❌ |
+| Chelsea – PSG | **BTTS** | 🟢 **7,5/10** | **Chelsea gjorde aldrig mål** | ❌ |
+| Chelsea – PSG | Över 2,5 | 🟡 7/10 | 3 mål | ✅ |
+| Chelsea – PSG | 1H Över 0,5 | 🟡 7/10 | PSG 7' + 14' | ✅ |
+| Chelsea – PSG | HT-kryss | ~45 % | HT 0-2 | ❌ |
+| Chelsea – PSG | Straff (avstådd, Vinčić) | — | Ingen straff | ✅ undveks |
+| City – Real | Över 2,5 | 🟢 7,5/10 | 3 mål | ✅ |
+| City – Real | BTTS | 🟡 7/10 | City 1, Real 2 | ✅ |
+| City – Real | 1H Över 0,5 | 🟢 7,5/10 | 2 mål i 1H | ✅ |
+| City – Real | HT-kryss | ~48 % | HT 1-1 | ✅ |
+| City – Real | Straff | ~48 % (Turpin) | Vinícius straff 22' | ✅ |
+| City – Real | Rödkortsbevakning | Rätt match flaggad | Bernardo Silva röd (fel spelare utpekad) | ✅/⚠️ |
 
-### Goalscorers
+### Kupongutfall
 
-- **Sporting 5-0 Glimt (AET):** Inácio 34', Pedro Gonçalves 61', Suárez 78' (pen), Araújo 92' (AET), Nel 120+1' (AET)
-- **Chelsea 0-3 PSG:** Kvaratskhelia 7', Barcola 14', Mayulu 62'
-- **Arsenal 2-0 Leverkusen:** Eze 35', Rice 62'
-- **City 1-2 Real Madrid:** Vinicius Jr 22' (pen), Haaland 41', Vinicius Jr 90+4'
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare (140 kr) | ✅ | — (båda skänklarna in) |
+| C2 — Huvudspel (100 kr) | ❌ | Chelsea–PSG BTTS (0-3) |
+| C3 — Hedge (90 kr) | ✅ | — (Arsenal 2 mål + PSG 7'/14') |
+| C4 — Uppsida (70 kr) | ✅ | — (alla tre in) |
 
-### Cards & Penalties
+### Kortspel (singlar, utanför kupongerna — G4)
 
-| Match | Event | Player | Min |
-|---|---|---|---|
-| Sporting vs Glimt | 🟨 Yellow | Blomberg (Glimt) | 6' |
-| Sporting vs Glimt | 🟨 Yellow | Hjulmand (Sporting) | 48' |
-| Sporting vs Glimt | 🟨 Yellow | Høgh (Glimt) | 68' |
-| Sporting vs Glimt | ⚽ Penalty scored | Suárez (Sporting) | 78' |
-| Sporting vs Glimt | 🟨 Yellow (AET) | Santos (Sporting) | 104' |
-| Sporting vs Glimt | 🟨 Yellow (AET) | Bassi (Glimt) | 105' |
-| Sporting vs Glimt | 🟨 Yellow (AET) | Saltnes (Glimt) | 118' |
-| Chelsea vs PSG | — | No cards, no penalty | — |
-| Arsenal vs Leverkusen | — | No cards, no penalty | — |
-| City vs Real Madrid | 🟥 Red card | Bernardo Silva (City) — deliberate handball on line | 22' |
-| City vs Real Madrid | ⚽ Penalty scored | Vinicius Jr (Real) | 22' |
-| City vs Real Madrid | 🟨 Yellow | Guardiola (touchline) | ~22' |
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Kort-trippel Tchouaméni + Andrich + Caicedo (~5,8 %) | 20x+ (indikativt) | — | ❌ inga kort i någon av de tre matcherna |
+| HT-kryss-trippel, alla fyra matcher (~4,3 %) | ~50x | — | ❌ bara City–Real var HT-kryss |
 
-### Market Results
+*Båda var kombinationsspel, inte singlar — **G4** bruten.*
 
-| Match | Market | Confidence | Result | ✅/❌ |
-|---|---|---|---|---|
-| Sporting vs Glimt | Over 1.5 | 6/10 | 3 goals (90 min) | ✅ |
-| Sporting vs Glimt | Over 2.5 | 4.5/10 | 3 goals (90 min) | ✅ |
-| Sporting vs Glimt | BTTS | 5/10 | 3-0 — Glimt never scored | ❌ |
-| Sporting vs Glimt | Sporting Win | 6/10 | Won 3-0 (90 min) | ✅ |
-| Sporting vs Glimt | HT Draw | ~50% | HT 1-0 | ❌ |
-| Chelsea vs PSG | BTTS | 7.5/10 | 0-3 — Chelsea never scored | ❌ |
-| Chelsea vs PSG | Over 2.5 | 7/10 | 3 goals | ✅ |
-| Chelsea vs PSG | 1H Over 0.5 | 7/10 | PSG 7' + 14' | ✅ |
-| Chelsea vs PSG | HT Draw | ~45% | HT 0-2 | ❌ |
-| Chelsea vs PSG | Penalty (avoid Vinčić) | — | No penalty | ✅ dodged |
-| Arsenal vs Leverkusen | Arsenal Win | 7/10 | Won 2-0 | ✅ |
-| Arsenal vs Leverkusen | Under 2.5 | 6/10 | 2 goals | ✅ |
-| Arsenal vs Leverkusen | BTTS | 5.5/10 | Leverkusen never scored | ❌ |
-| Arsenal vs Leverkusen | 1H Over 0.5 | 6.5/10 | Eze 35' | ✅ |
-| Arsenal vs Leverkusen | HT Draw | ~40% | HT 1-0 | ❌ |
-| City vs Real Madrid | Over 2.5 | 7.5/10 | 3 goals | ✅ |
-| City vs Real Madrid | BTTS | 7/10 | City 1, Real 2 | ✅ |
-| City vs Real Madrid | 1H Over 0.5 | 7.5/10 | 2 goals in 1H | ✅ |
-| City vs Real Madrid | HT Draw | ~48% | HT 1-1 | ✅ |
-| City vs Real Madrid | Penalty awarded | ~48% (Turpin!) | Vinicius scored pen 22' | ✅ |
-| City vs Real Madrid | Red card watch | Right match flagged | Bernardo Silva red (wrong player predicted) | ✅/⚠️ |
-| Yellow treble | Tchouaméni + Andrich + Caicedo | ~5.8% | No cards in any of 3 matches | ❌ |
-| 4-match HT Draw | All four | ~4.3% / 50x | Only City/Real was HT draw (1-1) | ❌ |
+### Totalt: 3/4 kuponger | Vinst/förlust: ~+512 kr på 400 kr insats
 
-### Combo Results
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
-| Combo | Picks | Result | Notes |
-|---|---|---|---|
-| C1 — Anchor (140 kr) | Arsenal Win + City/RM Over 2.5 | ✅ WIN | Both legs hit cleanly |
-| C2 — Main (100 kr) | City/RM BTTS + Chelsea/PSG BTTS | ❌ LOSS | Chelsea never scored — 0-3 |
-| C3 — Hedge (90 kr) | Arsenal Under 2.5 + Chelsea/PSG 1H Over 0.5 | ✅ WIN | Arsenal 2-0 + PSG scored 7' & 14' |
-| C4 — Fun treble (70 kr) | Arsenal Win + City/RM BTTS + Chelsea/PSG Over 2.5 | ✅ WIN | All three legs hit |
+### 🧠 Självutvärdering
 
-### Overall: 3/4 combos ✅ | Estimated profit: ~+512 kr on 400 kr staked
+- **Kalibrering:** City–Real Över 2,5 på 7,5/10 perfekt kalibrerad. Arsenal vinst 7/10 rätt och kontrollerad. Chelsea–PSG BTTS på 7,5/10 var kvällens sämsta miss — grovt övertro. Arsenal Under 2,5 på 6/10 var underskattad, borde legat högre. Straff i City–Real ~48 % ✅ — Turpin-tesen bekräftad igen.
+- **Kvällens bästa läsning:** City–Real. Över 2,5 ✅, BTTS ✅, 1H Över 0,5 ✅, straff ✅, rött kort i rätt match ✅. Turpin + Vinícius + Haaland var en bankbar kombination.
+- **Kvällens sämsta läsning:** Chelsea–PSG BTTS på 7,5/10. Chelsea var aldrig nära mål; PSG ledde 2-0 efter 14 minuter. Död dubbelmatch + elitmotstånd + dålig form = fel marknad helt.
+- **Lärdom:**
+  1. **Död dubbelmatch + elitmotstånd + dålig form = BTTS bort från bordet.** När det efterjagande laget är i formsvacka och det ledande laget är turneringsfavorit ska BTTS kapas till max 5/10 oavsett historiskt BTTS-facit.
+  2. **Återvändande avstängda kan vända en dubbelmatch helt (E5).** Araújos och Pedro Gonçalves' återkomst var sannolikt avgörande för Sportings vändning från 3-0. Skriv alltid upp "kan de jaga?" när nyckelspelare kommer tillbaka från avstängning i andra benet.
+  3. **Turpin-strafftesen är repeterbar och bankbar (G2).** Bekräftad igen: Bernardo Silvas avsiktliga handboll på linjen → rött + straff, Vinícius satte den. Flagga varje framtida Turpin-uppdrag som högstraffmatch.
+  4. **Elitlag lättar inte i första halvlek ens i döda dubbelmatcher.** PSG 2-0 efter 14 minuter. "Skydda 5-2" betyder för det bästa laget i turneringen att döda matchen tidigt — HT-kryss-tesen läste PSG:s mentalitet fel, och samma antagande om Glimt och Real var **F11** i praktiken.
+  5. **Gula kort torkar upp i rena, professionellt skötta slutspelsmatcher.** Arsenal–Leverkusen och Chelsea–PSG hade noll disciplinära händelser. Rikta kortspel mot genuint jämna, fysiska matcher — inte matcher som ett elitlag dominerar.
 
----
-
-### 🧠 Self-Evaluation
-
-**Confidence calibration:**
-- City/RM Over 2.5 at 7.5/10 ✅ — perfectly calibrated, delivered
-- Arsenal Win at 7/10 ✅ — correct and controlled
-- Chelsea/PSG BTTS at 7.5/10 ❌ — worst miss of the night, badly overconfident
-- Arsenal Under 2.5 at 6/10 ✅ — underrated, should have been higher
-- Penalty in City/RM at ~48% ✅ — Turpin thesis confirmed again
-
-**Best read of the night:** City vs Real Madrid — Over 2.5 ✅, BTTS ✅, 1H Over 0.5 ✅, penalty ✅, red card in right match ✅. Turpin + Vinicius + Haaland was a bankable combination.
-
-**Worst read of the night:** Chelsea/PSG BTTS at 7.5/10. Chelsea never came close to scoring. PSG were 2-0 up at 14 minutes and never looked back. Dead rubber + elite opponent + poor form = wrong market entirely.
-
-**Key learnings:**
-
-1. **Dead rubber + elite opposition + poor form = BTTS OFF the table.** PSG scored twice in 14 minutes and suffocated Chelsea completely. When the trailing team is in freefall form AND the leading team is the tournament favourite, cap BTTS at 5/10 max regardless of historical BTTS records.
-
-2. **Returning suspended players can change a tie completely.** Araujo and Pedro Gonçalves returning was arguably the decisive factor in Sporting's historic comeback from 3-0 down. Always re-evaluate the "can they chase?" question significantly upward when key suspended players return for the second leg.
-
-3. **Turpin penalty thesis is repeatable and bankable.** Confirmed again: Bernardo Silva deliberate handball on the line → red card + penalty. Vinicius converted. Flag every future Turpin appointment as a high-penalty game.
-
-4. **Elite teams don't ease off in first halves even in dead rubbers.** PSG 2-0 up by the 14th minute. When you're the best team in the tournament, "protecting a 5-2 lead" means killing the game early — not sitting back. HT Draw thesis fundamentally misread PSG's mentality.
-
-5. **Yellow cards dry up in clean, professionally managed knockout matches.** Arsenal-Leverkusen and Chelsea-PSG had zero significant disciplinary incidents. Focus yellow card trebles on genuinely contested, physical matches — not games dominated by one elite team.
-
-*Best night of the season — 3/4 combos, ~+512 kr estimated profit*
+*Kvällens bästa resultat under säsongen — 3/4 kuponger, ~+512 kr.*
