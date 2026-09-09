@@ -175,4 +175,39 @@ UEFA (ligafasens matcher) · Law 5 – The Referee (domartillsättningar MD1) ·
 
 ---
 
+## 🔄 Uppdatering 18:20 — korrigerad förutsättning i Liverpool–Atlético
+
+**Liverpool–Atlético (21:00): tränarpremissen i originalavsnittet är fel, och det bär ett av kvällens spel.**
+
+Andoni Iraola är **Liverpools** tränare — tillsatt i juni 2026 efter Arne Slot (liverpoolfc.com, Al Jazeera 4 juni 2026, GB News). **Diego Simeone sitter kvar i Atlético**, sin sextonde säsong, och höll presskonferens på Anfield i tisdags kväll. Originalavsnittets slutsats — *"Simeones bussparkering är borta … därför gäller C9 inte för Atlético i år"* — placerar alltså Iraola i fel lag och faller därmed. **C9 gäller**, och lågt block är huvudscenariot.
+
+Nya besked från Simeones presskonferens, utöver det analysen redan hade:
+
+- **Julián Álvarez startar inte.** Simeones egna ord: *"Julián is still getting fit. I don't see him starting, but he'll help us as the match progresses."*
+- **Jonathan David** kom sent till klubben och kunde inte spela senast p.g.a. skada.
+- **Arnau Ortiz avstängd.** (Sørloths skada stod redan i analysen.)
+
+→ Atlético reser till Anfield med Sørloth ute, Álvarez på bänken och David otränad — under Simeone, inte under en högpressande Iraola.
+
+**Över 2,5 sänks 🟡 7/10 → 🔴 5/10** · ny p **53%**, nytt rättvist odds **1,89**.
+Mot de indikativa priser originalavsnittet hittade (1,63–1,90, footballwhispers) blir EV **−14% på 1,63** och **+1% på 1,90**. Spelet är inte längre värde till något av de priserna (**I4**).
+
+**Kupong C4 (Uppsida, 50 kr) utgår.** Dess uttalade tes var "Iraolas Atlético är inte Simeones" — den tesen existerar inte. Den andra skänkeln, Stuttgart ö2,5, ligger dessutom innanför 30-minutersgränsen och får inte längre röras, så kupongen går inte att bygga om. Insatsen bör **inte** omplaceras i ett nytt spel så här nära avspark utan egen analys. Kvällens fördelning blir därmed 250 kr på C1–C3, inte 300 kr.
+
+Den korrigerade läsningen lutar i stället åt **Under 2,5** (p ~47%, rättvist odds ~2,13). Det lämnas medvetet som en lutning och **inte** som en rekommendation: inget verifierbart pris har gått att hämta, och ett tilläggsavsnitt är en delta, inte en ny analys.
+
+**Övriga matcher — kontrollerade 18:11–18:16, före avspark:**
+
+- **Barcelona–Feyenoord (18:45):** startelvan **bekräftad**. Barças anfall intakt (Yamal, Raphinha, Olmo, Adeyemi; Rodri och Pedri på mitten), Koundé in för avstängde Eric García, Feyenoord med lappat försvar. Bekräftar analysen. **Ingen ändring.**
+- **Stuttgart–Viking (18:45):** ingen bekräftad elva gick att få fram före avspark, bara förväntad. **Ingen ändring.**
+- **Napoli–Arsenal (21:00):** Timber åter i full träning och med i truppen; De Bruyne väntas starta. Bägge redan inräknade i analysen. **Ingen ändring.**
+- **PSG–Slovan (21:00):** Longoni ute, Nuno Mendes åter efter avstängning — stod redan i analysen. **Ingen ändring.**
+- **Sporting–Galatasaray (21:00):** Nuno Santos (muskel) och João Simões (fot) ute, Ba tveksam. Djupspelare, inte bärande i Över 2,5-tesen. **Ingen ändring.**
+
+**Nya källor:** liverpoolfc.com (tränartillsättning) · Al Jazeera 4 juni 2026 · GB News · Into the Calderón (Simeones presskonferens) · Goal.com · Sports Mole · Yahoo Sports och Barça Universal (bekräftad elva Barcelona) · psgpost · UEFA (predicted line-ups MD1)
+
+*Förbehåll: den här körningen kunde inte öppna webbsidor — nätverket släppte bara igenom sökningar, inte sidhämtningar. Allt ovan vilar på sökresultat från flera oberoende källor, men enskilda uppgifter har inte kunnat läsas i sin fulla artikel. Domarstatistiken för Jablonski, Minaković och Balakin är fortfarande overifierad och inga kortspel tillkommer (**G5**, **G9**).*
+
+---
+
 *Efteranalys tillkommer när matcherna spelats.*
