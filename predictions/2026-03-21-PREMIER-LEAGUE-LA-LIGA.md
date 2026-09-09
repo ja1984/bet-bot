@@ -113,17 +113,17 @@ Samtliga matcher är enkelmatcher i ligaspel — **B1/B2** gäller inte.
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Brighton 1H ö0,5 + Everton–Chelsea BTTS | 🟡 7/10 | ~2,00–2,30 (mål) | — | — | — | 100 kr |
 | 2 | Huvudspel | Everton–Chelsea ö2,5 + Sevilla BTTS | 🟡 7/10 | ~2,50–3,00 (mål) | — | — | — | 80 kr |
 | 3 | Hedge | Brighton–Liverpool u2,5 + Fulham vinst | 🟡 6,5/10 | ~2,80–3,20 (mål) | — | — | — | 70 kr |
 | 4 | Uppsida | Everton–Chelsea 1H ö0,5 + Leeds BTTS + Sevilla ö2,5 | 🟡 6/10 | ~4,50–5,50 (mål) | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: tidigt mål på Amex plus mål i båda ändar när två mittbacksled är krisdrabbade · Regel: **H10**
-**C2 — Huvudspel.** Tes: offensiv tes i två ligor — Chelseas ommöblering och Sevillas ligasämsta försvar · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: Liverpool utan Salah och Isak mot eget elitförsvar ger tät match; Fulham vinst är dagens renaste resultatmarknad · Regel: **H6** (Under mot ankarets måltes), **H3**
-**C4 — Uppsida.** Tes: målkväll i tre matcher · Regel: **H7** (Everton–Chelsea 1H ö0,5 på 7/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: tidigt mål på Amex plus mål i båda ändar när två mittbacksled är krisdrabbade · Regel: **H10**
+- **C2 — Huvudspel.** Tes: offensiv tes i två ligor — Chelseas ommöblering och Sevillas ligasämsta försvar · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: Liverpool utan Salah och Isak mot eget elitförsvar ger tät match; Fulham vinst är dagens renaste resultatmarknad · Regel: **H6** (Under mot ankarets måltes), **H3**
+- **C4 — Uppsida.** Tes: målkväll i tre matcher · Regel: **H7** (Everton–Chelsea 1H ö0,5 på 7/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 Brighton, Everton · C2 Everton, Sevilla · C3 Brighton, Fulham · C4 Everton, Leeds, Sevilla
 

@@ -13,7 +13,17 @@ Research görs fortfarande på engelska (SKILL.md, Core Principles), men ingenti
 det syns i filen.
 
 **Siffror:** svenskt decimalkomma (`1,91` inte `1.91`). Odds, sannolikhet, rimligt
-odds och EV anges för varje rekommenderat spel — utan undantag (I1, I2, I3).
+odds och EV anges för varje rekommenderat spel — utan undantag (I1, I2, I3):
+
+| Kolumn | Betyder |
+|---|---|
+| **Odds** | priset som faktiskt går att få, alltid märkt indikativt med källa (**I7**) |
+| **Sannolikhet** | den egna skattningen, `p` i regelverket — hur ofta spelet landar (**I1**) |
+| **Rimligt odds** | `1 / sannolikhet`, alltså brytpunkten (**I2**) |
+| **EV** | `sannolikhet × odds`, redovisat som procent över eller under noll (**I3**) |
+
+Skriv rubrikerna i klartext. `p` och `Rimligt` som kolumnhuvuden säger ingenting
+för den som läser filen ett halvår senare.
 
 ## Konfidensskala
 
@@ -96,24 +106,27 @@ finns. Sektion 5 samlar bara de beslut som gäller hela kvällen.
 ```markdown
 ## 🎯 Kuponger — <budget> kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | PSG vinst & ö2,5 | 🟢 8/10 | 1,22 | 85% | 1,18 | +4% | 100 kr |
 | 2 | Huvudspel | Barça ö2,5 + Sporting ö2,5 | 🟡 7/10 | 2,04 | 51% | 1,96 | +4% | 80 kr |
 | 3 | Hedge | Napoli–Arsenal u2,5 | 🟡 6,5/10 | 1,91 | 55% | 1,82 | +5% | 70 kr |
 | 4 | Uppsida | Stuttgart ö2,5 + Liverpool ö2,5 | 🔴 5/10 | 2,27 | 45% | 2,20 | +3% | 50 kr |
 
-**C1 — Ankare.** Tes: ... · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: ... · Regel: **H1** (max 2–3 skänklar)
-**C3 — Hedge.** Tes: ... · Regel: **H6** (motsatt tes mot C1/C2), **H3** (defensiv)
-**C4 — Uppsida.** Tes: ... · Regel: **H7** (<vilken skänkel som är den trygga>)
+- **C1 — Ankare.** Tes: ... · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: ... · Regel: **H1** (max 2–3 skänklar)
+- **C3 — Hedge.** Tes: ... · Regel: **H6** (motsatt tes mot C1/C2), **H3** (defensiv)
+- **C4 — Uppsida.** Tes: ... · Regel: **H7** (<vilken skänkel som är den trygga>)
 
 **Matcher per kupong:** C1 PSG · C2 Barça, Sporting · C3 Napoli · C4 Stuttgart,
 Liverpool — inga delade matcher (**H5**).
 ```
 
-Tabellen först, sedan en rad per kupong: tes plus den regel som styr just den
-kupongens roll. En rad, inte ett stycke — motiveringen finns i sektion 3.
+Tabellen först, sedan **en punktlista** med en post per kupong: tes plus den
+regel som styr just den kupongens roll. En rad, inte ett stycke — motiveringen
+finns i sektion 3. Listan måste vara punkter med tom rad före; fyra rader
+`**C1 …**` efter varandra utan tom rad kollapsar till ett enda ihopklumpat
+stycke när markdown renderas.
 
 Raden `Matcher per kupong` är obligatorisk. **H5** går inte att kontrollera i
 efterhand utan den, och den 8 september kostade en oflaggad matchkoncentration

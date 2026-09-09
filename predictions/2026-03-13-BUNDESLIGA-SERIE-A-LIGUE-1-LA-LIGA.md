@@ -73,17 +73,17 @@ Fyra ligamatcher, alla enkelmatcher. **B1/B2** gäller inte. Med bara fyra match
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Gladbach u2,5 + Torino u2,5 | 🟡 7/10 | ~2,0–2,3 | — | — | — | 100 kr |
 | 2 | Huvudspel | Marseille vinst + Villarreal DNB | 🟡 6,5/10 | ~2,2–2,5 | — | — | — | 80 kr |
 | 3 | Hedge | Marseille BTTS-N + Gladbach u2,5 | 🟡 6,5/10 | ~2,3–2,7 | — | — | — | 70 kr |
 | 4 | Uppsida | Torino BTTS-N + Alavés u2,5 + Villarreal vinst | 🔴 5,5/10 | ~4,5–6 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: två lag utan spets möter varandra, Kleindienst ute · Regel: **H1**
-**C2 — Huvudspel.** Tes: kvalitet över desperation, DNB skyddar mot kryss · Regel: **H1**
-**C3 — Hedge.** Tes: Auxerre gör inte mål utan Sinayoko · Regel: **H3** (defensiv)
-**C4 — Uppsida.** Tes: Parmas bortanollor bär trippeln · Regel: **H7** (Torino BTTS-N är trygga skänkeln)
+- **C1 — Ankare.** Tes: två lag utan spets möter varandra, Kleindienst ute · Regel: **H1**
+- **C2 — Huvudspel.** Tes: kvalitet över desperation, DNB skyddar mot kryss · Regel: **H1**
+- **C3 — Hedge.** Tes: Auxerre gör inte mål utan Sinayoko · Regel: **H3** (defensiv)
+- **C4 — Uppsida.** Tes: Parmas bortanollor bär trippeln · Regel: **H7** (Torino BTTS-N är trygga skänkeln)
 
 **Matcher per kupong:** C1 Gladbach, Torino · C2 **Marseille**, Villarreal · C3 **Marseille**, **Gladbach** · C4 Torino, Alavés, Villarreal
 

@@ -98,17 +98,17 @@ Tre av sex domare verifierade. De tre overifierade sitter i matcher där inget k
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | PSG vinst & ö2,5 | 🟢 8/10 | 1,22 | 85% | 1,18 | +4% | 100 kr |
 | 2 | Huvudspel | Barça ö2,5 + Sporting ö2,5 | 🟡 7/10 | 2,04 | 51% | 1,96 | +4% | 80 kr |
 | 3 | Hedge | Napoli–Arsenal u2,5 | 🟡 6,5/10 | 1,91 | 55% | 1,82 | +5% | 70 kr |
 | 4 | Uppsida | Stuttgart ö2,5 + Liverpool ö2,5 | 🔴 5/10 | 2,27 | 45% | 2,20 | +3% | 50 kr |
 
-**C1 — Ankare.** Tes: kvalitetsgapet är för stort för att bussen ska hålla i 90 minuter · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: två hemmalag som gör 2+ mål mot plockade försvar · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: Arsenal kontrollerar en match Napoli inte kan öppna · Regel: **H6** (motsatt tes mot C1/C2), **H3** (kvällens defensiva kupong)
-**C4 — Uppsida.** Tes: Iraolas Atlético är inte Simeones · Regel: **H7** (Stuttgart ö2,5 är den trygga skänkeln)
+- **C1 — Ankare.** Tes: kvalitetsgapet är för stort för att bussen ska hålla i 90 minuter · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: två hemmalag som gör 2+ mål mot plockade försvar · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: Arsenal kontrollerar en match Napoli inte kan öppna · Regel: **H6** (motsatt tes mot C1/C2), **H3** (kvällens defensiva kupong)
+- **C4 — Uppsida.** Tes: Iraolas Atlético är inte Simeones · Regel: **H7** (Stuttgart ö2,5 är den trygga skänkeln)
 
 **Matcher per kupong:** C1 PSG · C2 Barça, Sporting · C3 Napoli · C4 Stuttgart, Liverpool — inga delade matcher (**H5**).
 

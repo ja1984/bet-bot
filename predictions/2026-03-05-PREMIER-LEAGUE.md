@@ -49,17 +49,17 @@ BTTS i 33%, under 2,5 i 63% över hela H2H-historiken. 4 av 5 senaste möten had
 
 ## 🎯 Kuponger — 150 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | 1H över 0,5 (singel) | 🟡 6,5/10 | — | — | — | — | 52 kr |
 | 2 | Huvudspel | u2,5 + BTTS-N | 🔴 5,5/10 | — | — | — | — | 38 kr |
 | 3 | Hedge | Över 2,5 (singel) | 🔴 5/10 | — | — | — | — | 38 kr |
 | 4 | Uppsida | Kryss + u2,5 | 🔴 4/10 | ~4,5–5,0 | — | — | — | 22 kr |
 
-**C1 — Ankare.** Tes: Spurs håller inte nollan i första halvlek · Regel: **H10** (säkraste marknaden, inte bästa oddset), **A1** (ingen resultatmarknad som ankare)
-**C2 — Huvudspel.** Tes: Palace utan båda anfallarna plus H2H:s under-DNA ger en tät match · Regel: **H1** (max 2–3 skänklar), **H3** (defensiv)
-**C3 — Hedge.** Tes: Spurs försvarskollaps fortsätter och överröstar H2H · Regel: **H6** (motsatt tes mot C2)
-**C4 — Uppsida.** Tes: två trasiga lag mal fram 0-0 eller 1-1 · Regel: **H7** (u2,5 är den trygga skänkeln), **I4** (låg konfidens tillåten bara för att oddset kompenserar)
+- **C1 — Ankare.** Tes: Spurs håller inte nollan i första halvlek · Regel: **H10** (säkraste marknaden, inte bästa oddset), **A1** (ingen resultatmarknad som ankare)
+- **C2 — Huvudspel.** Tes: Palace utan båda anfallarna plus H2H:s under-DNA ger en tät match · Regel: **H1** (max 2–3 skänklar), **H3** (defensiv)
+- **C3 — Hedge.** Tes: Spurs försvarskollaps fortsätter och överröstar H2H · Regel: **H6** (motsatt tes mot C2)
+- **C4 — Uppsida.** Tes: två trasiga lag mal fram 0-0 eller 1-1 · Regel: **H7** (u2,5 är den trygga skänkeln), **I4** (låg konfidens tillåten bara för att oddset kompenserar)
 
 **Matcher per kupong:** C1 Tottenham–Palace · C2 Tottenham–Palace · C3 Tottenham–Palace · C4 Tottenham–Palace
 

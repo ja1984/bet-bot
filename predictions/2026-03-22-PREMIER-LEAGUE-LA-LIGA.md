@@ -128,17 +128,17 @@ Sju matcher, samtliga **enkelmatcher**. **B1/B2** gäller alltså inte.
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Barça 1H ö0,5 + Spurs–Forest u2,5 | 🟡 7/10 | ~2,00–2,30 | — | — | — | 100 kr |
 | 2 | Huvudspel | Real–Atlético BTTS + Newcastle 1H ö0,5 | 🟡 6,5/10 | ~2,80–3,20 | — | — | — | 80 kr |
 | 3 | Hedge | Villa u2,5 + Athletic u2,5 | 🟡 6/10 | ~2,50–3,00 | — | — | — | 70 kr |
 | 4 | Uppsida | Barça ö2,5 + Real–Atlético ö2,5 + Spurs–Forest kryss | 🟡 6/10 | ~5,00–7,00 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: bästa offensiva läsningen plus bästa defensiva, i två olika ligor · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: två derbyn med maximal intensitet, elitanfall och två reservmålvakter · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: två målkriser — Villa och Athletic kan inte göra mål · Regel: **H6** (motsatt tes mot C2:s BTTS), **H3** (defensiv kupong)
-**C4 — Uppsida.** Tes: målkväll i båda La Liga-matcherna plus kryss mellan två trasiga lag · Regel: **H7** (Barça ö2,5 på 7,5/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: bästa offensiva läsningen plus bästa defensiva, i två olika ligor · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: två derbyn med maximal intensitet, elitanfall och två reservmålvakter · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: två målkriser — Villa och Athletic kan inte göra mål · Regel: **H6** (motsatt tes mot C2:s BTTS), **H3** (defensiv kupong)
+- **C4 — Uppsida.** Tes: målkväll i båda La Liga-matcherna plus kryss mellan två trasiga lag · Regel: **H7** (Barça ö2,5 på 7,5/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 Barcelona, Spurs–Forest · C2 Real–Atlético, Newcastle · C3 Villa, Athletic · C4 Barcelona, Real–Atlético, Spurs–Forest
 
