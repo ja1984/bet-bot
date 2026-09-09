@@ -13,7 +13,17 @@ Research görs fortfarande på engelska (SKILL.md, Core Principles), men ingenti
 det syns i filen.
 
 **Siffror:** svenskt decimalkomma (`1,91` inte `1.91`). Odds, sannolikhet, rimligt
-odds och EV anges för varje rekommenderat spel — utan undantag (I1, I2, I3).
+odds och EV anges för varje rekommenderat spel — utan undantag (I1, I2, I3):
+
+| Kolumn | Betyder |
+|---|---|
+| **Odds** | priset som faktiskt går att få, alltid märkt indikativt med källa (**I7**) |
+| **Sannolikhet** | den egna skattningen, `p` i regelverket — hur ofta spelet landar (**I1**) |
+| **Rimligt odds** | `1 / sannolikhet`, alltså brytpunkten (**I2**) |
+| **EV** | `sannolikhet × odds`, redovisat som procent över eller under noll (**I3**) |
+
+Skriv rubrikerna i klartext. `p` och `Rimligt` som kolumnhuvuden säger ingenting
+för den som läser filen ett halvår senare.
 
 ## Konfidensskala
 
@@ -112,8 +122,11 @@ finns. Sektion 5 samlar bara de beslut som gäller hela kvällen.
 Liverpool — inga delade matcher (**H5**).
 ```
 
-Tabellen först, sedan en rad per kupong: tes plus den regel som styr just den
-kupongens roll. En rad, inte ett stycke — motiveringen finns i sektion 3.
+Tabellen först, sedan **en punktlista** med en post per kupong: tes plus den
+regel som styr just den kupongens roll. En rad, inte ett stycke — motiveringen
+finns i sektion 3. Listan måste vara punkter med tom rad före; fyra rader
+`**C1 …**` efter varandra utan tom rad kollapsar till ett enda ihopklumpat
+stycke när markdown renderas.
 
 Raden `Matcher per kupong` är obligatorisk. **H5** går inte att kontrollera i
 efterhand utan den, och den 8 september kostade en oflaggad matchkoncentration
