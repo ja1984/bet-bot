@@ -210,4 +210,42 @@ Den korrigerade läsningen lutar i stället åt **Under 2,5** (p ~47%, rättvist
 
 ---
 
+## 🔄 Uppdatering 20:15 — bekräftade startelvor, 21:00-matcherna
+
+Två av fyra sena matcher har bekräftade elvor. Båda ändrar ett tal. De två andra har bara förväntade elvor och lämnas orörda.
+
+**Liverpool–Atlético (21:00): bekräftat.**
+Liverpool: Alisson; Araújo, Jacquet, Van Dijk, Kerkez; Szoboszlai, Gravenberch; Muñoz, Wirtz, Barcola; Isak. Atlético: Oblak; Llorente, Pubill, Romero, Grimaldo; Koke, Hjulmand; Simeone, Baena, Lookman; David.
+
+- **Jonathan David startar.** 18:20-tillägget vilade på premissen "Sørloth ute, Álvarez på bänken och David otränad" — den halvan faller. Álvarez är bänkad som väntat ✓, men David startar med Lookman och Baena bakom sig (**E1**, **E2**: anfallet är inte plockat, det är omfördelat).
+- Elvan är inte heller ett renodlat lågt block: Grimaldo som vänsterback och tre offensiva bakom en Koke–Hjulmand-dubbelpivot. **C9 står kvar** — Simeone kan sitta djupt ändå — men anfallssidan av målresonemanget är starkare än 18:20 antog.
+- Gakpo ute (missade träningen), nytt sedan 18:20. Rör inte måltesen: Isak, Barcola, Wirtz och Muñoz startar allihop. Jacquet vid sidan av Van Dijk med Araújo som högerback är kvällens tredjeval i backlinjen.
+
+→ **Över 2,5 höjs 🔴 5/10 → 🟡 6/10** · ny p **57%**, nytt rättvist odds **1,75**.
+Mot de indikativa priserna (1,63–1,90, footballwhispers) blir EV **−7% på 1,63** och **+8% på 1,90**. Spelet är alltså **prisberoende: singel först från 1,85**, inget under det (**I4**). Marginalen är tunn — sätts p till 54% är även 1,85 break-even (**I5**). **Kupong C4 återuppstår inte**: dess andra skänkel har sparkat igång och kan inte röras. Ingen insats flyttas till det här spelet.
+
+**Napoli–Arsenal (21:00): bekräftat.**
+Arsenal: Raya; Hincapié, Gabriel, Konsa, White; Rice, Merino; Eze, Ødegaard, Saka; Gyökeres. Napoli: Meret; Di Lorenzo, Rrahmani, Badiashile, Spinazzola; Lobotka, Gilmour, De Bruyne; Neres, Højlund (tredje anfallaren anges olika av källorna — Politano eller Alisson Santos).
+
+- **Timber är inte med i truppen** (ljumske). 18:20-tillägget skrev att han var åter i full träning och med — det är fel. Med Saliba och Mosquera också ute är Hincapié–Gabriel–Konsa–White ett tredjeval.
+- Arsenal väljer **offensivt**: Eze, Ødegaard och Saka bakom Gyökeres, med bara Rice–Merino som pivot. Originalavsnittets tes var "Arsenal vinner genom kontroll, inte målfest" — en tvåmannamitt med tre offensiva framför sig är mindre kontroll än tesen förutsatte.
+- Napoli bekräftar **Badiashile** som nödmittback vid Rrahmani (båda reserverna ute, som analysen skrev) och startar **De Bruyne + Gilmour + Lobotka** — kreativt, inte förstörande. Svagheten är bekräftad, men så är också deras speluppläggare.
+
+→ **Under 2,5 sänks 🟡 6,5/10 → 🟡 6/10** · ny p **52%**, nytt rättvist odds **1,92**.
+Mot marknaden 1,91 (indikativt, Sports Mole) blir EV **−1%**. Originalavsnittet förutsåg exakt detta: *"sätts Napoli–Arsenal på 52% i stället för 55% är C3 exakt break-even"*. **Kupong C3 (70 kr) spelas bara till 1,95 eller bättre** — på 1,91 eller lägre är den inget spel (**I4**).
+
+Faller C3 bort blir kvällens fördelning **180 kr** (C1 100 + C2 80). Då står natten utan defensiv kupong (**H3**), och det är den mindre dåliga utgången: **H3** uppfylls inte genom att lägga ett spel med negativt EV, och ett ersättningsspel går inte att bygga 45 minuter före avspark utan egen analys.
+
+**PSG–Slovan (21:00):** ingen bekräftad elva — psg.fr anger att den officiella elvan kommer en timme före avspark, och sökningarna gav bara förväntade uppställningar. **Ingen ändring.** Ankaret C1 står orört.
+
+**Sporting–Galatasaray (21:00):** ingen bekräftad elva att lita på. Två sökomgångar gav **motstridiga** "bekräftade" elvor, och den ena listar spelare som bevisligen startar i andra matcher ikväll (Gyökeres för Arsenal, Hjulmand för Atlético) — det är en 2025/26-elva, inte kvällens. Enda nya truppbeskedet är att Ibrahima Ba nedgraderats från tveksam till ute, plus reservmålvakten Güvenç; djupspelare som inte bär Över 2,5-tesen. **Ingen ändring.**
+
+**Kort:** inget tillkommer. Bookmakerns linje och lagens kort per match är fortfarande overifierade (**G5**, **G9**), och de bekräftade elvorna ändrar inget i det.
+
+**Nya källor:** liverpool.com (live-uppdatering, bekräftade elvor Liverpool–Atlético) · heavy.com (Liverpool–Atlético) · Yahoo Sports (*Champions League line-ups: Napoli vs. Arsenal*; *Arsenal XI vs Napoli — confirmed team news*) · 101greatgoals · lastwordonsports · italiansoccerseriea · Read Arsenal (Arsenals resande trupp) · Sports Mole (Timber/Mosquera) · turkish-football (Galatasarays trupp) · psg.fr
+
+*Samma förbehåll som 18:20: nätverket släpper igenom sökningar men inte sidhämtningar, så elvorna vilar på sökresultat från flera oberoende källor snarare än fullständigt lästa artiklar. Uppgifterna om Liverpool–Atlético och Napoli–Arsenal återkommer i minst tre källor var och är därför behandlade som bekräftade; de två övriga matcherna gör det inte och lämnas därför orörda.*
+
+---
+
 *Efteranalys tillkommer när matcherna spelats.*
