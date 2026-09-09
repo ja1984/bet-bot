@@ -79,17 +79,17 @@ Fyra matcher, samtliga **andra ben**. **B2** gäller: andra ben lutar *inte* Und
 
 ## 🎯 Kuponger — 400 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Arsenal vinst + City–Real ö2,5 | 🟡 6,5/10 | ~2,40 | — | — | — | 140 kr |
 | 2 | Huvudspel | City–Real BTTS + Chelsea–PSG BTTS | 🟡 6,5/10 | ~2,90 | — | — | — | 100 kr |
 | 3 | Hedge | Arsenal–Leverkusen u2,5 + Chelsea–PSG 1H ö0,5 | 🔴 5,5/10 | ~2,90 | — | — | — | 90 kr |
 | 4 | Uppsida | Arsenal vinst + City–Real BTTS + Chelsea–PSG ö2,5 | 🔴 5/10 | ~4,50 | — | — | — | 70 kr |
 
-**C1 — Ankare.** Tes: kvällens två starkaste läsningar — Arsenal hemma i en levande dubbelmatch plus City tvingade att jaga · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: dubbel BTTS i de två döda dubbelmatcherna, resultatoberoende · Regel: **H1** (max 2–3 skänklar)
-**C3 — Hedge.** Tes: Leverkusens kryssform gör Under 2,5 till fallskärmen om Arsenal inte vinner · Regel: **H6** (motsatt tes mot C1), **H3** (defensiv)
-**C4 — Uppsida.** Tes: allt går rätt · Regel: **H7** (Arsenal vinst 7/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: kvällens två starkaste läsningar — Arsenal hemma i en levande dubbelmatch plus City tvingade att jaga · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: dubbel BTTS i de två döda dubbelmatcherna, resultatoberoende · Regel: **H1** (max 2–3 skänklar)
+- **C3 — Hedge.** Tes: Leverkusens kryssform gör Under 2,5 till fallskärmen om Arsenal inte vinner · Regel: **H6** (motsatt tes mot C1), **H3** (defensiv)
+- **C4 — Uppsida.** Tes: allt går rätt · Regel: **H7** (Arsenal vinst 7/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 Arsenal, City–Real · C2 City–Real, Chelsea–PSG · C3 Arsenal, Chelsea–PSG · C4 Arsenal, City–Real, Chelsea–PSG
 

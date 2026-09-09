@@ -87,17 +87,17 @@ Fyra matcher, samtliga **första ben**. **B1** gäller: lutning mot Under, men b
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Atalanta–Bayern BTTS + Atlético 1H ö0,5 | 🟡 6,5/10 | — | — | — | — | 100 kr |
 | 2 | Huvudspel | Atlético vinst + Atalanta–Bayern ö2,5 | 🟡 7/10 | — | — | — | — | 80 kr |
 | 3 | Hedge | Atlético BTTS-N + Gala–Liverpool 1H ö0,5 | 🟡 6,5/10 | — | — | — | — | 70 kr |
 | 4 | Uppsida | Gala–Liverpool BTTS + Atalanta–Bayern BTTS + Newcastle–Barça 1H ö0,5 | 🔴 5,5/10 | — | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: Bayern utan Neuer mot ett Atalanta som gör mål hemma, plus tidigt Atlético-mål mot ett sönderfallande Spurs · Regel: **H10** (två målmarknader, ingen resultatberoende skänkel)
-**C2 — Huvudspel.** Tes: Atlético hemma mot 9+ frånvarande Spurs, kombinerat med målmatchen i Bergamo · Regel: **H1** (två skänklar)
-**C3 — Hedge.** Tes: Simeone nollar ett Spurs utan kreativitet, plus halvtidsmål i RAMS Parks kokande atmosfär · Regel: **H6** (defensiv skänkel mot C1/C2), **H3**
-**C4 — Uppsida.** Tes: målkväll i CL-åttondelar · Regel: **H7** (Atalanta–Bayern BTTS 7,5/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: Bayern utan Neuer mot ett Atalanta som gör mål hemma, plus tidigt Atlético-mål mot ett sönderfallande Spurs · Regel: **H10** (två målmarknader, ingen resultatberoende skänkel)
+- **C2 — Huvudspel.** Tes: Atlético hemma mot 9+ frånvarande Spurs, kombinerat med målmatchen i Bergamo · Regel: **H1** (två skänklar)
+- **C3 — Hedge.** Tes: Simeone nollar ett Spurs utan kreativitet, plus halvtidsmål i RAMS Parks kokande atmosfär · Regel: **H6** (defensiv skänkel mot C1/C2), **H3**
+- **C4 — Uppsida.** Tes: målkväll i CL-åttondelar · Regel: **H7** (Atalanta–Bayern BTTS 7,5/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 Atalanta, Atlético · C2 Atlético, Atalanta · C3 Atlético, Galatasaray · C4 Galatasaray, Atalanta, Newcastle
 

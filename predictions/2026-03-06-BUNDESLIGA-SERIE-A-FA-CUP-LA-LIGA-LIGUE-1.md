@@ -103,17 +103,17 @@ Fem **enkelmatcher** i fem olika turneringar. Inga ben i en tvåmötesomgång, s
 
 Ett kupongset för hela kvällen (avsparkar 20:30–21:00).
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Bayern ö2,5 + Wolves–Liverpool BTTS + PSG 1H ö0,5 | 🟢 7,5/10 | ~2,67 | — | — | — | 100 kr |
 | 2 | Huvudspel | Bayern vinst + Napoli vinst + Celta–RM BTTS | 🟡 6,5/10 | ~3,02 | — | — | — | 80 kr |
 | 3 | Hedge | Bayern 1H ö0,5 + Napoli u2,5 + Celta eller kryss | 🟡 6,5/10 | ~3,33 | — | — | — | 70 kr |
 | 4 | Uppsida | PSG–Monaco BTTS + Wolves–Liverpool BTTS + Celta–RM ö2,5 | 🟡 7/10 | ~4,35 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: tre målmarknader ur tre matcher, inget resultatspel · Regel: **H10** (säkraste marknaden, inte bästa oddset)
-**C2 — Huvudspel.** Tes: två starka hemmafavoriter plus fixturens måltradition, utan att backa RM:s resultat · Regel: **H1** (tre skänklar, i övre gränsen)
-**C3 — Hedge.** Tes: Napoli under mot huvudspelets Napoli vinst, och Celta/kryss mot RM-krisen · Regel: **H6** (motsatt tes mot C2), **H3** (defensiv)
-**C4 — Uppsida.** Tes: mål överallt · Regel: **H7** (Wolves–Liverpool BTTS 7,5/10 är den trygga skänkeln)
+- **C1 — Ankare.** Tes: tre målmarknader ur tre matcher, inget resultatspel · Regel: **H10** (säkraste marknaden, inte bästa oddset)
+- **C2 — Huvudspel.** Tes: två starka hemmafavoriter plus fixturens måltradition, utan att backa RM:s resultat · Regel: **H1** (tre skänklar, i övre gränsen)
+- **C3 — Hedge.** Tes: Napoli under mot huvudspelets Napoli vinst, och Celta/kryss mot RM-krisen · Regel: **H6** (motsatt tes mot C2), **H3** (defensiv)
+- **C4 — Uppsida.** Tes: mål överallt · Regel: **H7** (Wolves–Liverpool BTTS 7,5/10 är den trygga skänkeln)
 
 **Matcher per kupong:** C1 Bayern, Wolves, PSG · C2 Bayern, Napoli, Celta · C3 Bayern, Napoli, Celta · C4 PSG, Wolves, Celta
 

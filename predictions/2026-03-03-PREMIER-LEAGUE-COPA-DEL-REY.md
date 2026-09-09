@@ -87,17 +87,17 @@ Fyra ligamatcher plus ett **andra ben** i Copa del Rey-semifinalen. **B2** gäll
 
 ## 🎯 Kuponger — andelar av budget
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | Liverpool vinst + Brentford DC | 🟡 7,5/10 | — | — | — | — | 30–35% |
 | 2 | Huvudspel | Barça 1H ö0,5 + Everton vinst | 🟡 7/10 | — | — | — | — | 25–30% |
 | 3 | Hedge | Everton u2,5 + Leeds u2,5 | 🟡 6,5/10 | — | — | — | — | 20–25% |
 | 4 | Uppsida | Liverpool vinst + Brentford vinst + Barça BTTS | 🔴 5,5/10 | — | — | — | — | 15% |
 
-**C1 — Ankare.** Tes: de två starkaste enskilda spelen · Regel: **H1**
-**C2 — Huvudspel.** Tes: Barcelona startar i 100 km/h av stolthet; Everton hanterar 19:an · Regel: **H1**
-**C3 — Hedge.** Tes: två lågmålsprofiler · Regel: **H3** (defensiv)
-**C4 — Uppsida.** Tes: favoriterna plus kontringsmål i Copa-matchen · ⚠️ **H7 bruten — ingen trygg skänkel, tre offensiva spel**
+- **C1 — Ankare.** Tes: de två starkaste enskilda spelen · Regel: **H1**
+- **C2 — Huvudspel.** Tes: Barcelona startar i 100 km/h av stolthet; Everton hanterar 19:an · Regel: **H1**
+- **C3 — Hedge.** Tes: två lågmålsprofiler · Regel: **H3** (defensiv)
+- **C4 — Uppsida.** Tes: favoriterna plus kontringsmål i Copa-matchen · ⚠️ **H7 bruten — ingen trygg skänkel, tre offensiva spel**
 
 **Matcher per kupong:** C1 **Wolves**, **Bournemouth** · C2 Barcelona, **Everton** · C3 **Everton**, Leeds · C4 **Wolves**, **Bournemouth**, Barcelona
 

@@ -73,17 +73,17 @@ Fyra matcher, samtliga **första ben**. **B1** gäller: lutning mot Under, men b
 
 ## 🎯 Kuponger — 300 kr
 
-| # | Typ | Spel | Konfidens | Odds | p | Rimligt | EV | Insats |
+| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Ankare | PSG–Chelsea BTTS & ö2,5 | 🟡 7/10 | 1,85 | — | — | — | 100 kr |
 | 2 | Huvudspel | Glimt BTTS + Real–City BTTS | 🟡 7/10 | ~2,25 | — | — | — | 80 kr |
 | 3 | Hedge | Leverkusen u2,5 + Glimt ö2,5 | 🟡 6,5/10 | ~2,95 | — | — | — | 70 kr |
 | 4 | Uppsida | PSG ö2,5 + Real–City ö2,5 + Glimt BTTS | 🟡 6,5/10 | ~3,79 | — | — | — | 50 kr |
 
-**C1 — Ankare.** Tes: PSG läcker hemma utan tre mittfältare mot Chelseas målmaskin · Regel: **H10**
-**C2 — Huvudspel.** Tes: två BTTS med tungt statistiskt stöd · Regel: **H1**
-**C3 — Hedge.** Tes: Arsenals disciplin i ett tätt första ben, plus mål i Bodø · Regel: **H6** (Under-ben motsatt ankaret), **H3**
-**C4 — Uppsida.** Tes: målkväll överallt · Regel: **H7** (Glimt BTTS 8/10 är trygga skänkeln)
+- **C1 — Ankare.** Tes: PSG läcker hemma utan tre mittfältare mot Chelseas målmaskin · Regel: **H10**
+- **C2 — Huvudspel.** Tes: två BTTS med tungt statistiskt stöd · Regel: **H1**
+- **C3 — Hedge.** Tes: Arsenals disciplin i ett tätt första ben, plus mål i Bodø · Regel: **H6** (Under-ben motsatt ankaret), **H3**
+- **C4 — Uppsida.** Tes: målkväll överallt · Regel: **H7** (Glimt BTTS 8/10 är trygga skänkeln)
 
 **Matcher per kupong:** C1 PSG · C2 Glimt, Real Madrid · C3 Leverkusen, Glimt · C4 PSG, Real Madrid, Glimt
 
