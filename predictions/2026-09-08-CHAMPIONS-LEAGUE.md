@@ -229,3 +229,76 @@ Noterat utan att ändra något: **Bouaddi, 18, gör full debut i Citys mittfält
 - [AllFootball — Lille vs Betis line-ups confirmed](https://www.allfootballapp.com/articles/5281928-lille-vs-betis-line-ups-confirmed)
 - [africasoccer — Lille and Betis reveal starting line-ups](https://africasoccer.com/losc-lille-and-real-betis-reveal-starting-line-ups-for-uefa-champions-league-meeting/)
 - [RG.org — Matchday 1 odds & best bets](https://rg.org/news/soccer/champions-league-matchday-1-odds-predictions-best-bets)
+
+---
+
+## 📊 Post-Match Results
+
+**90-minutersverifiering (C10):** ligafasen spelas som enkelmatcher — **ingen förlängning existerar**, så inget spel kan ha påverkats av förlängningsmål. Samtliga mål föll inom ordinarie tid inklusive tillägg: Dortmunds femte mål (90+3) och Haalands andra (90+1) är andra halvlekens tilläggstid och räknas in i 90 minuter. Verifierat mot flera oberoende källor per match.
+
+### Match Results
+| Match | Score | Key Events |
+|---|---|---|
+| AEK Aten – LASK | 1-0 (HT 1-0) | Marin 21' (frispark ~20 m). Jović-mål bortdömt av VAR efter halvtid (Majer offside). Kalajdzić nickade bort utjämningen i slutminuterna. Kort: AEK 1, LASK 2 |
+| Club Brugge – Aston Villa | 2-3 (HT 1-3) | McGinn 11', Vetlesen 19', Buendía 22', Jackson 43', Tresoldi 61' (straff). Kort: Brugge 3 (Vanaken 48', Virgili 62', Vermant 89'), Villa 2 (McGinn 78', J. Gomes 89') |
+| Real Madrid – Inter | 2-1 (HT 2-0) | Mbappé 14', Valverde 23', Carlos Augusto 77'. Kort: Madrid 1, Inter 3 |
+| Borussia Dortmund – Villarreal | 3-2 (**HT 0-0**) | Veiga 53' (självmål), Mouriño 66' (nick på Mikautadze-boll), Guirassy 80', Guirassy 85' (straff), Guirassy 90+3' (självmål). Kort: BVB 1, Villarreal 3 — **Mouriño varnad**. Guirassy första spelaren i CL-historien med både dubbel och självmål i samma match |
+| Porto – Manchester City | 0-2 (HT 0-0) | Haaland 47' (nick, Enzo Fernández-inlägg), Haaland 90+1'. Diogo Costa räddade tre gånger före pausen |
+| Lille – Real Betis | 2-3 (HT 2-1) | Ueda 12', Bartra 33', Alexsandro 36', Bartra 49', Parrott 53'. **Ethan Mbappé utvisad 57'** |
+
+### Market Results
+| Match | Market | Prediction | Actual | Result |
+|---|---|---|---|---|
+| Dortmund – Villarreal | Over 2.5 | ✅ förväntat (7→6/10) | 5 mål | ✅ |
+| Dortmund – Villarreal | **1H Over 0.5** | ✅ förväntat (**7/10**, p 78%) | **0-0 i halvtid** | ❌ |
+| Dortmund – Villarreal | BTTS | ✅ förväntat (6/10) | Ja (Mouriño 66') | ✅ |
+| Dortmund – Villarreal | Dortmund vinst | ✅ förväntat (6.5/10) | 3-2 | ✅ |
+| Porto – Man City | Under 2.5 | ✅ förväntat (6.5/10) | 2 mål | ✅ |
+| Porto – Man City | City vinst | ✅ förväntat (6/10) | 0-2 | ✅ |
+| Porto – Man City | BTTS | ❌ lågt satt (5.5/10) | Nej | ✅ korrekt lågt |
+| Real Madrid – Inter | BTTS | ✅ förväntat (6.5→7/10) | Ja (77') | ✅ |
+| Real Madrid – Inter | Over 2.5 | ✅ förväntat (6/10) | 3 mål | ✅ |
+| Real Madrid – Inter | Madrid vinst | 5.5/10, medvetet undviket | 2-1 Madrid | ⚠️ underskattat |
+| Real Madrid – Inter | Mbappé mål | ✅ förväntat (5.5/10) | Mål 14' | ✅ |
+| Club Brugge – Villa | **Under 2.5** | ✅ förväntat (**6.5/10**) | **5 mål** | ❌ |
+| Club Brugge – Villa | Brugge gör mål | ✅ förväntat (7.5/10) | 2 mål | ✅ |
+| Club Brugge – Villa | BTTS | **kapad till 5/10 (C4)** | **Ja — Villa gjorde 3** | ❌ kapningen fel |
+| Lille – Betis | **Under 2.5** | ✅ förväntat (6.5→6/10) | **5 mål** | ❌ |
+| Lille – Betis | Kryss | 5.5/10, ej spelat | Betis vann 3-2 | ❌ |
+| AEK – LASK | AEK vinst eller kryss | ✅ förväntat (7/10) | 1-0 AEK | ✅ |
+| AEK – LASK | AEK vinst | ✅ förväntat (6/10) | 1-0 | ✅ |
+| AEK – LASK | Over 2.5 | ✅ förväntat (6/10) | 1 mål | ❌ |
+| AEK – LASK | Varga mål | ✅ förväntat (6/10) | Marin gjorde målet | ❌ |
+
+### Kortspelen (singlar, utanför kupongerna — G4)
+| Spel | Conf. | Utfall | Result |
+|---|---|---|---|
+| **Mouriño varnad** | ⭐ 7/10 (p 37%, rättvist 2.70) | **Varnad** — och gjorde mål 66' + orsakade straffen 85' | ✅ |
+| Villarreal lagkort över | 6.5/10 | 3 kort (mot Dortmunds 1) | ✅ |
+| Aston Villa lagkort över | 6.5/10 | 2 kort — Brugge fick fler (3) | ⚠️ obedömbart utan linje (över 1.5 ✅, över 2.5 ❌) |
+| AEK–LASK totalt antal kort över | 6/10 | **3 kort totalt** (AEK 1, LASK 2) | ❌ |
+| Real–Inter kort — medvetet undviket | — | 4 kort (Madrid 1, Inter 3) | ⚠️ över 3.5 hade landat; undvikandet var inte en vinst |
+
+*Anmärkning: analysen angav aldrig linjen för lagkortsspelen. Det är samma brist som G9 kräver för fouls — utan bookmakerns linje går utfallet inte att bedöma. Redovisas ärligt som obedömbart, inte som träff.*
+
+### Combo Results
+| Combo | Result | Failed Leg(s) |
+|---|---|---|
+| 🔵 C1 — Ankare (100 kr) | ✅ | — (Over 2.5 ✅ + AEK 1X ✅) |
+| 🟢 C2 — Huvudspel (80 kr) | ❌ | **Dortmund 1H Over 0.5** (0-0 i pausen). Madrid BTTS ✅ |
+| 🔴 C3 — Hedge (80 kr) | ❌ | **Brugge–Villa Under 2.5** (5 mål). Porto U2.5 ✅ |
+| 🟡 C4 — Kul-trippel (40 kr) | ❌ | **Lille–Betis Under 2.5** (5 mål). Brugge gör mål ✅, Mbappé mål ✅ |
+
+### Overall: 1/4 kuponger | Profit/Loss: ~-90 kr
+
+*P/L-underlag: inga faktiska bookmakerpriser gick att få (**I7**). C1 räknas med indikativa marknadspriser — Over 2.5 ~1.60 × AEK dubbelchans ~1.30 = ~2.08 → 100 kr ger ~+108 kr; förlorat 200 kr på C2–C4. Netto ~-92 kr. Med analysens egna rättvisa odds (1.82 × 1.43 = 2.60) blir netto -40 kr. Spannet är alltså **-40 till -95 kr**; -90 kr används som konservativ post.*
+
+### 🧠 Self-Evaluation
+
+- **Confidence calibration:** Matchläsningarna var bra, kupongkonstruktionen sämre. Åtta av tio marknader på 6/10 eller högre landade — men de tre som föll (två Under 2.5 och 1H-benet) satt i tre olika kuponger och slog ut 200 av 300 kr. Diversifieringen fungerade som avsett i H4/H5-mening (C1 och C3 delade ingen match), men **alla tre förlorande benen var defensiva/tidsbegränsade läsningar**, vilket är precis den tesekoncentration H6 varnar för — hedgen använde inte en motsatt tes, den använde en annan match med samma tes. Nattens Under-marknad gick 1/3.
+- **Best read of the night:** **Mouriño varnad.** Han blev varnad, gjorde Villarreals 1-1 och orsakade straffen som avgjorde matchen — den enskilt mest involverade spelaren på planen. Läsningen byggdes på 8+ datapunkter (3 gula på 5 matcher + 11 i La Liga), domarstatistik (Sozza 4.78) och en asymmetri i lagens kortsnitt, och den angav p 37% med rättvist odds 2.70. **G1, G5, I1–I3 fungerade exakt som avsett.** Även Porto–City Under 2.5 + City vinst landade som "kvällens bästa defensiva läsning".
+- **Worst read of the night:** **Dortmund 1H Over 0.5 på 7/10 (p 78%).** Två fel i ett: (1) tesen "Signal Iduna Park startar aldrig långsamt" formulerades **utan att målfördelningen togs fram**, vilket **D2** uttryckligen kräver före varje 1H-marknad — matchen slutade 0-0 i pausen och alla fem mål kom efter 53:e minuten; (2) 20:15-deltan tog bort två av tre namngivna Villarreal-anfallare, sänkte Over 2.5 från 7 till 6 — men **lämnade 1H-benet kvar på 7/10** med motiveringen att Dortmunds framåtdel var intakt. Det är inte otur, det är en checklistepunkt som hoppades över.
+- **Runner-up worst:** Brugge–Villa Under 2.5 på 6.5/10 → 5 mål, varav 4 före pausen. Filen innehöll själv motbevisen (Emery 67% CL-vinstprocent, Brugge med mål i 25 raka, 4.2 mål/match i CL förra säsongen) och valde ändå Under.
+- **Key learning:** **Inhemsk form reser inte till Europa — i någon riktning.** C4 (noll mål i 2+ matcher → BTTS max 5/10) tillämpades på Aston Villa utifrån tre Premier League-matcher. Villa gjorde tre mål i Belgien. Exakt samma felslut i kortmarknaden: G6:s "lag i fritt fall drar kort" pekades mot Villa, som fick **färre** kort (2) än hemmalaget Brugge (3). **F10 säger redan att inhemska formmönster inte reser till främmande CL-arenor** — kvällen bekräftar F10 i motsatt riktning, och visar att C4 och G6 behöver samma tävlingsscope-kontroll som **E6** kräver för avstängningar. Analysen hade rätt information och lät regeln köra över den.
+- **Bekräftat som redan stod i regelverket:** **G1** (Oliver-rättelsen var rätt — hans match fick 4 kort, medan Godinho- och Sozza-matcherna var de disciplinärt intressanta). **G5** (Villarreal 3 kort mot Dortmunds 1 — matchtotalen hade dragits ner av det disciplinerade laget). **G7** (AEK–LASK totalt antal kort föll på 3 kort — rent domarspel utan spelardata håller inte). **A4/A5** var rätt *process* på Madrid vinst även om utfallet gick andra vägen; ett enskilt utfall kalibrerar inte om en regel.
+- **Inte en lärdom:** att tre av sex matcher gav fem mål. En kväll är inte ett mönster (**A2**), och Under-marknadens 1/3 är för litet underlag för någon ny regel.
