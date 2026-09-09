@@ -122,6 +122,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatcher, ingen förlängning existerar. Samtliga mål inom ordinarie tid inklusive tillägg (Strand Larsen 45+1', Sarr 45+7').
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -155,8 +157,8 @@ Ej dokumenterade i originalfilen.
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | Inget kortspel lagt |
 
 ### Totalt: 2/4 kuponger | Vinst/förlust: ej beräknad (odds saknas i originalet), 150 kr satsat

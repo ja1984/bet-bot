@@ -226,6 +226,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** Roma–Bologna 3-3 efter 90, **Cambiaghis 110'-mål räknas inte**; Larnaca–Palace 1-1 efter 90, **Sarrs 99'-mål räknas inte**. Övriga inom ordinarie tid.
+
 ### Resultat
 
 **Europa League**
@@ -246,8 +248,6 @@ Ej dokumenterade i originalfilen.
 |---|---|---|
 | AEK Larnaca – Crystal Palace | **1-1** (1-2 e.f.) | Sarr 13' (P), Saborit 63' (L), Sarr 99' (P) |
 | Raków – Fiorentina | **1-2** | Struski 46' (R), Piccoli 68' (F), Pongracic 90+7' (F) |
-
-Alla mål verifierade på **90 minuter** (**C10**): Roma–Bologna 3-3 efter 90, Cambiaghis 110'-mål räknas inte; Larnaca–Palace 1-1 efter 90, Sarrs 99'-mål räknas inte.
 
 ### Under 2,5 i EL:s andra ben
 
@@ -295,8 +295,8 @@ Alla mål verifierade på **90 minuter** (**C10**): Roma–Bologna 3-3 efter 90,
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inga kortspel lagda |
 
 ### Totalt: 0/4 kuponger | Vinst/förlust: −300 kr

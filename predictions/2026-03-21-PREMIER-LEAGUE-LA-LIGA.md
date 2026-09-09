@@ -191,6 +191,8 @@ Kvällens strukturella svaghet: alla fyra kuponger lutade mot mål, tre av dem v
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatcher, ingen förlängning existerar. Samtliga mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -230,8 +232,8 @@ Kvällens strukturella svaghet: alla fyra kuponger lutade mot mål, tre av dem v
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inget kortspel lagt (**G1** ouppfylld) |
 
 ### Totalt: 0/4 kuponger | Vinst/förlust: -300 kr

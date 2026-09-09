@@ -154,6 +154,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ingen match gick till förlängning; samtliga mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -194,11 +196,13 @@ Ej dokumenterade i originalfilen.
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | Inga | — | — | — |
 
 ### Totalt: 1/4 kuponger | Vinst/förlust: 159 − 300 = **-141 kr**
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 ### 🧠 Självutvärdering
 

@@ -201,6 +201,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** första ben, ingen förlängning. Samtliga 13 mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -214,7 +216,7 @@ Ej dokumenterade i originalfilen.
 | Genk – Freiburg | 1-0 | El Ouahdi 24'. Freiburg nu noll mål i sex raka bortamatcher |
 | Forest – Midtjylland | 0-1 | Cho Gue-sung ~80' (nick). Forest 22 skott, 0 mål |
 
-**Totalt 13 mål på 8 matcher (1,63/match).** Extrem Under-kväll. Mål verifierade på 90 minuter (**C10**).
+**Totalt 13 mål på 8 matcher (1,63/match).** Extrem Under-kväll.
 
 ### Marknadsutfall
 
@@ -246,11 +248,13 @@ Ej dokumenterade i originalfilen.
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inget kortspel lagt (**G1** ej uppfylld) |
 
 ### Totalt: 2/4 kuponger | Vinst/förlust: ~+105 kr
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 ### 🧠 Självutvärdering
 

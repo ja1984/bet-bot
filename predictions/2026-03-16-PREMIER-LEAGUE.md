@@ -97,6 +97,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatch, ingen förlängning existerar. Samtliga fyra mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |

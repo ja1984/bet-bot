@@ -185,6 +185,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatcher, ingen förlängning existerar. Samtliga mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -195,8 +197,6 @@ Ej dokumenterade i originalfilen.
 | Lens – Angers | 5-1 | Thauvin 13', Édouard 25' och 48', Sangaré 39', Udol 72' / Machine 62' |
 | Bournemouth – Manchester United | 2-2 | Fernandes straff 61', Hill självmål 71' / Christie 67', Kroupi straff 81'. Maguire rött kort. **0-0 i pausen** |
 | Villarreal – Real Sociedad | 3-1 | G. Moreno 7', Mikautadze ~15', Pépé ~25' / Sučić 46'. **3-0 i pausen** |
-
-Samtliga mål inom 90 minuter, ingen förlängning (**C10**).
 
 ### Marknadsutfall
 
@@ -234,11 +234,13 @@ Ett kupongset, som därmed också är dagstotalen.
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inget kortspel lagt (**G1**) |
 
 ### Totalt: 2/4 kuponger | Vinst/förlust: ~+158 kr
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 *Dagstotal = setets total; kvällen hade bara ett kupongset.*
 

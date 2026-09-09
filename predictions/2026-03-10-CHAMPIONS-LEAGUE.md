@@ -164,6 +164,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** första ben, ingen förlängning. Sena mål kontrollerade: Pasalic 90+3' och Yamal 90+6' räknas båda in.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -172,8 +174,6 @@ Ej dokumenterade i originalfilen.
 | Atalanta – Bayern München | 1-6 | Stanisic 12', Olise 22' och 64', Gnabry 25', Jackson 52', Musiala 67' / Pasalic 90+3' |
 | Atlético Madrid – Tottenham | 5-2 | Llorente 6', Griezmann 14', Álvarez 16' och 55', Le Normand 22' / Porro 26', Solanke 76'. Kinsky utbytt efter 17' (två misstag) |
 | Newcastle – Barcelona | 1-1 | Barnes 86' / Yamal 90+6' (straff, Thiaws foul på Olmo) |
-
-Sena mål kontrollerade på 90 minuter (**C10**): Pasalic 90+3' och Yamal 90+6' räknas båda.
 
 ### Marknadsutfall
 
@@ -212,8 +212,8 @@ Sena mål kontrollerade på 90 minuter (**C10**): Pasalic 90+3' och Yamal 90+6' 
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inget kortspel lagt |
 
 ### Totalt: 2/4 kuponger | Vinst/förlust: ej beräknad (odds ej dokumenterade)

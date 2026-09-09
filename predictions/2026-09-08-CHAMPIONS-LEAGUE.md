@@ -332,13 +332,13 @@ Noterat utan att ändra något: **Bouaddi, 18, gör full debut i Citys mittfält
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Konfidens | Utfall | Resultat |
-|---|---|---|---|
-| **Mouriño varnad** | 7/10 (p 37%, rimligt 2,70) | **Varnad** — och gjorde mål 66' + orsakade straffen 85' | ✅ |
-| Villarreal lagkort över | 6,5/10 | 3 kort (mot Dortmunds 1) | ✅ |
-| Aston Villa lagkort över | 6,5/10 | 2 kort — Brugge fick fler (3) | ⚠️ obedömbart utan linje (över 1,5 ✅, över 2,5 ❌) |
-| AEK–LASK totalt antal kort över | 6/10 | **3 kort totalt** (AEK 1, LASK 2) | ❌ |
-| Real–Inter kort — medvetet undviket | — | 4 kort (Madrid 1, Inter 3) | ⚠️ över 3,5 hade landat; undvikandet var inte en vinst |
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| **Mouriño varnad** | 7/10, p 37% | ja/nej | 2,70 rimligt | — | **Varnad** — och gjorde mål 66' + orsakade straffen 85' | ✅ |
+| Villarreal lagkort över | 6,5/10 | **ej angiven** | — | — | 3 kort (mot Dortmunds 1) | ✅ |
+| Aston Villa lagkort över | 6,5/10 | **ej angiven** | — | — | 2 kort — Brugge fick fler (3) | ⚠️ obedömbart (över 1,5 ✅, över 2,5 ❌) |
+| AEK–LASK matchkort över | 6/10 | **ej angiven** | — | — | **3 kort totalt** (AEK 1, LASK 2) | ❌ |
+| Real–Inter kort — undviket | — | — | — | — | 4 kort (Madrid 1, Inter 3) | ⚠️ över 3,5 hade landat; undvikandet var inte en vinst |
 
 *Anmärkning: analysen angav aldrig linjen för lagkortsspelen. Det är samma brist som **G9** kräver för fouls — utan bookmakerns linje går utfallet inte att bedöma. Redovisas ärligt som obedömbart, inte som träff.*
 

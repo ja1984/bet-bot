@@ -223,6 +223,8 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** <hur mål efter 90 hanterats — se regeln nedan.>
+
 ### Resultat
 | Match | Resultat | Nyckelhändelser |
 |---|---|---|
@@ -239,10 +241,13 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 | C1 — Ankare | ✅ / ❌ | — / vilken skänkel |
 
 ### Kortspel (singlar, utanför kupongerna — G4)
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 
 ### Totalt: X/Y kuponger | Vinst/förlust: +/- X kr
+
+*P/L-underlag: <vilka priser summan bygger på — faktiska, indikativa eller
+filens egna rimliga odds — och spannet mellan dem.>*
 
 ### 🧠 Självutvärdering
 - **Kalibrering:** ...
@@ -251,8 +256,23 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 - **Lärdom:** ...
 ```
 
-Mål verifieras på **90 minuter** — förlängning räknas aldrig (**C10**). Skriv
-uttryckligen att det är kontrollerat när ett mål föll sent.
+**90-minutersraden står direkt under rubriken**, inte i en tabell och inte i
+löptext längre ner. Mål verifieras på **90 minuter** — förlängning räknas aldrig
+(**C10**). Skriv ut vilka sena mål som räknats in och vilka som inte gjort det.
+
+**Kortspelstabellen kräver konfidens och linje.** Konfidensen är det man
+kalibrerar mot i efterhand; utan den blir tabellen en resultatlista utan
+lärdom. Och utan bookmakerns **linje** går utfallet inte att bedöma alls —
+den 8 september redovisades ett lagkortsspel som obedömbart av precis det
+skälet (2 kort, men över 1,5 landade och över 2,5 inte). Står linjen inte i
+förhandsanalysen ska cellen säga `ej angiven`, inte lämnas tom.
+
+**P/L-underlaget är obligatoriskt när priserna inte är verkliga.** Totalraden
+kräver en kronsiffra, men **I7** betyder att faktiska bookmakerpriser ofta inte
+går att få. Skriv då vilka priser summan bygger på och spannet mellan dem —
+den 8 september låg utfallet mellan -40 och -95 kr beroende på om man räknade
+med indikativa marknadspriser eller filens egna rimliga odds, och -90 kr valdes
+som konservativ post. En exakt siffra utan underlag är falsk precision.
 
 En fil kan innehålla flera kupongset (ett per avsparkstid). Redovisa då varje
 set separat plus en dagstotal.

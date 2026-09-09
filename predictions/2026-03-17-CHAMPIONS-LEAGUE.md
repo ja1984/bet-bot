@@ -164,6 +164,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** Sporting–Glimt gick till förlängning — **Araújo 92' och Nel 120+1' räknas inte**. 90-minutersresultatet var 3-0. Övriga matcher avgjordes inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -212,14 +214,16 @@ Gula i Sporting–Glimt: Blomberg 6', Hjulmand 48', Høgh 68'; i förlängningen
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | Kort-trippel Tchouaméni + Andrich + Caicedo (~5,8 %) | 20x+ (indikativt) | — | ❌ inga kort i någon av de tre matcherna |
 | HT-kryss-trippel, alla fyra matcher (~4,3 %) | ~50x | — | ❌ bara City–Real var HT-kryss |
 
 *Båda var kombinationsspel, inte singlar — **G4** bruten.*
 
 ### Totalt: 3/4 kuponger | Vinst/förlust: ~+512 kr på 400 kr insats
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 ### 🧠 Självutvärdering
 

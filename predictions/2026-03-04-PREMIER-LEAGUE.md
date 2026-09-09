@@ -167,6 +167,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatcher, ingen förlängning existerar. Osulas 90:e och Newcastles båda tilläggstidsmål i första halvlek räknas alla inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -212,11 +214,13 @@ Ej dokumenterade i originalfilen.
 
 ### Kortspel (singlar, utanför kupongerna — G4)
 
-| Spel | Odds | Insats | Utfall |
-|---|---|---|---|
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
 | — | — | — | inga kortspel lagda |
 
 ### Totalt: 1/4 kuponger | Vinst/förlust: -144 kr
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 | | Insats | Retur | P/L |
 |---|---|---|---|

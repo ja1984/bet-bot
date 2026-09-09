@@ -154,6 +154,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** ligamatcher plus ett andra ben som avgjordes på totalen — ingen förlängning spelades. Raphinhas 45+5' är tilläggstid i första halvlek och räknas in.
+
 ### Resultat
 
 | Match | Resultat (90 min) | Nyckelhändelser | 1H |
@@ -195,7 +197,9 @@ Ej dokumenterade i originalfilen.
 | C3 — Hedge | ✅ | — (2 mål + 1 mål) |
 | C4 — Uppsida | ❌ | **Alla tre skänklarna** |
 
-### Totalt: 2/4 kuponger
+### Totalt: 2/4 kuponger | Vinst/förlust: ej beräknad (odds saknas i originalet)
+
+*P/L-underlag: originalet dokumenterade varken odds eller insatser i kronor, bara procentandelar av budgeten (**I7**). Summan kan inte räknas i efterhand.*
 
 ### 🧠 Självutvärdering
 

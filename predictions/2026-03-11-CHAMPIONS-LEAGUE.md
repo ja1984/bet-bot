@@ -135,6 +135,8 @@ Ej dokumenterade i originalfilen.
 
 ## 📊 Efteranalys
 
+**90-minutersverifiering (C10):** första ben, ingen förlängning. Samtliga mål inom ordinarie tid.
+
 ### Resultat
 
 | Match | Resultat | Nyckelhändelser |
@@ -170,6 +172,8 @@ Ej dokumenterade i originalfilen.
 | C4 — Uppsida (50 kr) | ❌ | Glimt BTTS. PSG ö2,5 ✅, Real–City ö2,5 ✅ |
 
 ### Totalt: 2/4 kuponger | Vinst/förlust: ~+92 kr
+
+*P/L-underlag: bygger på originalets egna kupongodds. Inga faktiska bookmakerpriser dokumenterades (**I7**), så summan är indikativ.*
 
 *~185 kr + ~207 kr = ~392 kr på 300 kr insats.*
 
