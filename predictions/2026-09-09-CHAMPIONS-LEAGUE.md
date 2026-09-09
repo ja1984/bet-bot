@@ -172,3 +172,7 @@ Kvällens svagaste punkt: tre av fyra kuponger bygger på att mål kommer, och C
 UEFA (ligafasens matcher) · Law 5 – The Referee (domartillsättningar MD1) · Opta Analyst (Liverpool–Atlético) · Sports Mole (Napoli–Arsenal, Sporting–Galatasaray, Stuttgart–Viking, PSG–Slovan) · Goal.com (Barcelona–Feyenoord) · StatsHub (Massa, Nyberg, Eskås) · footballwhispers · Sportskeeda
 
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+---
+
+*Efteranalys tillkommer när matcherna spelats.*
