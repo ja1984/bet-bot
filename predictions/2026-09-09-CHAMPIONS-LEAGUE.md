@@ -248,4 +248,78 @@ Faller C3 bort blir kvällens fördelning **180 kr** (C1 100 + C2 80). Då står
 
 ---
 
-*Efteranalys tillkommer när matcherna spelats.*
+## 📊 Post-Match Results
+
+**90-minutersverifiering (C10):** ligafasen spelas som **enkelmatcher — förlängning existerar inte i formatet**, så inget mål kan ha fallit utanför avräkningsfönstret. Samtliga 19 mål föll inom ordinarie tid inklusive tillägg; det senaste var 88:e minuten (PSG). Varje resultat är kontrollerat mot minst två oberoende källor.
+
+### Matchresultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Barcelona – Feyenoord | **5-1** (HT 2-0) | Raphinha 3', Adeyemi 22', Raphinha 57', Yamal 77', **Steijn 82' (Fey)**, Gabriel Jesus 85' |
+| Stuttgart – Viking | **3-1** (HT 3-1) | Demirović 20', **Tripić 22' (Vik)**, Demirović 26', Demirović 32' — hattrick på tolv minuter |
+| Liverpool – Atlético Madrid | **2-1** (HT 1-1) | **Llorente 17' (Atl)**, Szoboszlai 40', Mac Allister 50' |
+| PSG – Slovan Bratislava | **6-1** (HT 3-0) | Dembélé 17', Dembélé 23', Ferran Torres 31', Torres 47', Torres 57', **Camara ~59' (Slo)**, Fabián Ruiz 88' |
+| Sporting CP – Galatasaray | **3-1** (HT 1-1) | **Inácio 5' självmål (avräknas som Galatasaray-mål)**, Catamo 27', Luis Suárez 57' (straff), Zalazar 63' |
+| Napoli – Arsenal | **0-1** (HT 0-0) | Ødegaard 75' |
+
+*Camaras minut anges olika i källorna ("strax före timmen", "strax efter Torres hattrick") — den ligger i intervallet 57–60' och påverkar ingen marknad.*
+
+### Marknadsutfall
+
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Barcelona – Feyenoord | Över 2,5 | ✅ väntat (🟢 8/10, p 82%) | 6 mål | ✅ |
+| Barcelona – Feyenoord | Över 3,5 | ✅ väntat (p ~60%) | 6 mål | ✅ |
+| Barcelona – Feyenoord | BTTS | **avstådd (C1, p ~50%)** | **Ja — Steijn 82'** | ❌ avståendet fel |
+| Stuttgart – Viking | Över 2,5 | ✅ väntat (🟡 7/10, p 72%) | 4 mål | ✅ |
+| Stuttgart – Viking | BTTS Ja 1,62 | **avstådd (C6, p ~52%)** | **Ja — Tripić 22'** | ❌ avståendet fel |
+| Liverpool – Atlético | Över 2,5 | ✅ väntat (🟡 6/10, p 57% efter 20:15) | 3 mål | ✅ |
+| Liverpool – Atlético | Liverpool vinst | ✅ väntat (p 52%), ej spelad | 2-1 | ✅ läsning rätt |
+| Liverpool – Atlético | BTTS 1,62 | **avstådd (p 60% mot krävda 62%)** | **Ja** | ❌ avståendet fel |
+| Liverpool – Atlético | Under 2,5 (lutning 18:20) | lutning, sedan struken 20:15 | 3 mål | ✅ struken i rätt tid |
+| PSG – Slovan | PSG vinst & Över 2,5 | ✅ väntat (🟢 8/10, p 85%) | 6-1 | ✅ |
+| PSG – Slovan | BTTS Ja 2,75 | **avstådd (C9, bussparkering)** | **Ja — Camara ~59'** | ❌ avståendet fel |
+| Sporting – Galatasaray | Över 2,5 | ✅ väntat (🟡 6,5/10, p 62%) | 4 mål | ✅ |
+| Sporting – Galatasaray | BTTS | **avstådd (C3-tak + Osimhen ute, p ~48%)** | **Ja — självmål räknas** | ❌ avståendet fel |
+| Napoli – Arsenal | Under 2,5 | ✅ väntat (🟡 6/10, p 52% efter 20:15) | 1 mål | ✅ |
+| Napoli – Arsenal | Arsenal vinst 1,78–1,88 | **avstådd på pris (I4)**, läsning 52% | **Arsenal vann 1-0** | ⚠️ läsning rätt, spelet missat |
+| Napoli – Arsenal | BTTS Nej 1,95 | avstådd (neutral, ~50%) | Nej | ✅ hade landat |
+
+**Sex av sex primära målmarknader landade.** Ingen rekommenderad marknad föll.
+
+### Kupongutfall
+
+| Kupong | Status vid avspark | Resultat | Fallen skänkel |
+|---|---|---|---|
+| C1 — Ankare (100 kr, 1,22) | spelad | ✅ | — (PSG 6-1, sju mål) |
+| C2 — Huvudspel (80 kr, 2,04) | spelad | ✅ | — (Barça 6 mål ✅ + Sporting 4 mål ✅) |
+| C3 — Hedge (70 kr, 1,91) | **villkorad 20:15: spelas bara från 1,95** | ✅ läsningen landade (1 mål) | — |
+| C4 — Uppsida (50 kr, 2,27) | **struken 18:20** | ✅ båda skänklarna landade | — (Stuttgart 4 mål ✅ + Liverpool 3 mål ✅) |
+
+**Två skilda facit, båda ärliga:**
+
+- **Faktiskt spelat** (filens sista instruktion gäller): C1 + C2, insats **180 kr** → retur 285,20 kr → **+105,20 kr**, **2/2**.
+- **Kupongsetet som publicerades 18:00**: alla fyra, insats 300 kr → retur 532,40 kr → **+232,40 kr**, **4/4**.
+
+C3 räknas inte som vinst: 20:15-tillägget satte uttryckligen priströskeln 1,95 och den enda indikativa noteringen var 1,91. Att läsningen landade gör inte spelet spelat. C4 var struken redan 18:20.
+
+### Totalt: 2/2 spelade kuponger (4/4 läsningar) | Vinst/förlust: **~+105 kr**
+
+*P/L bygger på filens egna indikativa odds (**I7** — bookmakerpriser går inte att läsa). C1 100 kr × 1,22 = +22 kr · C2 80 kr × 2,04 = +83,20 kr.*
+
+### 🧠 Självutvärdering
+
+- **Kalibrering.** Nattens bästa på länge: samtliga sex rekommenderade målmarknader landade, och de tre sannolikheterna som gick att pröva mot ett tydligt utfall satt bra — p 85% på PSG-paketet (6-1), p 82% på Barça Över 2,5 (avgjord i 22:a minuten), p 52% på Napoli–Arsenal Under (1 mål). Ingen enda marknad låg fel åt något håll. Det är inte skicklighet i varje enskilt fall — Liverpool–Atlético landade Över 2,5 på tre mål i en match som lika gärna kunde slutat 1-1 — men kalibreringen som helhet höll.
+
+- **Kvällens bästa läsning.** **Napoli–Arsenal Under 2,5.** Originaltesen — "Arsenal vinner sina europamatcher genom kontroll, inte målfest, och kontroll väger tyngre när motståndarens mittfält är borta" — beskrev matchen exakt: 0-1, ett mål på 75:e minuten, Arsenal dominerande men slösaktigt. Att 20:15-tillägget dessutom sänkte p från 55% till 52% när elvan visade en offensiv Arsenal-uppställning var rätt riktning på justeringen, även om utfallet blev ännu tightare än den mer offensiva prognosen.
+
+- **Kvällens sämsta läsning.** **BTTS, i alla fem matcher där den övervägdes.** Marknaden avfärdades fem gånger — via **C1** (dominant hemmaarena), **C6** (Vikings målskyttar skadade), **C9** (bussparkering), **C3** (fästningstak) och en marginalbedömning på 60% mot krävda 62% — och **den hade landat alla fem gångerna**. Det kostade inga pengar, eftersom inget BTTS-spel lades. Men fem av fem är inte otur, det är en systematisk lutning: regelverkets BTTS-dämpande regler är alla härledda ur utslagsfasen i februari–mars 2026, och de tillämpades här på enkelmatcher i ligafasen där en förlorande bortalag inte har något att skydda. Se PR mot `bet-bot-brain`.
+
+- **Näst sämsta.** **Arsenal vinst avstådd på pris.** Läsningen var rätt (p 52%, Arsenal vann), priset 1,78–1,88 krävde 56%. Beslutet följde **I4** och var korrekt process — men det är värt att notera att kvällens enda missade vinnare kom ur en prisdisciplin som fungerade som den ska. Ett enskilt utfall omkalibrerar inte I4.
+
+- **Vad de sena uppdateringarna gjorde.** 18:20-korrigeringen — att Iraola är Liverpools och inte Atléticos tränare — var **faktiskt korrekt** och bekräftades av matchrapporterna ("Iraolas första hemmaseger som Liverpool-manager"). Den strök C4 på rätt grund: kupongens uttalade tes existerade inte. Att C4:s båda skänklar ändå landade är ett utfall, inte ett bevis för att strykningen var fel. Samma sak med C3: priströskeln 1,95 var rätt satt utifrån p 52%, och att marknaden råkade landa ändrar inte att 1,91 var ett negativt EV-pris. **Två korrekta processbeslut kostade 127 kr i utebliven vinst den här natten. Det är priset för att inte spela negativa EV-spel, och det ska betalas igen nästa gång.**
+
+- **Bekräftat som redan stod i regelverket.** **C10** — ligafasen har ingen förlängning, kontrollen är gjord men var trivial i det här formatet. **I5** — 18:00-filen skrev själv att "sätts Napoli–Arsenal på 52% i stället för 55% är C3 exakt break-even", och exakt det inträffade fem timmar senare. Att felmarginalen angavs i förväg gjorde 20:15-beslutet mekaniskt i stället för godtyckligt. **F10** — PSG:s vinstlösa Ligue 1-svit reste inte till Europa: 6-1.
+
+- **Inte en lärdom.** Att C3 och C4 båda hade landat. Att nattens sex matcher gav 19 mål. Ett dygn kalibrerar inte om något.
