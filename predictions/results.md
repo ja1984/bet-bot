@@ -9,7 +9,7 @@ på Facit-sidan.
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
-| 2026-09-09 | CL ligafas omgång 1 | 4 publicerade, 2 spelade | 2/2 ✅ | ~+105 kr** |
+| 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 
 *\* = uppskattat utifrån indikativa odds (bookmakerpriser inte tillgängliga — I7). Spann -40 till -95 kr; konservativ post används.*
 
