@@ -93,15 +93,20 @@ faktiskt styr slutsatsen.
 - **<Marknad>** — p **X%**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. 🟢 8/10
 - **<Marknad som avstås>** — kräver p X%, skattning Y%. Negativt EV. Avstå.
 
-**Skott på mål (singel — J6).**
+**Skott på mål — sidospel (J6).** Top 3 skyttar i varje lag.
 
-| Spelare | Linje | Skott på mål/match | Urval | Sannolikhet | Rimligt odds | Konfidens |
+| Lag | Spelare | Skott på mål/match | Urval | Linje | Sannolikhet | Rimligt odds |
 |---|---|---|---|---|---|---|
-| Vinícius Jr | 2+ | 2,4 | 9 matcher, CL 25/26 | 55% | 1,82 | 🟡 7/10 |
+| Real Madrid | Vinícius Jr | 2,4 | 9 matcher, CL 25/26 | 2+ | 55% | 1,82 |
+| Real Madrid | Mbappé | 1,9 | 9 matcher, CL 25/26 | 1+ | 78% | 1,28 |
+| Real Madrid | Bellingham | 1,1 | 9 matcher, CL 25/26 | 1+ | 62% | 1,61 |
+| Marseille | Aubameyang | 1,6 | 8 matcher, CL 25/26 | 1+ | 70% | 1,43 |
+| Marseille | Greenwood | 1,4 | 8 matcher, CL 25/26 | 1+ | 66% | 1,52 |
+| Marseille | Højbjerg | 0,7 | 8 matcher, CL 25/26 | 1+ | 45% | 2,22 |
 
-<En rad: varför just han — huvudalternativet, vilka hot som saknas, straff- eller
-frisparksläggare — och vad som gör linjen rätt (**J5**). Plus minutrisken: bekräftad
-startelva eller rotationsrisk (**J4**).>
+<En rad: vem som sticker ut och varför — huvudalternativet, vilka hot som saknas,
+straff- eller frisparksläggare — och minutrisken per namn som inte är självklar
+startspelare (**J4**).>
 ```
 
 En matchrubrik per match, numrerad. Inga emoji i matchrubrikerna — trafikljuset
@@ -111,18 +116,22 @@ marsfilerna.
 Avstådda marknader hör hit, inte bara i sektion 5: det är i matchen resonemanget
 finns. Sektion 5 samlar bara de beslut som gäller hela kvällen.
 
-**Skott på mål-blocket finns i varje analyserad match**, och det ska namnge **vem**
-och **hur många** — en spelare, en linje, inget annat (**J1**). Högst en spelare per
-match; en andra rad är samma läsning två gånger. Siffran är spelarens egen skott på
-mål/match över ett angivet urval i **samma turnering** (**J2, F10**), inte lagets
-skottvolym och inte totala skott omräknade i huvudet (**J3**). Räcker inte underlaget
-till åtta matcher: skriv karriär- eller helsäsongssiffran och vilken som används
-(**G3**). Går ingen spelare att belägga skrivs blocket ut med `inget spel` och skälet
-— aldrig en tom tabell och aldrig ett hopp över rubriken.
+**Skott på mål-blocket finns i varje analyserad match** och listar **top 3 skyttar i
+varje lag** — sex rader, sorterade högst först per lag (**J1**). Varje rad namnger
+**vem** och **hur många**: spelare, linje, sannolikhet. Blocket är en listning, inte ett
+urval; läsaren väljer själv ur den.
 
-Spelet är en **singel utanför de fyra kupongerna** (**J6**) och odds saknas normalt
-i alla källor (**I8**) — därför bär tabellen sannolikhet och rimligt odds, inte
-oddskolumnen som marknadstabellerna har.
+Siffran är spelarens egen skott på mål/match över ett angivet urval i **samma turnering**
+(**J2, F10**), inte lagets skottvolym och inte totala skott omräknade i huvudet
+(**J3** — ungefär en tredjedel av skotten går på mål, och kvoten är spelarberoende).
+Räcker inte underlaget till åtta matcher: skriv karriär- eller helsäsongssiffran och
+vilken som används (**G3**). Går ett lags tredje namn inte att belägga skrivs raden ut
+med `underlag saknas` — aldrig en tom cell och aldrig färre än tre rader utan förklaring.
+
+**Detta är sidospel och ingenting byggs kring dem** (**J6**): de ligger utanför de fyra
+kupongerna, är aldrig en skänkel, och ingen insats eller tes vilar på dem. De ligger
+också utanför budgeten i sektion 4, på egen liten peng. Odds saknas normalt i alla källor
+(**I8**) — därför bär tabellen sannolikhet och rimligt odds istället för en oddskolumn.
 
 ## 4. Kuponger
 
@@ -280,9 +289,9 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 | Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
 |---|---|---|---|---|---|---|
 
-### Skott på mål (singlar, utanför kupongerna — J6)
-| Spelare | Linje | Konfidens | Spelade minuter | Skott på mål | Utfall |
-|---|---|---|---|---|---|
+### Skott på mål (sidospel, utanför kupongerna — J6)
+| Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
 
 ### Totalt: X/Y kuponger | Vinst/förlust: +/- X kr
 
@@ -307,11 +316,16 @@ den 8 september redovisades ett lagkortsspel som obedömbart av precis det
 skälet (2 kort, men över 1,5 landade och över 2,5 inte). Står linjen inte i
 förhandsanalysen ska cellen säga `ej angiven`, inte lämnas tom.
 
-**Skott på mål-tabellen kräver spelade minuter.** Ett skottspel faller på två helt
-olika sätt — han sköt inte, eller han var inte på planen — och bara minutkolumnen
-skiljer dem åt. Utan den kalibreras **J4** (minutrisken) aldrig, och en bänkad spelare
-läses i efterhand som en felaktig skottläsning. Byttes han in eller ut: skriv
-minuterna, inte `startade`.
+**Skott på mål-tabellen tar med alla sex raderna per match — även de som ingen skulle
+ha spelat — och kräver spelade minuter.** Hela poängen med sex rader är kalibrering:
+fyra matcher ger 24 skattningar mot 24 mätbara utfall, vilket klarar **A2**:s krav på
+åtta datapunkter på en vecka istället för en säsong (**J7**). Plockar man bara ut de
+spelade raderna försvinner det underlaget.
+
+Minutkolumnen är obligatorisk eftersom en rad faller på två helt olika sätt — han sköt
+inte, eller han var inte på planen — och bara minuterna skiljer dem åt. Utan den
+kalibreras **J4** aldrig, och en bänkad spelare läses i efterhand som en felaktig
+skottläsning. Byttes han in eller ut: skriv minuterna, inte `startade`.
 
 **P/L-underlaget är obligatoriskt när priserna inte är verkliga.** Totalraden
 kräver en kronsiffra, men **I7** betyder att faktiska bookmakerpriser ofta inte
