@@ -406,3 +406,199 @@ uppfylla **H3** hade varit att köpa struktur för pengar.
 
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter
 går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** Ligafasen har **ingen förlängning** — samtliga sex
+matcher avgjordes på 90 minuter plus tilläggstid, och ingen match gick till förlängning.
+Tilläggstid i ordinarie andra halvlek räknas in i 90-minutersavräkningen. De fyra sena
+målen — Olise 90+2', Perrone 90', Thauvin 90+1' och Aguilar 90+3' — är alla tilläggstid
+i andra halvlek och **räknas**. Inget mål behövde diskvalificeras. Samtliga BTTS-utfall
+var dessutom avgjorda långt före den 90:e minuten: det sista BTTS-avgörande målet föll
+58' (Como–Leipzig). Ingen marknad i filen hänger på ett gränsfall.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Fenerbahçe – Roma | 1–1 | Cristante 39' (0–1), Archie Brown 48' (1–1). Skott på mål: Fenerbahçe 5–7 (källberoende), Roma 3 |
+| PSV – Shakhtar Donetsk | 1–1 | Mendoza 45+' (0–1), Dest 48' (1–1) |
+| Bayern München – Bodø/Glimt | 5–0 | Musiala 47', Kane 61', Davies 77', Olise 83', Olise 90+2'. Bodø-målvakten Haikin utbytt skadad i halvtid; Bjørtuft utvisad 87' |
+| Manchester United – Sabah | 4–0 | Cunha 27', Bruno Fernandes 42', Šeško 45', Lisandro Martínez 68' |
+| Slavia Prag – Lens | 2–3 | Šturm 51', Sima 73', Šturm 88', Thauvin 90+1', Aguilar 90+3'. Konečný (Slavia) utvisad 49' |
+| Como – RB Leipzig | 4–1 | Baturina 15', Douvikas 38', Diao 54', Maksimović 58', Perrone 90' |
+
+**Kvällen i siffror:** 23 mål på sex matcher = **3,83 mål/match** · **BTTS 4/6 (67%)** ·
+**över 2,5 i 4/6 (67%)**. Basnivån filen räknade från (3,83 mål/match, 75% BTTS,
+75% över 2,5 på omgångens första tolv matcher) höll på målsnittet **exakt** och låg
+åtta procentenheter högt på de två marknadsandelarna.
+
+### Marknadsutfall
+
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Fenerbahçe – Roma | Över 2,5 (p 62%, rekommenderad men ospelad — H5) | ✅ väntat | 2 mål | ❌ |
+| Fenerbahçe – Roma | BTTS (avstådd, EV +1,6% — I4) | avstådd | 1–1 | Hade landat — missad vinst |
+| Fenerbahçe – Roma | Roma vinst (avstådd, F10) | avstådd | Oavgjort | ✅ korrekt avstådd |
+| Fenerbahçe – Roma | **Boost: Fenerbahçe 3+ skott på mål** | ✅ väntat (85%) | 5–7 på mål | ✅ |
+| Fenerbahçe – Roma | **Boost: Roma 3+ skott på mål** | ✅ väntat (79%) | **exakt 3** | ✅ (på gränsen) |
+| Fenerbahçe – Roma | **Boost: BTTS** | ✅ väntat (73% betingat) | 1–1 | ✅ |
+| PSV – Shakhtar | BTTS (C4) | ✅ väntat | 1–1 | ✅ |
+| PSV – Shakhtar | Över 2,5 (avstådd, negativt EV) | avstådd | 2 mål | ✅ korrekt avstådd |
+| PSV – Shakhtar | PSV vinst (avstådd, sex frånvarande) | avstådd | Oavgjort | ✅ korrekt avstådd |
+| PSV – Shakhtar | Under 2,5 3,00 (avstådd mot basnivån) | avstådd | 2 mål | Hade landat — missad vinst |
+| Bayern – Bodø/Glimt | BTTS-Nej (C3) | ✅ väntat | Bodø mållösa | ✅ |
+| Bayern – Bodø/Glimt | Över 2,5 (rätt läsning, ospelad — I4) | ✅ väntat | 5 mål | Hade landat (EV var +0,1%) |
+| Bayern – Bodø/Glimt | Bayern vinst 1,07 (avstådd, negativt EV) | avstådd | Bayern vann | Hade landat — korrekt avstådd på pris |
+| Man United – Sabah | United vinst & över 2,5 (C1) | ✅ väntat | 4–0 | ✅ |
+| Man United – Sabah | Över 3,5 1,67 (avstådd, skattning 55%) | avstådd | 4 mål | Hade landat — missad vinst |
+| Man United – Sabah | BTTS 2,05 (avstådd, skattning 35%) | avstådd | Sabah mållösa | ✅ korrekt avstådd |
+| Slavia – Lens | BTTS (C2-skänkel) | ✅ väntat | 2–3 | ✅ |
+| Slavia – Lens | Över 2,5 (rätt läsning, ospelad — H5) | ✅ väntat | 5 mål | Hade landat |
+| Como – Leipzig | BTTS (C2-skänkel) | ✅ väntat | 4–1 | ✅ |
+| Como – Leipzig | Över 2,5 (rätt läsning, ospelad — tunt EV) | ✅ väntat | 5 mål | Hade landat |
+| Como – Leipzig | Como vinst 1,73 (avstådd, skattning 50%) | avstådd | Como vann 4–1 | Hade landat — missad vinst |
+| Como – Leipzig | Baturina målskytt 2,88 (avstådd) | avstådd | **Mål 15'** | Hade landat — missad vinst |
+
+### Kupongutfall
+
+| Kupong | Resultat | Fallen skänkel |
+|---|---|---|
+| C1 — Ankare (United vinst & ö2,5, 1,36, 100 kr) | ✅ | — |
+| C2 — Huvudspel (Como–Leipzig BTTS + Slavia–Lens BTTS, 2,33, 80 kr) | ✅ | — |
+| C3 — Hedge (Bayern–Bodø/Glimt BTTS-N, 2,18, 70 kr) | ✅ | — |
+| C4 — Uppsida (PSV–Shakhtar BTTS, 1,54, 50 kr) | ✅ | — |
+| Boost (utanför de fyra — Fenerbahçe 3+ & Roma 3+ skott på mål & BTTS, 2,50, 300 kr) | ✅ | — |
+
+### Kortspel (singlar, utanför kupongerna — G4)
+
+| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Inget kortspel rekommenderat | — | ej angiven | — | 0 kr | Två utvisningar i omgången (Konečný 49', Bjørtuft 87') | Ej bedömbart — avståendet var korrekt enligt G5/G9 (varken bookmakerlinje eller lagens kort/match fanns) |
+
+### Skott på mål (sidospel, utanför kupongerna — J6)
+
+| Match | Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|---|
+| FEN–ROM | Fenerbahçe | Greenwood | 1+ | 78% | Startade | 0 | ❌ |
+| FEN–ROM | Fenerbahçe | Muriqi | 1+ | 74% | Startade | `underlag saknas` | Obedömbar |
+| FEN–ROM | Fenerbahçe | Aktürkoğlu | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| FEN–ROM | Roma | Malen | 2+ | 51% | Startade | 0 | ❌ |
+| FEN–ROM | Roma | Dybala | 1+ | 56% | Startade | `underlag saknas` | Obedömbar |
+| FEN–ROM | Roma | Soulé | 1+ | 42% | Startade | `underlag saknas` | Obedömbar |
+| PSV–SHA | PSV | Pepi | 1+ | 70% | Startade | `underlag saknas` | Obedömbar |
+| PSV–SHA | PSV | Til | 1+ | 32% | Startade | `underlag saknas` | Obedömbar |
+| PSV–SHA | PSV | Perišić | 1+ | 32% | Startade | `underlag saknas` | Obedömbar |
+| PSV–SHA | Shakhtar | Kauã Elias | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| PSV–SHA | Shakhtar | Newertton | — | — | Ej i startelvan | — | Rad saknades i förhand |
+| PSV–SHA | Shakhtar | Alisson Santana | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| BAY–BOD | Bayern | Kane | 2+ | 64% | Startade, **mål 61'** | ≥1 | Obedömbar på 2+ |
+| BAY–BOD | Bayern | Olise | 1+ | 79% | Startade, **mål 83' + 90+2'** | ≥2 | ✅ |
+| BAY–BOD | Bayern | Luis Díaz | 1+ | 69% | Startade | `underlag saknas` | Obedömbar |
+| BAY–BOD | Bodø/Glimt | Fet | 1+ | 53% | Startade | `underlag saknas` | Obedömbar |
+| BAY–BOD | Bodø/Glimt | Hauge | 1+ | 53% | **Startade** (J4-tveksamheten föll bort) | `underlag saknas` | Obedömbar |
+| BAY–BOD | Bodø/Glimt | Helmersen | 1+ | 39% | Startade | `underlag saknas` | Obedömbar |
+| MUN–SAB | Man United | Šeško | 1+ | 68% | Startade, **mål 45'** | ≥1 | ✅ |
+| MUN–SAB | Man United | Mbeumo | 1+ | 62% | Startade (assist) | `underlag saknas` | Obedömbar |
+| MUN–SAB | Man United | Bruno Fernandes | 1+ | 50% | Startade, **mål 42'** | ≥1 | ✅ |
+| MUN–SAB | Sabah | Mickels | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| MUN–SAB | Sabah | Simić | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| MUN–SAB | Sabah | Parris | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| SLA–LEN | Slavia | Chorý | 1+ | 43% | **Bänken, ej i startelvan** | — | ❌ på minuter (J4) |
+| SLA–LEN | Slavia | Chytil | 1+ | 28% | Startade | `underlag saknas` | Obedömbar |
+| SLA–LEN | Slavia | Šturm | — | — | **Startade, mål 51' + 88'** | ≥2 | Rad saknades i förhand — hade landat |
+| SLA–LEN | Lens | Édouard | 1+ | 66% | **Bänken, ej i startelvan** | — | ❌ på minuter (J4) |
+| SLA–LEN | Lens | Thauvin | 1+ | 56% | Startade, **mål 90+1'** | ≥1 | ✅ |
+| SLA–LEN | Lens | Ivanović | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+| COM–RBL | Como | Paz | 1+ | 75% | Startade (två assist) | `underlag saknas` | Obedömbar |
+| COM–RBL | Como | Douvikas | 1+ | 55% | Startade, **mål 38'** | ≥1 | ✅ |
+| COM–RBL | Como | Diao | 1+ | 45% | Startade, **mål 54'** | ≥1 | ✅ |
+| COM–RBL | Leipzig | Nkunku | 1+ | 39% | Startade (assist) | `underlag saknas` | Obedömbar |
+| COM–RBL | Leipzig | Diomandé | 1+ | 55% | **Ej i startelvan** | — | ❌ på minuter (J4 — bänkrisken inträffade) |
+| COM–RBL | Leipzig | Nusa | — | — | **Startade** | `underlag saknas` | Rad saknades i förhand |
+
+**Kalibreringsutfall (J7): 11 av 36 rader gick att bedöma.** Sex landade (Olise, Šeško,
+Fernandes, Thauvin, Douvikas, Diao), fem föll. Av de fem föll **tre på minuter och bara
+två på skjutande** — vilket är precis den felfördelning **J4** förutsäger. De tre
+minutfallen var dessutom alla förhandsflaggade eller flaggbara: Diomandé stod uttryckligen
+med bänkrisk i filen, Chorý och Édouard hämtades ur förväntade elvor som inte höll.
+
+Resterande 25 rader kunde inte bedömas: **spelarvis skott på mål per match går inte att
+hämta i efterhand** ur någon källa som är nåbar härifrån (ESPN, UEFA, Sky Sports, FotMob,
+WhoScored, AllFootball och Sofascore svarar alla `403` eller JS-skal). Lagnivå går att få,
+spelarnivå inte. Det är ett underlagsproblem, inte ett läsningsproblem — men det betyder
+att **J7:s löfte om 24 mätbara utfall per kväll inte infriades den första kvällen
+sektionen fanns**.
+
+De tio raderna som skrevs `underlag saknas` i förhand är den andra lärdomen här: **åtta av
+de tio spelarna startade**, och en av dem (Šturm) gjorde två mål och var kvällens mest
+avgörande anfallsspelare. Att underlag saknas är ett uttalande om källan, inte om spelaren.
+
+### Totalt: 4/4 kuponger | Vinst/förlust: **+252 kr på kupongerna, +450 kr på boosten = +702 kr**
+
+| Post | Insats | Odds | Retur | Netto |
+|---|---|---|---|---|
+| C1 — Ankare | 100 kr | 1,36 | 136,00 kr | +36,00 kr |
+| C2 — Huvudspel | 80 kr | 2,33 | 186,40 kr | +106,40 kr |
+| C3 — Hedge | 70 kr | 2,18 | 152,60 kr | +82,60 kr |
+| C4 — Uppsida | 50 kr | 1,54 | 77,00 kr | +27,00 kr |
+| **Kuponger** | **300 kr** | | **552,00 kr** | **+252,00 kr** |
+| Boost (utanför de fyra) | 300 kr | 2,50 | 750,00 kr | +450,00 kr |
+| **Kvällen totalt** | **600 kr** | | **1 302,00 kr** | **+702,00 kr** |
+
+*P/L-underlag: samtliga priser är **indikativa** (**I7**) — kupongodds från Betano,
+William Hill och Ladbrokes via previewartiklar, boostpriset från bet365:s egen
+kampanjnotering 1,83 → 2,50. Summan ovan bygger på de indikativa marknadspriserna, samma
+metod som 9 september. Räknas kvällen i stället på filens egna **rimliga odds** (1,32 /
+2,10 / 1,96 / 1,49 och 2,04) blir utfallet +211,70 kr på kupongerna och +312 kr på
+boosten, alltså **+523,70 kr**. Spannet för kvällen är därmed **+524 till +702 kr**;
+den högre posten redovisas som huvudsiffra eftersom den bygger på priser som faktiskt
+noterades, den lägre står här som golv.*
+
+### 🧠 Självutvärdering
+
+- **Kalibrering.** Fyra av fyra kuponger och boosten landade — kvällens bästa resultat
+  hittills. Men träffbilden är inte jämnt fördelad över skattningarna: **C1 (p 76%),
+  C2 (p 48%), C3 (p 51%), C4 (p 67%) och boosten (p 49%)** summerar till ett förväntat
+  utfall kring **2,9 av 5**. Att alla fem landade är alltså ett utfall i den övre svansen,
+  inte ett bevis på att skattningarna var rätt. Den ärliga läsningen är att kvällen var
+  **lite bättre än läsningen och rejält bättre än sannolikheterna** — precis det som
+  8 september var i motsatt riktning. Fem för fem på p≈0,5-spel är tur som föll åt rätt
+  håll, och ska inte skrivas upp som skicklighet.
+- **Kvällens bästa läsning.** **C3, hedgen på Bayern–Bodø/Glimt BTTS-Nej.** Den gick mot
+  marknaden, mot tipssidorna och mot Bayerns egen hemma-BTTS-serie (9 av 10), och byggde
+  helt på **F10**: att Bodø/Glimts 2,6 mål per match är Eliteserien-siffror som inte reser
+  till Allianz Arena. Bodø kom aldrig i närheten. Filen skrev dessutom ut att kanten satt
+  *inuti* den egna skattningen (+11% vid p 51%, −1,9% vid p 45%) och satte insatsen därefter
+  — det är **I5** och **I6** använda som de ska.
+- **Kvällens sämsta läsning.** **Como vinst 1,73, avstådd på "för snålt för en CL-debutant
+  mot ett Bundesliga-lag".** Como vann 4–1 och ledde 3–0. Samma match bar dessutom det
+  avstådda **Baturina målskytt 2,88** — avfärdat på 0,31 skott på mål/match i Serie A —
+  och han gjorde 1–0 efter en kvart och lade fram 2–0. Två avståenden i samma match som
+  båda var fel, och båda på samma grund: statusordet "debutant" fick väga tyngre än det
+  filen själv hade skrivit tre rader ovanför, att Leipzig **släppt in mål i 18 raka
+  CL-matcher** och saknade sin bästa skytt. Det var underlag nog för att åtminstone prisa
+  om segermarknaden.
+- **Regelbrott att notera: C8 följdes aldrig upp.** C3 är BTTS-Nej i en match där filen
+  samtidigt skattade hemmasegern till 93% — exakt den kombination **C8** förbjuder
+  ("koppla aldrig BTTS-Nej till en förutspådd dominant hemmaseger"). Filens checklista
+  nämner inte C8 alls. Spelet vann, och 5–0 är precis det blowout-scenario C8 varnar för;
+  att Bodø höll nollan framåt i en match de förlorade med fem betyder att **regeln
+  kringgicks, inte att den motbevisades**. En kväll är inget underlag för att lossa på C8,
+  men den ska stå i checklistan nästa gång BTTS-Nej övervägs.
+- **Boosten: rätt spel, fel storlek — och det stod i filen.** Priset var kvällens bästa
+  (+22% EV) och alla tre benen landade, men Roma-benet landade på **exakt tre skott på mål**.
+  Ett enda avslut mindre och 300 kr hade fallit. Filen skrev själv att 300 kr är ungefär
+  **halv Kelly** när ramverket säger kvarts (~150 kr) och lät beloppet stå ändå. Det är
+  samma mönster som **H5**-tillägget från 8 september varnar för: *en flaggad risk som
+  inte flyttar en insats är inte riskhantering*. Att den här gången gick vägen ändrar inte
+  bedömningen — det gör den bara svårare att ta på allvar nästa gång.
+- **Lärdom.** Kvällens verkliga bidrag till regelverket är **C11**, och den kommer från
+  siffrorna snarare än från resultatet: ligafasens basnivå står nu på **18 matcher — 69 mål,
+  3,83 per match, BTTS i 13 av 18 (72%), över 2,5 i 13 av 18 (72%)**. Det klarar **A2**:s
+  åttaribba, som C11:s ursprungliga tolv matcher inte gjorde. Alla fyra kuponger var
+  målmarknader byggda på den basnivån, och tre av fyra hämtade sin kant ur att
+  C1/C2/C3/C9 *inte* fick veta. Den andra lärdomen är **J4**: av fem bedömbara skottrader
+  som föll, föll tre på minuter och två på skjutande — regeln beskriver felfördelningen rätt.
