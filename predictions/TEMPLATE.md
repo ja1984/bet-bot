@@ -12,7 +12,7 @@ flera turneringar sammanfogade med `-`:
 Research görs fortfarande på engelska (SKILL.md, Core Principles), men ingenting av
 det syns i filen.
 
-**Siffror:** svenskt decimalkomma (`1,91` inte `1.91`). Odds, sannolikhet, rimligt
+**Siffror:** svenskt decimalkomma (`1,91` inte `1.91`). Skriv **sannolikhet** i klartext — aldrig `p` som kolumnhuvud eller i löptext. Odds, sannolikhet, rimligt
 odds och EV anges för varje rekommenderat spel — utan undantag (I1, I2, I3):
 
 | Kolumn | Betyder |
@@ -80,7 +80,7 @@ startelvorna bekräftas efter publicering. Sektion 11 läggs till efter matchern
 
 Exempel: `# ⚽ Champions League — ligafas omgång 1, onsdag 9 september 2026`
 
-Direkt under titeln: en rad som slår fast om det är enkelmatcher eller ben i en
+Direkt under titeln: en rad som slår fast om det är enkelmatcher eller möten i en
 tvåmötesomgång, eftersom **B1/B2** står och faller med det.
 
 ## 2. Kvällens matcher & domare
@@ -108,13 +108,13 @@ per match längre ner för den som vill.
 
 **Kuponger — <budget> kr**
 
-| # | Typ | Spel | Odds | p | EV | Kvalitet | Insats |
+| # | Typ | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
 |---|---|---|---|---|---|---|---|
 | 1 | Ankare | PSG vinst & ö2,5 | 1,22 | 85% | +4% | 🟢 7,5 | 100 kr |
 
 **Singelspel**
 
-| Tid | Match | Spel | Typ | Odds | p | EV | Kvalitet | Insats |
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
 |---|---|---|---|---|---|---|---|---|
 | 21:00 | Lag A – Lag B | BTTS | Mål | 1,55 | 68% | +5% | 🟡 7 | 50 kr |
 
@@ -132,7 +132,7 @@ Fyra krav på singeltabellen:
 
 - **Sammanställning, inte ny analys.** Varje rad ska finnas i sin matchsektion (4) eller
   kortsektionen (6) med samma sannolikhet, band och pris.
-- **Inget här är en skänkel** — singlar byggs aldrig ihop till en kupong (**G4**, **J6**).
+- **Inget här är ett kupongben** — singlar byggs aldrig ihop till en kupong (**G4**, **J6**).
 - **`Typ` är obligatorisk.** Fem rader som alla säger "Mål" är en tes i fem förklädnader,
   och det ska synas direkt (**L6**).
 - **Tom tabell är ett giltigt utfall:** skriv `inga singelspel ikväll` plus skälet
@@ -177,9 +177,9 @@ alternativen — och om BTTS var kandidat, varför den *inte* vann jämförelsen
 viktigaste motsägande datapunkten — och hur mycket den flyttade sannolikheten.>
 
 **Marknader.**
-- **<Marknad>** — p **X% (band A–B%)**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. Utfallskonfidens **7/10** · spelkvalitet 🟢 **7,5/10**
-- **<Marknad som avstås>** — kräver p X%, skattning Y%. Negativt EV. Avstå.
-**Beslut.** 🟢 SPELA / 🟡 LITET SPEL / 🔴 PASS — <marknad> @ <odds>, p <X% (A–B%)>,
+- **<Marknad>** — sannolikhet **X% (band A–B%)**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. Utfallskonfidens **7/10** · spelkvalitet 🟢 **7,5/10**
+- **<Marknad som avstås>** — kräver X%, skattning Y%. Negativt EV. Avstå.
+**Beslut.** 🟢 SPELA / 🟡 LITET SPEL / 🔴 PASS — <marknad> @ <odds>, sannolikhet <X% (A–B%)>,
 brytpunkt <Y%>, EV <+N%>. Utfallskonfidens <n>/10.
 **Motargument:** <en rad — och om en annan marknad överlever det bättre (**N4**)>
 **Bästa marknad i matchen:** <marknad> · **spelad:** JA/NEJ <om NEJ: pris/värde/korrelation/insats/otillgänglig/riskbeslut (**H8**)>
@@ -262,7 +262,7 @@ vilken som används (**G3**). Går ett lags tredje namn inte att belägga skrivs
 med `underlag saknas` — aldrig en tom cell och aldrig färre än tre rader utan förklaring.
 
 **Detta är sidospel och ingenting byggs kring dem** (**J6**): de ligger utanför de fyra
-kupongerna, är aldrig en skänkel, och ingen insats eller tes vilar på dem. De ligger
+kupongerna, är aldrig ett kupongben, och ingen insats eller tes vilar på dem. De ligger
 också utanför kupongbudgeten och redovisas i sektion 3, på egen liten peng. Odds saknas normalt i alla källor
 (**I8**) — därför bär tabellen sannolikhet och rimligt odds istället för en oddskolumn.
 
@@ -334,7 +334,7 @@ en negativ-EV-Under för att se balanserad ut är sämre (**H3**, **L6**).>
 **Marknadsval** — K1 ✅ matchbild före marknad · K2 ✅ stegen gången · K4 ✅ lagtotal prissatt · K5 ✅ jämförelsetabell · K6 ✅ (1X2) · N9 ✅ sjustegsordningen följd
 **Bevis och priors** — A2b ✅ marknadsprior har 30+ obs eller är märkt WEAK EVIDENCE · A7 ✅ BTTS-cap på utfallskonfidens · N8 ✅ priorn utfrågad på alla sju frågor · H8 ✅ bästa marknaden spelad eller förklarad
 **Osäkerhet** — L1 ✅ band på varje p · L2 ✅ drivare namngivna · L3 ✅ motståndarjusterad form · L4 ✅ motargument med effekt · L5 ✅ PASS övervägt · M1 ✅ två konfidenssiffror
-**Singelspel** — varje rad återfinns i sektion 4 eller 6 ✅ · inga skänklar ✅ (G4, J6) · Typ-kolumn ifylld ✅ · insatser utanför kupongbudgeten ✅
+**Singelspel** — varje rad återfinns i sektion 4 eller 6 ✅ · aldrig som kupongben ✅ (G4, J6) · Typ-kolumn ifylld ✅ · insatser utanför kupongbudgeten ✅
 **Kuponger** — H2 ✅ · H3 ✅ · H5 ✅ · H6 ✅ · H7 ✅ · H8 ✅ · L6 ✅ delad exponering i kronor
 ```
 
@@ -395,9 +395,9 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 | Lag A – Lag B | Över 2,5 | ✅ väntat | 3 mål | ✅ |
 
 ### Kupongutfall
-| Kupong | Resultat | Fallen skänkel |
+| Kupong | Resultat | Fallet ben |
 |---|---|---|
-| C1 — Ankare | ✅ / ❌ | — / vilken skänkel |
+| C1 — Ankare | ✅ / ❌ | — / vilket ben |
 
 ### Singelspelsutfall — samma rader som sektion 3
 | Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
