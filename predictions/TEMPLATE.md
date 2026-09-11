@@ -42,8 +42,8 @@ det som går att revidera i efteranalysen.
 
 # Strukturen
 
-Sektion 1–9 finns i varje fil, i den här ordningen. Sektion 10 bara när
-startelvorna bekräftas efter publicering. Sektion 11 läggs till efter matcherna.
+Sektion 1–10 finns i varje fil, i den här ordningen. Sektion 11 bara när
+startelvorna bekräftas efter publicering. Sektion 12 läggs till efter matcherna.
 
 ---
 
@@ -132,8 +132,8 @@ En matchrubrik per match, numrerad. Inga emoji i matchrubrikerna — trafikljuse
 i marknadsraderna bär signalen istället, och emoji per lag blev slumpmässigt i
 marsfilerna.
 
-Avstådda marknader hör hit, inte bara i sektion 5: det är i matchen resonemanget
-finns. Sektion 5 samlar bara de beslut som gäller hela kvällen.
+Avstådda marknader hör hit, inte bara i sektion 6: det är i matchen resonemanget
+finns. Sektion 6 samlar bara de beslut som gäller hela kvällen.
 
 **Ordningen matchbild → jämförelse → marknad är inte kosmetisk.** Matchbilden skrivs
 utan marknadsnamn just för att den inte ska skrivas baklänges från ett spel man redan
@@ -176,7 +176,7 @@ med `underlag saknas` — aldrig en tom cell och aldrig färre än tre rader uta
 
 **Detta är sidospel och ingenting byggs kring dem** (**J6**): de ligger utanför de fyra
 kupongerna, är aldrig en skänkel, och ingen insats eller tes vilar på dem. De ligger
-också utanför budgeten i sektion 4, på egen liten peng. Odds saknas normalt i alla källor
+också utanför budgeten i sektion 4 och redovisas i sektion 5, på egen liten peng. Odds saknas normalt i alla källor
 (**I8**) — därför bär tabellen sannolikhet och rimligt odds istället för en oddskolumn.
 
 ## 4. Kuponger
@@ -213,7 +213,50 @@ efterhand utan den, och den 8 september kostade en oflaggad matchkoncentration
 Förkortningar i tabellen: `ö2,5` över 2,5 mål · `u2,5` under 2,5 · `BTTS` ·
 `BTTS-N` båda lagen gör mål: nej.
 
-## 5. Medvetet undvikna spel
+## 5. Dagens singelspel
+
+```markdown
+## 🎲 Dagens singelspel
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Band | Rimligt odds | EV | Spelkvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 18:45 | Fenerbahçe – Roma | Över 2,5 mål | Mål | 1,68 | 62% | 56–66% | 1,61 | +4% | 🟡 6,5/10 | 40 kr |
+| 18:45 | Fenerbahçe – Roma | Malen 2+ skott på mål | Skott | — | 51% | 45–56% | 1,96 | `pris ej belagt` | 🟡 6/10 | 20 kr |
+| 21:00 | Slavia – Lens | BTTS | Mål | 1,55 | 68% | 62–72% | 1,47 | +5% | 🟡 7/10 | 50 kr |
+| 21:00 | Slavia – Lens | Hermoso bokad | Kort | 3,00 | 36% | 30–40% | 2,78 | +8% | 🟡 6/10 | 25 kr |
+| 21:00 | Como – Leipzig | Como över 1,5 | Lagtotal | 1,90 | 58% | 52–63% | 1,72 | +10% | 🟡 6,5/10 | 40 kr |
+
+**Summa singelspel:** X kr — utanför kupongbudgeten i sektion 4.
+**Delad exponering (L6):** <hur många av raderna som hänger på samma match, samma lag
+och samma tes — och hur mycket i kronor.>
+```
+
+Det här är kvällens **översikt över alla enskilda spel**, i en enda tabell: mål,
+BTTS, lagtotal, skott på mål, kort, resultat och 1H om något av dem
+rekommenderas. Tabellen finns för att gå att skanna under kvällen — därför står
+avsparkstiden först, medan sorteringen är **spelkvalitet, därefter sannolikhet**.
+
+Krav som gäller varje gång:
+
+- **Sektionen är en sammanställning, inte en ny analys.** Varje rad ska gå att hitta
+  i sin matchsektion (sektion 3) eller i kortsektionen (sektion 7) med samma
+  sannolikhet, samma band och samma pris. Står en rad bara här är den inte analyserad.
+- **Inget här är en skänkel.** Raderna är singlar och byggs aldrig ihop till en
+  kupong eller kombination (**G4**, **J6**) — kupongerna är sektion 4 och bär sin
+  egen budget.
+- **`Typ`-kolumnen är obligatorisk.** Den är det som gör översikten läsbar: fem
+  rader som alla säger "Mål" är en tes i fem förklädnader, och det ska synas direkt
+  (**L6**).
+- **Insatserna ligger utanför de 300 kronorna** och summeras på egen rad. Kvarts-Kelly
+  gäller per rad (**I6**), och kort- och spelarmarknader hålls små oavsett vad
+  formeln säger (**G4**).
+- **Pris som inte går att belägga skrivs `pris ej belagt`** med sannolikhet och
+  rimligt odds kvar (**I8**) — läsaren jämför mot sitt eget spelbolag.
+- **Tom tabell är ett giltigt utfall.** Finns inga singelspel värda pengar skrivs
+  `inga singelspel ikväll` plus skälet — en rad som läggs in för att fylla tabellen
+  är exakt det **L5** finns för att stoppa.
+
+## 6. Medvetet undvikna spel
 
 ```markdown
 ## ⚠️ Medvetet undvikna spel
@@ -230,7 +273,7 @@ gick vidare till en kupong är urvalet inte gjort. **1H-marknader utan verifiera
 måltidsfördelning skrivs alltid in här** — det är den enda platsen där **D2**
 faktiskt syns.
 
-## 6. Kort
+## 7. Kort
 
 ```markdown
 ## 🟨 Kort
@@ -248,7 +291,7 @@ Krav som gäller varje gång:
 - Utan bookmakerns linje och lagens egna kort per match: rekommendera inget, och
   skriv varför (**G5**, **G9**).
 
-## 7. Felmarginal & insatser
+## 8. Felmarginal & insatser
 
 ```markdown
 ## 📐 Felmarginal & insatser
@@ -263,7 +306,7 @@ kupongerna. Om allt lutar samma väg ska det stå, och totalen sizas ned; att tv
 en negativ-EV-Under för att se balanserad ut är sämre (**H3**, **L6**).>
 ```
 
-## 8. Checklista
+## 9. Checklista
 
 ```markdown
 ## ✅ Checklista
@@ -273,6 +316,7 @@ en negativ-EV-Under för att se balanserad ut är sämre (**H3**, **L6**).>
 **Målmarknader** — C1/C2/C3 ✅ · C4 ✅ · C6 ✅ · C9 ✅ · D2 ✅ uteslutna
 **Marknadsval** — K1 ✅ matchbild före marknad · K2 ✅ stegen gången · K4 ✅ lagtotal prissatt · K5 ✅ jämförelsetabell · K6 ✅ (1X2)
 **Osäkerhet** — L1 ✅ band på varje p · L2 ✅ drivare namngivna · L3 ✅ motståndarjusterad form · L4 ✅ motargument med effekt · L5 ✅ PASS övervägt · M1 ✅ två konfidenssiffror
+**Singelspel** — varje rad återfinns i sektion 3 eller 7 ✅ · inga skänklar ✅ (G4, J6) · Typ-kolumn ifylld ✅ · insatser utanför kupongbudgeten ✅
 **Kuponger** — H2 ✅ · H3 ✅ · H5 ✅ · H6 ✅ · H7 ✅ · H8 ✅ · L6 ✅ delad exponering i kronor
 ```
 
@@ -280,7 +324,7 @@ En rad per block ur SKILL.md:s Pre-Bet Checklist, med ✅ / ⚠️ / ❌ per pun
 **⚠️ kräver en parentes som säger vad som saknas.** En checklista där allt är
 grönt varje kväll är inte en checklista.
 
-## 9. Källor
+## 10. Källor
 
 ```markdown
 ## 📚 Källor
@@ -294,7 +338,7 @@ går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
 Kursiveringen är obligatorisk och ordagrann. Utan den läses odds i filen som
 priser som gick att få.
 
-## 10. Uppdatering (frivillig)
+## 11. Uppdatering (frivillig)
 
 ```markdown
 ## 🔄 Uppdatering <tid> — bekräftade startelvor
@@ -311,7 +355,7 @@ Bara när startelvorna bekräftas efter publicering. Underrubriken *Vad detta g�
 med kupongerna* är obligatorisk i sektionen: en ändrad förutsättning som inte
 flyttar en insats ska stå som ett aktivt beslut, inte som ett utelämnande.
 
-## 11. Efteranalys
+## 12. Efteranalys
 
 Läggs till efter matcherna, ordagrant den här strukturen:
 
@@ -337,15 +381,22 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 |---|---|---|
 | C1 — Ankare | ✅ / ❌ | — / vilken skänkel |
 
-### Kortspel (singlar, utanför kupongerna — G4)
-| Spel | Konfidens | Linje | Odds | Insats | Utfall | Resultat |
-|---|---|---|---|---|---|---|
+### Singelspelsutfall — samma rader som sektion 5
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| 21:00 | Lag A – Lag B | BTTS | Mål | 1,55 | 68% | 50 kr | 2-1 | ✅ |
+| 21:00 | Lag A – Lag B | Hermoso bokad | Kort | 3,00 | 36% | 25 kr | inget kort, 78 min | ❌ |
+
+*Kortrader kräver **linjen** i `Spel`-kolumnen när det är en lagtotal (`lag över 1,5
+kort`), inte bara "kort" — den 8 september blev ett lagkortsspel obedömbart av precis
+det skälet (2 kort, men över 1,5 landade och över 2,5 inte). Saknas linjen i
+förhandsanalysen skrivs `linje ej angiven`.*
 
 ### Skott på mål (sidospel, utanför kupongerna — J6)
 | Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
 |---|---|---|---|---|---|---|
 
-### Totalt: X/Y kuponger | Vinst/förlust: +/- X kr
+### Totalt: X/Y kuponger | X/Y singelspel | Vinst/förlust: +/- X kr
 
 *P/L-underlag: <vilka priser summan bygger på — faktiska, indikativa eller
 filens egna rimliga odds — och spannet mellan dem.>*
@@ -364,12 +415,12 @@ filens egna rimliga odds — och spannet mellan dem.>*
 löptext längre ner. Mål verifieras på **90 minuter** — förlängning räknas aldrig
 (**C10**). Skriv ut vilka sena mål som räknats in och vilka som inte gjort det.
 
-**Kortspelstabellen kräver konfidens och linje.** Konfidensen är det man
-kalibrerar mot i efterhand; utan den blir tabellen en resultatlista utan
-lärdom. Och utan bookmakerns **linje** går utfallet inte att bedöma alls —
-den 8 september redovisades ett lagkortsspel som obedömbart av precis det
-skälet (2 kort, men över 1,5 landade och över 2,5 inte). Står linjen inte i
-förhandsanalysen ska cellen säga `ej angiven`, inte lämnas tom.
+**Singelspelsutfallet är sektion 5 med två kolumner till.** Samma rader, samma
+ordning, samma sannolikheter — bara `Utfall` och `Resultat` tillagda. Skiljer sig
+raderna från sektion 5 är antingen förhandsanalysen eller efteranalysen fel, och
+tabellen ska inte "städas" så att de stämmer. Den bär **sannolikheten**, inte bara
+resultatet: utan den blir tabellen en resultatlista utan kalibreringsvärde, och det
+är dessa rader som förs över till `CALIBRATION.md` (**M2**).
 
 **Skott på mål-tabellen tar med alla sex raderna per match — även de som ingen skulle
 ha spelat — och kräver spelade minuter.** Hela poängen med sex rader är kalibrering:
