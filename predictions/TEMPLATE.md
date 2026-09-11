@@ -126,6 +126,9 @@ viktigaste motsägande datapunkten — och hur mycket den flyttade sannolikheten
 | **Starkaste motargument** | <mest sannolika förlustscenariot — och om någon annan marknad överlever det bättre (**N4**)> |
 | **Beslut** | 🟢 **SPELA** / 🟡 **LITET SPEL** / 🔴 **PASS** |
 | **Varför denna marknad i stället för BTTS / över-under / 1X2** | <en mening> |
+| **Bästa identifierade marknad** | <den högst skattade marknaden i matchen, oavsett typ> |
+| **Spelad?** | JA / NEJ |
+| **Om NEJ, varför?** | inget användbart pris (**K4c**) · otillräckligt värde (**I4**) · korrelation (**L6**) · insatsbegränsning · marknad ej tillgänglig · uttalat riskbeslut |
 
 **Skott på mål — sidospel (J6).** Top 3 skyttar i varje lag.
 
@@ -185,6 +188,12 @@ spelbara marknad* syns. Att utelämna raden är att låtsas att marknaden inte f
 **Två konfidenssiffror, inte en** (**M1**): utfallskonfidens svarar på "hur säker är
 jag på att det händer", spelkvalitet (trafikljuset) på "hur bra är priset givet
 sannolikheten och bandet". Det är trafikljuset insatserna följer.
+
+**BTTS:s utfallskonfidens är tillfälligt capad på 6,5/10** (**A7**) — mätt 14/29 (48%)
+i mars mot Över 2,5:s 19/25. Capet gäller **bara** utfallskonfidensen: sannolikheten
+skattas fritt, och en välprissatt BTTS kan fortfarande bli 🟢 **SPELA** om värdetestet
+håller. Capet försvinner när `CALIBRATION.md` har tillräckligt med BTTS-rader för att
+mäta bandet direkt.
 
 **Skott på mål-blocket finns i varje analyserad match** och listar **top 3 skyttar i
 varje lag** — sex rader, sorterade högst först per lag (**J1**). Varje rad namnger
@@ -293,9 +302,16 @@ Krav som gäller varje gång:
 ```
 
 Sektionen är obligatorisk och får inte vara tom. Om varje marknad som övervägdes
-gick vidare till en kupong är urvalet inte gjort. **1H-marknader utan verifierad
-måltidsfördelning skrivs alltid in här** — det är den enda platsen där **D2**
-faktiskt syns.
+gick vidare till en kupong är urvalet inte gjort.
+
+**1H-marknader hör inte automatiskt hit.** Tidigare krävde mallen att varje
+1H-marknad utan verifierad måltidsfördelning skrevs in i den här sektionen. Det var en
+veto-regel utan stöd: den strök 14 1H-ben i mars-granskningen, varav 13 landade, och
+1H Över 0,5 gick 23/26 den månaden. **D2** är numera en konfidensmodifierare —
+saknad måltidsdata *sänker* siffran och ska redovisas på marknadsraden, men avvisar
+inte marknaden. Hit hör en 1H-marknad bara om den faller på värde, pris eller
+korrelation som alla andra. Och åt andra hållet: 26 observationer räcker inte till en
+regel *för* 1H-marknader heller (**A2b**).
 
 ## 7. Kort
 
@@ -338,7 +354,8 @@ en negativ-EV-Under för att se balanserad ut är sämre (**H3**, **L6**).>
 **Verifiering** — tränare/skador/avstängningar ✅ · full trupp ✅ · turneringsomfång ✅ · domarstatistik ⚠️ 3/6
 **Kalibrering** — inget resultatspel över 8 ✅ · 8+ datapunkter ⚠️ (7 för Arsenal-under) · A4 ✅ · A5 ✅
 **Målmarknader** — C1/C2/C3 ✅ · C4 ✅ · C6 ✅ · C9 ✅ · D2 ✅ uteslutna
-**Marknadsval** — K1 ✅ matchbild före marknad · K2 ✅ stegen gången · K4 ✅ lagtotal prissatt · K5 ✅ jämförelsetabell · K6 ✅ (1X2)
+**Marknadsval** — K1 ✅ matchbild före marknad · K2 ✅ stegen gången · K4 ✅ lagtotal prissatt · K5 ✅ jämförelsetabell · K6 ✅ (1X2) · N9 ✅ sjustegsordningen följd
+**Bevis och priors** — A2b ✅ marknadsprior har 30+ obs eller är märkt WEAK EVIDENCE · A7 ✅ BTTS-cap på utfallskonfidens · N8 ✅ priorn utfrågad på alla sju frågor · H8 ✅ bästa marknaden spelad eller förklarad
 **Osäkerhet** — L1 ✅ band på varje p · L2 ✅ drivare namngivna · L3 ✅ motståndarjusterad form · L4 ✅ motargument med effekt · L5 ✅ PASS övervägt · M1 ✅ två konfidenssiffror
 **Singelspel** — varje rad återfinns i sektion 3 eller 7 ✅ · inga skänklar ✅ (G4, J6) · Typ-kolumn ifylld ✅ · insatser utanför kupongbudgeten ✅
 **Kuponger** — H2 ✅ · H3 ✅ · H5 ✅ · H6 ✅ · H7 ✅ · H8 ✅ · L6 ✅ delad exponering i kronor
