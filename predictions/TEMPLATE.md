@@ -123,6 +123,25 @@ per match längre ner för den som vill.
 **Pass:** <matcher utan spel, en rad>
 ```
 
+**Inget tak på antalet singelspel** — varje rad som klarar värdetestet får vara med, och
+en kväll kan ge noll eller tolv. Det som begränsar är priset och insatsen, inte antalet.
+Blir tabellen längre än ungefär sex rader: sortera på kvalitet, så går den fortfarande
+att skanna.
+
+Fyra krav på singeltabellen:
+
+- **Sammanställning, inte ny analys.** Varje rad ska finnas i sin matchsektion (4) eller
+  kortsektionen (6) med samma sannolikhet, band och pris.
+- **Inget här är en skänkel** — singlar byggs aldrig ihop till en kupong (**G4**, **J6**).
+- **`Typ` är obligatorisk.** Fem rader som alla säger "Mål" är en tes i fem förklädnader,
+  och det ska synas direkt (**L6**).
+- **Tom tabell är ett giltigt utfall:** skriv `inga singelspel ikväll` plus skälet
+  (**L5**). En rad som läggs in för att fylla tabellen är precis vad **L5b** förbjuder.
+
+Skott på mål-listningen är något annat: den ligger kvar per match med sina sex rader
+(top 3 per lag, **J1**) och är en *lista att välja ur*. Bara de rader du faktiskt
+rekommenderar en insats på flyttas upp hit.
+
 ## 4. Match för match
 
 ```markdown
