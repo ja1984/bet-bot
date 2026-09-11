@@ -97,3 +97,70 @@ Lagtotalen är matchens rätta marknad och saknar pris. Hittar du **West Ham öv
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7**). De kan ha rört sig; använd ditt eget pris.*
 
 *Championship är nytt i bevakningen från och med idag. Regelverkets evidens kommer från CL, EL och de stora ligorna — ingen regel här är mätt på Championship, och inga Championship-specifika regler skapas förrän underlaget finns (**A2b**).*
+
+---
+
+## ⚽ La Liga — omgång 5, Sevilla–Valencia (tillagd 14:30)
+
+Avspark 21:00, samma tid som Championship-matchen. Tillagd manuellt; den tillhör
+18:00-körningens fönster i den gamla designen.
+
+### 📋 Match & domare
+
+| Tid | Match | Arena | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 21:00 | Sevilla – Valencia | Ramón Sánchez-Pizjuán | Busquets Ferrer (ESP) | **5,53–5,59** | 106–143 matcher, källberoende. VAR: Del Cerro |
+
+### 🎲 Dagens spel — La Liga
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 21:00 | Sevilla – Valencia | BTTS-Nej | Mål | 1,77 | 60% (53–66%) | +6% | 🟡 6,5/10 | 40 kr |
+
+**Exponering:** 80 kr totalt ikväll (40 kr Championship, 40 kr La Liga) — två matcher, inga delade teser.
+
+### 🔍 Sevilla – Valencia (21:00)
+
+**Matchbild.** Ett lag i kris utan nio spelare möter ett hemmalag i form. Ensidig
+målbild: Valencia gör knappt mål (1 poäng på 12, −8 i målskillnad, 0-5 senast), Sevilla
+gör dem hemma. Det pekar mot en defensiv marknad eller lagtotal, inte mot BTTS (**K3**).
+
+**Truppnytt (11 sep).** Sevilla: Sangante avstängd (rött mot Espanyol), Vargas tveksam,
+i övrigt intakt. Valencia: Diakhaby (ny skada, veckor), Canós, Copete, De Haas,
+Foulquier, Diego López, Rioja, Guido Rodríguez och Sadiq ute; Jesús Vázquez tveksam.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **BTTS-Nej** | 60% | 53–66% | 1,77 | 56,5% | Medel |
+| Sevilla vinst | 55% | 48–61% | 1,95 | 51,3% | Medel |
+| Under 2,5 | 62% | 55–68% | 1,62 | 61,7% | Svag |
+| Sevilla över 1,5 lagmål | 52% | 45–59% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+**Beslut.** 🟡 LITET SPEL — BTTS-Nej @ 1,77, sannolikhet 60% (53–66%), brytpunkt 56,5%,
+EV +6%. Utfallskonfidens 7/10.
+**Motargument:** Valencia är **obesegrade i sex raka möten** med Sevilla och vann 2-0
+på just den här arenan senast. Nicks de in ett mål faller BTTS-Nej — och då överlever
+Sevilla vinst @1,95 scenariot bättre (**N4**). Men Sevilla vinst är samma tes plus ett
+extra krav (tre poäng mot ett lag de inte slagit på sex försök), så bara en av dem
+spelas (**N3**). BTTS-Nej är den direktare formuleringen och tål 0-0.
+**Bästa marknad i matchen:** BTTS-Nej · **spelad: JA**
+
+### ⚠️ Medvetet undvikna — La Liga
+
+| Marknad | Varför |
+|---|---|
+| BTTS Ja 1,96 | Kräver 51%, skattning 40%. Fel marknad för en ensidig målbild (**K2b**) |
+| Under 2,5 1,62 | Kräver 61,7%, skattning 62% — nollan, och BTTS-Nej uttrycker samma tes bättre prissatt |
+| Sevilla vinst 1,95 | Positivt EV men samma tes som spelet ovan (**N3**) |
+| Valencia AH +0,25 2,02 | Tipssidornas val på H2H-serien. Sex möten är under A2:s ribba och säger inget om ett lag med nio spelare ute |
+| Alla kortspel | Domaren är kvällens hårdaste (5,53–5,59) men lagens kort per match saknas, och ingen linje finns (**G5**, **G9**) |
+
+### 📚 Källor — La Liga
+
+- [ElSevillista — domartillsättning (Busquets Ferrer, VAR Del Cerro)](https://www.elsevillista.es/2026/09/el-choque-del-viernes-ante-el-valencia.html) · domarstatistik: [StatsHub](https://www.statshub.com/referee/busquets-ferrer-mateo/788348), [PlayerStats](https://playerstats.football/referee/528)
+- [Football Whispers — preview och truppnytt](https://footballwhispers.com/blog/sevilla-vs-valencia-prediction-11-09-2026/)
+- [Sportsgambler — odds (indikativa) och förväntade elvor](https://www.sportsgambler.com/betting-tips/football/sevilla-vs-valencia-prediction-lineups-odds-2026-09-11/)
+
+*Prisspridning noterad: en källa hade Sevilla vinst 2,25 och BTTS 2,05, en annan 1,95 respektive 1,96. Siffrorna ovan är från Sportsgambler, som hade hela marknadsuppsättningen. Använd ditt eget pris (**I7**).*
+
+*Filnamnet säger CHAMPIONSHIP eftersom dagens fil skapades innan La Liga-matchen lades till. Att behålla filnamnet är avsiktligt — en dag ska ligga i en fil.*
