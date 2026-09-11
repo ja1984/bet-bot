@@ -210,3 +210,63 @@ eller bakåträknat (**K4c**) — saknas ett pris står det så. Av samma skäl 
 - Wrexham: [Yahoo — Cleworth ute, Sheaf tillbaka, Windass frisk](https://uk.sports.yahoo.com/news/bittersweet-wrexham-injury-emerges-key-060000577.html)
 - West Ham: [Hammers.news — Souček och Castellanos](https://www.hammers.news/news/key-duo-taty-castellanos-and-tomas-soucek-drop-west-ham-return-updates/) · [Read West Ham — Areola dagsbedöms](https://readwestham.com/2026/09/10/west-ham-vs-wrexham-preview-team-news-prediction/)
 - Priser (indikativa, ur previewtext i sökträff): [The Football Faithful — West Ham–Wrexham](https://thefootballfaithful.com/west-ham-united-vs-wrexham-prediction-betting-tips-11-09-2026/) · [Football Whispers — West Ham–Wrexham](https://footballwhispers.com/blog/west-ham-united-vs-wrexham-prediction-preview-betting-tips-11-09-2026/) · [The Football Faithful — Sevilla–Valencia](https://thefootballfaithful.com/sevilla-vs-valencia-prediction-betting-tips-11-09-2026/) · Under 2,5 +115 och BTTS-Nej −130 kommer ur amerikanskt prissatt förhandstext i sökträffen och kunde inte öppnas för attribuering till enskild artikel
+
+---
+
+## 🔄 Uppdatering 20:35 — bekräftad startelva West Ham
+
+Båda matcherna sparkar igång 21:00, ca 25 minuter bort. Detta är körningen som finns
+för de bekräftade elvorna.
+
+**West Ham–Wrexham.** West Hams startelva är **officiell** — klubben publicerade den
+själv (*Starting XI | Nuno switches things up for Wrexham visit*, whufc.com) med **fem
+ändringar**: Hermansen; Veltman, Mavropanos, Morato, Kilman; Bowen, Mukasa, Engels,
+Solomon; **Piroe och Castellanos**. Två förändringar mot vad analysen byggde på:
+**Castellanos startar** (stod som tveksam både 13:00 och 18:30) och laget spelar
+**4-4-2 med två spetsar** plus Bowen och Solomon på kanterna — alltså West Hams
+vassaste anfallsuppsättning, inte en roterad elva. Areola saknas som antytt 18:30;
+**Hermansen** står i mål.
+→ Premissen som höll uppe Under 2,5 ("West Ham utan sin tveksamma spets") faller
+(**L7** — nudge, inte omstart). Under 2,5 sänks **47% → 44% (39–50%)**, rättvist odds
+**2,27**. Vid 2,15 är brytpunkten 46,5% och EV **−5%**; vid 2,20 brytpunkt 45,5% och EV
+**−3%**.
+→ **🔴 PASS — och det villkorade spelet från 18:30 dras tillbaka.** "2,20 eller bättre"
+räcker inte längre. Spelkvalitet **4/10 → 3/10**, utfallskonfidens 6/10 → **5,5/10**.
+Insats **0 kr**. Först vid **2,30+** är EV positiv, och först vid **2,56+** ligger
+brytpunkten utanför bandet (**L1**).
+Bandets bredd kommer av tre namngivna källor (**L2**): Wrexhams elva är **inte**
+bekräftad i någon källa jag når, West Ham möter Fulham i ligacupen redan på tisdag
+vilket gör tidiga byten troliga, och ramverket har **noll mätningar på Championship**
+(**A2b**).
+**Bästa marknad i matchen:** West Ham över 1,5 lagmål — tesen *stärks* av elvan
+(två spetsar), men priset saknas fortfarande. **Spelad: NEJ — `PRIS EJ TILLGÄNGLIGT`**
+(**K4c**). Ingen skattning bakåträknas.
+*Källkonflikt att notera:* en källa listar nu Sheaf som skadad/otillgänglig för Wrexham,
+medan 18:30-noteringen sa "Sheaf tillbaka". Wrexhams elva är obekräftad, så konflikten
+påverkar ingen siffra ovan — den noteras bara.
+
+**Sevilla–Valencia.** **Ingen bekräftad startelva går att nå.** Samtliga källor jag når
+är uttryckligen *alineaciones probables/posibles*, och de motsäger dessutom varandra
+(en elva har Fofana, Félix Correia och Isaac Romero, en annan Kochorashvili, Ejuke och
+Stassin). Danjuma pekas ut som Valencias spets i flera av dem — men förväntad elva är
+inte bekräftad elva, och ett tillägg får inte byggas på den (**L7**).
+→ **Ingen ändring.** BTTS-Nej står kvar: **60% (53–66%)**, rättvist odds **1,67**,
+brytpunkt 56,5%, EV **+6%**, 🟡 spelkvalitet 6,5/10, utfallskonfidens 7/10, **40 kr**.
+
+**Exponering ikväll efter uppdateringen:** **40 kr**, oförändrat, allt på Sevilla-matchen.
+West Ham-matchen är nu 0 kr i alla prislägen som går att observera.
+
+**Antagande som ska noteras (L2, I7).** Egressen blockerar fortfarande varje sajt —
+whufc.com, fotmob, sofascore, valenciacf.com, comuniate och eldesmarque returnerade alla
+blockerad tunnel. West Hams elva är därför läst ur sökträffarnas text om klubbens egen
+*Starting XI*-artikel, inte ur artikeln själv. Elvan stämmer inte överens med någon av
+dagens förväntade elvor (som hade Walker-Peters/Scarles/Kanté och Castellanos utanför),
+vilket är skälet att den bedöms som den faktiska laguppställningen och inte som ännu en
+prognos. Inget pris i det här tillägget är hämtat på nytt — priserna 2,15/2,20 är
+18:30-körningens och kan ha rört sig (**I7**).
+
+### 📚 Källor — uppdatering 20:35
+
+- West Hams officiella startelva: [whufc.com — *Starting XI | Nuno switches things up for Wrexham visit*](https://www.whufc.com/en/news/starting-xi-or-nuno-switches-things-up-for-wrexham-visit) (fem ändringar; sidan kunde inte öppnas, elvan läst ur sökträffens text)
+- Wrexham, obekräftad elva och frånvarolista: [North Wales Pioneer — predicted XI](https://www.northwalespioneer.co.uk/sport/26536775.wrexham-afc-predicted-starting-xi-away-west-ham/) · [Sports Mole — preview](https://www.sportsmole.co.uk/football/west-ham-united/preview/west-ham-vs-wrexham-prediction-team-news-lineups_604766.html)
+- Sevilla–Valencia, enbart förväntade elvor: [Futeros — *alineación posible*](https://futeros.com/alineaciones-sevilla-fc-valencia-cf-alineacion-posible-de-garcia-plaza-y-corberan-en-la-jornada-5a-de-laliga-ea-sports/) · [ElDesmarque — *posibles alineaciones*](https://www.eldesmarque.com/futbol/liga-1a-division/20260911/sevilla-valencia-cf-laliga-ea_18_020131028.html) · [Sports Mole — preview](https://www.sportsmole.co.uk/football/valencia/news/sevilla-vs-valencia-prediction-team-news-lineups_604760.html)
