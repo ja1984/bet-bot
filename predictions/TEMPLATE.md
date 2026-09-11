@@ -95,14 +95,16 @@ faktiskt styr slutsatsen.
 
 **Marknadsjämförelse (K2, K5).**
 
-| Marknad | Sannolikhet | Band | Odds | Edge | Robusthet |
-|---|---|---|---|---|---|
-| Över 2,5 | 68% | 62–72% | 1,65 | +12% | Hög |
-| BTTS | 59% | 52–64% | 1,70 | +0% | Medel |
-| Hemmalaget över 1,5 | 61% | 55–66% | 1,75 | +7% | Medel |
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde | Tesmatchning |
+|---|---|---|---|---|---|---|
+| Över 2,5 | 68% | 62–72% | 1,65 | 60,6% | Stark | Stark |
+| BTTS | 59% | 52–64% | 1,70 | 58,8% | Svag | Medel |
+| Hemmalaget över 1,5 | 61% | 55–66% | 1,75 | 57,1% | Medel | Stark |
+| Hemmalaget över 2,5 | 38% | — | `PRIS EJ TILLGÄNGLIGT` | — | — | Stark |
+| Bästa 1X2 | 72% | 67–76% | 1,30 | 76,9% | Svag | Medel |
 
 <En rad: varför den valda marknaden uttrycker matchbilden bättre än de närmaste
-alternativen.>
+alternativen — och om BTTS var kandidat, varför den *inte* vann jämförelsen (**K2b**).>
 
 **Motargument (L4).** <Det starkaste argumentet *mot* spelet, plus den enskilt
 viktigaste motsägande datapunkten — och hur mycket den flyttade sannolikheten.>
@@ -110,7 +112,20 @@ viktigaste motsägande datapunkten — och hur mycket den flyttade sannolikheten
 **Marknader.**
 - **<Marknad>** — p **X% (band A–B%)**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. Utfallskonfidens **7/10** · spelkvalitet 🟢 **7,5/10**
 - **<Marknad som avstås>** — kräver p X%, skattning Y%. Negativt EV. Avstå.
-- **Beslut:** 🟢 SPELA / 🟡 LITEN / SPEKULATIV / 🔴 PASS <plus skäl om PASS (**L5**)>
+**Beslut (N1).** Tre frågor, besvarade var för sig:
+
+| | |
+|---|---|
+| **Bästa fotbollsprognos** | <vad som mest sannolikt händer — utan marknad> |
+| **Bästa marknad** | <marknad> |
+| **Sannolikhet** | <X% (band A–B%)> |
+| **Odds** | <faktiskt hämtat pris, källa> |
+| **Brytpunkt** | <1/odds> |
+| **Värde** | Stark / Medel / Svag |
+| **Spelkonfidens** | Hög / Medel / Låg |
+| **Starkaste motargument** | <mest sannolika förlustscenariot — och om någon annan marknad överlever det bättre (**N4**)> |
+| **Beslut** | 🟢 **SPELA** / 🟡 **LITET SPEL** / 🔴 **PASS** |
+| **Varför denna marknad i stället för BTTS / över-under / 1X2** | <en mening> |
 
 **Skott på mål — sidospel (J6).** Top 3 skyttar i varje lag.
 
@@ -155,8 +170,17 @@ marginellt eller PASS.
 mycket den motsägande datapunkten flyttade sannolikheten. Att nämna motevidens och
 sedan lämna skattningen orörd är exakt felet **L4** finns för att stoppa.
 
-**PASS är ett giltigt beslut för en hel match** (**L5**) — och en kväll med två spel
-och fyra pass är en normal kväll, inte en misslyckad analys.
+**Tre beslut, inte två** (**L5b**): 🟢 SPELA vid tydligt positivt riskjusterat värde,
+🟡 LITET SPEL när kanten är positiv men mindre robust, 🔴 PASS bara när det inte finns
+något tillräckligt pålitligt värde. **PASS får inte användas för att ett spel "bara"
+är osäkert** — osäkerhet finns i varje fotbollsmatch, och ett ramverk som passar på
+allt det inte kan bevisa är inte disciplinerat, det är overksamt. En kväll med två
+spel och fyra pass är normal; en kväll med noll spel kräver en förklaring.
+
+**Ett pris som inte gått att hämta skrivs `PRIS EJ TILLGÄNGLIGT`** (**K4c**) — aldrig
+uppskattat, aldrig bakåtberäknat. Raden står kvar i tabellen med sannolikhet och
+tesmatchning ifyllda, så att skillnaden mellan *bästa fotbollsmarknad* och *bästa
+spelbara marknad* syns. Att utelämna raden är att låtsas att marknaden inte finns.
 
 **Två konfidenssiffror, inte en** (**M1**): utfallskonfidens svarar på "hur säker är
 jag på att det händer", spelkvalitet (trafikljuset) på "hur bra är priset givet
