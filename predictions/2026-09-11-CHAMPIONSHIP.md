@@ -164,3 +164,49 @@ spelas (**N3**). BTTS-Nej är den direktare formuleringen och tål 0-0.
 *Prisspridning noterad: en källa hade Sevilla vinst 2,25 och BTTS 2,05, en annan 1,95 respektive 1,96. Siffrorna ovan är från Sportsgambler, som hade hela marknadsuppsättningen. Använd ditt eget pris (**I7**).*
 
 *Filnamnet säger CHAMPIONSHIP eftersom dagens fil skapades innan La Liga-matchen lades till. Att behålla filnamnet är avsiktligt — en dag ska ligga i en fil.*
+
+---
+
+## 🔄 Uppdatering 18:30 — prisrörelse och bekräftade trupper
+
+Båda matcherna sparkar igång 21:00, dvs ~2,5 timmar bort: fönstret för sena besked och
+prisrörelse. Bekräftade startelvor tillhör 20:00-körningen.
+
+**West Ham–Wrexham.** Priset 2,23 på Under 2,5 går inte att återfinna i någon källa jag
+når nu. Det som syns är **Under 2,5 ≈ 2,15 (+115)** och **Över 2,5 1,67** (mot 1,60 kl
+13:00) — samma riktning i båda leden, undersidan har kortats. Skattningen står kvar:
+**47% (41–54%)**, rättvist odds **2,13**. Vid 2,15 blir brytpunkten **46,5%**, alltså
+skattningen själv, och EV faller **+5% → +1%** (**L1**).
+→ **🔴 PASS på 2,15.** Spelkvalitet 6/10 → **4/10**, utfallskonfidens oförändrad 6/10.
+Insats **40 kr → 0 kr**. Hittar du **2,20 eller bättre** står 🟡 LITET SPEL och 40 kr kvar
+(brytpunkt 45,5%, EV +3,4%).
+Truppbeskeden bekräftar 13:00-bilden och ändrar ingenting: Cleworth ute ~2 månader, Sheaf
+tillbaka, Windass frisk (Wrexham) · Souček fortsatt ute, Castellanos fortsatt oviss,
+Areola dagsbedöms efter smäll i träning (West Ham).
+
+**Sevilla–Valencia.** **BTTS-Nej ligger kvar på 1,77 (-130)** — ingen prisrörelse.
+Trupperna är nu officiella: Sevilla kallar 24, **Marcao är tillbaka**, ute är Sangante
+(avstängd, dessutom fotled) och Vargas (menisk). Valencia har **sex** skadefrånvarande —
+Foulquier, Diakhaby, Guido Rodríguez, Rioja, Copete, Sadiq — inte nio som stod kl 13:00:
+**De Haas och Thierry Correia är med i truppen igen**. Båda är försvarare; Valencias
+anfall är oförändrat utan Sadiq och Sevillas försvar snarare starkare med Marcao, så
+premissen "ensidig målbild" håller.
+→ **Ingen ändring.** 60% (53–66%), rättvist odds 1,67, brytpunkt 56,5%, EV +6%,
+🟡 spelkvalitet 6,5/10, utfallskonfidens 7/10, 40 kr.
+
+**Exponering ikväll efter uppdateringen:** **40 kr** (från 80 kr), allt på Sevilla-matchen.
+
+**Antagande som ska noteras (L2, I7).** Den här körningen kan inte öppna någon webbsida —
+egressen släpper bara igenom sökningen, samtliga previewsidor och spelbolag returnerar
+blockerad tunnel. Alla priser ovan är därför lästa ur sökträffarnas previewtexter, inte ur
+sidorna själva, kan tillhöra olika spelbolag och är indikativa. Inget pris är uppskattat
+eller bakåträknat (**K4c**) — saknas ett pris står det så. Av samma skäl kan
+20:00-körningen få svårt att verifiera bekräftade startelvor.
+
+### 📚 Källor — uppdatering 18:30
+
+- Sevillas trupp: [Futeros — Marcao i konvokatorian, 24 kallade, två frånvarande](https://futeros.com/marcao-gran-novedad-en-la-lista-de-convocados-de-garcia-plaza-para-recibir-al-valencia-24-citados-y-dos-ausencias/) · [ElSevillista — dos bajas](https://www.elsevillista.es/2026/09/la-convocatoria-de-luis-garcia-plaza.html)
+- Valencias trupp: [Tribuna Deportiva Valencia — De Haas tillbaka](https://tribunadeportivavalencia.com/convocatoria-del-valencia-cf-para-enfrentarse-al-sevilla-con-la-novedad-de-de-haas/) · [ElDesmarque](https://www.eldesmarque.com/futbol/liga-1a-division/20260910/convocatoria-valencia-cf-sevilla-novedades_18_020133958.html) · [Soccerway — Correia kallad efter 322 dagar](https://es.soccerway.com/noticias/futbol-laliga-ea-sports-thierry-correia-convocado-con-el-valencia-322-dias-despues/drjBbO1e)
+- Wrexham: [Yahoo — Cleworth ute, Sheaf tillbaka, Windass frisk](https://uk.sports.yahoo.com/news/bittersweet-wrexham-injury-emerges-key-060000577.html)
+- West Ham: [Hammers.news — Souček och Castellanos](https://www.hammers.news/news/key-duo-taty-castellanos-and-tomas-soucek-drop-west-ham-return-updates/) · [Read West Ham — Areola dagsbedöms](https://readwestham.com/2026/09/10/west-ham-vs-wrexham-preview-team-news-prediction/)
+- Priser (indikativa, ur previewtext i sökträff): [The Football Faithful — West Ham–Wrexham](https://thefootballfaithful.com/west-ham-united-vs-wrexham-prediction-betting-tips-11-09-2026/) · [Football Whispers — West Ham–Wrexham](https://footballwhispers.com/blog/west-ham-united-vs-wrexham-prediction-preview-betting-tips-11-09-2026/) · [The Football Faithful — Sevilla–Valencia](https://thefootballfaithful.com/sevilla-vs-valencia-prediction-betting-tips-11-09-2026/) · Under 2,5 +115 och BTTS-Nej −130 kommer ur amerikanskt prissatt förhandstext i sökträffen och kunde inte öppnas för attribuering till enskild artikel
