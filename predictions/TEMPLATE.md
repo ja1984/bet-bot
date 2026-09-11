@@ -86,12 +86,31 @@ de kan (**F10** — vilken turnering kommer formen från?).
 **Truppnytt (bekräftat <datum>).** Skador, avstängningar, avstängningens
 turneringsomfång (**E6**), hela tillgängliga truppen (**E1**). Aldrig antaget.
 
+**Matchbild (K1).** Två till tre rader *utan att nämna en enda marknad*: förväntad
+målmiljö, förväntad dominans, om **båda** lagen har en egen väg till mål eller om ett
+lag sannolikt gör de flesta målen, förväntat matchläge, förväntad varians.
+
 **Läsning.** Tesen i två till fyra rader, med regelhänvisningar där en regel
 faktiskt styr slutsatsen.
 
+**Marknadsjämförelse (K2, K5).**
+
+| Marknad | Sannolikhet | Band | Odds | Edge | Robusthet |
+|---|---|---|---|---|---|
+| Över 2,5 | 68% | 62–72% | 1,65 | +12% | Hög |
+| BTTS | 59% | 52–64% | 1,70 | +0% | Medel |
+| Hemmalaget över 1,5 | 61% | 55–66% | 1,75 | +7% | Medel |
+
+<En rad: varför den valda marknaden uttrycker matchbilden bättre än de närmaste
+alternativen.>
+
+**Motargument (L4).** <Det starkaste argumentet *mot* spelet, plus den enskilt
+viktigaste motsägande datapunkten — och hur mycket den flyttade sannolikheten.>
+
 **Marknader.**
-- **<Marknad>** — p **X%**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. 🟢 8/10
+- **<Marknad>** — p **X% (band A–B%)**, rimligt odds **Y**. Marknad Z (indikativt, källa). EV +N%. Utfallskonfidens **7/10** · spelkvalitet 🟢 **7,5/10**
 - **<Marknad som avstås>** — kräver p X%, skattning Y%. Negativt EV. Avstå.
+- **Beslut:** 🟢 SPELA / 🟡 LITEN / SPEKULATIV / 🔴 PASS <plus skäl om PASS (**L5**)>
 
 **Skott på mål — sidospel (J6).** Top 3 skyttar i varje lag.
 
@@ -116,6 +135,33 @@ marsfilerna.
 Avstådda marknader hör hit, inte bara i sektion 5: det är i matchen resonemanget
 finns. Sektion 5 samlar bara de beslut som gäller hela kvällen.
 
+**Ordningen matchbild → jämförelse → marknad är inte kosmetisk.** Matchbilden skrivs
+utan marknadsnamn just för att den inte ska skrivas baklänges från ett spel man redan
+bestämt sig för (**K1**). Jämförelsetabellen måste innehålla de närmaste alternativen
+på stegen — **över 1,5 · över 2,5 · över 3,5 · BTTS · lagtotal över 1,5 · vinst +
+över** för en målmatch, **under 3,5 · under 2,5 · BTTS-Nej · lagtotal under 1,5** för
+en stängd, och **1X2 · dubbelchans · DNB · asiatiskt handikapp** för en resultatmatch
+(**K2**). **Minst en lagtotal ska vara prissatt varje gång** — det är ramverkets
+dokumenterade blindfläck (**K4**).
+
+Två mål-matchbilder är inte samma spel (**K3**): *många mål men ett lag gör dem* är
+över 2,5 eller en lagtotal, inte BTTS; *båda lagen med egen väg till mål* är BTTS.
+
+**Varje sannolikhet bär ett band** (**L1**), och bandet är ett robusthetsmått — EV
+räknas fortfarande på centralskattningen. Ligger brytpunkten *inne* i bandet är spelet
+marginellt eller PASS.
+
+**Motargumentsraden är obligatorisk och får inte vara dekorativ.** Den ska säga hur
+mycket den motsägande datapunkten flyttade sannolikheten. Att nämna motevidens och
+sedan lämna skattningen orörd är exakt felet **L4** finns för att stoppa.
+
+**PASS är ett giltigt beslut för en hel match** (**L5**) — och en kväll med två spel
+och fyra pass är en normal kväll, inte en misslyckad analys.
+
+**Två konfidenssiffror, inte en** (**M1**): utfallskonfidens svarar på "hur säker är
+jag på att det händer", spelkvalitet (trafikljuset) på "hur bra är priset givet
+sannolikheten och bandet". Det är trafikljuset insatserna följer.
+
 **Skott på mål-blocket finns i varje analyserad match** och listar **top 3 skyttar i
 varje lag** — sex rader, sorterade högst först per lag (**J1**). Varje rad namnger
 **vem** och **hur många**: spelare, linje, sannolikhet. Blocket är en listning, inte ett
@@ -138,9 +184,9 @@ också utanför budgeten i sektion 4, på egen liten peng. Odds saknas normalt i
 ```markdown
 ## 🎯 Kuponger — <budget> kr
 
-| # | Typ | Spel | Konfidens | Odds | Sannolikhet | Rimligt odds | EV | Insats |
-|---|---|---|---|---|---|---|---|---|
-| 1 | Ankare | PSG vinst & ö2,5 | 🟢 8/10 | 1,22 | 85% | 1,18 | +4% | 100 kr |
+| # | Typ | Spel | Spelkvalitet | Utfallskonf. | Odds | Sannolikhet | Band | Rimligt odds | EV | Insats |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | PSG vinst & ö2,5 | 🟢 7,5/10 | 8/10 | 1,22 | 85% | 80–88% | 1,18 | +4% | 100 kr |
 | 2 | Huvudspel | Barça ö2,5 + Sporting ö2,5 | 🟡 7/10 | 2,04 | 51% | 1,96 | +4% | 80 kr |
 | 3 | Hedge | Napoli–Arsenal u2,5 | 🟡 6,5/10 | 1,91 | 55% | 1,82 | +5% | 70 kr |
 | 4 | Uppsida | Stuttgart ö2,5 + Liverpool ö2,5 | 🔴 5/10 | 2,27 | 45% | 2,20 | +3% | 50 kr |
@@ -211,6 +257,10 @@ Krav som gäller varje gång:
 <Kvarts-Kelly för minst den mest utsatta kupongen (**I6**).>
 <Kvällens svagaste punkt: korrelation, koncentration, eller att alla kuponger
 lutar samma väg.>
+<Delad exponering i kronor (**L6**): hur mycket som hänger på mål totalt, på en
+enskild match, på ett lag och på en enda tes — inklusive spel du lagt utanför
+kupongerna. Om allt lutar samma väg ska det stå, och totalen sizas ned; att tvinga in
+en negativ-EV-Under för att se balanserad ut är sämre (**H3**, **L6**).>
 ```
 
 ## 8. Checklista
@@ -221,7 +271,9 @@ lutar samma väg.>
 **Verifiering** — tränare/skador/avstängningar ✅ · full trupp ✅ · turneringsomfång ✅ · domarstatistik ⚠️ 3/6
 **Kalibrering** — inget resultatspel över 8 ✅ · 8+ datapunkter ⚠️ (7 för Arsenal-under) · A4 ✅ · A5 ✅
 **Målmarknader** — C1/C2/C3 ✅ · C4 ✅ · C6 ✅ · C9 ✅ · D2 ✅ uteslutna
-**Kuponger** — H2 ✅ · H3 ✅ · H5 ✅ · H6 ✅ · H7 ✅ · H8 ✅
+**Marknadsval** — K1 ✅ matchbild före marknad · K2 ✅ stegen gången · K4 ✅ lagtotal prissatt · K5 ✅ jämförelsetabell · K6 ✅ (1X2)
+**Osäkerhet** — L1 ✅ band på varje p · L2 ✅ drivare namngivna · L3 ✅ motståndarjusterad form · L4 ✅ motargument med effekt · L5 ✅ PASS övervägt · M1 ✅ två konfidenssiffror
+**Kuponger** — H2 ✅ · H3 ✅ · H5 ✅ · H6 ✅ · H7 ✅ · H8 ✅ · L6 ✅ delad exponering i kronor
 ```
 
 En rad per block ur SKILL.md:s Pre-Bet Checklist, med ✅ / ⚠️ / ❌ per punkt.
@@ -302,6 +354,9 @@ filens egna rimliga odds — och spannet mellan dem.>*
 - **Kalibrering:** ...
 - **Kvällens bästa läsning:** ...
 - **Kvällens sämsta läsning:** ...
+- **Orsaksklassning per miss:** dåliga data · dålig tolkning · dålig sannolikhet ·
+  **dåligt marknadsval** · dåligt pris · varians · recensbias (**L3**) · narrativbias
+  (**L4**) · överkonfidens (**L1**) · korrelation (**L6**)
 - **Lärdom:** ...
 ```
 
@@ -337,6 +392,12 @@ som konservativ post. En exakt siffra utan underlag är falsk precision.
 En fil kan innehålla flera kupongset (ett per avsparkstid). Redovisa då varje
 set separat plus en dagstotal.
 
+**Orsaksklassningen gäller även vinster.** Ett vunnet spel kan vara en dålig
+prediktion och ett förlorat kan vara en bra — utan klassning går de två inte att
+skilja, och då justeras modellen av utfall i stället för av fel.
+
 Efter efteranalysen: uppdatera `results.md` med ny rad, löpande totaler och
-kumulativ P/L. Skillförslag går via pull request, aldrig direkt i `SKILL.md`,
+kumulativ P/L, och lägg nattens rader i `CALIBRATION.md` i bet-bot-brain (**M2**) —
+en rad per rekommenderad marknad med angivet sannolikhetsband och utfall. `results.md`
+mäter pengar, `CALIBRATION.md` mäter om siffrorna var ärliga. Skillförslag går via pull request, aldrig direkt i `SKILL.md`,
 och bara med 8+ datapunkter (**A2**) eller som bekräftelse av en befintlig regel.
