@@ -854,3 +854,147 @@ C1 och C3 vinner båda på lågt målsnitt, sammanlagt 185 kr (**L6**).
 
 *Uppdateringen ändrar inga priser — de indikativa oddsen från 13:00 används rakt av,
 eftersom ingen prissida gick att läsa den här körningen heller (**I7, K4c**).*
+
+## 🔄 Uppdatering 20:15 — bekräftade startelvor för 21:00 (körning 20:00)
+
+Fönstret är kvällens två sista avsparkar, **Sunderland–Arsenal och Real Madrid–Rayo
+(21:00)**. Allt annat på dagens spelschema har redan sparkat igång och rörs inte. Ingen
+befintlig sektion är ändrad — allt nedan är en **delta** (**L7**).
+
+**Källkonflikt, utskriven.** En av de källor som svarade returnerade en Arsenal-elva med
+Saliba, Trossard och Jesus och utan Saka och Ødegaard. Den är inte den här matchens elva
+— den stämmer inte med Salibas bekräftade ryggskada och namnen tillhör en tidigare
+säsong. Elvan nedan är den som tre oberoende källor återger samstämmigt och är den som
+används.
+
+### Ändringar
+
+**Sunderland–Arsenal (21:00) — ÄNDRING, och den går uppåt.**
+
+Bekräftade elvor:
+
+- **Arsenal:** Raya; White, Konsa, Gabriel, Calafiori; Rice, Lewis-Skelly; Saka,
+  Ødegaard, Tzolis; Havertz. **Exakt 13:00-analysens förväntade elva, namn för namn**,
+  och oförändrad från den som startade mot Chelsea förra helgen. Bruno Guimarães och
+  Mosquera på bänken.
+- **Sunderland:** Roefs; Mukiele, Ballard, Reinildo; Meunier, Sadiki, Xhaka, Hume;
+  Le Fée, Angulo; Brobbey. **Xhaka kapten mot sin gamla klubb.** Femmannaförsvar med
+  Brobbey ensam högst upp.
+
+Vad som faktiskt ändras: 13:00-motargumentet vilade på **två** ben — Stadium of
+Light-miljön och **rotationsrisk i backlinjen efter Salibas frånvaro och onsdagens
+Champions League-match**. Det andra benet är nu borta. Arteta roterade inte alls utan
+ställer upp det starkaste tillgängliga försvaret, oförändrat från senaste ligamatchen.
+Det första benet står kvar orört. Sunderlands 3-4-2-1 med en ensam spjutspets bekräftar
+dessutom den matchbild 13:00 antog (lågt block, omställningar) — det är en bekräftelse
+av en förutsättning, inte ett nytt argument.
+
+→ **Arsenal vinst till noll: 49% → 52% (47–57%)**, rättvist odds **1,92**, brytpunkt
+44,4% (pris 2,25, indikativt), EV **+10% → +17%**.
+
+Bandet är smalare av två namngivna skäl (**L2**): laguppställningsosäkerheten är borta
+för båda lagen, och Arsenals nolla i fem matcher är nu bekräftat buren av samma
+backlinje som satte den. Brytpunkten 44,4% ligger **utanför** bandets nedre kant (47%)
+— edgen är robust över hela den egna skattningen (**L1**).
+
+Utfallskonfidens **6/10, oförändrad** — **F1**-capet står kvar (Sunderland tre segrar
+på fem, de tror på det, och en bekräftad elva ändrar inte det). Spelkvalitet
+**🟡 7 → 🟢 7,5/10**: capet gäller utfallet, inte priset (**M1**). Resultatmarknadstaket
+på 8/10 är inte i närheten (**A1**).
+
+**Motargumentet står kvar oförändrat (L4):** ett Sunderland-mål sänker spelet även vid
+Arsenal-seger, och ett femmannaförsvar plus Xhaka-motivation på Stadium of Light är
+precis den miljö där en nolla spricker. Testat mot alternativen (**N4**): BTTS Nej
+@ 1,67 överlever 0-0 och 0-1 men betalar 0,58 mindre per enhet för samma tes, och under
+2,5 @ 1,80 överlever 1-1 och 2-1. Ingen av dem vann jämförelsen vid 49% och ingen vinner
+den vid 52% — den högre skattningen gynnar den dyrare marknaden, inte den billigare.
+
+**Pris (I7).** Vinst till noll ligger **2,20 hos William Hill (6/5)** och **2,25 hos
+bet365 (5/4)** enligt två previewkällor — **ingen materiell prisrörelse sedan 13:00**.
+Talen ovan räknas mot 2,25; på 2,20 blir EV **+14,4%** och brytpunkten 45,5%,
+fortfarande under bandets nedre kant.
+
+**Real Madrid–Rayo (21:00) — ÄNDRING i siffrorna, men PASS står kvar.**
+
+Bekräftat: **Real Madrid** Courtois; Dumfries, Konaté, Rüdiger, Carreras; Bernardo
+Silva, Valverde, Bellingham; Diomandé, Vinícius, Mbappé. **Rayo** Cárdenas; Ratiu,
+Lejeune, Pathé Ciss, Balliu; Unai López, Valentín, Bouaré, Pedro Díaz; Álvaro García,
+Camello.
+
+Den aviserade rotationen **slog inte igenom i offensiven** — Mbappé, Vinícius och
+Bellingham startar alla, liksom Valverde och Bernardo Silva. Güler är petad ur truppen
+och Diomandé in för Brahim i sin första start. Därmed faller den namngivna
+osäkerhetsdrivare som 13:00 uttryckligen sänkte skattningen med (77% → 73%), och den
+ska då tas tillbaka symmetriskt (**L2**).
+
+→ **Över 2,5: 73% → 76% (71–80%)**, rättvist odds **1,32**, brytpunkt 77,5% (pris 1,29).
+EV **−1,9%**. Skattningen ligger fortfarande under brytpunkten och brytpunkten ligger
+inne i bandet → **🔴 PASS står kvar** (**L1, N5**). Diomandés första start för klubben
+är den enda kvarvarande drivaren och är skälet att skattningen landar på 76 och inte 77.
+
+→ **Real Madrid över 2,5 lagmål: 53% → 56% (49–62%)**, rättvist odds **1,79**, brytpunkt
+64,5% (pris 1,55), EV **−13%** → **🔴 PASS**.
+
+Läsningen blev alltså bättre och priset är fortfarande fel. Det är **N5** i klartext, och
+det är skälet att den här ändringen inte flyttar en krona.
+
+### Skott på mål — minutkontroll mot bekräftad elva (J4)
+
+Raderna nedan är 13:00-filens sidospel, prövade mot de bekräftade elvorna. Inget nytt
+spel tillkommer: de rader som har en siffra saknar pris (**I8**) och de som saknar
+siffra saknar den fortfarande.
+
+| Match | Spelare | Startar? | Följd |
+|---|---|---|---|
+| Sunderland–Arsenal | Saka | ✅ | Raden står: 1+ SOT, 53%, rättvist 1,89 — karriärsiffra (**G3**), inget pris (**I8**) |
+| Sunderland–Arsenal | Havertz | ✅ | Spets som antaget — Gyökeres inte i elvan. `underlag saknas` kvarstår |
+| Sunderland–Arsenal | Ødegaard | ✅ | `underlag saknas` kvarstår |
+| Sunderland–Arsenal | Brobbey | ✅ | Ensam spjutspets — `underlag saknas` kvarstår |
+| Sunderland–Arsenal | Le Fée | ✅ | `underlag saknas` kvarstår |
+| Sunderland–Arsenal | Fofana | ❌ ej i elvan | **Raden faller på minuter (J4)** — void, inte utvärderingsbar |
+| Real Madrid–Rayo | Mbappé | ✅ | Provisoriskt förbehåll lyft: 1,88 SOT/match, 1+ **80%**, rättvist **1,25**. Inget pris → inte spelbar (**I8**) |
+| Real Madrid–Rayo | Vinícius | ✅ | Provisoriskt förbehåll lyft: 1+ **70%**, rättvist **1,43**, helsäsong 25/26 (**G3**). Inget pris |
+| Real Madrid–Rayo | Bellingham | ✅ | `underlag saknas` kvarstår |
+| Real Madrid–Rayo | Camello | ✅ | Namngiven nu när elvan är bekräftad — `underlag saknas` (**J4**: etiketten gäller källan, inte spelaren) |
+| Real Madrid–Rayo | Álvaro García | ✅ | Namngiven nu — `underlag saknas` |
+| Real Madrid–Rayo | Unai López | ✅ | Namngiven nu — `underlag saknas` |
+
+Minutrisken **J4** pekade ut för Mbappé och Vinícius föll alltså inte ut: båda startar
+trots rotationsbeskedet. Den föll ut på **Fofana**, som inte är i Sunderlands elva.
+
+### Vad detta gör med kupongerna
+
+| Position | 13:00 | 15:45 | Nu |
+|---|---|---|---|
+| C3 Arsenal vinst till noll @ 2,25 | 85 kr 🟡 7 | 85 kr | **85 kr · 🟢 7,5** |
+| Real Madrid–Rayo, samtliga målmarknader | PASS | PASS | **PASS** |
+| C1 · C4 · singel Chelsea–Hull · singel Palace | 100 / 45 / 40 / 40 kr | oförändrade | **utanför den här körningens fönster — avsparkade** |
+
+**Insatsen flyttas inte, och det är ett aktivt beslut.** Kvarts-Kelly på de nya talen
+(52% @ 2,25) ger 0,136 full Kelly → **ca 102 kr** på en tänkt bankrulle om 3 000 kr,
+mot 61 kr på 13:00-talen. Den publicerade insatsen på 85 kr ligger alltså numera
+**under** kvarts-Kelly i stället för över. Tre skäl att ändå låta den stå: priset är
+indikativt och spannet 2,20–2,25 är i sig värt 2,6 procentenheter EV (**I7**),
+positionen rekommenderades för sju timmar sedan och är rimligen redan lagd, och 100 kr
+är kvällens tak per kupong. **Den som ännu inte lagt positionen kan ta 100 kr i stället
+för 85 kr** — det är kvarts-Kelly avrundat ned till kupongtaket.
+
+Dagens totala exponering är därmed oförändrad mot 15:45: **310 kr**, varav 85 kr på
+kvällens enda kvarvarande öppna position. Ingen match bär mer än en position (**H5**),
+och **H8** är oförändrat uppfyllt: bästa marknaden i Sunderland–Arsenal är vinst till
+noll och den är spelad.
+
+### 📚 Källor — uppdateringen
+
+[Bekräftade elvor Sunderland–Arsenal, Sunday Guardian Live](https://sundayguardianlive.com/sports/sunderland-vs-arsenal-lineups-confirmed-granit-xhaka-captains-black-cats-against-former-club-lewis-skelly-starts-for-gunners-bukayo-saka-check-all-names-283246/) ·
+[Bekräftade elvor Sunderland–Arsenal, Last Word on Sports](https://lastwordonsports.com/football/2026/09/12/sunderland-vs-arsenal-12/) ·
+[Arsenals elva och bänk, EPL Index](https://eplindex.com/150386/arsenal-starting-xi-vs-sunderland-confirmed-team-news-and-predicted-lineup-3.html) ·
+[Alineaciones confirmadas Real Madrid–Rayo, El Desmarque](https://www.eldesmarque.com/futbol/liga-1a-division/20260912/alineaciones-confirmadas-real-madrid-rayo-vallecano-hoy-laliga-ea-sports_18_020151308.html) ·
+[Mourinho namnger elvan, Tribuna](https://tribuna.com/en/news/2026-09-12-mourinho-names-real-madrid-xi-for-rayo-vallecano-clash) ·
+[Real Madrids bekräftade elva, Sports Illustrated](https://www.si.com/onsi/soccer/real-madrid/matchday/real-madrid-vs-rayo-vallecano-confirmed-lineup-for-laliga-clash) ·
+[Vinst till noll 6/5, William Hill News](https://news.williamhill.com/football/sunderland-vs-arsenal-prediction-premier-league-tips-2026/) ·
+[BTTS Nej 1,67 och under 2,5, Sportskeeda](https://www.sportskeeda.com/football/sunderland-vs-arsenal-prediction-betting-tips-september-12th-2026)
+
+*Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går
+inte att läsa; verifierat även denna körning). De kan ha rört sig; använd ditt eget
+pris.*
