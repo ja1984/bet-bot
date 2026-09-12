@@ -757,3 +757,100 @@ med ett negativt-EV-spel (**H3, L6**).
 
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter
 går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+## 🔄 Uppdatering 15:45 — bekräftade startelvor (körning 15:00)
+
+Fönstret är avspark **16:00–18:30**. De två 21:00-matcherna (Sunderland–Arsenal,
+Real Madrid–Rayo) ligger mer än tre timmar bort och inget stort besked har kommit —
+de rörs inte (närhetsregeln). Ingen befintlig sektion är ändrad; allt nedan är en
+**delta**. Egress-policyn blockerar fortfarande direkthämtning av sidor, så elvorna
+nedan är hämtade ur sökresultatens citat — källa anges per rad.
+
+### Ändringar
+
+**Osasuna–Espanyol (16:15) — ÄNDRING.** Bekräftad elva: **Budimir startar** som antaget
+✓. Men **Oroz saknas** (skadad, inte i elvan) och Espanyol kommer till El Sadar **utan
+både Puado (korsbandsruptur) och Kike García** — båda utanför 24-mannatruppen, vilket
+lämnar Roberto Fernández som enda etablerade anfallare i elvan. Analysens premiss
+"båda har en egen väg till mål" står inte längre lika stadigt. **E2/E3** dämpar
+nedskrivningen — mål omfördelas och ersättarna är etablerade — så det här är en nudge
+enligt **L7**, inte ett raderat spel.
+→ Över 2,5 sänks **51% → 47% (41–53%)**, rättvist odds **2,13**, brytpunkt 45,5%
+(pris 2,20, indikativt), EV **+12% → +3,4%**. Utfallskonfidens 6 → **5,5/10** ·
+spelkvalitet 🟡 6 → **🔴 4/10**. Brytpunkten ligger 1,5 punkter under skattningen och
+mitt inne i bandet (**L1**) → **🔴 PASS**. Bandet är brett av tre namngivna skäl
+(**L2**): omgjort Espanyol-anfall utan mätbar ersättarproduktion, Osasunas
+hemmaförsvar vilar på två matcher (**A3**), och 2-5-förlusten mot Alavés kvarstår som
+motsägande datapunkt.
+**Följd för kupong 2:** ett kupongben måste klara värdetestet på egen hand, och det gör
+det inte längre → **C2 utgår (70 kr)**. Palace-benet står kvar på sina egna tal från
+13:00 (över 2,5 @ 1,80, 59% (52–64%), rättvist 1,69, brytpunkt 55,6%, EV +6,2%) och
+kan tas som **singel 40 kr** av den som vill behålla positionen.
+
+**Athletic–Elche (18:30) — ÄNDRING.** Fyra bekräftade frånvarande i Athletic:
+**Guruzeta** (hamstring — anfallaren 13:00-analysen räknade in under "minimal
+rotation"), **Vivian** (adduktor) och **Egiluz** (knä) i mittförsvaret, samt Canales.
+Effekten drar åt två håll: anfallet försvagas, men två mittbackar ur ett försvar som
+just höll två nollor drar åt motsatt håll. Nedskrivningen blir därför liten.
+→ Över 2,5 **61,5% → 60% (53–66%)**, rättvist odds **1,67**, brytpunkt 58,8%
+(pris 1,70, indikativt), EV **+4,6% → +2,0%**. Utfallskonfidens 6 → **5,5/10** ·
+spelkvalitet 🟡 6 → **🔴 4,5/10**. Två punkters edge mot ett indikativt pris ligger
+inom prisets egen osäkerhet (**I7, L1**) → **🔴 PASS**, singeln om **30 kr utgår**.
+
+### Ingen ändring
+
+**Bournemouth–Brentford (16:00).** Källorna ger två oförenliga startelvor — en med
+Semenyo och Kroupi Jr, en utan båda — och ingen kunde beläggas som bekräftad. Ingen
+bekräftad uppgift = ingen ändring: oavgjort @ 3,60 står kvar på 13:00-underlaget, med
+**L7**-förbehållet att elvan fortfarande är en förutsättning som inte har verifierats.
+
+**Aston Villa–Forest (16:00).** Elvorna bekräftade (Villa 4-2-3-1 med Jackson i
+anfallet, Forest 3-4-2-1 med Delap). Inget som flyttar mållinjen — under 2,5 står kvar.
+
+**Palace–Ipswich (16:00).** **Strand Larsen startar** — rotationsrisken som flaggades
+under **J4** föll inte ut. Palace fortsatt utan Mateta, Sarr och Riad; Ipswich ställer
+upp offensivt med Emersonn, Enciso, Clarke och Fatawu. Talen står kvar.
+
+**Chelsea–Hull (16:00).** Caicedo är bekräftat **ute** (vaden) — 13:00 skrev "kan
+återvända". Chelseas trio Palmer–Rogers–João Pedro startar. Båda uppgifterna pekar
+svagt åt BTTS-hållet men flyttar inte skattningen utanför sitt band: BTTS Ja står kvar
+på 57% (50–63%), 40 kr.
+
+**Tottenham–Everton (18:30).** Mudryk ute 6–8 veckor (redan i filen), Porro och Udogie
+tveksamma, Maddison åter tillgänglig, Everton utan Norgaard. Inget stort besked som
+bryter tesen — frånvarolistan stärker den om något. Under 2,5 står kvar som kvällens
+enda 🟢.
+
+### Insatser efter uppdateringen
+
+| Position | 13:00 | Nu |
+|---|---|---|
+| C1 Tottenham–Everton + Villa–Forest under 2,5 | 100 kr | **100 kr** |
+| C2 Osasuna över 2,5 + Palace över 2,5 | 70 kr | **0 kr — utgår** |
+| C3 Arsenal vinst till noll | 85 kr | **85 kr** |
+| C4 Bournemouth–Brentford oavgjort | 45 kr | **45 kr** |
+| Singel Chelsea–Hull BTTS Ja | 40 kr | **40 kr** |
+| Singel Athletic–Elche över 2,5 | 30 kr | **0 kr — utgår** |
+| *(valfritt)* Singel Palace över 2,5 @ 1,80 | — | **40 kr** |
+
+**Totalt 310 kr** mot 370 kr i 13:00-planen. Fördelning: **180 kr på målmarknader**
+(100 under, 40 över, 40 BTTS) · **130 kr på resultatmarknader** (C3 85, C4 45). Ingen
+match bär mer än en position (**H5**), och den tematiska korrelationen är oförändrad:
+C1 och C3 vinner båda på lågt målsnitt, sammanlagt 185 kr (**L6**).
+
+### Källor till uppdateringen
+
+[Bekräftade elvor Osasuna–Espanyol, SportAragón (publ. 12/9 15:09)](https://www.sportaragon.com/articulo/futbol-aragon/alineaciones-confirmadas-osasuna-espanyol-jornada-5-laliga-easports/20260912150920159304.html) ·
+[Espanyols 24-mannatrupp utan Puado och Kike García, El1900](https://el1900.com/manolo-gonzalez-confia-su-lista-24-convocados-el-sadar/) ·
+[Osasunas frånvarande (Oroz, Herrando, Rosier), Sports Mole](https://www.sportsmole.co.uk/football/osasuna/preview/osasuna-vs-espanyol-prediction-team-news-lineups_604859.html) ·
+[Fyra bekräftade bortafall i Athletic, El Desmarque](https://www.eldesmarque.com/futbol/liga-1a-division/20260910/confirmadas-athletic-club-recibir-elche_18_020139445.html) ·
+[Athletic–Elche förhandsläge, Infobae](https://www.infobae.com/america/agencias/2026/09/11/el-athletic-mide-su-progresion-ante-un-elche-que-no-arranca/) ·
+[Bekräftad elva Palace–Ipswich, WhoScored](https://www.whoscored.com/news/iDU4BiJgvEGXEDxDB9szwg/show/crystal-palace-vs-ipswich-confirmed-lineups) ·
+[Palace–Ipswich truppnytt, Last Word on Sports](https://lastwordonsports.com/football/2026/09/12/crystal-palace-vs-ipswich/) ·
+[Bekräftad elva Villa–Forest, WhoScored](https://www.whoscored.com/news/EVjnQzAij02Iz9jeRyVtmA/show/aston-villa-vs-nottingham-forest-confirmed-lineups) ·
+[Chelseas elva och Caicedo ute, Sports Mole](https://www.sportsmole.co.uk/football/chelsea/news/chelsea-hull-starting-lineups-confirmed-alonso-makes-surprise-change-for-tigers-clash_605020.html) ·
+[Bournemouth–Brentford truppnytt (motstridigt), Yahoo Sports](https://ca.sports.yahoo.com/news/confirmed-bournemouth-v-brentford-team-124600670.html) ·
+[Tottenham–Everton skade- och avstängningsläge, Sports Mole](https://www.sportsmole.co.uk/football/spurs/injury-news/team-news/tottenham-vs-everton-injury-suspension-list-predicted-xis_604784.html)
+
+*Uppdateringen ändrar inga priser — de indikativa oddsen från 13:00 används rakt av,
+eftersom ingen prissida gick att läsa den här körningen heller (**I7, K4c**).*
