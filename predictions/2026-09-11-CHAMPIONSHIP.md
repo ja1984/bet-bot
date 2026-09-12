@@ -270,3 +270,195 @@ prognos. Inget pris i det här tillägget är hämtat på nytt — priserna 2,15
 - West Hams officiella startelva: [whufc.com — *Starting XI | Nuno switches things up for Wrexham visit*](https://www.whufc.com/en/news/starting-xi-or-nuno-switches-things-up-for-wrexham-visit) (fem ändringar; sidan kunde inte öppnas, elvan läst ur sökträffens text)
 - Wrexham, obekräftad elva och frånvarolista: [North Wales Pioneer — predicted XI](https://www.northwalespioneer.co.uk/sport/26536775.wrexham-afc-predicted-starting-xi-away-west-ham/) · [Sports Mole — preview](https://www.sportsmole.co.uk/football/west-ham-united/preview/west-ham-vs-wrexham-prediction-team-news-lineups_604766.html)
 - Sevilla–Valencia, enbart förväntade elvor: [Futeros — *alineación posible*](https://futeros.com/alineaciones-sevilla-fc-valencia-cf-alineacion-posible-de-garcia-plaza-y-corberan-en-la-jornada-5a-de-laliga-ea-sports/) · [ElDesmarque — *posibles alineaciones*](https://www.eldesmarque.com/futbol/liga-1a-division/20260911/sevilla-valencia-cf-laliga-ea_18_020131028.html) · [Sports Mole — preview](https://www.sportsmole.co.uk/football/valencia/news/sevilla-vs-valencia-prediction-team-news-lineups_604760.html)
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** Båda matcherna är ligamatcher **utan förlängning** och
+avgjordes på 90 minuter plus tilläggstid. **Inget mål föll i tilläggstid** i någondera
+matchen — sista målet i London kom 82' (Solomon), sista i Sevilla 81' (Juan Iglesias).
+Inget mål har därför behövt räknas bort, och ingen marknad i filen hänger på ett
+gränsfall: Under 2,5 var avgjord redan 48' (tredje målet) och BTTS-Nej höll hela vägen
+med Valencia på **ett skott på mål under hela matchen**.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| West Ham – Wrexham | 6–0 | Bowen 28', Piroe 37', Mavropanos 48', Castellanos 63', Kanté 76', Solomon 82'. Bowen och Engels utbytta 81'. Kanté stod inte i startelvan (inbytesminut ej belagd). Fjärde raka ligasegern, West Ham går upp i serieledning |
+| Sevilla – Valencia | 1–0 | Juan Iglesias 81' (nick på frispark). Skott: Sevilla 15 (5 på mål), Valencia 4 (**1 på mål**). Gula: Sato 27' (V), Ejuke 67' (S), Maffeo 89' (V) — 3 totalt. Valencia sist med 1 poäng på 5 matcher |
+
+*Källkonflikt (**L2**): en sammanfattning anger "nio skott på mål totalt i matchen" i
+Sevilla, en annan 5 respektive 1 per lag. Den senare särredovisar lagen och används ovan.
+Skillnaden påverkar ingen marknad i filen — Valencias nolla på mållistan är entydig i
+samtliga källor.*
+
+### Marknadsutfall
+
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| West Ham – Wrexham | Under 2,5 (47% 13:00 → 44% 20:35, **tillbakadragen**) | 🔴 PASS | 6 mål | ❌ marknaden föll — **avståendet sparade 40 kr** |
+| West Ham – Wrexham | Över 2,5 1,60 (avstådd, 53% mot krav 62,5%) | avstådd | 6 mål | Hade landat — missad vinst |
+| West Ham – Wrexham | BTTS Ja 1,73 (avstådd, 50% mot krav 57,8%) | avstådd | Wrexham mållösa | ✅ korrekt avstådd |
+| West Ham – Wrexham | BTTS-Nej 2,10 (avstådd, 45–48% mot krav 47,6%) | avstådd | Wrexham mållösa | Hade landat — missad vinst |
+| West Ham – Wrexham | West Ham vinst 1,57 (avstådd, 60% mot krav 63,7%) | avstådd | 6–0 | Hade landat — missad vinst |
+| West Ham – Wrexham | **West Ham över 1,5 lagmål** (57%, `PRIS EJ TILLGÄNGLIGT`) | ✅ väntat | 6 mål | Hade landat — ospelad på pris (**K4c**, **H8**) |
+| West Ham – Wrexham | Bowen målskytt 2,60 (avstådd, **A2** — ingen mätbar måltakt) | avstådd | **Mål 28'** | Hade landat — missad vinst |
+| West Ham – Wrexham | Alla kortspel (avstådda, **G5**, **G9**) | avstådd | lagens kort ej hämtbara i efterhand | Ej bedömbart — avståendet korrekt på underlag |
+| Sevilla – Valencia | **BTTS-Nej 1,77 (spelad, 60%, 40 kr)** | ✅ väntat | Valencia mållösa, 1 skott på mål | ✅ |
+| Sevilla – Valencia | Sevilla vinst 1,95 (avstådd, 55% — **N3**, samma tes) | avstådd | 1–0 | Hade landat (+38 kr) — men låg i förlustläge till 81' |
+| Sevilla – Valencia | Under 2,5 1,62 (avstådd, 62% mot krav 61,7% — nollan) | avstådd | 1 mål | Hade landat — korrekt avstådd på EV |
+| Sevilla – Valencia | **Sevilla över 1,5 lagmål** (52%, `PRIS EJ TILLGÄNGLIGT`) | — | Sevilla gjorde 1 | ❌ hade fallit |
+| Sevilla – Valencia | BTTS Ja 1,96 (avstådd, 40% mot krav 51%) | avstådd | Valencia mållösa | ✅ korrekt avstådd |
+| Sevilla – Valencia | Valencia AH +0,25 2,02 (avstådd, **A2**) | avstådd | Valencia förlorade | ✅ korrekt avstådd |
+| Sevilla – Valencia | Alla kortspel (avstådda, **G5**, **G9**) | avstådd | 3 gula mot domarsnitt 5,53–5,59 | ✅ korrekt avstådd — ett kortspel över linjen hade sannolikt fallit |
+
+### Kupongutfall
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| Inga kuponger publicerade — Championship-avsnittet (**H9**, **L5b**) | — | — |
+| Inga kuponger publicerade — La Liga-avsnittet (tillagd match, ingen kombination byggd) | — | — |
+
+Kvällen bar **noll kupongkronor** i båda avsnitten. Det var ett aktivt beslut i filen
+(**H9**: en enda match klarar inte spridningskravet) och inte ett utelämnande — och när
+La Liga-matchen lades till kl 14:30 byggdes ingen kombination av de två, eftersom de
+enda två spelbara marknaderna satt på olika matcher utan gemensam tes.
+
+### Singelspelsutfall — samma rader som sektion 3
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| 21:00 | West Ham – Wrexham | Under 2,5 mål | Mål | 2,23 | 47% (41–54%) | 40 kr → **0 kr** | 6 mål | ❌ marknaden · **0 kr spelade** |
+| 21:00 | Sevilla – Valencia | BTTS-Nej | Mål | 1,77 | 60% (53–66%) | 40 kr | 1–0, Valencia mållösa | ✅ **+30,80 kr** |
+
+*Insatsdifferensen är inte städad (mallen, sektion 11). Sektion 3:s singeltabell står kvar
+på **40 kr** på Under 2,5 och uppdaterades aldrig, medan 18:30-tillägget sänkte posten
+till 0 kr och 20:35-tillägget drog tillbaka även det villkorade spelet. Raden ovan bär
+båda siffrorna. Den angivna sannolikheten 47% (41–54%) är 13:00-skattningen som sektion 3
+publicerade; 20:35-körningen reviderade den till 44% (39–50%) — båda låg fel, se
+självutvärderingen.*
+
+### Skott på mål (sidospel, utanför kupongerna — J6)
+
+| Match | Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|---|
+| WHU–WRE | West Ham | Bowen | — (`underlag saknas`) | — | **81 min** (utbytt 81') | **≥1 — mål 28'** | Ej bedömbar som spel (ingen linje angiven); minuter och ≥1 på mål verifierade |
+| WHU–WRE | West Ham | — (ingen angiven) | — | — | ingen spelare angiven i förhand | — | Rad saknades i förhand |
+| WHU–WRE | West Ham | — (ingen angiven) | — | — | ingen spelare angiven i förhand | — | Rad saknades i förhand |
+| WHU–WRE | Wrexham | — (ingen angiven) | — | — | ingen spelare angiven i förhand | — | Rad saknades i förhand |
+| WHU–WRE | Wrexham | — (ingen angiven) | — | — | ingen spelare angiven i förhand | — | Rad saknades i förhand |
+| WHU–WRE | Wrexham | — (ingen angiven) | — | — | ingen spelare angiven i förhand | — | Rad saknades i förhand |
+| SEV–VAL | — | **Skottblocket saknas helt i förhandsanalysen** | — | — | — | — | **J1-brott** — noll av sex rader publicerade |
+
+**Spelarvis skott på mål går inte att hämta i efterhand för någondera matchen** — samma
+underlagsproblem som 10 september, och egressen blockerar dessutom varje statistiksajt
+(ESPN, Sky Sports, FotMob, Sofascore, EFL:s egen sajt returnerar alla blockerad tunnel).
+Lagnivå går att få för Sevilla (5 respektive 1 på mål), spelarnivå inte.
+
+**Vad de tomma raderna kostade (J4, J7).** Av kvällens **tolv möjliga rader** (sex per
+analyserad match) publicerades **en enda med namn**, och den saknade linje. Fyra av West
+Hams sex målskyttar hade hört hemma i en komplett topp-3-lista och spelade alla: Piroe
+(mål 37'), Castellanos (63') och Solomon (82') startade, Kanté gjorde 5–0 på 76' utan att
+ha startat. Precis som **J4** säger är `underlag saknas` ett påstående om källan, inte om
+spelaren — men här togs spelarna bort helt i stället för att få en rad med namn och en
+minutkontroll, vilket är ett steg sämre än de tio namngivna nollraderna den 10 september.
+Kalibreringsutbytet för kvällen är därmed **0 bedömbara skottrader av 12 möjliga**.
+
+### Totalt per avsnitt
+
+| Avsnitt | Kuponger | Singlar | Insats | Netto |
+|---|---|---|---|---|
+| Championship (13:00, uppdaterad 18:30 och 20:35) | 0/0 | 0/1 | 0 kr | **0 kr** (hade posten legat kvar: −40 kr) |
+| La Liga (tillagd 14:30) | 0/0 | 1/1 | 40 kr | **+30,80 kr** |
+
+### Totalt: 0/0 kuponger | 1/2 publicerade singlar (1/1 spelade) | Vinst/förlust: **+30,80 kr**
+
+*P/L-underlag: 40 kr på BTTS-Nej till **1,77**, ett indikativt pris (**I7**) läst ur
+previewtext kl 13:00 och bekräftat oförändrat i 18:30-körningen (−130 amerikanskt).
+Retur 70,80 kr, netto **+30,80 kr**. Räknat i stället på filens eget rimliga odds **1,67**
+blir nettot **+26,80 kr**. Spannet är alltså **+26,80 till +30,80 kr**, och den högre
+posten redovisas som huvudsiffra eftersom priset faktiskt noterades två gånger under
+dagen — samma metod som 10 september. Den tillbakadragna Under 2,5-posten står på 0 kr
+och ingår inte; hade den legat kvar på 40 kr hade kvällen slutat på **−9,20 kr**.*
+
+### 🧠 Självutvärdering
+
+- **Kalibrering.** Ett spel, en vinst — och den säger nästan ingenting statistiskt.
+  Det som säger något är den andra skattningen. **Under 2,5 sattes till 47% (41–54%) kl
+  13:00 och till 44% (39–50%) kl 20:35 i en match som slutade 6–0.** Marknaden låg hela
+  dagen på andra sidan (över 2,5 till 1,60 = 62,5% implicit kl 13:00, 1,67 ≈ 60% kl
+  18:30) och marknaden hade rätt. Sex mål ligger inte i utkanten av bandet 41–54%, det
+  ligger utanför det. BTTS-Nej-skattningen 60% (53–66%) höll däremot med marginal:
+  Valencia kom till **ett** skott på mål på 90 minuter, så utfallet var aldrig nära.
+- **Kvällens bästa läsning.** **Tillbakadragandet kl 20:35.** Den bekräftade elvan visade
+  Castellanos i start och 4-4-2 med två spetsar — West Hams vassaste anfallsuppsättning,
+  inte den roterade elva tesen byggde på. Filen behandlade det som **L7:s undantag** (en
+  elvfakta som motbevisar den skrivna tesen drar spelet, den nudgar det inte), drog även
+  det villkorade "2,20 eller bättre" och landade på 0 kr. Det beslutet sparade 40 kr på en
+  marknad som föll med tre måls marginal. Näst bäst: **marknadsvalet i Sevilla**, där
+  **K3** och **N4** gjorde jobbet — en ensidig målbild ledde till en defensiv marknad i
+  stället för BTTS Ja, och N4-testet valde BTTS-Nej framför Sevilla vinst @1,95 med
+  motiveringen att BTTS-Nej tål 0–0. Matchen *var* 0–0 i 81 minuter. Sevilla vinst hade
+  betalat 8 kr mer och hade legat i förlustläge nästan hela matchen; den mer robusta
+  formuleringen var rätt vald, oberoende av att båda till slut landade.
+- **Kvällens sämsta läsning.** **Under 2,5 i West Ham–Wrexham — och felet är inte att den
+  förlorade, den spelades ju aldrig, utan att den valdes alls.** Tre saker gick fel i
+  ordning:
+  1. **Matchbilden var rätt och marknadsvalet motsade den.** Filen skrev att målbilden var
+     ensidig och pekade — korrekt, enligt **K3** — mot en lagtotal, och namngav
+     **West Ham över 1,5 lagmål** som matchens bästa marknad. Sedan lades insatsen på
+     matchens **totala** mål *under*. De två marknaderna kan bara vinna tillsammans på
+     ett enda resultat, **exakt 2–0**. Det som faktiskt spelades uttryckte alltså inte
+     den matchbild filen själv hade skrivit — det uttryckte vilken marknad som råkade ha
+     ett pris.
+  2. **Motargumentet flyttade ingen siffra.** Kl 13:00 står motargumentet utskrivet ("West
+     Ham har gjort 10 mål på tre matcher; träffar de sitt snitt räcker 3-0") — och
+     skattningen står kvar på 47%. **L4** kräver att motevidensen säger *hur mycket* den
+     flyttade sannolikheten; här flyttade den noll. Först den bekräftade elvan flyttade
+     den, och då bara tre punkter.
+  3. **Wrexhams försvarssiffra var inte motståndarjusterad.** "5 insläppta på 6" behandlades
+     som en egenskap hos Wrexham i stället för som en siffra hämtad mot andra motståndare
+     (**L3**), i en tävling där ramverket har **noll mätningar** (**A2b**) och mot ligans
+     bästa anfall — ett nedflyttat Premier League-lag hemma mot en nykomling.
+- **Orsaksklassning.**
+
+  | Post | Utfall | Orsak |
+  |---|---|---|
+  | Under 2,5 skattad till 47%/44% i en 6–0 | ❌ (ospelad) | **dålig sannolikhet** + **recensbias (L3)** + **narrativbias (L4)** — inte varians: utfallet låg utanför bandet och marknaden låg hela dagen åt andra hållet |
+  | Under 2,5 vald framför den shapekonsistenta marknaden | ❌ (ospelad) | **dåligt marknadsval** — bästa marknaden saknade pris, och reservvalet uttryckte inte matchbilden |
+  | West Ham över 1,5 lagmål ospelad | Hade landat | **dåligt pris** i **K4c**:s mening: inget pris fanns. Källfel, inte bedömningsfel |
+  | BTTS-Nej 2,10 (WHU) avstådd på nollan | Hade landat | **varians** — avståendet var korrekt räknat (45–48% mot krav 47,6%); ett spel på nollan som landar är inte en lärdom |
+  | West Ham vinst 1,57 avstådd | Hade landat | **dålig sannolikhet** — samma rot som raden överst: 60% var för lågt |
+  | Bowen målskytt 2,60 avstådd | **Mål 28'** | **dåliga data** — avståendet följde **A2**, men det är andra kvällen i rad ett målskyttespel som avfärdats på saknat underlag landar (10 sep: samma mönster). Två observationer, inte ett mönster |
+  | **BTTS-Nej 1,77 (SEV) spelad** | ✅ **+30,80 kr** | **bra marknadsval** — **K3** och **N4** tillämpade och bekräftade av utfallet (Valencia 1 skott på mål). Inte varians: marknaden var aldrig hotad |
+  | Under 2,5 tillbakadragen 20:35 | Sparade 40 kr | **rätt beslut på rätt regel** — **L7**:s undantag och **L1** |
+  | Alla kortspel avstådda | Hade fallit | **rätt beslut på underlag** — 3 gula mot ett domarsnitt på 5,53–5,59; avståendet på **G5**/**G9** var rätt av skäl som inte hade med läsningen att göra |
+  | Skottblocket: 0 av 12 rader bedömbara | — | **dåliga data** för Championship (täcks inte av källan) och **processmiss** för La Liga (blocket utelämnades helt, **J1**) |
+
+- **Lärdom.** Kvällens bidrag är inte en ny sannolikhetsregel — en natt och två matcher är
+  långt under **A2** — utan en koherenskontroll som redan ligger implicit i **K3** och
+  **K4c** men aldrig är utskriven: **när matchens bästa marknad saknar pris måste
+  reservspelet fortfarande uttrycka den skrivna matchbilden.** Här gjorde det inte det, och
+  filen hade dessutom ett shapekonsistent alternativ till ett hämtbart pris i BTTS-Nej
+  @2,10 — det avstods korrekt på EV, vilket betyder att det disciplinerade utfallet var
+  **PASS för hela matchen**, inte "spela det som råkar ha ett pris". Det går till PR.
+  Två saker som *inte* blir regler: att marknaden hade rätt och ramverket fel i en tävling
+  utan mätningar är **en** datapunkt (**A2b** — noteras, räknas, men styr ingenting), och
+  att lagtotalen återigen var obedömbar är en bekräftelse av **K4c**, inte ett nytt fynd —
+  räknaren står nu på **20 matcher över fyra kvällar utan ett enda prissatt lagtotalspel**.
+  **A7-kontroll:** `CALIBRATION.md` har efter i kväll **3 BTTS Ja-rader** out-of-sample,
+  alla från 10 september. Det är långt under både **A2**:s åtta och **A2b**:s trettio —
+  **capet står kvar**.
+
+### 📚 Källor — efteranalys
+
+- West Ham–Wrexham, resultat och målskyttar: [EFL — West Ham return to Championship summit with 6-0 thrashing of Wrexham](https://www.efl.com/news/2026/september/11/west-ham-return-to-championship-summit-with-6-0-thrashing-of-wrexham/) · [Sky Sports — matchrapport](https://www.skysports.com/football/news/11095/13584361/west-ham-6-0-wrexham-hammers-go-top-of-the-championship-with-fourth-straight-league-win) · [ESPN](https://www.espn.com/soccer/match/_/gameId/401880257) · [whufc.com — Hammers hit Wrexham for six](https://www.whufc.com/en/news/match-report-or-hammers-hit-wrexham-for-six-on-record-breaking-friday-night) · [101 Great Goals](https://www.101greatgoals.com/football/west-ham-wrexham-report/)
+- Elvor och byten: [Soccerway — West Ham–Wrexham lineups](https://ng.soccerway.com/match/west-ham-Cxq57r8g/wrexham-IgO7K1ZA/summary/lineups/?mid=trwYiNw3) · [Read West Ham — bekräftade elvor](https://readwestham.com/2026/09/11/west-ham-wrexham-lineups-confirmed-xi/)
+- Sevilla–Valencia, resultat, mål och kort: [LaLiga — matchsida](https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-valencia-cf-5) · [Infobae — *Juan Iglesias desatasca al Sevilla*](https://www.infobae.com/espana/agencias/2026/09/11/1-0-juan-iglesias-desatasca-al-sevilla-al-final-y-mantiene-al-valencia-a-la-deriva/) · [COPE — krönika](https://www.cope.es/programas/tiempo-de-juego/cronica/directo-sevilla-valencia-quinta-jornada-primera-division-11-20260911_3435258.html) · [New Straits Times/Reuters](https://www.nst.com.my/sports/football/2026/09/1531027/sevilla-defeat-leaves-valencia-rooted-bottom-la-liga) · [ESPN](https://www.espn.com/soccer/match/_/gameId/401882878/valencia-sevilla)
+
+*Egressen blockerade varje sajt även i efterhand (**I7**) — samtliga siffror ovan är
+lästa ur sökträffarnas previewtext från minst två oberoende källor per uppgift, inte ur
+sidorna själva. Resultat, målskyttar och minuter är samstämmiga i alla källor; skott på
+mål per lag i Sevilla skiljer sig mellan två av dem och spannet är noterat ovan.*
