@@ -489,6 +489,75 @@ förbi 62,5%.
 efter att ha lämnat träningen tidigt (**J4**). Övriga rader saknar underlag — ingen elva och
 ingen skottstatistik nådd.
 
+## 🔄 Uppdatering 13:15 — bekräftade startelvor Celta–Málaga
+
+*Närhetsregeln styr vad som får röras: Celta–Málaga har 45 minuter till avspark (bekräftade
+elvor), Coventry–Brighton knappt två timmar (sena besked), övriga fyra matcher mer än tre
+timmar och rörs bara vid stora besked. Sheffield United–Wolves sparkade igång 13:00 och
+kommenteras inte — den matchen är stängd för ändringar.*
+
+**Celta – Málaga (14:00) — C1 Under 2,5.**
+
+Bekräftade elvor är ute. Celta: Radu i mål; Rueda, Moriba, Román och Carreira på mittfältet;
+Hugo Álvarez och **Ferran Jutglà** framåt. **Iago Aspas och Pablo Durán startar på bänken** —
+11:00-analysen vilade på den förväntade elvan med båda från start. Nådda källor är *inte*
+eniga om försvarslinjen (Starfelt/Faye/Javi Rodríguez mot Marcos/Lago/Cáceres) eller om
+tredje anfallaren (Driouech/Swedberg mot González); de raderna står som osäkra i stället för
+valda (**J4**). Málaga: Herrero; Rafita, Recio, Galilea, Salinas; Dotor, Merino, Lorenzo;
+Larrubia, Juan Cruz, Chupete — i praktiken den förväntade elvan i 4-3-3, med Chupe, lagets
+ende målskytt i höst, från start.
+
+Bekräftade bortfall som inte nåddes 11:00: Celta utan Febas; Málaga utan Diarra, Calero,
+Lobete, Ochoa och Murillo. Matchblockets rad "inga bekräftade nyckelbortfall i nådda källor"
+är därmed passerad — den gällde källäget 11:00, inte laguppställningarna.
+
+→ **Vad som ändras är bandet, inte sannolikheten (L7).** Jutglà från start är en marginell
+uppjustering av hemmalagets anfall mot antagandet Aspas/Durán; Málagas fem bekräftade
+bortfall en marginell nedjustering av gästernas. De två drar åt var sitt håll och tar ut
+varandra. Det som faktiskt försvinner är att laguppställningen inte längre är en
+förutsättning som kan falla — den drivaren lyfts ur bandet (**L2**).
+
+**Under 2,5: sannolikhet 65% (band 61–69%, tidigare 59–70%), rättvist odds 1,54, pris 1,73
+oförändrat (indikativt, footballwhispers/thefootballfaithful), brytpunkt 57,8%, EV +12,5%.**
+Brytpunkten ligger kvar utanför bandet och nu med större marginal — edgen är *robustare*,
+inte större. Utfallskonfidens 7/10, spelkvalitet 🟢 7,5/10 och insats 120 kr **oförändrade**;
+insatsen ligger redan på takbeloppet för en enskild match. Ingen prisrörelse att rapportera.
+
+Skott på mål: elvorna är nu kända, men skott på mål per match går fortfarande inte att belägga
+för någon av spelarna. Raderna står kvar som `underlag saknas` hellre än att fyllas med namn
+utan siffror (**J4**, **K4c**).
+
+**Coventry – Brighton (15:00):** ingen ändring. Samma bortfall som 11:00 (Minteh, Mitoma,
+Hinshelwood, Wieffer, Tzimas, Ferguson, Yohanna hos gästerna; Wright, Kesler-Hayden,
+Woolfenden och sannolikt Cherif hos hemmalaget), Azeez och Rutter fortsatt utanför startelvan.
+🔴 PASS står.
+
+**Levante–Barcelona (16:15), Manchester United–Manchester City (17:30), Getafe–Deportivo
+(18:30), Real Sociedad–Atlético (21:00):** mer än ~3 timmar till avspark. Inga stora besked i
+nådda källor — ingen tränarändring, ingen inställd match, inga nya nyckelbortfall; Getafes
+lista (Uche, Juanmi, Abqar, Francho, avstängde Romero) och Deportivos (Carrillo ute, Altimira
+tillbaka) är oförändrade. Matcherna lämnas orörda enligt närhetsregeln. **C3 (BTTS Ja @ 2,45)
+står oförändrat.**
+
+**Källor för det här avsnittet:** [sportaragon — alineaciones confirmadas Celta–Málaga
+(publicerad 12:55)](https://www.sportaragon.com/articulo/futbol-aragon/alineaciones-confirmadas/20260913125516159324.html)
+· [jornadaperfecta — Celta–Málaga J5, onces och
+lesiones](https://www.jornadaperfecta.com/blog/alineaciones-celta-malaga-j5-26-27/)
+· [Ratingbet — Celta vs Malaga team news &
+lineups](https://ratingbet.com/predictions/celta-vs-malaga-prediction-team-news-lineups-expert-analysis/)
+· [Sports Mole — Celta Vigo vs Malaga
+preview](https://www.sportsmole.co.uk/football/celta-vigo/preview/celta-vigo-vs-malaga-prediction-team-news-lineups_604939.html)
+· [rccelta.es — Celtas trupp mot
+Málaga](https://rccelta.es/en/equipo/actualidad/celtas-squad-list-for-the-match-against-malaga-cf-at-abanca-balaidos/)
+· [Sports Mole — Coventry vs Brighton team
+news](https://www.sportsmole.co.uk/football/brighton-and-hove-albion/injury-news/team-news/coventry-vs-brighton-injury-suspension-list-predicted-xis_604937.html)
+· [Sports Mole — Getafe vs Deportivo
+preview](https://www.sportsmole.co.uk/football/getafe/preview/getafe-vs-deportivo-prediction-team-news-lineups_604942.html)
+
+*Sidhämtning är fortsatt blockerad av sessionens nätverkspolicy (sportaragon, futbolfantasy,
+365scores m.fl.) — uppgifterna är hämtade via sökresultat från källorna ovan, och
+Celtaförsvaret redovisas som osäkert just därför att två oberoende referat inte är eniga.*
+
 ## ⚠️ Medvetet undvikna spel
 
 | Marknad | Varför |
