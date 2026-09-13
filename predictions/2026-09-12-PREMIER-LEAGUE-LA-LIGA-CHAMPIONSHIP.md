@@ -998,3 +998,320 @@ noll och den är spelad.
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter går
 inte att läsa; verifierat även denna körning). De kan ha rört sig; använd ditt eget
 pris.*
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** samtliga elva analyserade matcher är ligamatcher utan
+förlängning — inget mål på hela dagen föll efter 90 minuter i **C10**:s mening. Fyra mål
+föll i ordinarie tilläggstid och räknas därför fullt ut: Sakas straff **90+7** i
+Sunderland–Arsenal, Mbappés andra **90+1** i Real Madrid–Rayo, Flemmings avgörande
+**90'** i Palace–Ipswich och Phillips **90+1** i Middlesbrough–Norwich. Inget spel i
+filen byter utfall om tilläggstiden räknas bort utom **Sunderland–Arsenal**, som hade
+landat som 0-1 i stället för 0-2 — vinst till noll landar i båda fallen. Ingen match gick
+till förlängning.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Bournemouth – Brentford | 2-2 | Schade 34', Kluivert 38', Tavernier 52', Schade 56' (Petrović-tabbe) |
+| Aston Villa – Nottingham Forest | 1-2 | Delap 46', Alysson 74', Igor Jesus 88'. Villa slut med tio man (Torres och Maatsen ut skadade, alla byten gjorda) |
+| Chelsea – Hull City | 2-2 | Rogers 7', Belloumi 28', Belloumi 34', João Pedro 66' |
+| Crystal Palace – Ipswich | 2-3 | Khalaili 14', Emersonn 23', **Disasi rött kort 34'**, Davis 45', Strand Larsen 75', Flemming 90' |
+| Liverpool – Fulham | 0-0 | Fulhams första poäng för säsongen |
+| Tottenham – Everton | 0-0 | Spurs fjärde raka ligamatch utan mål; Dewsbury-Hall och Johnson brände varsitt läge i andra halvlek |
+| Sunderland – Arsenal | 0-2 | **Raya räddar Le Fées straff 56'**, Guimarães (inbytt 45') ~58', Reinildo utvisad 90+, Saka straff 90+7 |
+| Osasuna – Espanyol | 0-2 | Roberto Fernández 3', Roberto Fernández 17' |
+| Athletic Club – Elche | 1-1 | Buonanotte straff 50' (Elche), Iñaki Williams 79' |
+| Real Madrid – Rayo Vallecano | 4-1 | Mbappé straff 14', Carreras 17', Bellingham (1:a halvlek), Camello 51', Mbappé 90+1. Güler inbytt 72' |
+| Middlesbrough – Norwich (Ch) | 4-3 | Touré 1', Berhalter 4', Cozier-Duberry 7', Berhalter 36', Makama 70', Wright 75', Phillips 90+1 |
+
+Övriga Championship-matcher (samtliga PASS på pris): Blackburn 3-1 Millwall ·
+Charlton 0-0 Portsmouth · Preston 0-1 Lincoln · Southampton 4-1 Bristol City ·
+Swansea 3-1 Burnley · Watford 1-2 Stoke.
+
+### Marknadsutfall
+
+**Rekommenderade och spelade positioner**
+
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Tottenham – Everton | Under 2,5 | 61% (54–67%) @ 1,91 | 0 mål | ✅ |
+| Aston Villa – Forest | Under 2,5 | 58% (52–65%) @ 1,84 | 3 mål | ❌ |
+| Sunderland – Arsenal | Arsenal vinst till noll | 52% (47–57%) @ 2,25 | 0-2 | ✅ |
+| Bournemouth – Brentford | Oavgjort | 31% (26–36%) @ 3,60 | 2-2 | ✅ |
+| Chelsea – Hull | BTTS Ja | 57% (50–63%) @ 1,85 | 2-2 | ✅ |
+| Palace – Ipswich | Över 2,5 | 59% (52–64%) @ 1,80 | 5 mål | ✅ |
+
+**Tillbakadragna före avspark (0 kr — räknas inte som spel)**
+
+| Match | Marknad | Prognos vid tillbakadragandet | Utfall | Hade blivit |
+|---|---|---|---|---|
+| Osasuna – Espanyol | Över 2,5 | 47% (41–53%) @ 2,20 | 2 mål | ❌ — sparade 70 kr (C2-benet) |
+| Athletic – Elche | Över 2,5 | 60% (53–66%) @ 1,70 | 2 mål | ❌ — sparade 30 kr |
+
+**Avstådda marknader — hur de föll**
+
+| Match | Marknad | Skattning | Utfall | Hade blivit |
+|---|---|---|---|---|
+| Liverpool – Fulham | Över 2,5 @ 1,44 | 65% | 0 mål | ❌ |
+| Liverpool – Fulham | Liverpool vinst @ 1,44 | 66% | 0-0 | ❌ |
+| Liverpool – Fulham | Liverpool över 1,5 lagmål (ej prissatt) | 71% | 0 mål | ❌ |
+| Real Madrid – Rayo | Över 2,5 @ 1,29 | 76% | 5 mål | ✅ |
+| Real Madrid – Rayo | Real Madrid över 2,5 lagmål @ 1,55 | 56% | 4 mål | ✅ |
+| Real Madrid – Rayo | Över 3,5 @ 1,73 | 51% | 5 mål | ✅ |
+| Real Madrid – Rayo | Real Madrid över 1,5 lagmål (ej prissatt) | — | 4 mål | ✅ |
+| Middlesbrough – Norwich | BTTS Ja (ej prissatt) | 58% | 4-3 | ✅ |
+| Middlesbrough – Norwich | Middlesbrough vinst @ 1,88 | 48% | 4-3 | ✅ |
+| Bournemouth – Brentford | BTTS @ 1,60 | 61% | 2-2 | ✅ |
+| Palace – Ipswich | BTTS @ 1,70 | 50% | 2-3 | ✅ |
+| Athletic – Elche | Athletic över 1,5 lagmål (ej prissatt) | 63% | 1 mål | ❌ |
+| Athletic – Elche | BTTS @ 2,00 | 47% | 1-1 | ✅ |
+| Chelsea – Hull | Över 2,5 @ 1,42 | 62% | 4 mål | ✅ |
+| Sunderland – Arsenal | BTTS Nej @ 1,67 | 63% | 0-2 | ✅ |
+| Sunderland – Arsenal | Under 2,5 @ 1,80 | 56,5% | 2 mål | ✅ |
+| Arsenal vinst @ 1,46 | (**K6**-fall) | — | 0-2 | ✅ |
+| Blackburn – Millwall | Under 2,5 @ 1,91 | 54% | 4 mål | ❌ |
+| Charlton – Portsmouth | Charlton över 0,5 lagmål (ej prissatt) | — | 0-0 | ❌ |
+| Preston – Lincoln | Lincoln över 0,5 lagmål (ej prissatt) | — | 0-1 | ✅ |
+| Preston – Lincoln | Lincoln vinst @ 3,00 | 34% | 0-1 | ✅ |
+| Southampton – Bristol City | Över 2,5 (ej prissatt) | — | 5 mål | ✅ |
+| Swansea – Burnley | Under 2,5 (ej prissatt) | — | 4 mål | ❌ |
+| Watford – Stoke | Under 2,5 (ej prissatt) | — | 3 mål | ❌ |
+
+### Kupongutfall
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| C1 — Ankare (defensiv), 100 kr @ 3,51 | ❌ | **Villa–Forest under 2,5** (3 mål). Tottenham-benet landade (0-0) |
+| C2 — Huvudspel (offensiv), **0 kr — dragen 15:45** | ❌ hade fallit | Osasuna över 2,5 (2 mål). Palace-benet hade landat |
+| C3 — Hedge (motsatt tes), 85 kr @ 2,25 | ✅ | — |
+| C4 — Skräll, 45 kr @ 3,60 | ✅ | — |
+
+**Per avsparksfönster**
+
+| Avsnitt | Positioner | Utfall |
+|---|---|---|
+| 13:00-publiceringen (370 kr planerat) | C1, C2, C3, C4 + två singlar | 2/4 kuponger, 1/2 singlar — hypotetiskt netto **+57 kr** |
+| 15:45-uppdateringen (310 kr) | C2 och Athletic-singeln dragna, Palace-singel tillagd | de två dragna föll båda; den tillagda landade — **+132 kr mot 13:00-planen** |
+| 20:15-uppdateringen (310 kr, oförändrad insats) | C3 uppgraderad 🟡 7 → 🟢 7,5, insats kvar på 85 kr | C3 landade. Den medvetet **ej** flyttade insatsen kostade ~19 kr i utebliven vinst mot kvarts-Kelly på 100 kr |
+
+### Singelspelsutfall — samma rader som sektion 3
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| 16:00 | Chelsea – Hull | BTTS Ja | Mål | 1,85 | 57% (50–63%) | 40 kr | 2-2 (Belloumi 28', 34' · Rogers 7', João Pedro 66') | ✅ |
+| 18:30 | Athletic – Elche | Över 2,5 | Mål | 1,70 | 61,5% (54–68%) | **0 kr — dragen 15:45** | 1-1, 2 mål | ❌ (ospelad) |
+
+*Tillagd i 15:45-uppdateringen, utanför sektion 3:s ursprungliga tabell:*
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| 16:00 | Palace – Ipswich | Över 2,5 | Mål | 1,80 | 59% (52–64%) | 40 kr | 2-3, 5 mål | ✅ |
+
+Inga kortspel rekommenderades (**G5, G9**), så kortkolumnen är tom — Bestard Servera dömde
+Osasuna–Espanyol och Brooks Sunderland–Arsenal som angivet, men ingen linje gick att hämta
+och ingen rad publicerades att bedöma.
+
+### Skott på mål (sidospel, utanför kupongerna — J6)
+
+Alla sex rader per match, även de ingen skulle ha spelat (**J7**). Spelade minuter är
+obligatoriska (**J4**): en rad faller på två helt olika sätt, och bara minutkolumnen
+skiljer dem åt. Per-spelarstatistik för skott på mål gick inte att hämta i efterhand
+(egress-policyn blockerade varje statistiksida, exakt som under analysen) — där utfallet
+ändå är känt är det härlett ur mål, assist eller en dokumenterad räddning, och det står i
+kolumnen. Övriga är `ej bedömbar`, med minuterna ifyllda.
+
+| Match | Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|---|
+| Bournemouth–Brentford | Bournemouth | Semenyo | — | — | **0 — ej i matchtruppen** | — | ❌ minuter (**J4**) |
+| Bournemouth–Brentford | Bournemouth | Evanilson | — | — | 90 (ut 90+1) | ej hämtbar | ej bedömbar |
+| Bournemouth–Brentford | Bournemouth | Tavernier | — | — | 82 (ut 82') | ≥1 (**mål 52'**) | ej bedömbar (ingen linje publicerad) |
+| Bournemouth–Brentford | Brentford | Schade | — | — | 90 | ≥2 (**mål 34', 56'**) | ej bedömbar (ingen linje publicerad) |
+| Bournemouth–Brentford | Brentford | Thiago | — | — | 90 | ej hämtbar | ej bedömbar |
+| Bournemouth–Brentford | Brentford | Damsgaard | — | — | 30 (in 60') | ej hämtbar | ej bedömbar |
+| Villa–Forest | Aston Villa | Watkins | — | — | **0 — ej i matchtruppen** | — | ❌ minuter (**J4**) |
+| Villa–Forest | Aston Villa | McGinn | — | — | 90 (**assist 74'**) | ej hämtbar | ej bedömbar |
+| Villa–Forest | Aston Villa | Buendía | — | — | startade; uttagsminut ej verifierbar | ej hämtbar | ej bedömbar |
+| Villa–Forest | Nottingham Forest | Wood | — | — | **0 — bänkad, inbytt ej verifierat** | — | ej bedömbar |
+| Villa–Forest | Nottingham Forest | Hudson-Odoi | — | — | **0 — bänkad, inbytt ej verifierat** | — | ej bedömbar |
+| Villa–Forest | Nottingham Forest | Gibbs-White | — | — | startade | ej hämtbar | ej bedömbar |
+| Chelsea–Hull | Chelsea | (João) Pedro | — | — | startade | ≥1 (**mål 66'**) | ej bedömbar (ingen linje publicerad) |
+| Chelsea–Hull | Chelsea | Palmer | — | — | startade (**assist 66'**) | ej hämtbar | ej bedömbar |
+| Chelsea–Hull | Chelsea | Neto | — | — | startade | ej hämtbar | ej bedömbar |
+| Chelsea–Hull | Hull City | *(rad utan namn)* | — | — | — | — | **rad kunde aldrig bedömas — inget namn publicerades** |
+| Chelsea–Hull | Hull City | *(rad utan namn)* | — | — | — | — | idem. Matchens tvåmålsskytt **Belloumi** (28', 34') fanns inte i filen |
+| Chelsea–Hull | Hull City | *(rad utan namn)* | — | — | — | — | idem |
+| Palace–Ipswich | Crystal Palace | Strand Larsen | — | — | startade | ≥1 (**mål 75'**) | ej bedömbar (ingen linje publicerad) |
+| Palace–Ipswich | Crystal Palace | Kamada | — | — | startade | ej hämtbar | ej bedömbar |
+| Palace–Ipswich | Crystal Palace | Sarr | — | — | **0 — bekräftat ute redan 15:45** | — | ❌ minuter (**J4**) |
+| Palace–Ipswich | Ipswich | Delap | — | — | **0 — spelar för Nottingham Forest** (mål 46' i match 2) | — | ❌ datafel, se självutvärderingen |
+| Palace–Ipswich | Ipswich | Hutchinson | — | — | **0 — ej i truppen** | — | ❌ minuter (**J4**) |
+| Palace–Ipswich | Ipswich | Chaplin | — | — | **0 — ej i truppen** | — | ❌ minuter (**J4**) |
+| Liverpool–Fulham | Liverpool | Isak | 1+ | 48% | startade | ej hämtbar (0-0) | ej bedömbar |
+| Liverpool–Fulham | Liverpool | Wirtz | — | — | startade | ej hämtbar | ej bedömbar |
+| Liverpool–Fulham | Liverpool | Szoboszlai | — | — | startade | ej hämtbar | ej bedömbar |
+| Liverpool–Fulham | Fulham | (Gonzalo) García | — | — | startade | ej hämtbar | ej bedömbar |
+| Liverpool–Fulham | Fulham | Iwobi | — | — | startade | ej hämtbar | ej bedömbar |
+| Liverpool–Fulham | Fulham | King | — | — | startade | ej hämtbar | ej bedömbar |
+| Tottenham–Everton | Tottenham | Richarlison | — | — | **0 — inte i Tottenhams PL-trupp** | — | ❌ datafel |
+| Tottenham–Everton | Tottenham | Kudus | — | — | **0 — bänkad (bänkrisken var utskriven), inbytt ej verifierat** | — | ❌ minuter (**J4**, korrekt flaggad i förväg) |
+| Tottenham–Everton | Tottenham | Johnson | — | — | **0 för Tottenham — Brennan Johnson startade för Everton** | ≥0 (brände läge 2:a hv) | ❌ datafel |
+| Tottenham–Everton | Everton | Beto | — | — | **0 — ej i truppen** | — | ❌ minuter (**J4**) |
+| Tottenham–Everton | Everton | Dewsbury-Hall | — | — | startade | ej hämtbar (brände läge 2:a hv) | ej bedömbar |
+| Tottenham–Everton | Everton | Ndiaye | — | — | **0 — ej i truppen** | — | ❌ minuter (**J4**) |
+| Sunderland–Arsenal | Arsenal | Saka | 1+ | 53% | 90+ | ≥1 (**straffmål 90+7**) | ✅ |
+| Sunderland–Arsenal | Arsenal | Havertz | — | — | startade | ≥1 (**Roefs räddning på volley**) | ej bedömbar (ingen linje publicerad) |
+| Sunderland–Arsenal | Arsenal | Ødegaard | — | — | startade | ej hämtbar | ej bedömbar |
+| Sunderland–Arsenal | Sunderland | Brobbey | — | — | 81 (ut 81') | ej hämtbar | ej bedömbar |
+| Sunderland–Arsenal | Sunderland | Le Fée | — | — | startade | ≥1 (**straff räddad 56'**) | ej bedömbar (ingen linje publicerad) |
+| Sunderland–Arsenal | Sunderland | Fofana | — | — | **0 — ej i elvan** | — | ❌ minuter (**J4**, korrekt fångad 20:15) |
+| Osasuna–Espanyol | Osasuna | Budimir | — | — | startade | ej hämtbar (0 lagmål) | ej bedömbar |
+| Osasuna–Espanyol | Osasuna | Rubén García | — | — | startade | ej hämtbar | ej bedömbar |
+| Osasuna–Espanyol | Osasuna | Oroz | — | — | **0 — skadad, känt 15:45** | — | ❌ minuter (**J4**, korrekt fångad) |
+| Osasuna–Espanyol | Espanyol | Puado | — | — | **0 — korsbandsruptur, känt 15:45** | — | ❌ minuter (**J4**, korrekt fångad) |
+| Osasuna–Espanyol | Espanyol | Roberto Fernández | — | — | startade | ≥2 (**mål 3', 17'**) | ej bedömbar (ingen linje publicerad) |
+| Osasuna–Espanyol | Espanyol | Pere Milla | — | — | **0 — ej i publicerad elva, inbytt ej verifierat** | — | ej bedömbar |
+| Athletic–Elche | Athletic | Guruzeta | — | — | **0 — hamstring, känt 15:45** | — | ❌ minuter (**J4**, korrekt fångad) |
+| Athletic–Elche | Athletic | Nico Williams | — | — | startade | ej hämtbar | ej bedömbar |
+| Athletic–Elche | Athletic | Sancet | — | — | startade | ej hämtbar | ej bedömbar |
+| Athletic–Elche | Elche | Rodrigo Mendoza | — | — | ej verifierbar | ej hämtbar | ej bedömbar |
+| Athletic–Elche | Elche | André Silva | — | — | ej verifierbar | ej hämtbar | ej bedömbar |
+| Athletic–Elche | Elche | Febas | — | — | ej verifierbar | ej hämtbar | ej bedömbar |
+| Real Madrid–Rayo | Real Madrid | Mbappé | 1+ | 80% | 90+ | ≥2 (**mål 14' straff, 90+1**) | ✅ |
+| Real Madrid–Rayo | Real Madrid | Vinícius | 1+ | 70% | ~85 (ut sent, Cucurella in) | ej hämtbar | ej bedömbar |
+| Real Madrid–Rayo | Real Madrid | Bellingham | — | — | startade | ≥1 (**mål 1:a halvlek**) | ej bedömbar (ingen linje publicerad) |
+| Real Madrid–Rayo | Rayo | Camello | — | — | startade | ≥1 (**mål 51'**) | ej bedömbar (ingen linje publicerad) |
+| Real Madrid–Rayo | Rayo | Álvaro García | — | — | startade | ej hämtbar | ej bedömbar |
+| Real Madrid–Rayo | Rayo | Unai López | — | — | startade | ej hämtbar | ej bedömbar |
+
+**Championship (sju matcher).** Inga rader publicerades — spelarkällan täcker inte ligan
+och alternativen var blockerade. Det var korrekt redovisat i förväg och ger 0 mätbara
+utfall; det är också den enskilt största förlorade kalibreringsvolymen på dagen (42 rader).
+
+**Summering av skottblocket:** 60 publicerade rader, varav **2 gick att avgöra mot en
+publicerad linje** (Saka ✅, Mbappé ✅ — båda landade). **14 rader föll på minuter**, varav
+6 var kända före avspark och 3 var rena datafel (fel klubb eller inte i truppen).
+**J7**:s aritmetik höll alltså inte alls: 60 rader gav 2 kalibreringspunkter.
+
+### Totalt: 2/3 spelade kuponger (4 publicerade) | 2/2 spelade singlar (3 publicerade) | Vinst: **+189 kr** på 310 kr insats
+
+Nedbrutet: C1 −100 kr · C3 +106,25 kr · C4 +117,00 kr · singel Chelsea +34,00 kr ·
+singel Palace +32,00 kr. Kupongerna ensamma: **+123 kr**. Singlarna: **+66 kr**.
+
+*P/L-underlag: samtliga priser är indikativa (**I7**) — ingen bookmakersajt gick att läsa
+under någon av dagens tre körningar. Summan ovan räknas på de indikativa marknadspriser
+filen publicerade (2,25 · 3,60 · 1,85 · 1,80). Räknat i stället på filens egna rimliga
+odds (1,92 · 3,23 · 1,75 · 1,69) blir kvällen **+136 kr**. Spannet är alltså **+136 till
++189 kr**, och den högre posten används eftersom Arsenal-priset noterades två gånger under
+dagen (2,20 William Hill, 2,25 bet365) och de övriga tre kom ur namngivna previewkällor.
+Utan den valfria Palace-singeln, som lades till först 15:45, är utfallet **+157 kr** på
+270 kr.*
+
+### 🧠 Självutvärdering
+
+- **Kalibrering.** Sex rekommenderade marknader, fem landade. Summan av de egna
+  sannolikheterna var 3,58 förväntade träffar — utfallet 5/6 ligger alltså **över** vad
+  modellen påstod, vilket på en kväll är varians och inte ett kalibreringsbesked
+  (**M3**). Det enda robusta bandet på dagen (Tottenham–Everton, brytpunkt 52,4% utanför
+  bandets nedre kant 54%) landade, och den enda rekommenderade marknad som föll var en av
+  de fem som uttryckligen hade brytpunkten **inne** i sitt band. Så långt gjorde
+  **L1**-screenen precis det den ska.
+
+- **Kvällens bästa läsning — de två tillbakadragandena (L7).** Osasuna över 2,5 och
+  Athletic över 2,5 drogs båda 15:45 på bekräftade elvor, och **båda föll** (0-2 och 1-1).
+  Det sparade 100 kr i insats och tog kvällen från +57 kr till +189 kr. Men mekanismen ska
+  granskas, inte bara resultatet: Osasuna-nedskrivningen motiverades med att Espanyols
+  anfall var sönderplockat — och Espanyol gjorde **två mål genom just den spelare
+  nedskrivningen pekade ut som "enda etablerade anfallare"**. Marknaden föll i stället på
+  att Osasuna gjorde **noll** på El Sadar, vilket är exakt det motargument 13:00-filen
+  redan hade skrivit ut ("El Sadar stänger igen och matchen slutar 1-0"). Rätt beslut,
+  delvis fel skäl — och den drivare som faktiskt gjorde jobbet fanns i filen sju timmar
+  tidigare, undervärderad.
+
+- **Näst bästa läsningen — Liverpool–Fulham PASS.** 0-0. Över 2,5 @ 1,44 och Liverpool
+  vinst @ 1,44 hade båda fallit, och även den bästa fotbollsmarknaden (Liverpool över 1,5
+  lagmål, ej prissatt) hade fallit. **N5** i renodlad form: rätt läsning, fel pris,
+  korrekt PASS — och här var till och med läsningen för generös.
+
+- **Chelsea–Hull BTTS** var kvällens mest träffsäkra fotbollsläsning. Tesen var Chelseas
+  19 ligamatcher utan hållen nolla mot Hulls tre — asymmetri i urvalsstorlek, inte i
+  narrativ — och Hull gjorde två mål. Att **A7**-capet höll utfallskonfidensen på 6,5
+  hindrade inte spelet, exakt som regeln är skriven.
+
+- **Kvällens sämsta läsning — C1:s Villa-ben.** Under 2,5 på 58% när modellpriserna låg
+  nära 50/50; filen skrev själv ut att 8–10 punkter över marknaden på en mållinje är
+  aggressivt, och tog benet ändå — i ankaret, på 100 kr. Tre mål, varav två efter 74'.
+
+- **Orsaksklassning per position:**
+  - **C1 Villa–Forest under 2,5 ❌** — primärt **dålig sannolikhet**: en skattning 8–10
+    punkter från en effektiv marknad på tre matchers underlag per lag (under **A2** och
+    **A3**), där motargumentet identifierades och ändå bara flyttade siffran fyra punkter
+    (**L4** uppfylld i form, svag i effekt). Sekundärt **dåligt marknadsval**: **K2**
+    kräver **under 3,5** i stegen för en lågmålsbild, och den raden saknas i
+    jämförelsetabellen. Under 3,5 hade landat. Stegen gicks alltså inte fullt ut,
+    trots att checklistan kryssade K2 ✅.
+  - **C1 Tottenham-benet ✅** — **bra beslut, bra utfall**. Strukturell frånvaro (fem
+    offensiva spelare) i stället för formtrend, smalt band av namngiven anledning
+    (**L2**), brytpunkt utanför bandet. Kvällens enda 🟢 och den enda robusta edgen.
+  - **C3 Arsenal vinst till noll ✅** — **bra beslut, men utfallet bar mer varians än
+    resultatet visar.** Spelet levde på Rayas straffräddning i 56:e minuten; ett
+    inslaget straffmål hade dödat det med en timme kvar. **F1**-capet på 6/10 var alltså
+    rätt satt — Sunderland skapade det läge capet förutsåg. Uppgraderingen 20:15 från 49%
+    till 52% på att rotationsrisken föll bort var en korrekt symmetrisk justering
+    (**L2**), inte efterhandsrationalisering.
+  - **C4 Bournemouth–Brentford oavgjort ✅ @ 3,60** — **varians, på ett bra beslut.** En
+    31-procentare som landar är inget bevis för skattningen. Matchbilden stämde exakt
+    (två vägar till mål, ingen dominans, 2-2), och det identifierade förlustscenariot —
+    tidig Brentford-ledning — inträffade faktiskt och överlevdes. Notera att BTTS @ 1,60,
+    som passades på pris vid 61% mot brytpunkt 62,5%, också landade. Det var ett
+    marginellt korrekt prisbeslut, inte ett felbeslut.
+  - **Singel Chelsea–Hull BTTS ✅** — **bra beslut, bra utfall**, men med ett datahål:
+    Hulls tre skottrader var namnlösa, och matchens tvåmålsskytt förekommer inte någonstans
+    i filen.
+  - **Singel Palace–Ipswich över 2,5 ✅** — **bra beslut, utfallet delvis varians.**
+    Fem mål, men matchen öppnades av ett rött kort i 34:e minuten — precis den
+    oförutsägbara faktor **A1** bygger på. Notera också att BTTS, som avfärdades på
+    **K3** ("målen är sannolika, att båda gör dem är det inte"), landade. K3-resonemanget
+    hade fel i sak; prisjämförelsen valde ändå rätt marknad, eftersom över 2,5 @ 1,80
+    bar bättre EV än BTTS @ 1,70. Rätt av rätt skäl på nivån som räknade.
+  - **Real Madrid–Rayo PASS ❌ i utfall** — **varians, inte fel beslut.** 4-1, och allt
+    som valdes bort landade. Men över 2,5 krävde 77,5% och skattningen var 76% efter att
+    rotationsbeskedet lyfts bort: ett beslut på 1,5 procentenheter. Om något ska noteras
+    är det **möjlig underskattning** — hemmafavorit i storform mot ett bortalag utan sex
+    spelare, varav två offensiva genom avstängning, kan höra hemma över 77,5%. **En
+    observation är ingen mätning** (**A2**), och ingen regel föreslås på den.
+  - **Middlesbrough–Norwich PASS ❌ i utfall** — **inte ett modellfel.** BTTS var utpekad
+    som bästa marknad, landade (4-3), och gick inte att prissätta. **K4c** fungerade som
+    avsett: skillnaden mellan bästa fotbollsmarknad och bästa spelbara marknad skrevs ut
+    i förväg och kostade inte en krona. Hemmavinsten @ 1,88, passad på 48% mot krav
+    53,2%, landade också — ett korrekt prisbeslut med fel utfall.
+  - **Championship-slatet** — bästa marknaden landade i **3 av 7** (Lincoln över 0,5 ✅,
+    Southampton över 2,5 ✅, Boro BTTS ✅; Charlton över 0,5 ❌, Blackburn under 2,5 ❌,
+    Swansea under 2,5 ❌, Watford under 2,5 ❌). Prestons 23 matcher utan hållen nolla —
+    filens egen starkaste datapunkt — höll: Lincoln gjorde mål och vann 0-1. Att raden
+    inte gick att prissätta kostade ingenting, men det är andra dagen i rad som hela
+    Championship-underlaget är oanvändbart på pris.
+  - **Kvällens Under-rader samlat:** 1 av 5 landade (Tottenham ✅; Villa, Blackburn,
+    Swansea, Watford ❌). Fem observationer ligger långt under **A2** och **A2b** — detta
+    noteras som en sak att följa, inte som ett fynd.
+
+- **Insatsbeslutet 20:15.** Att låta C3 ligga kvar på 85 kr när kvarts-Kelly hade stigit
+  till ~102 kr kostade ungefär 19 kr i utebliven vinst. Det var ändå rätt: skälen var
+  utskrivna i förväg (indikativt pris, positionen rimligen redan lagd, kupongtaket), och
+  ett beslut ska inte bedömas på utfallet av just den kvällen.
+
+- **Lärdom.** Kvällens allvarligaste fynd ligger inte i kupongerna utan i skottblocket.
+  Av 60 publicerade rader föll **14 på minuter**, och tre av dem namngav spelare som
+  över huvud taget inte kunde spela: två var i **fel klubb** — en av dem, Delap, står i
+  samma fil som Ipswich-alternativ i match 4 *och* i Forests startelva i
+  15:45-uppdateringen, en motsägelse inom en och samma fil — och en var struken ur
+  klubbens hela ligatrupp. Ytterligare fyra namn var bekräftat borta redan vid 15:45 och
+  stod ändå kvar. Mekanismen är tydlig: **J4**:s minutkontroll kördes bara för de två
+  matcher som hade en öppen position (20:15-tabellen, som korrekt fångade Fofana), medan
+  15:45-körningen bekräftade fem startelvor och stämde av **noll** skottrader mot dem.
+  När skottsiffran inte går att hämta skrivs raden i dag på minnesbilden av en trupp —
+  och en minnesbild av en trupp är färskvara. Förslaget går via pull request mot
+  `bet-bot-brain`.

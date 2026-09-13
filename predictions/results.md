@@ -8,10 +8,13 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-09-12 | Premier League + La Liga + Championship | 4 | 2/3 ✅ | ~+189 kr***** |
 | 2026-09-11 | Championship + La Liga | 0 | 0/0 ➖ | ~+31 kr**** |
 | 2026-09-10 | CL ligafas omgång 1 | 4 | 4/4 ✅ | ~+702 kr*** |
 | 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
+
+*\*\*\*\*\* = 12 sep: **fyra kuponger publicerade, tre spelade.** C2 (Osasuna över 2,5 + Palace över 2,5) drogs tillbaka kl 15:45 efter bekräftade startelvor och föll (Osasuna–Espanyol 0-2); den räknas därför varken som insats eller förlust. Spelat: C1 100 kr ❌ · C3 85 kr × 2,25 ✅ · C4 45 kr × 3,60 ✅ = **+123,25 kr på 230 kr i kuponger**. Utanför kupongerna låg två singlar som båda landade: Chelsea–Hull BTTS Ja 40 kr × 1,85 och Palace–Ipswich över 2,5 40 kr × 1,80 = **+66 kr**. En tredje singel (Athletic–Elche över 2,5, 30 kr) drogs också 15:45 och föll (1-1). Kvällens netto på 310 kr insats: **+189,25 kr**. Räknat på filens egna rimliga odds i stället för de indikativa marknadspriserna blir kvällen +136 kr — spannet är +136 till +189 kr, och den högre posten används eftersom Arsenal-priset noterades två gånger under dagen (2,20 William Hill, 2,25 bet365). Utan den valfria Palace-singeln, tillagd först 15:45, blir utfallet +157 kr. De två tillbakadragandena var kvällens största enskilda bidrag: hade båda posterna legat kvar hade kvällen slutat på +57 kr.*
 
 *\*\*\*\* = 11 sep: **noll kuponger publicerade** — Championship-kvällen var en enkelmatch (H9) och La Liga-matchen lades till separat, så ingen kombination byggdes. Kvällen bestod av två publicerade singlar: Under 2,5 i West Ham–Wrexham (40 kr @ 2,23) drogs tillbaka till **0 kr** kl 20:35 efter den bekräftade startelvan och föll (6–0), och BTTS-Nej i Sevilla–Valencia (40 kr @ 1,77, indikativt) landade på 1–0: **+30,80 kr på 40 kr insats**. Räknat på filens eget rimliga odds 1,67 blir kvällen +26,80 kr; spannet är +26,80 till +30,80 kr och den högre posten används eftersom priset noterades två gånger under dagen. Hade den tillbakadragna posten legat kvar hade kvällen slutat på −9,20 kr.*
 
@@ -29,13 +32,14 @@ på Facit-sidan.
 | 2 | 2026-09-09 | +105 kr | +15 kr |
 | 3 | 2026-09-10 | +702 kr | +717 kr |
 | 4 | 2026-09-11 | +31 kr | +748 kr |
+| 5 | 2026-09-12 | +189 kr | +937 kr |
 
 ---
 
-**Löpande totaler:** 12 kuponger publicerade, 10 spelade | 7/10 träffar (70,0%) | Netto: ~+748 kr
+**Löpande totaler:** 16 kuponger publicerade, 13 spelade | 9/13 träffar (69,2%) | Netto: ~+937 kr
 
-*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 9/12 (75,0%). Kupongsiffrorna är oförändrade sedan 10 september — den 11 september publicerades inga kuponger.*
+*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 11/16 (68,8%).*
 
-*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr) och singelspelen den 11 september (+31 kr). Kupongerna ensamma står på ~+267 kr över fyra kvällar.*
+*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr) och de två singlarna den 12 september (+66 kr). Kupongerna ensamma står på ~+390 kr över fem kvällar.*
 
-*Singelspel utanför kupongerna: 2 publicerade, 1 spelad, 1/1 träff (11 sep).*
+*Singelspel utanför kupongerna: 5 publicerade, 3 spelade, 3/3 träff (11–12 sep).*
