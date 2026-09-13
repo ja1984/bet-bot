@@ -558,6 +558,92 @@ preview](https://www.sportsmole.co.uk/football/getafe/preview/getafe-vs-deportiv
 365scores m.fl.) — uppgifterna är hämtade via sökresultat från källorna ovan, och
 Celtaförsvaret redovisas som osäkert just därför att två oberoende referat inte är eniga.*
 
+## 🔄 Uppdatering 18:20 — sena skadebesked och domartillsättning, Real Sociedad–Atlético
+
+*Närhetsregeln styr fönstret: Real Sociedad–Atlético har ~2 h 40 min till avspark och ligger
+därmed i spannet ~1–3 timmar, där sena skadebesked, ändrad domartillsättning och tydlig
+prisrörelse är det som får röras. Getafe–Deportivo sparkar igång 18:30, alltså inom
+30-minutersgränsen, och är stängd för ändringar — **C3 (BTTS Ja @ 2,45) står som publicerad**.
+Övriga fem matcher är redan igång eller spelade och kommenteras inte.*
+
+**Real Sociedad – Atlético (21:00) — 🔴 PASS, ingen kupong berörd.**
+
+**Julián Álvarez är bekräftat ute.** Muskelbristning på lördagens träning; klubben uppger att
+han inte reste till San Sebastián och att läkarstaben uteslutit spel. 13:00-analysen hade honom
+som *osäker* efter att han lämnat träningen tidigt — den förutsättningen har nu fallit och
+ersatts av ett besked (**L7**). Därtill två bortfall som inte fanns i nådda källor 13:00:
+**Pablo Barrios ute** (myofasciell skada i högerbenet, ådragen mot Liverpool) och
+**Alexander Sørloth ute eller stort frågetecken** (muskulärt) — nådda källor skiljer sig mellan
+"unavailable" och "significant doubt", och raden redovisas därför som osäker i stället för vald
+(**J4**). Matchblockets rad "inga andra bekräftade bortfall i nådda källor" gällde källäget
+13:00, inte truppen.
+
+**Hur mycket det får flytta.** Två nyckelanfallare borta betyder att bortasegern inte får ligga
+över 7/10 (**A4**) — den var ändå inte aktuell. Men nedjusteringen hålls avsiktligt liten:
+Jonathan David (lån från Juventus) och Ademola Lookman är etablerade proffs, inte juniorer, och
+den kreativa delen av mittfältet är intakt. **E2** och **E3** kapar "inga anfallare"-effekten
+till ungefär en poäng. Det här är en nudge, inte en omräkning (**L7**).
+
+| Marknad | Sannolikhet 13:00 → nu | Band | Rättvist odds | Pris (indikativt) | Brytpunkt | EV |
+|---|---|---|---|---|---|---|
+| Oavgjort | 29% → **31%** | 27–35% | 3,23 | 3,68 | 27,2% | +14,1% |
+| Över 2,5 | 58% → **55%** | 49–61% | 1,82 | 1,65 | 60,6% | −9,3% |
+| BTTS Ja | 60% → **56%** | 50–62% | 1,79 | 1,60 | 62,5% | −10,4% |
+
+Bandbredden är oförändrad, inte smalare: Álvarez-frågan är visserligen avgjord och lyfts ur
+drivarlistan, men den ersätts av två nya — hur Simeone bygger om anfallet utan sina två
+förstahandsval, och Sørloths oklara status. Real Sociedads elva är dessutom fortfarande
+*förväntad*, inte bekräftad (**L2**).
+
+→ **Över 2,5 och BTTS går från svagt negativa till klart negativa** och är nu enklare avstå än
+13:00. **Oavgjort är den enda skattning som växer**, men brytpunkten 27,2% ligger fortfarande
+inne i bandet 27–35%, vilket **L1** klassar som marginellt — inte som spel. Priset 3,68
+(Sportytrader/888Starz) är dessutom noterat **före** Álvarez-beskedet, och den enda andra nådda
+noteringen är 13/5 = 3,60, som flyttar brytpunkten till 27,8% och gör kanten tunnare snarare än
+tjockare. Någon bekräftad prisrörelse efter beskedet finns inte i nådda källor (**I7**). Att
+räkna EV mot ett pris som publicerades före nyheten och sedan kalla resultatet en kant vore att
+bakåtkonstruera värdet (**K4c**).
+
+**Beslut: 🔴 PASS står.** Utfallskonfidens oförändrad 6/10; ingen spelkvalitetssiffra eftersom
+inget spel rekommenderas (**M1**). Oavgjort är däremot uttryckligen den marknad **20:00-körningen
+ska pröva om** — mot bekräftade elvor och mot ett pris hämtat efter beskedet. Håller läsningen
+och finns priset kvar på 3,68 eller bättre är det ett läge; annars inte.
+
+**Domaren — nu verifierad.** **Juan Martínez Munuera** (Valencia), VAR Alejandro Muñiz Ruiz.
+Raden stod som "ej verifierad" i 13:00-tabellen. Karriärsiffror används eftersom säsongen har
+färre än åtta matcher (**G3**): 4,81 gula/match över 298 matcher (StatsHub), 4,69 över 156
+(PlayerStats), 4,33 över 363 (WhoScored) — källorna är alltså inte eniga, och spannet redovisas
+hellre än en vald siffra. Det placerar honom bland dagens kortrikare domare, i nivå med de Burgos
+Bengoetxea. **Det öppnar ändå inget spel:** ingen bookmakerlinje är nådd och lagens egna kort per
+match saknas, och utan båda är över/under inte bedömbart (**G5**, **G9**). Noteras som statistik,
+inte som renommé (**G1**).
+
+**Skott på mål (J6).** Álvarez-raden faller helt — han är inte i truppen, alltså inte längre en
+minutrisk utan ett bortfall. Övriga rader står kvar som `underlag saknas`: bekräftad elva saknas
+fortfarande (den kommer ca 20:00) och skott på mål per match går inte att belägga för någon
+spelare i matchen (**J4**, **K4c**).
+
+**Källor för det här avsnittet:** [IANS Live — Álvarez ruled out of Real Sociedad clash due to
+muscle strain](https://ianslive.in/la-liga-alvarez-ruled-out-of-real-sociedad-clash-due-to-muscle-strain--20260913184755)
+· [Tribuna — Atletico Madrid rule Julian Alvarez out against Real
+Sociedad](https://tribuna.com/en/news/2026-09-13-atletico-madrid-rule-julian-alvarez-out-against-real-sociedad)
+· [Mundo Albiceleste — Julián Álvarez to miss Atletico Madrid match due to muscle
+overload](https://mundoalbiceleste.com/2026/09/13/julian-alvarez-to-miss-atletico-madrid-match-due-to-muscle-overload/)
+· [SoccerNews — Simeone admits Atletico cannot replace Sorloth ahead of Real Sociedad
+clash](https://www.soccernews.com/simeone-admits-atletico-cannot-replace-sorloth-ahead-of-real-sociedad-clash/404750/)
+· [Sports Mole — Real Sociedad vs Atletico preview, team news,
+lineups](https://www.sportsmole.co.uk/football/atletico-madrid/preview/real-sociedad-vs-atletico-prediction-team-news-lineups_604944.html)
+· [VAVEL — convocatorias y árbitro del Real Sociedad vs
+Atlético](https://www.vavel.com/es/futbol/2026/09/13/atletico-de-madrid/1271276-convocatorias-y-arbitro-del-real-sociedad-vs-atletico.html)
+· [StatsHub — Juan Martínez Munuera domarstatistik](https://www.statshub.com/referee/martinez-munuera-juan/90852)
+· [PlayerStats — Juan Martínez Munuera referee stats](https://playerstats.football/referee/489)
+· [WhoScored — Juan Martínez Munuera referee statistics](https://www.whoscored.com/referees/206/show/juan-mart%C3%ADnez-munuera)
+· [Sportytrader — Real Sociedad vs Atletico Madrid odds](https://www.sportytrader.com/en/betting-tips/real-sociedad-atletico-madrid-372354/)
+
+*Sidhämtning är fortsatt blockerad av sessionens nätverkspolicy (laliga.com, cbssports,
+soccerway, libertaddigital m.fl.) — uppgifterna är hämtade via sökresultat från källorna ovan.
+Alla priser är indikativa och noterade före Álvarez-beskedet där inget annat anges (**I7**).*
+
 ## ⚠️ Medvetet undvikna spel
 
 | Marknad | Varför |
