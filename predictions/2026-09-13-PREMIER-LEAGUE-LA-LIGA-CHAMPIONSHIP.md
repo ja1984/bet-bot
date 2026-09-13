@@ -644,6 +644,79 @@ Atlético](https://www.vavel.com/es/futbol/2026/09/13/atletico-de-madrid/1271276
 soccerway, libertaddigital m.fl.) — uppgifterna är hämtade via sökresultat från källorna ovan.
 Alla priser är indikativa och noterade före Álvarez-beskedet där inget annat anges (**I7**).*
 
+## 🔄 Uppdatering 20:10 — bekräftad startelva, Real Sociedad–Atlético
+
+*Närhetsregeln: Real Sociedad–Atlético har ~50 minuter till avspark och ligger i fönstret
+"under ~1 timme", där bekräftade startelvor är det som får röras. Övriga sex matcher är
+igång eller spelade och kommenteras inte — **C3 (Getafe–Deportivo, BTTS Ja @ 2,45) står som
+publicerad**.*
+
+**Real Sociedad – Atlético (21:00) — 🔴 PASS står, ingen kupong berörd.**
+
+**Bekräftad hemmaelva.** Remiro; Aramburu, Beitia, Sarr, Sergio Gómez; Soler, Yangel
+Herrera, Sučić; Barrenetxea, Guedes, Oyarzabal — Oyarzabal främst. **Takefusa Kubo startar
+på bänken** ⚠ (likaså Óskarsson, Zakharyan, Turrientes). Elvan är samstämmig i två av
+varandra oberoende sökvägar.
+
+**Atléticos elva går inte att belägga — och redovisas därför som obelagd.** Nådda källor
+motsäger varandra: en uppställning utan Álvarez (Lookman, Giuliano och Kang-in Lee framåt)
+mot en annan som återger förhandstippningen med både **Álvarez och Barrios**, som båda är
+bekräftat ute sedan 18:20-beskedet. En lista som innehåller kända bortfall är ingen
+bekräftad elva (**E1**, **K4c**). Bekräftat sedan 18:20 är däremot att **Sørloth är ute** —
+inte längre "ute eller stort frågetecken" — och att Lookman uppges leda anfallet med
+**Jonathan David på bänken**; det sista är rapporterat, inte verifierat.
+
+**Vad det gör med läsningen (L7).** Hemmalaget startar utan sin tydligaste kreatör och
+gästerna utan sina tre förstahandsanfallare. Målmiljön sjunker i båda ändar, vilket lyfter
+krysset snarare än totalerna. 18:20-avsnittets premiss att David och Lookman bär anfallet
+håller bara till hälften. Nudge, inte omräkning.
+
+| Marknad | Sannolikhet 18:20 → nu | Band | Rättvist odds | Pris (indikativt, **före** beskeden) | Brytpunkt | EV |
+|---|---|---|---|---|---|---|
+| Oavgjort | 31% → **33%** | 29–37% | 3,03 | 3,68 · alt. 3,60 | 27,2% · 27,8% | +21,4% · +18,8% |
+| Över 2,5 | 55% → **53%** | 47–59% | 1,89 | 1,65 | 60,6% | −12,6% |
+| BTTS Ja | 56% → **54%** | 48–60% | 1,85 | 1,60 | 62,5% | −13,6% |
+
+Bandbredden står kvar på åtta procentenheter: hemmaelvans osäkerhet faller bort, men ersätts
+av att bortaelvan inte går att belägga och av att ett nykomponerat anfall varierar mer, inte
+mindre (**L2**). Bredden är alltså inte en schablon och inte heller vidgad för att motivera
+ett beslut.
+
+**Varför det ändå inte blir spel.** Brytpunkten ligger nu *utanför* bandet, och **L5b** säger
+att "osäkert" i sig inte är ett PASS. Det som stoppar spelet är priset, inte fotbollen: både
+3,68 och 3,60 är noterade **före** Álvarez-, Barrios- och Sørloth-beskeden, och ingen
+notering efter beskeden finns i nådda källor. **K6** kräver fyra svar före ett 1X2-spel, och
+det fjärde — *är priset redan justerat för det här?* — går inte att besvara härifrån. Oklart
+svar är PASS enligt K6, och att räkna EV mot ett förhandspris och kalla resultatet en kant
+är precis den bakåtkonstruktion **K4c** förbjuder. Marginalen är dessutom tunn i underkant:
+29% mot 27,8% är 1,2 procentenheter.
+
+→ **Uttryckligen för läsaren:** visar din bookmaker fortfarande **3,60 eller bättre på
+oavgjort efter beskeden**, är kanten enligt den här skattningen levande (rättvist odds 3,03).
+Filen stakar den inte, eftersom priset inte går att verifiera härifrån (**I7**).
+
+**Beslut: 🔴 PASS står.** Utfallskonfidens 6/10 (resultatmarknad, tak 8/10 **A1**) ·
+spelkvalitet 5/10 — skattningen räcker, priset går inte att belägga (**M1**).
+**Bästa marknad i matchen:** Oavgjort · **spelad:** NEJ — pris ej verifierbart efter
+beskeden (**H8**, **K4c**, **K6**)
+
+**Skott på mål (J6).** Bekräftad elva ändrar ingen rad: skott på mål per match går fortfarande
+inte att belägga för någon spelare i matchen, så raderna står kvar som `underlag saknas`
+(**J4**, **K4c**). Noteras att Kubos minutrisk nu är realiserad före avspark — bänkstart — och
+att Oyarzabal går in som främste anfallare.
+
+**Källor för det här avsnittet:** [El Desmarque — alineaciones confirmadas Real Sociedad–Atlético, jornada 5](https://www.eldesmarque.com/futbol/liga-1a-division/20260913/alineaciones-real-sociedad-atletico-madrid-jornada-5-laliga_18_020154922.html)
+· [AllFootball — Real Sociedad vs Atletico LINE-UPS](https://www.allfootballapp.com/articles/5331581-real-sociedad-vs-atletico-line-ups)
+· [Yardbarker — Álvarez ruled out of Real Sociedad clash](https://www.yardbarker.com/cricket/articles/la_liga_alvarez_ruled_out_of_real_sociedad_clash_due_to_muscle_strain/s1_17725_44298234)
+· [NewsX — why Julián Álvarez is not playing today](https://www.newsx.com/sports/real-sociedad-vs-atletico-madrid-why-is-julian-alvarez-not-playing-todays-la-liga-clash-here-are-all-latest-updates-271359/)
+· [Wincomparator — Real Sociedad–Atlético odds och statistik](https://www.wincomparator.com/predictions/real-sociedad-atletico-madrid-8586460/)
+· [Sportytrader — Real Sociedad vs Atletico Madrid odds](https://www.sportytrader.com/en/betting-tips/real-sociedad-atletico-madrid-372354/)
+
+*Sidhämtning är fortsatt blockerad av sessionens nätverkspolicy (fotmob, sportsmole,
+allfootballapp, onefootball, atleticodemadrid.com m.fl.) — elvan och beskeden är hämtade via
+sökresultat från källorna ovan, och Atléticos elva redovisas obelagd just därför att
+sökresultaten inte är eniga. Alla priser är indikativa och noterade före beskeden (**I7**).*
+
 ## ⚠️ Medvetet undvikna spel
 
 | Marknad | Varför |
