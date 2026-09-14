@@ -26,7 +26,20 @@ och gäller lika mycket för att de inte nämns.
 Skriv alltså **"Valencia har gjort ett mål på fyra matcher"**, inte
 **"målsnittet är lågt (**C6**)"**. Samma information, utan koden.
 
-Två markörer är undantag, för de betyder något konkret:
+**Inga meta-kommentarer om analysen.** Filen beskriver matcherna och spelen — aldrig
+arbetet bakom dem. Skriv inte varför en siffra saknas, var den kom ifrån, hur raderna
+sorterades, vad som gick att hämta eller vad du övervägde och förkastade.
+
+| Skriv inte | Skriv |
+|---|---|
+| *"Betis-raderna är inte rankade på skottvolym — per-spelarsiffror gick inte att hämta — utan på startstatus och målform. Ingen rad rekommenderas."* | ingenting — raderna står i tabellen och inget spel ligger i sektion 3 |
+| *"Källorna går isär, förväntad elva sätter Costa i mitten"* | *"utan Foyth"* — om det flyttar skattningen, annars ingenting |
+| *"Tre ligamatcher klarar inte åttaribban, vilket är varför banden är breda"* | ingenting — bandet är brett, det syns |
+
+Undantaget är **motargumentsraden**, som ska säga vad som kan gå fel och hur mycket det
+flyttade skattningen. Det är information om spelet, inte om arbetet.
+
+Två markörer är också undantag, för de betyder något konkret:
 
 - **`PRIS EJ TILLGÄNGLIGT`** — marknaden gick inte att prissätta. Aldrig en gissning.
 - **`underlag saknas`** — statistiken gick inte att hämta för den raden.
