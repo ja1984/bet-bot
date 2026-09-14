@@ -261,70 +261,60 @@ Läggs till efter matcherna, ordagrant den här strukturen:
 
 ## 📊 Efteranalys
 
-**90-minutersverifiering:** <hur mål efter 90 hanterats — förlängning räknas aldrig.>
+**90 minuter:** <vilka sena mål som räknats in och vilka som inte gjort det —
+förlängning räknas aldrig.>
 
 ### Resultat
 | Match | Resultat | Nyckelhändelser |
 |---|---|---|
 
-### Marknadsutfall
-| Match | Marknad | Sannolikhet | Utfall | Resultat |
-|---|---|---|---|---|
-
-### Singelspelsutfall — samma rader som sektion 3
-| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
-|---|---|---|---|---|---|---|---|---|
-
-### Skott på mål — alla rader, även ospelade
-| Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
 |---|---|---|---|---|---|---|
 
-### Kupongutfall
+### Skott på mål
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+
+### Kuponger
 | Kupong | Resultat | Fallet ben |
 |---|---|---|
 
-### Totalt: X/Y kuponger | X/Y singelspel | Vinst/förlust: +/- X kr
+### Totalt: X/Y kuponger · X/Y singlar · +/- X kr
 
-*P/L-underlag: <vilka priser summan bygger på — faktiska, indikativa eller filens egna
-rimliga odds — och spannet mellan dem.>*
-
-### 🧠 Självutvärdering
-- **Kalibrering:** ...
-- **Bästa läsning:** ...
-- **Sämsta läsning:** ...
-- **Orsak per miss och per vinst:** dåliga data · dålig tolkning · dålig sannolikhet ·
-  dåligt marknadsval · dåligt pris · varians · recensbias · narrativbias ·
-  överkonfidens · korrelation
-- **Lärdom:** ...
+**Orsak:** <spel — orsak> · <spel — orsak>
 ```
 
-**90-minutersraden står direkt under rubriken.** Skriv ut vilka sena mål som räknats
-in och vilka som inte gjort det.
+**En tabell för alla marknader.** Spelade och ospelade i samma tabell — `Insats` är tom
+för de som bara bedömdes. Ospelade marknader ska med: de är kalibreringsdata, och en
+avstådd marknad som landade är lika informativ som ett spel som föll.
 
-**Elvmarkören avgör orsaksklassningen.** Föll ett spel på en spelare som inte spelade:
-stod det `Förväntad elva` är det en informationsmiss, stod det `Bekräftad elva` är det
-en feltolkning. Utan markören går de två inte att skilja åt.
-
-**Singelspelsutfallet speglar sektion 3 rad för rad**, i samma ordning och med samma
-sannolikheter. Skiljer de sig är antingen förhandsanalysen eller efteranalysen fel —
-städa inte tabellen så att de stämmer.
-
-**Skottabellen kräver spelade minuter för varje rad**, även de ingen skulle ha spelat.
+**Skottabellen kräver spelade minuter på varje rad**, även de ingen skulle ha spelat.
 Ett skottspel faller på två olika sätt — han sköt inte, eller han var inte på planen —
-och bara minutkolumnen skiljer dem åt. Går skottsiffran inte att hämta i efterhand:
-skriv `ej bedömbar` men fyll ändå i minuterna.
+och bara minutkolumnen skiljer dem åt. Går skottsiffran inte att hämta: `ej bedömbar`,
+men fyll ändå i minuterna. Raderna som stod som `underlag saknas` i förhandsanalysen
+utvärderas också; namnen står i räkneraden under tabellen.
 
-**Orsaksklassningen gäller även vinster.** Ett vunnet spel kan vara en dålig prediktion
-och ett förlorat kan vara en bra — utan klassning justeras modellen av utfall i stället
-för av fel.
+**Orsaksraden är hela självutvärderingen.** En orsak per betydande miss *och* per
+betydande vinst, från listan: dåliga data · dålig tolkning · dålig sannolikhet ·
+dåligt marknadsval · dåligt pris · varians · recensbias · narrativbias · överkonfidens ·
+korrelation · informationsmiss. Ett vunnet spel kan vara en dålig prediktion och ett
+förlorat en bra — utan klassning justeras modellen av utfall i stället för av fel.
 
-**P/L-underlaget är obligatoriskt när priserna inte är verkliga.** Totalraden kräver en
-kronsiffra, men faktiska bookmakerpriser går ofta inte att få. Skriv då vilka priser
-summan bygger på och spannet mellan dem. En exakt siffra utan underlag är falsk
-precision.
+**Elvmarkören avgör två av orsakerna.** Föll ett spel på en spelare som inte spelade är
+det *informationsmiss* om beslutsraden sa `Förväntad elva`, och *dålig tolkning* om den
+sa `Bekräftad elva`.
 
-En fil kan innehålla flera avsnitt med egna kupongset. Redovisa varje set separat plus
-en dagstotal.
+**Lägg till en `Lärdom:`-rad bara när det finns en.** En lärdom kräver att den klarar
+bevisribban i regelverket — åtta observationer för ett matchmönster, trettio för en
+marknad. En enskild natt är sällan ett mönster, och otur är inte en lärdom. De flesta
+kvällar har ingen lärdomsrad, och det är rätt.
+
+**Står priserna inte för verkliga pengar, säg det på totalraden** — en bisats om vilka
+priser summan bygger på och spannet mellan dem. En exakt kronsiffra utan underlag är
+falsk precision.
+
+Flera kupongset i samma fil redovisas separat plus en dagstotal.
 
 Efter efteranalysen: uppdatera `results.md` med ny rad, löpande totaler och kumulativ
 P/L, och lägg nattens rader i `CALIBRATION.md`. Skillförslag går via pull request,
