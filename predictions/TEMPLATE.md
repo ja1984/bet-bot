@@ -147,7 +147,12 @@ mittbackar", inte en skadelista.>
 **Beslut.** 🟡 LITET SPEL — under 2,5. Utfallskonfidens 6/10.
 **Motargument.** <Mest sannolika förlustscenariot, och om någon annan marknad
 överlever det bättre.>
-**Bästa marknad:** under 2,5 · **spelad:** JA
+```
+
+Var matchens högst skattade marknad **inte** den som spelades, läggs en rad till:
+
+```markdown
+**Bästa marknad:** BTTS-Nej — **inte spelad:** inget pris gick att få
 ```
 
 Krav:
@@ -166,9 +171,11 @@ Krav:
 - **Var BTTS en kandidat men förlorade?** Säg varför i en mening under tabellen.
 - **Brytpunkten inne i bandet** betyder marginellt eller pass. Bandets bredd kommer
   från namngiven osäkerhet, aldrig från en schablon.
-- **`Bästa marknad` får aldrig försvinna.** Är den inte spelad ska skälet stå:
-  inget pris, för tunt värde, korrelerar med ett annat spel, insatsbegränsning, eller
-  ett uttalat riskbeslut.
+- **Spelas matchens bästa marknad inte, ska det stå — med skälet.** Inget pris, för
+  tunt värde, korrelerar med ett annat spel, insatsbegränsning, eller ett uttalat
+  riskbeslut. Är den spelad skrivs raden inte ut; då säger beslutsraden redan allt.
+  Den här raden finns för att en obespelad toppmarknad annars försvinner tyst mellan
+  analysen och spelen — det har kostat pengar förut.
 - **Beslutet är ett av tre:** 🟢 SPELA · 🟡 LITET SPEL · 🔴 PASS. Pass används inte för
   att något "bara" är osäkert — osäkerhet finns i varje match.
 
