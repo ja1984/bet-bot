@@ -822,3 +822,263 @@ delar lag eller match.
 
 *Alla odds är indikativa och hämtade ur previewartiklar (**I7** — bookmakersajter
 går inte att läsa). De kan ha rört sig; använd ditt eget pris.*
+
+---
+
+## 📊 Efteranalys
+
+**90-minutersverifiering (C10):** samtliga sju matcher är ligamatcher utan förlängning, och
+varje mål nedan föll inom 90 minuter inklusive tilläggstid — tilläggstid räknas, förlängning
+gör det aldrig. Sex mål föll från 82:a minuten och uppåt och är kontrollerade ett och ett:
+Jiménez 90' (Sheffield Utd–Wolves), Dunk 83' och Ayari 90+4' (Coventry–Brighton), Brugué 88'
+och Adeyemi 90+3' (Levante–Barcelona), Grimaldo 82' (straff), Jonathan David 89' och Giuliano
+Simeone 90+4' (Real Sociedad–Atlético). Inget av dem är ett förlängningsmål. Inget spel hänger
+på gränsdragningen: C1 var avgjord i 83:e minuten, C3 i 78:e, och C2 föll på att Jiménez mål
+var matchens enda — Över 2,5 behövde tre.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Sheffield United – Wolves | 0–1 | Raúl Jiménez 90' (inhoppare sedan 63'), returträff efter Doyles skott |
+| Celta – Málaga | 1–1 | Ferran Jutglà 41' · Adrián Niño 83' (nick på hörna, inlägg Pablo Martínez) |
+| Coventry – Brighton | 0–5 | Kostoulas 35' · Yalcouyé 51' · Gross 70' (straff) · Dunk 83' (långskott) · Ayari 90+4'. **Awoniyi utvisad 53'** (armbåge på De Cuyper) |
+| Levante – Barcelona | 2–4 | Espart 5' · Yamal 19' · Yamal (straff, tidigt i andra halvlek) · Iván Romero 79' · Brugué 88' · Adeyemi 90+3' |
+| Manchester United – Manchester City | 0–1 | Haaland 60' (offsidebeslut ändrat av VAR). **Foden utvisad 23'** — City spelade 67 minuter med tio man |
+| Getafe – Deportivo | 1–1 | Ramón Terrats 66' · Aubameyang 78' (nick, framspelning Yeremay Hernández) |
+| Real Sociedad – Atlético Madrid | 0–3 | Grimaldo 82' (straff, handsbedömning mot Ochieng) · Jonathan David 89' · Giuliano Simeone 90+4' |
+
+### Marknadsutfall
+
+| Match | Marknad | Prognos | Utfall | Resultat |
+|---|---|---|---|---|
+| Sheffield Utd – Wolves | **Över 2,5 (spelad, C2)** | 60% (54–65%) | 1 mål | ❌ |
+| Sheffield Utd – Wolves | BTTS Ja (avstådd @ 1,62) | 62% | hemmalaget nollat | ❌ — rätt avstådd |
+| Sheffield Utd – Wolves | Wolves över 1,5 (bästa tes, `PRIS EJ TILLGÄNGLIGT`) | 70% (63–76%) | 1 mål | ❌ |
+| Celta – Málaga | **Under 2,5 (spelad, C1)** | 65% (59–70% → 61–69%) | 2 mål | ✅ |
+| Celta – Málaga | Málaga under 0,5 (`PRIS EJ TILLGÄNGLIGT`) | 55% (47–62%) | Málaga 1 mål | ❌ |
+| Celta – Málaga | Celta vinst (avstådd @ 1,73) | 45% | 1–1 | ❌ — rätt avstådd |
+| Coventry – Brighton | Coventry under 0,5 (bästa marknad, `PRIS EJ TILLGÄNGLIGT`) | 58% (50–65%) | 0 mål | ✅ |
+| Coventry – Brighton | Brighton vinst (avstådd @ 1,96) | 48% (42–54%) | 0–5 | ✅ — hade landat |
+| Levante – Barcelona | Barcelona över 1,5 (bästa marknad, `PRIS EJ TILLGÄNGLIGT`) | 78% (72–83%) | 4 mål | ✅ |
+| Levante – Barcelona | BTTS Ja (avstådd @ 1,71) | 52% (45–59%) | 2–4 | ✅ — hade landat |
+| Levante – Barcelona | Barcelona vinst (avstådd @ 1,26) | 72% | 2–4 | ✅ — hade landat |
+| Man Utd – Man City | Över 2,5 (bästa marknad, avstådd @ 1,55) | 60% (54–66%) | 1 mål | ❌ — rätt avstådd |
+| Man Utd – Man City | BTTS Ja (avstådd @ 1,45) | 63% | 0–1 | ❌ — rätt avstådd |
+| Man Utd – Man City | Manchester City vinst (avstådd @ 2,10) | 45% (39–51%) | 0–1 City | ✅ — hade landat |
+| Man Utd – Man City | Manchester United vinst (avstådd @ 3,25) | 31% (26–37%) | 0–1 City | ❌ — rätt avstådd |
+| Getafe – Deportivo | **BTTS Ja (spelad, C3)** | 45% (38–51%) | 1–1, 66' och 78' | ✅ |
+| Getafe – Deportivo | Deportivo över 0,5 (bästa marknad, `PRIS EJ TILLGÄNGLIGT`) | 72% (65–78%) | 1 mål | ✅ |
+| Getafe – Deportivo | Under 2,5 (avstådd @ 1,40) | 63% | 2 mål | ✅ — hade landat |
+| Real Sociedad – Atlético | Oavgjort (bästa marknad, avstådd @ 3,68 / 3,60) | 29% → 31% → **33%** | 0–3 | ❌ — rätt avstådd |
+| Real Sociedad – Atlético | Över 2,5 (avstådd @ 1,65) | 58% → 55% → **53%** | 3 mål | ✅ — hade landat |
+| Real Sociedad – Atlético | BTTS Ja (avstådd @ 1,60) | 60% → 56% → **54%** | 0–3 | ❌ — rätt avstådd |
+| Real Sociedad – Atlético | Real Sociedad över 1,5 (`PRIS EJ TILLGÄNGLIGT`) | 48% (41–55%) | 0 mål | ❌ |
+
+### Kupongutfall
+
+Filen innehåller **ett** kupongset, publicerat 11:00. Uppdateringarna 13:15, 18:20 och 20:10
+lade inte till, tog inte bort och villkorade inte någon kupong — C1 bekräftades oförändrad
+13:15, C3 stod som publicerad genom hela dagen och 18:20/20:10 rörde bara en match som redan
+var 🔴 PASS. Det finns därför ingen uppdelning per avsparksfönster att redovisa: avsnittstotal
+och dagstotal är samma siffra.
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| C1 — Ankare (defensiv) · Celta–Málaga Under 2,5 @ 1,73 · 120 kr | ✅ | — |
+| C2 — Mål (motsatt tes) · Sheffield Utd–Wolves Över 2,5 @ 1,75 · 65 kr | ❌ | enda benet — 0–1, ett mål på hela matchen |
+| C3 — Värde · Getafe–Deportivo BTTS Ja @ 2,45 · 65 kr | ✅ | — |
+
+### Singelspelsutfall — samma rader som sektion 3
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| — | — | *inga singelspel publicerade* | — | — | — | 0 kr | — | — |
+
+Sektion 3:s singeltabell var tom med angivet skäl (**G5**, **G9**, **K4c**), och efteranalysen
+speglar den rad för rad: noll rader in, noll rader ut. Ingen rad har lagts till i efterhand för
+att fylla tabellen. Två marknader som avstods av just prisskäl landade ändå — Brighton vinst
+1,96 och Manchester City vinst 2,10 — men de var avstådda på värde respektive band, inte
+bortglömda, och de förs inte in här.
+
+### Skott på mål (sidospel, utanför kupongerna — J6)
+
+| Lag | Spelare | Linje | Sannolikhet | Spelade minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Sheffield United | Tom Cannon | 1+ | underlag saknas | 27 + tillägg (inhopp 63') | ej bedömbar | ej bedömbar |
+| Sheffield United | Sydie Peck | 1+ | underlag saknas | 90 (ej utbytt i nådda källor) | ej bedömbar | ej bedömbar |
+| Sheffield United | Jordan Ayew | 1+ | underlag saknas | 27 + tillägg (inhopp 63') | ej bedömbar | ej bedömbar |
+| Wolves | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Wolves | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Wolves | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Celta | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Celta | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Celta | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Málaga | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Málaga | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Málaga | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Coventry | Taiwo Awoniyi | 1+ | underlag saknas | **53 (utvisad 53')** | ej bedömbar | ej bedömbar — raden avkortad av rött kort |
+| Coventry | Ephron Mason-Clark | 1+ | underlag saknas | 60 (utbytt mot Cherif) | ej bedömbar | ej bedömbar |
+| Coventry | Jack Rudoni | 1+ | underlag saknas | 73 (utbytt) | ej bedömbar | ej bedömbar |
+| Brighton | Charalampos Kostoulas | 1+ | underlag saknas | 84 (utbytt) | ≥1 — **mål 35'** | ✅ |
+| Brighton | Diego Gómez | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Brighton | Malick Yalcouyé | 1+ | underlag saknas | start; utbytesminut ej belagd | ≥1 — **mål 51'** | ✅ |
+| Barcelona | Lamine Yamal | 1+ | **68%** | **88 (utbytt 88')** | ≥2 — **två mål**, 19' och straff | ✅ |
+| Barcelona | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Barcelona | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Levante | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Levante | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Levante | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Manchester City | Erling Haaland | 1+ | underlag saknas | start; utbytesminut ej belagd | ≥1 — **mål 60'** | ✅ |
+| Manchester City | Antoine Semenyo | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Manchester City | Rayan Cherki | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Manchester United | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Manchester United | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Manchester United | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Deportivo | Pierre-Emerick Aubameyang | 1+ | underlag saknas | start; utbytesminut ej belagd | ≥1 — **mål 78'** | ✅ |
+| Deportivo | Mario Soriano | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Deportivo | Luismi Cruz | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Getafe | Enes Ünal | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Getafe | Iván Azón | 1+ | underlag saknas | start; utbytesminut ej belagd | ej bedömbar | ej bedömbar |
+| Getafe | Martín Satriano | 1+ | underlag saknas | **0 i startelvan — ej i bekräftad elva; eventuellt inhopp ej belagt** | — | ❌ på minuter (**J4**) |
+| Atlético Madrid | Julián Álvarez | 1+ | underlag saknas | **0 — uttagen ur truppen (muskelbristning)** | — | ❌ på minuter (**J4**) |
+| Atlético Madrid | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Atlético Madrid | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Real Sociedad | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Real Sociedad | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+| Real Sociedad | *ingen spelare namngiven* | — | underlag saknas | ej tillämpligt | ej tillämpligt | ej bedömbar |
+
+**J7-räkning för dagen.** 42 rader publicerade över sju matcher. **20** bar ett spelarnamn,
+**22** saknade namn helt — det är den enskilt största förlusten av kalibreringsunderlag och
+den beror på källäget, inte på matcherna. **5 rader kunde avgöras mot sin linje** — Kostoulas,
+Yalcouyé, Yamal, Haaland och Aubameyang, samtliga ✅ — och alla fem avgjordes via ett mål,
+det vill säga via bevis om minst ett skott på mål. **Noll** rader kunde avgöras
+på en hämtad spelarvis skott på mål-siffra: sådan statistik gick inte att hämta i efterhand
+för någon spelare i någon av de sju matcherna, exakt som **J4** förutspår. **2 rader föll på
+minuter** — Álvarez var struken ur truppen redan 18:20 och Satriano stod utanför den bekräftade
+elvan. Det är tredje gången i rad **J7**:s aritmetik inte levererar: volymen finns i filen,
+inte i kalibreringen.
+
+Minutkolumnen bär sitt syfte tydligast i tre rader: Awoniyi föll inte på att han inte sköt
+utan på att han var utvisad efter 53 minuter, Yamal hann bli utbytt i 88:e minuten efter två
+mål, och Satriano/Álvarez föll utan att ha satt en fot på planen. Utan minuterna hade alla
+fyra lästs i efterhand som felaktiga skottläsningar.
+
+### Totalt: 2/3 kuponger | 0/0 singelspel | Vinst/förlust: **~+117 kr**
+
+Spelat 250 kr i tre kuponger. C1 120 kr × 1,73 = 207,60 ✅ · C2 65 kr ❌ · C3 65 kr × 2,45 =
+159,25 ✅. Retur 366,85 kr på 250 kr insats = **+116,85 kr**.
+
+*P/L-underlag: summan bygger på filens indikativa previewpriser (**I7**) — 1,73 hos
+thefootballfaithful/footballwhispers och 2,45 hos sportytrader/thefootballfaithful, båda
+noterade av två oberoende källor. Räknat i stället på filens egna rimliga odds (1,54 och 2,22)
+blir dagen **+79,10 kr**. Spannet är alltså **+79 till +117 kr**, och den högre posten används
+eftersom båda priserna noterades dubbelt — samma konvention som 10–12 september. Inga faktiska
+bookmakerpriser finns; bookmakersajter går inte att läsa härifrån.*
+
+### 🧠 Självutvärdering
+
+- **Kalibrering:** tre rekommenderade marknader med skattningarna 65%, 60% och 45% ger 1,70
+  förväntade träffar. Utfallet blev 2 — inom bruset, och n=3 säger ingenting om bandet
+  (**M3**). Två av tre brytpunkter låg *inne* i sitt band (57,1% i 54–65% och 40,8% i 38–51%);
+  den ena föll och den andra landade, vilket är precis vad "marginell" betyder. Den enda
+  🟢-noteringen — C1, den enda med brytpunkten utanför bandet — var också den som landade
+  bekvämast. Dagens spridning ger inget skäl att flytta någon siffra.
+  Bredare: av dagens **tjugotvå** bedömda marknadsrader var tre spelade (2 ✅ / 1 ❌) och
+  nitton avstådda eller oprissatta — av dem hade **nio landat och tio fallit**. Avståendena
+  var alltså varken systematiskt fega eller systematiskt rätt; de låg nära en slantsingling,
+  vilket är precis vad man ska vänta sig av marknader som redan är effektivt prissatta.
+
+- **Dagens bästa läsning:** C3, Getafe–Deportivo BTTS Ja @ 2,45. Matchbilden skrevs som "låg
+  total målmiljö men två sidor som båda kan hitta ett mål — den mest sannolika typen av match
+  är 1-1 eller 1-2" och matchen slutade exakt 1–1. Marknadsvalet är det som gör läsningen bra,
+  inte utfallet: **K3** säger att *få mål men fördelade* är BTTS och inte Under, och marknaden
+  betalade 1,40 för Under och 2,45 för BTTS på samma matchbild. Getafe gjorde dessutom sitt mål
+  genom en mittfältare (Terrats 66') sedan Uche och Juanmi fallit bort — **E4** i renodlad form,
+  och det var just den mekanismen motargumentsraden skattade när den höll sannolikheten på 45%
+  i stället för att nolla hemmalaget helt.
+
+- **Dagens sämsta läsning:** C2, Sheffield Utd–Wolves Över 2,5 @ 1,75. Filens eget motargument
+  namngav det exakta sätt spelet föll på — "en styckig, avbruten match med få snabba omställningar
+  … och United kan välja en låg tempoprofil med två backar borta" — och flyttade skattningen
+  från 64% till 60%, alltså inte förbi brytpunkten 57,1% som låg kvar inne i bandet. Matchen
+  gav ett (1) mål, i 90:e minuten. Tesen vilade på 2,6 gjorda och 2,0 insläppta mål per match
+  över **fem** Championship-omgångar, en siffra som varken är motståndarjusterad (**L3**) eller
+  når **A2**:s åtta datapunkter, i en serie där ramverket aldrig mätt någonting (**A2b**).
+  Filen skrev ut alla tre invändningarna och spelade ändå.
+
+- **Orsaksklassning per miss och per vinst:**
+
+  | Post | Utfall | Orsaksklass | Notering |
+  |---|---|---|---|
+  | C1 Under 2,5 (Celta–Málaga) | ✅ | *bra beslut, ingen felklass* | Rätt marknadsval: Under betalade samma pris som hemmasegern på en matchbild där ingen av dem behövde vinna (**N5**). Brytpunkten låg utanför bandet — dagens enda spel där det gällde. |
+  | C2 Över 2,5 (Sheffield Utd–Wolves) | ❌ | **dålig sannolikhet**, sekundärt **varians** | 60% på fem omgångars målsnitt i en omätt serie. Inte dåligt marknadsval (Över uttryckte tesen bättre än BTTS) och inte dåligt pris (1,75 var det bästa nådda). Ett mål på 90 minuter är också en svans — men svansen träffade en skattning som var för hög från början. |
+  | C3 BTTS Ja (Getafe–Deportivo) | ✅ | *bra beslut, ingen felklass* | Skattningen 45% mot brytpunkt 40,8% var ärligt marginell och redovisades som sådan; utfallet bekräftar marknadsvalet, inte precisionen. |
+  | Brighton vinst 1,96, avstådd | ✅ hade landat | **recensbias (L3)** | Skattningen skars 54% → 48% på att gästerna förlorat sina **tre** senaste bortamatcher. Tre matcher är en anekdot under **A2**, och nedskrivningen var precis stor nog att vända beslutet. De vann 5–0. Detta är dagens enda miss som hade ändrat en insats. |
+  | Coventry under 0,5, ospelad | ✅ hade landat | *rätt marknadsval, pris saknades* | **K4c** — marknaden fanns inte att spela, inte att den missades. Ingen felklass. |
+  | Barcelona över 1,5 · Deportivo över 0,5, ospelade | ✅ hade landat | *rätt marknadsval, pris saknades* | Samma sak (**K4b**, **K4c**). |
+  | Oavgjort Real Sociedad–Atlético, ospelad | ❌ hade fallit | **överkonfidens (L1)** i uppdateringarna | Beslutet var rätt, men riktningen var fel och skattningen drevs uppåt två gånger på **samma** faktum: 29% → 31% (18:20, tre anfallare borta) → 33% (20:10, samma tre anfallare plus Kubo på bänken). 20:10-avsnittet skrev dessutom ut till läsaren att "kanten är levande på 3,60 eller bättre". Matchen slutade 0–3 till laget utan anfallare. |
+  | Över 2,5 Real Sociedad–Atlético, avstådd | ✅ hade landat | **dålig tolkning** | Samma rot som raden ovan, spegelvänd: 58% → 55% → 53% är en nedskrivning av samma bortfall i två steg. **E2** och **E3** står uttryckligen i 18:20-avsnittet — "missing strikers ≠ can't score", kapa effekten till en poäng — och 20:10-avsnittet kapade en poäng till. Målen kom från en ytterback på straff, en lånad anfallare och en yttermittfältare. Avståendet var ändå försvarbart på pris (brytpunkt 60,6% mot 58% redan i utgångsläget). |
+  | Över 2,5 och BTTS Manchesterderbyt, avstådda | ❌ båda hade fallit | *bra beslut* | Dagens renaste värdedisciplin: båda lockade på pris, båda avstods på **I4**, båda föll. 0–1 med en utvisning i 23:e minuten. |
+  | Manchester City vinst 2,10, avstådd | ✅ hade landat | **varians** | 45% mot brytpunkt 47,6% var ett korrekt avstående; att de vann med tio man i 67 minuter efter ett VAR-ändrat offsidebeslut är inte en skattning som gick fel. |
+
+  **Ingen post klassas som *dåligt marknadsval* i dag.** Det är värt att säga rakt ut, eftersom
+  det är ramverkets vanligaste felklass: varje matchs bästa fotbollsmarknad identifierades, och
+  de fyra som inte spelades stoppades av pris (tre) och av band (en), inte av att fel marknad
+  valdes. **H8**-fältet var ifyllt i alla sju matcher före avspark.
+
+- **Kontroll av lagtotalerna (K4).** Sju lagtotaler skattades och stod som `PRIS EJ TILLGÄNGLIGT`.
+  Frestelsen efter en dag som denna är att skriva att blindfläcken kostade pengar. Räknat:
+  Coventry under 0,5 ✅ · Barcelona över 1,5 ✅ · Deportivo över 0,5 ✅ · Wolves över 1,5 ❌ ·
+  Málaga under 0,5 ❌ · City över 1,5 ❌ · Real Sociedad över 1,5 ❌ — **3 av 7**. Utan pris går
+  ingen av dem att omvandla till EV, och 3/7 är inget stöd för påståendet att en missad kant
+  låg där. **K4** står kvar som den är; dagen tillför en datapunkt, inte ett fynd.
+
+- **A7-kontroll (BTTS-capet).** En ny BTTS Ja-rad i dag (Getafe–Deportivo, 45%, ✅). Totalt
+  **5** out-of-sample-rader i `CALIBRATION.md`. Kravet är 8 för en mätbar bucket (**A2**, **M3**)
+  och 30 för ett marknadsprior (**A2b**). **Capet står kvar** och inget borttagande föreslås.
+  Dagens rad är dessutom den första som ligger *under* 50% i stated p, vilket gör spridningen
+  något mer användbar än de fyra tidigare — men fem rader är fortfarande fem rader.
+
+- **Lärdom:** ingen ny regel, ingen pull request. Dagens två felklassade poster —
+  recensbias i Brighton-skattningen och den dubbelräknade anfallarfrånvaron i San Sebastián —
+  träffar båda regler som redan står i boken (**A2**, **L3**, **E2/E3**, **L7**) och som filen
+  citerade innan den bröt mot dem. Det är **L4**:s felmönster i ren form: motevidensen fanns
+  nedskriven och var overksam. Två observationer på en kväll är inte åtta (**A2**), och en
+  regel som säger "följ reglerna" är ingen regel. Det som däremot är värt att bära vidare till
+  nästa körning som en fråga, inte som ett tillägg: *när ett senare uppdateringsavsnitt justerar
+  en sannolikhet, justerar det på ett nytt faktum eller på samma faktum en gång till?* Dagen gav
+  ett tydligt exempel åt varje håll i samma match. Noteras här, där det går att granska, och
+  inte i regelboken.
+
+### 📚 Källor — efteranalysen
+
+Resultat, målskyttar, minuter och laguppställningar är hämtade via sökning på engelska
+(**Core Principles**); direkt sidhämtning är fortsatt blockerad av sessionens nätverkspolicy
+(espn, vavel m.fl. svarar `EGRESS_BLOCKED`), så uppgifterna kommer ur sökresultat från
+källorna nedan. Varje resultat är kontrollerat mot minst två av varandra oberoende källor.
+
+- [Sky Sports — Sheffield United 0-1 Wolves, Jiménez 90:e minuten](https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/report/560576)
+- [Wolves FC — matchrapport Sheff United 0-1 Wolves](https://www.wolves.co.uk/news/mens-first-team/20260913-report-sheff-united-0-1-wolves/)
+- [WhoScored — Sheffield United vs Wolves, bekräftade elvor](https://www.whoscored.com/news/Wo1uPszdSUOjFiwPyM77AQ/show/sheffield-united-vs-wolves-confirmed-lineups)
+- [LALIGA — Celta vs Málaga CF, jornada 5](https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-malaga-cf-5)
+- [La Nación — Celta de Vigo empató 1-1 con Málaga](https://www.lanacion.com.ar/deportes/canchallena/celta-de-vigo-empato-1-1-con-malaga-por-la-liga-de-espana-nid13092026/)
+- [El Español — Celta–Málaga minut för minut, mål och statistik](https://www.elespanol.com/malaga/deporte/malaga-c-f/20260913/celta-vigo-vs-malaga-cf-primera-division-directo-minuto-alineaciones-goles-estadisticas/1003744381742_10.html)
+- [Sky Sports — Coventry 0-5 Brighton, Dunks långskott](https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477)
+- [TNT Sports — Coventry City v Brighton, livekommentar](https://www.tntsports.co.uk/football/premier-league/2026-2027/live-coventry-city-brighton-hove-albion_mtc21883273/live-commentary.shtml)
+- [Daily Trust — Awoniyi utvisad i Coventrys 5-0-förlust](https://dailytrust.com/awoniyi-sent-off-in-coventrys-5-0-defeat/)
+- [ESPN — Levante 2-4 Barcelona, matchanalys](https://www.espn.com/soccer/report/_/gameId/401882883)
+- [FC Barcelona — Levante 2-4 FC Barcelona](https://www.fcbarcelona.com/en/football/first-team/news/4575841/levante-2-4-fc-barcelona-the-wins-keep-coming)
+- [Sofascore — Levante 2-4 Barcelona, Yamals dubbel](https://www.sofascore.com/news/levante-2-4-barcelona-yamal-brace-and-late-punch-decide-laliga-tie)
+- [Goal.com — Flick om Yamals byte i 88:e minuten](https://www.goal.com/en-us/lists/hansi-flick-message-lamine-yamal-barcelona-wonderkid-angry-reaction-substituted-levante/bltd72e47e5c3026ed8)
+- [Sky Sports — Man Utd 0-1 Man City, Haalands mål och Fodens röda kort](https://www.skysports.com/football/news/11095/13583589/man-utd-0-1-man-city-erling-haalands-controversial-winner-follows-phil-fodens-contentious-red-card-in-dramatic-manchester-derby)
+- [NBC Sports — Manchester United vs Man City, liverapport](https://www.nbcsports.com/soccer/live/manchester-united-vs-man-city-live-updates-score-goals-highlights-stats-2026-september-13)
+- [Sofascore — Getafe 1-1 Deportivo, Terrats och Aubameyang](https://www.sofascore.com/news/getafe-1-1-deportivo-terrats-scores-aubameyang-replies-in-laliga-tie)
+- [riazor.org — Aubameyang salva al Deportivo (1-1)](https://www.riazor.org/aubameyang-salva-al-deportivo-en-el-gran-premio-de-getafe-1-1/)
+- [beIN Sports — Aubameyang tangerar Ibrahimović-rekord](https://www.beinsports.com/en-us/soccer/la-liga/articles/aubameyang-matches-historic-zlatan-ibrahimovic-record-in-laliga-2026-09-13)
+- [ESPN — Real Sociedad 0-3 Atlético, matchanalys](https://www.espn.com/soccer/report/_/gameId/401882879)
+- [Tribuna — Atlético gjorde tre sena mål mot Real Sociedad](https://tribuna.com/en/news/2026-09-13-atletico-madrid-score-three-late-goals-to-thrash-real-sociedad-30)
+
+*Spelarvis skott på mål gick inte att hämta i efterhand för någon spelare i någon av de sju
+matcherna. Där en rad står som ✅ vilar den på ett noterat mål, alltså på bevis för minst ett
+skott på mål — inte på en hämtad skottsiffra (**J4**, **K4c**).*
