@@ -129,3 +129,37 @@ Hernández Maeso är kvällens kortdomare med god marginal — samtliga fyra kä
 **Inget kortspel rekommenderas.** Varken bookmakerns linje eller lagens egna kort per match gick att hämta i dag, och utan båda går valet mellan matchtotal och lagtotal inte att göra. Ett pris får inte uppskattas.
 
 *Alla odds är indikativa och hämtade ur previewartiklar. De kan ha rört sig; använd ditt eget pris.*
+
+## 🔄 Uppdatering 20:20 — bekräftade startelvor (21:00-matcherna)
+
+Delta mot 13:00-analysen. Båda matcherna sparkar igång 21:00 svensk tid; elvorna är bekräftade av klubbarna.
+
+**Leeds – Newcastle.** Leeds ställer upp exakt som antaget (3-4-2-1: Trafford; Justin, Muharemovic, Elvedi; Bogle, Ampadu, Tanaka, Gudmundsson; Stach, Okafor; Calvert-Lewin) — **Calvert-Lewin startar ✓**, Wilson och Aaronson på bänken. Newcastle: Hornicek; Dedic, Thiaw, Botman, Hall; Nico González, Miley; Murphy, Fernández-Pardo, Barnes; Wissa. **Elanga startar inte** — Fernández-Pardo tar ytan. Dedic startar trots hamstringsbesväret från Millwall-matchen. Inga nya frånvaron utöver Burn, Osula och Joelinton, som redan var inräknade.
+→ **Under 2,5 oförändrad: 50% (44–55%), rättvist odds 2,00, brytpunkt 48,5% vid 2,06.** Bytet Elanga→Fernández-Pardo är en ytterposition mot en annan och flyttar inte målskattningen. Spelkvalitet 🟡 6,5, utfallskonfidens 6/10 — nu på bekräftad elva i stället för förväntad.
+→ Elanga-raden i skott på mål-tabellen **utgår** (startar inte). Calvert-Lewin- och Barnes-raderna står kvar. Ingen av dem var lagd till insats.
+
+**Villarreal – Betis.** Villarreal: Gulácsi; **Mouriño**, Pau Navarro, Renato Veiga, Carlos Romero; Gueye, Comesaña, Buchanan, Pepê; Gerard Moreno, Mikautadze. Betis: Vallés; Bellerín, Bartra, Natan, Fran García; Marc Roca, Fornals, Riquelme, Isco, Ez Abde; Cucho Hernández.
+
+- **Mouriño startar ✓.** Kortspelet @ 3,50 är inte längre villkorat och void-risken faller bort. Sannolikhet oförändrad **37% (31–43%)**, rättvist odds 2,70, brytpunkt 28,6% vid 3,50. Förväntad avkastning per satsad krona går från +12% (räknat på ~40% startchans) till **+30%** — spelet räknas nu fullt ut. Kvalitet 🟢 7,5 står kvar.
+- **Antony är bänkad.** Pellegrini roterar fyra på tre matcher på sju dagar: Antony, Lo Celso, Ceballos och Bernal startar inte; Ez Abde gör säsongens första start. Ryggraden Isco–Fornals–Cucho–Bartra–Bellerín är intakt. Motvikt åt andra hållet: Villarreal roterar minst lika hårt, **Gulácsi debuterar i mål** bakom en backlinje som redan saknar Foyth, och Moleiro, Cardona, Freeman och Saliba sitter.
+- → **Betis vinst skrivs ned till 32% (26–37%)** från 33% (27–38%). Rättvist odds **3,13**, brytpunkt 25,8% vid 3,88, **EV +24%** (var +28%). Osäkerhetsdrivare bakom det bredare bandet (**L2**): den anfallskombination skattningen byggde på finns inte på plan, och Ez Abde–Riquelme på kanterna är osamspelat underlag. Nedskrivningen stannar på en procentenhet just för att Villarreals egen rotation och debutantmålvakten drar åt motsatt håll.
+- → Bandets nedre kant ligger nu 0,2 procentenheter över brytpunkten i stället för 1,2 (**L1**). Spelkvaliteten sänks **🟢 7,5 → 🟡 6,5**; utfallskonfidens 4/10 oförändrad. Spelet är redan lagt med 70 kr — hade elvan varit känd 13:00 hade raden fått 50 kr. Ingen ny insats rekommenderas på den.
+- **Pris:** Betis vinst noteras fortfarande 3,88 (1xbet, via sportsbettingdime) och 4,00 (sportsgambler). Villkoret *3,50 eller bättre* håller, ingen adverse prisrörelse.
+- → Ayoze Pérez-raden i skott på mål **utgår** (bänkad). Gerard Moreno och Cucho Hernández startar båda ✓ — Cucho-raden står kvar, ingen insats.
+
+**Dubbel 1 (Betis vinst & Leeds–Newcastle under 2,5 @ 7,99).** 32% × 50% = **16,0%** (var 16,5%), rättvist odds **6,25**, brytpunkt 12,5%, **EV +28%** (var +32%). Kvalitet 🟡 6,0 (var 🟡 6,5). Kupongen står kvar — båda benen är kvar över sina brytpunkter.
+
+**Exponeringen är oförändrad i struktur:** 100 kr på Betis vinst, 55 kr på Leeds–Newcastle under, 120 kr på Mouriño-kortet utanför kupongbudgeten. Den enda reella förändringen i kvällens risk är att kortspelet gick från villkorat till bekräftat och att Betis-benet tappade ungefär en procentenhet.
+
+### Källor — uppdateringen
+
+- [101 Great Goals — Leeds vs Newcastle: line-ups confirmed](https://www.101greatgoals.com/football/premier-league/leeds-vs-newcastle-line-ups-confirmed/)
+- [EPL Index — Leeds United starting XI vs Newcastle: confirmed team news](https://eplindex.com/150473/leeds-united-starting-xi-vs-newcastle-confirmed-team-news-and-predicted-lineup.html)
+- [Inside Futbol — Leeds United team vs Newcastle confirmed](https://insidefutbol.com/2026/09/14/harry-wilson-on-bench-leeds-united-team-vs-newcastle-united-confirmed/727572/)
+- [El Desmarque — Alineaciones confirmadas de Villarreal y Real Betis, jornada 5](https://www.eldesmarque.com/futbol/liga-1a-division/20260914/alineaciones-confirmadas-villarreal-betis-laliga-jornada-5_18_020165253.html)
+- [Comuniate — Alineaciones confirmadas Betis–Villarreal](https://www.comuniate.com/noticias/29757/alineaciones-confirmadas-del-betis-villarreal)
+- [Sports Betting Dime — Villarreal vs Betis picks & odds, September 14](https://www.sportsbettingdime.com/news/soccer/villarreal-vs-betis-anytime-goalscorer-picks-odds-september-14-2026/)
+- [SportsGambler — Villarreal vs Real Betis odds & lineups](https://www.sportsgambler.com/betting-tips/football/villarreal-vs-real-betis-prediction-lineups-odds-2026-09-14/)
+- [Covers — Leeds vs Newcastle predictions & odds](https://www.covers.com/soccer/leeds-vs-newcastle-predictions-picks-monday-september-14-2026)
+
+*Alla odds är indikativa och hämtade ur previewartiklar. Kontrollera ditt eget pris före insats.*
