@@ -27,9 +27,12 @@ Två matcher i standardligorna, båda med avspark 21:00 svensk tid.
 |---|---|---|---|---|---|---|---|---|
 | 21:00 | Villarreal – Real Betis | Betis vinst | Resultat | 3,88 | 33% (27–38%) | +28% | 🟢 7,5 | 70 kr |
 | 21:00 | Leeds – Newcastle | Under 2,5 | Mål | 2,06 | 50% (44–55%) | +3% | 🟡 6,5 | 25 kr |
+| 21:00 | Villarreal – Real Betis | Mouriño bokad | Kort | 3,50 | 37% (31–43%) | +30% | 🟢 7,5 | 120 kr |
 
 **Matcher per kupong:** C1 Villarreal–Betis + Leeds–Newcastle — enda möjliga kombinationen på en tvåmatcherskväll
-**Exponering:** 100 kr på Betis vinst (70 singel + 30 i dubbeln) · 55 kr på Leeds–Newcastle under (25 + 30) · 30 kr är **ren hävstång på samma två positioner, inte diversifiering** · 0 kr åt övermålshållet
+**Exponering:** 100 kr på Betis vinst (70 singel + 30 i dubbeln) · 55 kr på Leeds–Newcastle under (25 + 30) · 30 kr är **ren hävstång på samma två positioner, inte diversifiering** · 0 kr åt övermålshållet · 120 kr på kortmarknaden, utanför kupongbudgeten och utan koppling till målteserna
+
+**Mouriño-raden voidas om han inte startar**, vilket gör att uppställningsrisken inte kostar något: antingen står spelet med 37% mot en brytpunkt på 28,6%, eller så återgår insatsen. Räknat på ~40% startchans blir förväntad avkastning +12% per satsad krona, och +30% när spelet räknas. Lagt före elvan eftersom priset sannolikt kortas när han namnges.
 **Pass:** inga — båda matcherna har ett spel, men fyra av kvällens sex prissatta målmarknader är negativa EV och ligger i sektion 5
 
 ## 🔍 Match för match
@@ -118,6 +121,8 @@ Ayoze Pérez och Gerard Moreno startar på topp i den förväntade 4-4-2:an. Ing
 |---|---|---|---|
 | Michael Salisbury | Leeds – Newcastle | 3,57 | 9 PL-matcher 25/26 |
 | Francisco José Hernández Maeso | Villarreal – Betis | 4,99 / 4,55 / 4,40 / 4,31 | 240 matcher (1034 gula, 19 röda), 137 matcher — karriär |
+
+**Ett kortspel ikväll: Santiago Mouriño bokad @ 3,50.** Elva gula i La Liga förra säsongen, tre på fem matcher i år och två på de tre senaste. Han varnades i Champions League den 8 september under en domare med jämförbar kortfrekvens. Sannolikhet 37% (31–43%), rimligt odds 2,70. Voidas om han inte startar.
 
 Hernández Maeso är kvällens kortdomare med god marginal — samtliga fyra källor sätter honom över 4,3 gula/match, och 19 röda på 240 matcher är inte lågt. Salisbury ligger lägre: 3,57 gula/match, men en källa uppger samtidigt "minst fyra kort i sju av nio matcher", vilket inte går ihop med det snittet.
 
