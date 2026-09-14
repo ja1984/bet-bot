@@ -36,12 +36,11 @@ Två markörer är undantag, för de betyder något konkret:
 | Del | Tak |
 |---|---|
 | Dagens spel | en rad per spel, inga motiveringar |
-| Matchbild | **1–2 rader** |
-| Truppnytt | **1–2 rader** |
+| Matchbild | **1–2 meningar** |
 | Jämförelsetabell | **max 4 rader** — det valda spelet plus de närmaste alternativen |
 | Beslut, motargument, bästa marknad | **en rad var** |
 
-Ett matchblock ska landa på ungefär **tjugo rader**. Blir det dubbelt så långt är det
+Ett matchblock ska landa på **femton rader eller mindre**. Blir det dubbelt så långt är det
 för att något sägs två gånger.
 
 **Säg aldrig samma siffra två gånger.** Sannolikhet, band, odds, brytpunkt och EV står
@@ -120,12 +119,10 @@ Krav:
 ```markdown
 ### N. Hemma – Borta (tid)
 
-**Matchbild.** <Förväntad målmiljö, vem som dominerar, om båda lagen har en egen väg
-till mål eller om ett lag gör de flesta målen. De formfakta som faktiskt bär läsningen
-hör hemma här — inte i ett eget stycke.>
-
-**Truppnytt (bekräftat <datum>).** <Skador, avstängningar, oklara startelvor. Aldrig
-antaget.>
+**Matchbild.** <En till två meningar. Förväntad målmiljö, vem som dominerar, och om
+båda lagen har en egen väg till mål eller om ett lag gör de flesta målen. Frånvaro och
+formfakta tas med som bisats **bara när de flyttar skattningen** — "utan sina två
+mittbackar", inte en skadelista.>
 
 | Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
 |---|---|---|---|---|---|
@@ -143,7 +140,11 @@ antaget.>
 Krav:
 
 - **Matchbilden skrivs utan att nämna en marknad.** Annars skrivs den baklänges från
-  ett spel som redan är valt.
+  ett spel som redan är valt. Två meningar räcker; behöver den fyra är det för att den
+  återger research i stället för en slutsats.
+- **Inget eget truppnyttsblock.** Skador och avstängningar ska verifieras lika noga som
+  förut, men de skrivs bara ut när de påverkar en skattning. Resten stannar i
+  researchen.
 - **Jämförelsetabellen ska innehålla de närmaste alternativen**, inte bara vinnaren.
   För en målmatch: över 1,5 / över 2,5 / BTTS / lagtotal. För en stängd: under 2,5 /
   under 3,5 / BTTS-Nej. För en resultatmatch: 1X2 / dubbelchans / DNB / handikapp.
@@ -171,9 +172,13 @@ först.
 | Leeds | Calvert-Lewin | 1,07 | 34 matcher, PL 25/26 | 1+ | 62% |
 ```
 
-Siffran är spelarens egen, över ett angivet urval i samma tävling. Går den inte att
-hämta: `underlag saknas` på raden — namnet står kvar, för raden ska ändå utvärderas
-efteråt. Saknas underlag för samtliga sex: skriv en rad i stället för en tom tabell.
+Siffran är spelarens egen, över ett angivet urval i samma tävling.
+
+**Rader utan underlag skrivs inte ut.** Räkna dem i stället på en rad under tabellen:
+*"Tre rader utan underlag (Okafor, Gudmundsson, Wissa)."* Namnen behövs för att
+efteranalysen ska veta vad som saknades — utan dem mäts bara spelare med bra
+statistiktäckning, och kalibreringen blir skev. Går ingen av de sex att belägga: skriv
+bara den raden, ingen tabell.
 
 ## 5. Medvetet undvikna spel
 
