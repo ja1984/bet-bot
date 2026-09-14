@@ -103,13 +103,13 @@ Först i filen, före all analys. Inga motiveringar — de finns per match läng
 
 | # | Typ | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
 |---|---|---|---|---|---|---|---|
-| 1 | Ankare | PSG vinst & ö2,5 | 1,22 | 85% | +4% | 🟢 7,5 | 100 kr |
+| 1 | Ankare | PSG vinst & ö2,5 | 1,22 | 85% (80–88%) | +4% | 🟢 7,5 | 100 kr |
 
 **Singelspel**
 
 | Tid | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
 |---|---|---|---|---|---|---|---|---|
-| 21:00 | Lag A – Lag B | BTTS | Mål | 1,55 | 68% | +5% | 🟡 7 | 50 kr |
+| 21:00 | Lag A – Lag B | BTTS | Mål | 1,55 | 68% (62–72%) | +5% | 🟡 7 | 50 kr |
 
 **Exponering:** X kr på mål · Y kr på en match · Z kr utanför kupongbudgeten
 **Pass:** <matcher utan spel, en rad med skälet>
@@ -126,6 +126,8 @@ Krav:
 - **Tom tabell är giltigt:** `inga singelspel ikväll` plus skälet.
 - **Exponeringsraden är obligatorisk** när mer än ett spel ligger på samma match eller
   samma tes.
+- **Sannolikheten skrivs med band**, `68% (62–72%)`. Efteranalysen läser den här
+  tabellen direkt in i kalibreringen och ska inte behöva leta upp bandet i matchblocket.
 
 ## 4. Match för match
 
@@ -144,7 +146,7 @@ mittbackar", inte en skadelista.>
 | BTTS | 53% | 47–58% | 1,60 | 62,5% | Svag |
 | Hemmalaget över 1,5 | 42% | 36–48% | `PRIS EJ TILLGÄNGLIGT` | — | — |
 
-**Beslut.** 🟡 LITET SPEL — under 2,5. Utfallskonfidens 6/10.
+**Beslut.** 🟡 LITET SPEL — under 2,5. Utfallskonfidens 6/10. Förväntad elva.
 **Motargument.** <Mest sannolika förlustscenariot, och om någon annan marknad
 överlever det bättre.>
 ```
@@ -178,6 +180,11 @@ Krav:
   analysen och spelen — det har kostat pengar förut.
 - **Beslutet är ett av tre:** 🟢 SPELA · 🟡 LITET SPEL · 🔴 PASS. Pass används inte för
   att något "bara" är osäkert — osäkerhet finns i varje match.
+- **Beslutsraden slutar med `Förväntad elva` eller `Bekräftad elva`.** Två ord, men de
+  bär hela skillnaden mellan två sorters fel i efteranalysen: en förlust på en spelare
+  som saknades är en *informationsmiss* om elvan var ett antagande, och en *feltolkning*
+  om den var bekräftad. Markören är också det tilläggsavsnittet jämför mot när elvorna
+  släpps.
 
 ### Skott på mål
 
@@ -293,6 +300,10 @@ rimliga odds — och spannet mellan dem.>*
 
 **90-minutersraden står direkt under rubriken.** Skriv ut vilka sena mål som räknats
 in och vilka som inte gjort det.
+
+**Elvmarkören avgör orsaksklassningen.** Föll ett spel på en spelare som inte spelade:
+stod det `Förväntad elva` är det en informationsmiss, stod det `Bekräftad elva` är det
+en feltolkning. Utan markören går de två inte att skilja åt.
 
 **Singelspelsutfallet speglar sektion 3 rad för rad**, i samma ordning och med samma
 sannolikheter. Skiljer de sig är antingen förhandsanalysen eller efteranalysen fel —
