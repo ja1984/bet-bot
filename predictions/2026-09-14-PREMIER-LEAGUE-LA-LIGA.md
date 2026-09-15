@@ -163,3 +163,132 @@ Delta mot 13:00-analysen. Båda matcherna sparkar igång 21:00 svensk tid; elvor
 - [Covers — Leeds vs Newcastle predictions & odds](https://www.covers.com/soccer/leeds-vs-newcastle-predictions-picks-monday-september-14-2026)
 
 *Alla odds är indikativa och hämtade ur previewartiklar. Kontrollera ditt eget pris före insats.*
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Samtliga åtta mål föll inom 90 minuter och inget avgörande hänger på
+tilläggstid. Leeds–Newcastle: 32', 34', 45+1' (första halvlekens tilläggstid, räknas),
+59' och 90'. Villarreal–Betis: 29', 39' och 43'. Ingen av matcherna gick till
+förlängning, så både under/över 2,5 och båda lagen gör mål avgörs på siffrorna ovan.
+Leeds–Newcastle slutade **fem mål**, Villarreal–Betis **tre**.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Leeds United – Newcastle United | **4–1** (3–0 i halvtid) | Miley självmål 32' · Bogle 34' (Calvert-Lewins nick, sista touch Bogle) · Calvert-Lewin 45+1' · Okafor 59' · Touré 90'. Nico González utbytt 19' efter smäll mot huvudet. Calvert-Lewin mål och assist, utbytt 78' |
+| Villarreal – Real Betis | **1–2** (1–2 i halvtid) | Gerard Moreno 29' · Cucho Hernández 39' (retur på Gulácsis räddning) · Natan 43' (öppet mål efter retur på hörna). **Ett enda gult kort i hela matchen: Renato Veiga 84'.** Gulácsi utsedd till matchens spelare |
+
+### Marknader
+
+De tre första raderna är kvällens singlar i sektion 3:s ordning, därefter de marknader
+som bara bedömdes.
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Villarreal – Betis | Betis vinst | 33% (27–38%), nedskriven 32% (26–37%) | 3,88 | 70 kr | Betis vann 2–1 | ✅ |
+| Leeds – Newcastle | Under 2,5 | 50% (44–55%) | 2,06 | 25 kr | 5 mål | ❌ |
+| Villarreal – Betis | Mouriño bokad | 37% (31–43%) | 3,50 | 120 kr | Startade, spelade 76 min, **ej bokad** | ❌ |
+| Leeds – Newcastle | Över 2,5 | 50% (45–56%) | 1,80 | — | 5 mål | ✅ |
+| Leeds – Newcastle | BTTS Ja | 53% (47–58%) | 1,60 | — | 4–1 | ✅ |
+| Leeds – Newcastle | Oavgjort | 30% (26–33%) | 3,45 | — | 4–1 | ❌ |
+| Leeds – Newcastle | Leeds vinst | 38% | 2,33 | — | 4–1 | ✅ |
+| Leeds – Newcastle | Leeds över 0,5 lagmål | 70% (64–75%) | pris ej tillgängligt | — | 4 mål | ✅ |
+| Leeds – Newcastle | Newcastle över 1,5 lagmål | 42% (36–48%) | pris ej tillgängligt | — | 1 mål | ❌ |
+| Villarreal – Betis | Över 2,5 | 60% (54–65%) | 1,57 | — | 3 mål | ✅ |
+| Villarreal – Betis | BTTS Ja | 58% (52–63%) | 1,53 | — | 1–2 | ✅ |
+| Villarreal – Betis | Under 2,5 | 40% (35–46%) | 2,38 | — | 3 mål | ❌ |
+| Villarreal – Betis | BTTS Nej | 42% (37–48%) | 2,38 | — | båda gjorde mål | ❌ |
+| Villarreal – Betis | Oavgjort | 27% (23–31%) | 4,00 | — | 1–2 | ❌ |
+| Villarreal – Betis | Villarreal vinst | 40% | 2,00 | — | 1–2 | ❌ |
+| Villarreal – Betis | Betis över 1,5 lagmål | 45% (39–51%) | pris ej tillgängligt | — | 2 mål | ✅ |
+| Villarreal – Betis | Villarreal över 1,5 lagmål | 48% (42–54%) | pris ej tillgängligt | — | 1 mål | ❌ |
+
+**Fem undvikna marknader landade:** över 2,5 och båda lagen gör mål i båda matcherna,
+plus Leeds vinst. Samtliga fem var negativa till de noterade priserna — mellan −6% och
+−15% — så avståendet följde värdetestet i varje enskilt fall. Det som ska noteras är
+inte marknadsvalet utan **nivån**: fyra målmarknader skattade till 50–60% landade alla,
+och båda matcherna producerade fler mål än skattningen. Fyra observationer på en kväll
+är inget mönster, men riktningen är entydig och ska mätas vidare.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Leeds | Calvert-Lewin | 1+ | 62% (55–68%) | 78 (utbytt) | ≥1 — mål 45+1', fyra skott totalt | ✅ |
+| Newcastle | Barnes | 1+ | 44% (36–52%) | 90 | ≥1 — räddad av Trafford | ✅ |
+| Newcastle | Elanga | 1+ | 63% (56–69%) | **0 — startade inte, blev aldrig inbytt** | — | raden utgick före avspark |
+| Betis | Cucho Hernández | 1+ | 57% (49–64%) | 84 (utbytt) | ≥1 — mål 39' | ✅ |
+| Villarreal | Ayoze Pérez | 1+ | 37% (30–44%) | **14 (inbytt 76')** | ej bedömbar | raden utgick före avspark |
+| Leeds | Okafor | 1+ | underlag saknades | 72 (utbytt) | ≥1 — mål 59' | ✅ |
+| Leeds | Gudmundsson | 1+ | underlag saknades | 72 (utbytt) | ej bedömbar | — |
+| Newcastle | Wissa | 1+ | underlag saknades | 90 | ej bedömbar | — |
+| Villarreal | Gerard Moreno | 1+ | underlag saknades | 62 (utbytt) | ≥1 — mål 29' | ✅ |
+| Villarreal | Pepe | 1+ | underlag saknades | 76 (utbytt) | ej bedömbar | — |
+| Betis | Antony | 1+ | underlag saknades | **24 (inbytt 66')** | ej bedömbar | — |
+| Betis | Bartra | 1+ | underlag saknades | 90 | ej bedömbar | — |
+
+Tolv rader publicerades, **tolv minutsiffror gick att verifiera** och **fem kunde
+avgöras mot sin linje** — alla fem via ett noterat mål eller en noterad räddning, ingen
+via en hämtad spelarvis skottsiffra. Den statistiken gick inte att få fram i efterhand
+för någon spelare i någon av matcherna. Av de tre raderna med publicerad sannolikhet som
+stod kvar till avspark landade alla tre.
+
+De två rader som drogs före avspark föll åt olika håll: den ene var aldrig på planen
+alls, den andre kom in med fjorton minuter kvar. Bara minutkolumnen skiljer de två
+fallen åt, och ingen av dem var en fråga om skjutande.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Dubbel (hävstång), Betis vinst & Leeds–Newcastle under 2,5 @ 7,99, 30 kr | ❌ | Leeds–Newcastle under 2,5 (4–1). Betis-benet höll |
+
+Ett enda kupongset publicerades, lagt 13:00. Uppdateringen 20:20 skrev ned Betis-benet
+och sänkte kupongens kvalitet men lade varken till, drog tillbaka eller villkorade någon
+post, så avsnittstotal och dagstotal är samma siffra.
+
+### Totalt: 0/1 kuponger · 1/3 singlar · **+26,60 kr** på 245 kr insats
+
+Kupongen −30 kr · Betis vinst +201,60 kr · under 2,5 −25 kr · Mouriño −120 kr.
+Räknat på filens eget rättvisa odds för Betis-benet (3,13) i stället för det indikativa
+previewpriset 3,88 blir kvällen **−25,90 kr**; spannet är alltså −26 till +27 kr och
+den högre posten används eftersom priset noterades av två oberoende källor (3,88 och
+4,00), samma konvention som 10–13 september. Kvällen är med andra ord i praktiken
+nollresultat, och hela skillnaden mellan plus och minus ligger i vilket Betis-pris som
+faktiskt gick att få.
+
+**Orsak:**
+**Betis vinst (vinst, +202 kr) — varians.** Matchbilden stämde på detaljnivå: hemmalaget
+släppte in i sin femte raka match, bortalaget gjorde mål genom precis den spelare
+analysen pekade ut, och nedskrivningen efter startelvorna var rätt avvägd som en knuff
+i stället för ett tillbakadragande. Men ett spel skattat till 32% som landar bekräftar
+inte siffran — det är utfallet på underdogsidan av den egna skattningen, och det ska
+inte räknas som bevis för att 32% var rätt.
+**Leeds–Newcastle under 2,5 (miss, −25 kr och kupongen) — recensbias.** Hela
+lågmålstesen vilade på hemmalagets 1,67 mål per match över **tre** matcher, vilket
+behandlades som en egenskap hos laget i stället för som det korta urval det var. Samma
+lag gjorde fyra mål och ledde med 3–0 i halvtid. Marknadsvalet var däremot korrekt: vid
+en skattning på 50% var under 2,06 den enda av de två målmarknaderna med positiv kant,
+och över 1,80 hade varit ett sämre beslut även om det hade betalat ikväll.
+**Mouriño bokad (miss, −120 kr) — varians på spelet, överkonfidens på insatsen.**
+Spelet i sig var rimligt: han startade, spelade 76 minuter, hade elva gula förra
+säsongen och tre på fem i år, och domaren låg över 4,3 kort per match i samtliga fyra
+källor. Matchen gav **ett enda gult kort**. Ett kortspel på 37% som faller en gång är
+ingen felkalibrering. Insatsen är problemet: 120 kr var kvällens **största enskilda
+position** — nästan halva det satsade kapitalet, mer än kupongbudgeten och 1,7 gånger
+kvällens högst rankade målsingel. Kort- och spelarmarknader ska hållas små just för att
+en enskild händelse avgör dem, och den här låg inte i närheten av liten. Utan
+kortspelet hade kvällen slutat på **+146,60 kr**.
+**Dubbel 1 (miss, −30 kr) — korrelation.** Kupongen var ren hävstång på två positioner
+som redan låg som singlar, vilket filen själv skrev ut, och den föll på exakt det ben
+som singeln föll på. Det är korrelationen som fungerar som den ska — den var identifierad
+och prissatt till 30 kr i stället för till diversifiering — men den tillförde ingen
+riskspridning, bara ytterligare exponering mot en tes som redan var betald.
+
+**Lärdom:** Ett kortspel som blir kvällens största position är en insatsfråga, inte en
+analysfråga. Spelet var korrekt resonerat och korrekt prissatt; det som saknades var ett
+tak. En marknad vars utfall hänger på en enda domarbedömning får aldrig bära mer kapital
+än kvällens bäst rankade fotbollsspel.

@@ -8,12 +8,15 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-09-14 | Premier League + La Liga | 1 | 0/1 ❌ | ~+27 kr******* |
 | 2026-09-13 | Premier League + La Liga + Championship | 3 | 2/3 ✅ | ~+117 kr****** |
 | 2026-09-12 | Premier League + La Liga + Championship | 4 | 2/3 ✅ | ~+189 kr***** |
 | 2026-09-11 | Championship + La Liga | 0 | 0/0 ➖ | ~+31 kr**** |
 | 2026-09-10 | CL ligafas omgång 1 | 4 | 4/4 ✅ | ~+702 kr*** |
 | 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
+
+*\*\*\*\*\*\*\* = 14 sep: **en kupong publicerad, en spelad** — en tvåmatcherskväll där dubbeln var den enda möjliga kombinationen. Uppdateringen 20:20 skrev ned Betis-benet efter bekräftade elvor men lade varken till, drog tillbaka eller villkorade någon post, så avsnittstotal och dagstotal är samma siffra. Spelat: C1 Betis vinst & Leeds–Newcastle under 2,5, 30 kr × 7,99 ❌ (Leeds–Newcastle 4–1). Tre singlar utanför kupongen: Betis vinst 70 kr × 3,88 ✅ (+201,60 kr) · Leeds–Newcastle under 2,5 25 kr ❌ · Mouriño bokad 120 kr × 3,50 ❌ (han startade och spelade 76 minuter, men matchen gav ett enda gult kort totalt) = **+56,60 kr på singlarna, +26,60 kr på kvällens 245 kr**. Räknat på filens eget rimliga odds för Betis (3,13) i stället för det indikativa previewpriset blir kvällen −25,90 kr; spannet är −26 till +27 kr och den högre posten används eftersom priset noterades av två oberoende källor (3,88 och 4,00), samma konvention som 10–13 september. Kvällen är i praktiken ett nollresultat. Kortsingeln på 120 kr var kvällens största enskilda position — utan den hade kvällen slutat på +146,60 kr. Fem medvetet undvikna marknader landade (över 2,5 och båda lagen gör mål i båda matcherna, plus Leeds vinst); samtliga fem var negativa till de noterade priserna, så avståendena följde värdetestet — men båda matcherna gav fler mål än skattningen.*
 
 *\*\*\*\*\*\* = 13 sep: **tre kuponger publicerade, tre spelade** — ett enda kupongset, lagt 11:00. Uppdateringarna 13:15, 18:20 och 20:10 lade varken till, drog tillbaka eller villkorade någon post, så avsnittstotal och dagstotal är samma siffra. Spelat: C1 Celta–Málaga under 2,5, 120 kr × 1,73 ✅ · C2 Sheffield Utd–Wolves över 2,5, 65 kr ❌ (0–1, enda målet i 90:e) · C3 Getafe–Deportivo BTTS Ja, 65 kr × 2,45 ✅ (1–1, 66' och 78') = **+116,85 kr på 250 kr i kuponger**. Inga singelspel publicerades — sektion 3:s singeltabell var tom med angivet skäl (G5, G9, K4c) — så dagens netto är kupongerna ensamma. Räknat på filens egna rimliga odds (1,54 och 2,22) i stället för de indikativa previewpriserna blir dagen +79,10 kr; spannet är +79 till +117 kr och den högre posten används eftersom båda priserna noterades av två oberoende källor, samma konvention som 10–12 september. Fyra av de sju matchernas bästa marknader gick inte att spela — tre saknade pris (K4c), en hade brytpunkten inne i bandet (L1) — och av dem hade två landat och två fallit.*
 
@@ -37,13 +40,14 @@ på Facit-sidan.
 | 4 | 2026-09-11 | +31 kr | +748 kr |
 | 5 | 2026-09-12 | +189 kr | +937 kr |
 | 6 | 2026-09-13 | +117 kr | +1 054 kr |
+| 7 | 2026-09-14 | +27 kr | +1 081 kr |
 
 ---
 
-**Löpande totaler:** 19 kuponger publicerade, 16 spelade | 11/16 träffar (68,8%) | Netto: ~+1 054 kr
+**Löpande totaler:** 20 kuponger publicerade, 17 spelade | 11/17 träffar (64,7%) | Netto: ~+1 081 kr
 
-*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 13/19 (68,4%).*
+*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 13/20 (65,0%).*
 
-*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr) och de två singlarna den 12 september (+66 kr). Kupongerna ensamma står på ~+507 kr över sex kvällar.*
+*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr) och de tre singlarna den 14 september (+56,60 kr). Kupongerna ensamma står på ~+477 kr över sju kvällar.*
 
-*Singelspel utanför kupongerna: 5 publicerade, 3 spelade, 3/3 träff (11–12 sep). Den 13 september publicerades inga singelspel.*
+*Singelspel utanför kupongerna: 8 publicerade, 6 spelade, 4/6 träff (11–12 sep och 14 sep). Den 13 september publicerades inga singelspel.*
