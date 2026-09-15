@@ -282,7 +282,18 @@ förlängning räknas aldrig.>
 
 ### Totalt: X/Y kuponger · X/Y singlar · +/- X kr
 
-**Orsak:** <spel — orsak> · <spel — orsak>
+<En rad om priserna inte är verkliga: vilka priser summan bygger på och spannet.>
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Betis vinst | +202 kr | Varians — ett spel på 32% som landar bekräftar inte siffran |
+| Leeds–Newcastle under 2,5 | −25 kr | Recensbias — 1,67 mål/match över tre matcher lästes som egenskap |
+| Mouriño bokad | −120 kr | Överkonfidens på insatsen — kvällens största position på en domarbedömning |
+| Dubbel 1 | −30 kr | Korrelation — hävstång på två positioner som redan låg som singlar |
+
+**Lärdom:** <bara när det finns en, högst två rader>
 ```
 
 **En tabell för alla marknader.** Spelade och ospelade i samma tabell — `Insats` är tom
@@ -295,11 +306,19 @@ och bara minutkolumnen skiljer dem åt. Går skottsiffran inte att hämta: `ej b
 men fyll ändå i minuterna. Raderna som stod som `underlag saknas` i förhandsanalysen
 utvärderas också; namnen står i räkneraden under tabellen.
 
-**Orsaksraden är hela självutvärderingen.** En orsak per betydande miss *och* per
-betydande vinst, från listan: dåliga data · dålig tolkning · dålig sannolikhet ·
-dåligt marknadsval · dåligt pris · varians · recensbias · narrativbias · överkonfidens ·
-korrelation · informationsmiss. Ett vunnet spel kan vara en dålig prediktion och ett
-förlorat en bra — utan klassning justeras modellen av utfall i stället för av fel.
+**Orsakstabellen är hela självutvärderingen.** En rad per spel — vinster också, för
+ett vunnet spel kan vara en dålig prediktion och ett förlorat en bra. Utan klassning
+justeras modellen av utfall i stället för av fel.
+
+**Orsakskolumnen är en etikett plus högst en kort mening.** Etiketten kommer från
+listan: dåliga data · dålig tolkning · dålig sannolikhet · dåligt marknadsval · dåligt
+pris · varians · recensbias · narrativbias · överkonfidens · korrelation ·
+informationsmiss · bra beslut. Meningen efter tankstrecket säger *vad* som gick fel,
+inte hur resonemanget gick — det stod redan i förhandsanalysen. Behöver du mer än en
+rad har du börjat skriva om matchen igen.
+
+Går ett spel att klassa på två sätt — spelet rimligt men insatsen för stor — skriv båda
+i samma cell: `Varians på spelet, överkonfidens på insatsen`.
 
 **Elvmarkören avgör två av orsakerna.** Föll ett spel på en spelare som inte spelade är
 det *informationsmiss* om beslutsraden sa `Förväntad elva`, och *dålig tolkning* om den
@@ -310,9 +329,10 @@ bevisribban i regelverket — åtta observationer för ett matchmönster, tretti
 marknad. En enskild natt är sällan ett mönster, och otur är inte en lärdom. De flesta
 kvällar har ingen lärdomsrad, och det är rätt.
 
-**Står priserna inte för verkliga pengar, säg det på totalraden** — en bisats om vilka
+**Står priserna inte för verkliga pengar, säg det på EN rad under totalen** — vilka
 priser summan bygger på och spannet mellan dem. En exakt kronsiffra utan underlag är
-falsk precision.
+falsk precision, men resonemanget om vilken konvention som valts hör inte hemma i
+filen.
 
 Flera kupongset i samma fil redovisas separat plus en dagstotal.
 
