@@ -8,11 +8,11 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
-| 2026-09-15 | La Liga | 0 | 0/0 ➖ | ~+22 kr******** |
+| 2026-09-15 | La Liga | 0 | 0/0 | ~+22 kr******** |
 | 2026-09-14 | Premier League + La Liga | 1 | 0/1 ❌ | ~+27 kr******* |
 | 2026-09-13 | Premier League + La Liga + Championship | 3 | 2/3 ✅ | ~+117 kr****** |
 | 2026-09-12 | Premier League + La Liga + Championship | 4 | 2/3 ✅ | ~+189 kr***** |
-| 2026-09-11 | Championship + La Liga | 0 | 0/0 ➖ | ~+31 kr**** |
+| 2026-09-11 | Championship + La Liga | 0 | 0/0 | ~+31 kr**** |
 | 2026-09-10 | CL ligafas omgång 1 | 4 | 4/4 ✅ | ~+702 kr*** |
 | 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
@@ -55,3 +55,5 @@ på Facit-sidan.
 *Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr) och singeln den 15 september (+22 kr). Kupongerna ensamma står på ~+477 kr över de sju kvällar som hade kuponger.*
 
 *Singelspel utanför kupongerna: 10 publicerade, 7 spelade, 5/7 träff (11–12 sep, 14–15 sep). Den 13 september publicerades inga singelspel.*
+
+*Formatnot (16 sep): resultatcellen tar `V/T` följt av **enbart** ✅ eller ❌ — ingen annan symbol. Raderna för 11 och 15 september skrevs som `0/0 ➖` och matchade därför inte sajtens radmönster; båda föll tyst ur både listan och grafen, och 11 september-kvällens +31 kr saknades i sajtens egen summa fram till nu. Symbolen är borttagen ur båda raderna. En kvällslös kupongrad skrivs `0/0` utan markör.*
