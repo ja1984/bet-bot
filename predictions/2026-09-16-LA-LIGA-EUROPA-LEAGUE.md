@@ -396,3 +396,35 @@ BTTS var kandidat men Levante har gjort mål i bara två av fem ligamatcher, och
 ## 🟨 Kort
 
 Hernández Hernández i Deportivo–Sevilla ligger på 5,46 gula per match över 322 karriärmatcher och är kvällens strängaste domare, följd av De Burgos Bengoetxea på 4,74 i Anderlecht–Lyon och Osmers på 4,77 under förra säsongen i Olympiakos–Jagiellonia. Inget kortspel läggs — lagens kort per match saknas för de flesta av kvällens tretton lag och ingen kortlinje gick att hämta hos något spelbolag.
+
+---
+
+## 🔄 Tillägg 18:15 — bekräftade startelvor (18:45- och 19:00-matcherna)
+
+Startelvorna är bekräftade och hämtade från Flashscores lineup-feed för respektive match. De fyra 21:00-matcherna och de två 21:30-matcherna har inga elvor ute ännu — de ligger kvar orörda och tas av 20:00-körningen.
+
+**Omonia – Celta Vigo (18:45) — anker, under 2,5.** Celta ställer upp i 3-4-3 med Jutglà, Pablo Durán och Driouech från start — en anfallstrio, inte den nödlösning analysen förutsatte. **Borja Iglesias är på bänken, inte utanför truppen** — 13:00-analysen skrev att han var borta, och det var fel. Aspas saknas som antaget; Swedberg och Moriba börjar på bänken. Omonia ställer upp som väntat med Diony, Tankovic och Ewandro Costa (Satka in för Panayiotou).
+→ Under 2,5 sänks: **60% (56–64%)**, rättvist odds **1,67**, brytpunkt 55,6% ligger kvar utanför bandets nedre kant. EV **+8%** mot 1,80 (var +12%). Bandet är smalare än 13:00 eftersom elvorna inte längre är en osäkerhetskälla (**L7**, **L2**); punktskattningen faller för att Celtas front är vassare än antaget. Utfallskonfidens 7 → 6,5. Spelkvalitet 🟢 7 → 🟡 6,5. **Sänk insatsen 100 kr → 70 kr** (**L1**) — kanten finns kvar men är tunnare.
+
+**Deportivo – Sevilla (19:00) — hedge, BTTS Ja.** Aubameyang startar ✓. Sevilla startar **Lucas Stassin** som renodlad anfallare och **Isaac Romero sitter på bänken — han är alltså tillgänglig**. 13:00-analysen skrev ned skattningen från 62% till 58% just på att Romero saknades; den nedskrivningen var obefogad. Deportivo startar Angelino på vänsterbacken och Nsongo bredvid Aubameyang, medan Soriano och Casadó börjar på bänken.
+→ BTTS Ja höjs: **61% (57–65%)**, rättvist odds **1,64**, brytpunkt 54,6% ligger utanför bandet. EV **+11,6%** mot 1,83 (var +6%). Utfallskonfidens 6,5 (capet i **A7** ligger kvar), spelkvalitet 🟡 6,5 → 🟢 7. **Höj insatsen 70 kr → 100 kr.**
+
+De två ändringarna tar ut varandra: total exponering står kvar på 280 kr, ankaret och hedgen byter storlek och ingen match bär mer än en position.
+
+**Atlético Madrid – Osasuna (19:00).** Osasuna ställer upp i 5-4-1 med **Budimir, Moncayola, Catena och Del Castillo på bänken** — Yeboah ensam på topp. Atlético startar Jonathan David och Lookman, Hancko på bänken. Bussen är parkerad och gästernas målväg är i praktiken stängd (**C9**): BTTS Ja faller från 43% till ~33%, Atlético-vinst stiger från 64% till ~68% — men brytpunkten på 1,45 är 69,0% och ligger fortfarande över skattningen. **PASS står kvar.**
+
+**Ararat-Armenia – Sparta Prag (18:45).** Priske startar Karabec, Sochurek, Alcocer och Mercado; Vydra på bänken. Inget som flyttar en match där allt är prissatt kring 1,67–1,70. **Ingen ändring.**
+
+### Skottrader mot bekräftad elva (**J4b**)
+
+| Match | Rad | Status |
+|---|---|---|
+| Atlético – Osasuna | Budimir 2+ | ❌ **bänken** — raden faller på speltid, inte på skjutande |
+| Atlético – Osasuna | G. Simeone 1+ | ❌ **bänken** |
+| Atlético – Osasuna | Grimaldo 1+ · Baena 1+ | ✓ startar båda |
+| Deportivo – Sevilla | Aubameyang 1+ · Guridi 1+ | ✓ startar båda |
+| Omonia – Celta | Swedberg, Hugo González (skrevs utan underlag) | ❌ **båda på bänken** |
+
+### 21:00-matcherna — inget som motiverar en ändring
+
+Milan–Benfica: Bah fortsatt borta (samma bild som 13:00), Gabbia åter i truppen — ingen ändring. Sunderland–AZ: förhandsartiklarna anger nu Diarra och Mundle som Sunderlands enda bekräftade frånvaro, vilket är tunnare än de sju frånvarande 13:00-analysen byggde på. Uppgiften är obekräftad och matchen är närmare tre timmar bort, så **inget tal ändras nu** — men kupong 4 vilar på den premissen och 20:00-körningen ska stämma av den mot den bekräftade elvan innan insatsen står kvar.
