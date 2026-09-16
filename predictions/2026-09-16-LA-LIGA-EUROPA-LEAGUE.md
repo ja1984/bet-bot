@@ -428,3 +428,45 @@ De två ändringarna tar ut varandra: total exponering står kvar på 280 kr, an
 ### 21:00-matcherna — inget som motiverar en ändring
 
 Milan–Benfica: Bah fortsatt borta (samma bild som 13:00), Gabbia åter i truppen — ingen ändring. Sunderland–AZ: förhandsartiklarna anger nu Diarra och Mundle som Sunderlands enda bekräftade frånvaro, vilket är tunnare än de sju frånvarande 13:00-analysen byggde på. Uppgiften är obekräftad och matchen är närmare tre timmar bort, så **inget tal ändras nu** — men kupong 4 vilar på den premissen och 20:00-körningen ska stämma av den mot den bekräftade elvan innan insatsen står kvar.
+
+---
+
+## 🔄 Tillägg 20:10 — bekräftade startelvor (21:00-matcherna)
+
+Alla sju 21:00-matcher har bekräftade elvor (Flashscores lineup-feed; Milans elva dessutom verifierad mot milanreports.com och Gazzettas uppställning). De två La Liga-matcherna 21:30 har inga elvor ute ännu — kontrollerat 20:08, båda var PASS och står orörda. 18:45- och 19:00-matcherna rullar och rörs inte.
+
+**AC Milan – Benfica (21:00) — huvudspel, under 2,5.** Båda lagen roterar hårt inför ligafasens första match. Milan: Maignan; Terracciano, De Winter, Pavlovic; Chukwueze, Jashari, Musah, Bartesaghi; Hutchinson, Cissè; Ramos — **Pulisic, Modric, Rabiot, Saelemaekers, Loftus-Cheek och Gabbia på bänken**, och Hutchinson gör sin första start. Benfica: Trubin; Banjaqui, Araújo, Circati, El Karouani; Aursnes, Palhinha; Lukébakio, Sudakov, Kaminski; Durán — **Pavlidis, Rafa Silva, Schjelderup och Prestianni sitter alla på bänken.** Det är precis den kvartetten 13:00-analysens 3,2 mål per match för Benfica vilade på, och förhandsartiklarna hade samtliga fyra i startelvan.
+→ Under 2,5 höjs: **56% (52–60%)**, rättvist odds **1,79**, brytpunkt 46,5% ligger utanför bandets nedre kant. EV **+20%** mot 2,15 (var +10%). Bandet är smalare än 13:00 eftersom rotationen inte längre är en osäkerhetskälla (**L7**, **L2**); kvar som drivare är två ovana kedjor som också kan försvara sämre och att Durán–Lukébakio fortfarande är en riktig hotbild. Utfallskonfidens 6 → 6,5, spelkvalitet 🟡 6,5 → 🟢 7,5. **Höj insatsen 70 kr → 100 kr.**
+**Motargument.** En hopplockad Milan-trebackslinje mot Durán och Lukébakio kan släppa till mer, inte mindre — men målsnittet som bar över-sidan var Pavlidis, och han börjar på bänken. Skattningen är höjd med fyra punkter, inte åtta, av just det.
+
+**Sunderland – AZ Alkmaar (21:00) — uppsida, AZ vinst: SPELET DRAS TILLBAKA.** Sunderland: Roefs; Mukiele, Danso, Alderete, Mandava; Xhaka, Sadiki; Fofana, Le Fée, Hume; Isidor — med Ballard, O'Nien, Rigg, Brobbey, Meunier och Angulo kvar på bänken. Det är Sunderlands starkaste tillgängliga elva med en Premier League-bänk bakom, inte de sju frånvarande som 13:00-analysen byggde spelet på och som 18:15-tillägget redan flaggade som obekräftade. AZ lämnar dessutom **Stengs och Kwakman** på bänken, båda i förhandsartiklarnas elva.
+→ Premissen är motbevisad, inte försvagad, och då dras spelet i stället för att justeras (**L7**). AZ vinst sänks: **19% (15–23%)**, rättvist odds **5,26**. Brytpunkten 20,0% ligger nu inne i bandet (**L1**) och EV mot 5,00 är **−5%**. **Kupong 4 utgår — 40 kr tas bort.** Ingen ersättare läggs: de övriga matcherna passade på pris, och en bekräftad elva skapar inget nytt pris.
+
+**Övriga fem 21:00-matcher — ingen ändring.** Olympiakos ställer upp utan El Kaabi och Fortounis precis som antaget, Leverkusen startar Schick, Lyon startar Openda, Rennes startar Lepaul och Hapoel–Dinamo kommer utan avvikelse mot 13:00-bilden. Alla fem var PASS på pris och förblir det.
+
+### Ny insatsfördelning
+
+| # | Spel | Före | Nu |
+|---|---|---|---|
+| 1 | Omonia – Celta Vigo: under 2,5 | 70 kr | 70 kr — matchen rullar, orörd |
+| 2 | Milan – Benfica: under 2,5 | 70 kr | **100 kr** |
+| 3 | Deportivo – Sevilla: BTTS Ja | 100 kr | 100 kr — matchen rullar, orörd |
+| 4 | Sunderland – AZ: AZ vinst | 40 kr | **utgår** |
+
+**Exponering:** 270 kr av 300 · 170 kr på under-tesen fördelat på två matcher, 100 kr på motsatt tes, 0 kr på resultatmarknader (**L6**) · det enda som faktiskt går att agera på när det här publiceras är kupong 2 — kupong 1 och 3 har redan sparkat igång.
+
+**Bästa marknad i tillägget:** Milan–Benfica under 2,5 @ 2,15 — **spelad JA** (**H8**). Priset är indikativt och hämtat ur förhandsartiklar.
+
+### Skottrader mot bekräftad elva (**J4b**)
+
+| Match | Rad | Status |
+|---|---|---|
+| Milan – Benfica | Gonçalo Ramos 1+ | ✓ startar |
+| Milan – Benfica | Pulisic 1+ | ❌ **bänken** |
+| Anderlecht – Lyon | Openda 1+ | ✓ startar |
+| Leverkusen – Celje | Schick 1+ | ✓ startar |
+| Sturm Graz – Rennes | Lepaul 1+ | ✓ startar |
+| Sunderland – AZ | Fofana 1+ | ✓ startar |
+| Sunderland – AZ | Brobbey 1+ | ❌ **bänken** |
+
+Inga singelspel låg på raderna, så ingen insats påverkas av de två som faller.
