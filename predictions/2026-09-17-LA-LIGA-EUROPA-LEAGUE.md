@@ -316,3 +316,26 @@ Colombo ligger högst av kvällens domare på 4,99 gula per match över 177 karr
 **Málaga–Villarreal (21:30):** mer än tre timmar bort, inget stort besked. Orörd.
 
 **Övriga 21:00-matcher:** elvorna släpps ca 20:00 och ligger utanför det här fönstret.
+
+---
+
+## Uppdatering 20:35 — bekräftade startelvor (21:00-matcherna)
+
+**Crystal Palace–Lech Poznań (21:00):** elvan är bekräftad — Benítez; Khalaili, Richards, Disasi, Ahanor, Mitchell, Wharton (C), Q. Timber, Pino, Kamada, Strand Larsen. **Sarr startar inte** — förutsättningen som 18:20-körningen flaggade höll. Mateta och Henderson är ute som antaget, men **Sarr och Nketiah sitter båda på bänken**, alltså tillgängliga från timmen. Lech ställer upp Lis; Yegbe, Monka, Gurgul, Pereira; Rodriguez, Murawski; Allahyar, Palma, Wålemark; Ishak.
+→ Bänk är inte samma sak som frånvaro: två anfallare som kan komma in drar åt fel håll för oavgjort. **Oavgjort sänks 26% → 25% (21–29%)**, rättvist odds **4,00**, pris 4,75, EV **+18,8%** (var 26% och +24%). Brytpunkten 21,1% ligger kvar **under** bandet. 🟡 står kvar, insats 30 kr oförändrad.
+→ **Skottraderna i matchblocket är delvis inaktuella:** Nketiah sitter på bänken och Guessand saknas helt i truppen. Inga spel låg på dem.
+
+**Real Sociedad–Bournemouth (21:00):** båda elvorna bekräftade. Sociedad roterar tungt — Marrero i mål bakom Beitia, Jon Martín, Mamadou Sarr och Héctor Fort — men behåller Oyarzabal, Barrenetxea och Óskarsson framåt. **Sučić startar inte.** Bournemouth startar både Evanilson och Kluivert med Tavernier och Rayan utanför, och **Che Adams är bekräftat ute** precis som analysen förutsatte.
+→ Ett andrahandsförsvar hemma höjer BTTS: **62% (56–67%)**, rättvist odds **1,61**. Men priset har samtidigt fallit från 1,62 till **1,52**, vilket lyfter brytpunkten till **65,8%** — den ligger nu ovanför hela bandet i stället för att nudda det. 🔴 PASS står kvar och blir tydligare, inte knappare.
+→ Sučić-raden på skottmarknaden är inaktuell; Turrientes och Óskarsson startar.
+
+**Beşiktaş–Marseille (21:00):** **Vlahović startar** som analysen förutsatte, med Nübel i mål bakom Murillo och Agbadou och Kökçü på mittfältet. Marseille svarar med de Lange i mål, Højbjerg, Gomes, Harit, Weah och Maupay. Ingen ändring.
+
+**Celtic–Ferencváros (21:00):** Celtic roterar hårt — Sinisalo; Donovan, Carter-Vickers, Scales, Tierney; Sørensen, McGregor, Baur; Hassan, Forrest, Durán, med **Høgh på bänken**. Frånvaron är bekräftad och bredare än analysens fyra: Osmond, Johnston och Jota skadade, Oxlade-Chamberlain avstängd och Yang på Asiatiska spelen. Ferencváros har full trupp med Joseph på topp och O'Dowda ute på kanten.
+→ **Celtic vinst sänks 55% → 52% (46–57%)**, rättvist odds **1,92** mot priset 1,67. **Över 2,5 sänks 58% → 55% (49–60%)** mot brytpunkten 65,4%. Båda drar åt samma håll: 🔴 PASS var rätt och blir mer bekvämt.
+
+**Juventus–NEC Nijmegen (21:00):** NEC bekräftar 3-4-2-1 — Polster; Sandler, Storm, Bras; Tahaui, Lebreton, Nejašmić, Bischoff; Tadić, Chery; Serhuis. Juventus roterar med **Grabara i mål** för Vicario och Woltemade från start. Passet vilade på priset (1,20 respektive 1,44), inte på elvan. Ingen ändring.
+
+**Plzeň–Union SG och Lillestrøm–Torreense (21:00):** bekräftade elvor gick inte att verifiera mot en namngiven källa före publicering — de står som **ej verifierade**, inte som oförändrade. Båda var PASS på pris och rörs inte.
+
+**Málaga–Villarreal (21:30):** elvan var ännu **inte bekräftad** när det här skrevs. Listorna som cirkulerar är märkta *alineaciones probables* och de två källorna är oense om fyra namn, så de duger inte som bekräftelse. **Foyth är däremot bekräftat ute** (åter 19 september) — analysen förutsatte det redan. Priset på under 2,5 står stilla: **2,32** mot 2,34 i analysen. 🟢 SPELA under 2,5 står kvar, insats 100 kr oförändrad.
