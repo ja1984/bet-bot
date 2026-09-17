@@ -8,6 +8,7 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-09-16 | La Liga + Europa League | 4 | 2/3 ✅ | ~+71 kr********* |
 | 2026-09-15 | La Liga | 0 | 0/0 | ~+22 kr******** |
 | 2026-09-14 | Premier League + La Liga | 1 | 0/1 ❌ | ~+27 kr******* |
 | 2026-09-13 | Premier League + La Liga + Championship | 3 | 2/3 ✅ | ~+117 kr****** |
@@ -16,6 +17,8 @@ på Facit-sidan.
 | 2026-09-10 | CL ligafas omgång 1 | 4 | 4/4 ✅ | ~+702 kr*** |
 | 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
+
+*\*\*\*\*\*\*\*\*\* = 16 sep: **fyra kuponger publicerade, tre spelade** — ett enda kupongset, lagt 13:00 och reviderat 18:15 och 20:10, så avsnittstotal och dagstotal är samma siffra. Kupong 4 (AZ vinst @ 5,00) **drogs tillbaka kl 20:10** sedan den bekräftade elvan motbevisat premissen om sju frånvarande i Sunderland; den föll (1–0) och räknas varken som insats eller förlust. Spelat: K1 Omonia–Celta under 2,5 70 kr × 1,80 ✅ (1–0) · K2 Milan–Benfica under 2,5 100 kr × 2,15 ✅ (0–2) · K3 Deportivo–Sevilla BTTS Ja 100 kr × 1,83 ❌ (0–1, hemmalaget utan mål och tio man från 58:e) = **+71,00 kr på 270 kr i kuponger**. Inga singelspel publicerades — sektion 3:s singeltabell var tom med angivet skäl — så dagens netto är kupongerna ensamma. Räknat på filens egna rättvisa odds efter revideringarna (1,67 och 1,79) blir kvällen +25,90 kr; spannet är +26 till +71 kr och den högre posten används, samma konvention som 10–15 september. Levante–Athletic ställdes in en halvtimme före avspark (skyfall) och var ett PASS, så ingen insats påverkas; fyra skottrader där utgår. Fyra medvetet undvikna marknader landade, däribland båda kvällens avstådda lagtotaler — Atlético över 2,5 lagmål @ 2,55 (skattning 30%, utfall fyra mål) och Barcelona över 3,5 lagmål @ 1,65 (skattning 44%, utfall sju mål). Båda avståendena följde värdetestet, men skattningarna var för låga i båda fallen.*
 
 *\*\*\*\*\*\*\*\* = 15 sep: **noll kuponger publicerade** — de två bästa spelen låg på motsatta teser i olika matcher, men båda låg redan som singlar, så ingen dubbel byggdes. Ett enda spelfönster, så avsnittstotal och dagstotal är samma siffra. Två singlar publicerades 13:00 och båda skrevs ned under dagen: BTTS Nej i Alavés–Valencia (75 kr @ 1,79) **drogs till 0 kr kl 15:00** efter tränarbytet i Valencia, och Över 2,5 i Rayo–Espanyol **skalades ned från 60 kr till 25 kr kl 18:00** efter de bekräftade elvorna. Spelat: Över 2,5 i Rayo–Espanyol 25 kr × 1,88 ✅ (2–1, tre mål) = **+22,00 kr på 25 kr insats**. Den tillbakadragna posten landade också (0–1) och hade gett +59,25 kr; den avstådda dubbeln (1,88 × 1,79 = 3,37) hade landat men hade dragits med BTTS Nej-benet kl 15:00. Räknat på filens eget rättvisa odds efter nedskrivningen (1,79) blir kvällen +19,75 kr; spannet är +19,75 till +22,00 kr och den högre posten används, samma konvention som 10–14 september. Sju av tio bedömda marknader gick åt det håll skattningen pekade. Två processmissar noteras: **ingen lagtotal prissattes i någon av de tre matcherna** — Alavés under 0,5 uttryckte kvällens tydligaste tes rakare än BTTS Nej — och kvällens **arton skottrader publicerades utan namn**, vilket gör dem omöjliga att minutkontrollera i efterhand.*
 
@@ -45,15 +48,16 @@ på Facit-sidan.
 | 6 | 2026-09-13 | +117 kr | +1 054 kr |
 | 7 | 2026-09-14 | +27 kr | +1 081 kr |
 | 8 | 2026-09-15 | +22 kr | +1 103 kr |
+| 9 | 2026-09-16 | +71 kr | +1 174 kr |
 
 ---
 
-**Löpande totaler:** 20 kuponger publicerade, 17 spelade | 11/17 träffar (64,7%) | Netto: ~+1 103 kr
+**Löpande totaler:** 24 kuponger publicerade, 20 spelade | 13/20 träffar (65,0%) | Netto: ~+1 174 kr
 
-*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 13/20 (65,0%).*
+*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 15/24 (62,5%).*
 
-*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr) och singeln den 15 september (+22 kr). Kupongerna ensamma står på ~+477 kr över de sju kvällar som hade kuponger.*
+*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr) och singeln den 15 september (+22 kr). Kupongerna ensamma står på ~+548 kr över de åtta kvällar som hade kuponger.*
 
-*Singelspel utanför kupongerna: 10 publicerade, 7 spelade, 5/7 träff (11–12 sep, 14–15 sep). Den 13 september publicerades inga singelspel.*
+*Singelspel utanför kupongerna: 10 publicerade, 7 spelade, 5/7 träff (11–12 sep, 14–15 sep). Den 13 och 16 september publicerades inga singelspel.*
 
 *Formatnot (16 sep): resultatcellen tar `V/T` följt av **enbart** ✅ eller ❌ — ingen annan symbol. Raderna för 11 och 15 september skrevs som `0/0 ➖` och matchade därför inte sajtens radmönster; båda föll tyst ur både listan och grafen, och 11 september-kvällens +31 kr saknades i sajtens egen summa fram till nu. Symbolen är borttagen ur båda raderna. En kvällslös kupongrad skrivs `0/0` utan markör.*

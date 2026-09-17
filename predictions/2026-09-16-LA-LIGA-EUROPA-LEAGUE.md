@@ -470,3 +470,158 @@ Alla sju 21:00-matcher har bekräftade elvor (Flashscores lineup-feed; Milans el
 | Sunderland – AZ | Brobbey 1+ | ❌ **bänken** |
 
 Inga singelspel låg på raderna, så ingen insats påverkas av de två som faller.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** inga av kvällens matcher gick till förlängning — tolv enkelmatcher i ligaspel och ligafas, och en inställd. Samtliga mål föll inom ordinarie tid, de sista i Nicosia (88'), Pireus (88') och på Camp Nou (89'). Inget spel avgörs alltså av mål utanför 90 minuter. Levante–Athletic ställdes in en halvtimme före avspark sedan skyfall gjort planen ospelbar; matchen har inget nytt datum, och kvällens fyra bedömda marknader och fyra skottrader där utgår i sin helhet.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Ararat-Armenia – Sparta Prag | 1–4 | Guddal 2 mål i första halvlek (båda på hörnor), Mercado 53', Vydra 71' (inbytt); Bruno Wilson nick för Ararat |
+| Omonia – Celta Vigo | 1–0 | Balkovec 88' på distansskott; Celta utan mål för sjunde matchen i rad |
+| Atlético Madrid – Osasuna | 4–0 | Jonathan David 24', Kang-in Lee 54', Le Normand 63', Baena 81'; Atlético 19 skott och 10 på mål mot Osasunas 3 och 1 |
+| Deportivo – Sevilla | 0–1 | Miguel Sierra 52'; Angelino utvisad 58', Deportivo tio man sista halvtimmen |
+| AC Milan – Benfica | 0–2 | Lukébakio 16', Kaminski 54'; Benficas första seger mot Milan på sju försök |
+| Anderlecht – Lyon | 1–2 | Nartey 8', Nakamura 22'; Cvetković 61' |
+| Bayer Leverkusen – Celje | 2–0 | Seslar självmål 15', Medina 74' |
+| Hapoel Be'er Sheva – Dinamo Zagreb | 0–0 | Spelad i Bukarest; mållöst |
+| Olympiakos – Jagiellonia | 2–1 | Szmyt för gästerna, Armando González kvitterade före paus, Yaremchuk nickade in avgörandet 88' som inbytt |
+| Sturm Graz – Rennes | 0–0 | Mållöst |
+| Sunderland – AZ Alkmaar | 1–0 | Le Fée 66' på straff; Sunderlands första europeiska hemmaseger på 53 år |
+| Barcelona – Racing Santander | 7–2 | Cancelo 8', Raphinha 25', Gueye 30', Raphinha 42', Zabiri 65', Raphinha 67', Gabriel Jesus 79', Lamine Yamal 89' plus ett självmål; 4–1 i paus |
+| Levante – Athletic Club | inställd | Uppskjuten på grund av skyfall, inget nytt datum |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Ararat – Sparta | Över 2,5 | 56% | 1,67 | | 5 mål | ✅ |
+| Ararat – Sparta | Sparta vinst | 54% | 1,70 | | 1–4 | ✅ |
+| Ararat – Sparta | BTTS Ja | 55% | 1,70 | | båda gjorde mål | ✅ |
+| Ararat – Sparta | Sparta över 1,5 mål | 57% | inget pris | | 4 mål | ✅ |
+| Omonia – Celta | **Under 2,5** | 62% → 60% | 1,80 | 70 kr | 1 mål | ✅ |
+| Omonia – Celta | Celta vinst | 46% | 1,90 | | 0–1 borta | ❌ |
+| Omonia – Celta | BTTS Ja | 38% | 1,91 | | Celta gjorde noll | ❌ |
+| Omonia – Celta | Celta över 1,5 mål | 28% | inget pris | | 0 mål | ❌ |
+| Atlético – Osasuna | Över 2,5 | 55% | 1,70 | | 4 mål | ✅ |
+| Atlético – Osasuna | Atlético vinst | 64% → 68% | 1,45 | | 4–0 | ✅ |
+| Atlético – Osasuna | BTTS Ja | 43% → 33% | 2,00 | | Osasuna gjorde noll | ❌ |
+| Atlético – Osasuna | Atlético över 2,5 lagmål | 30% | 2,55 | | 4 mål | ✅ |
+| Deportivo – Sevilla | **BTTS Ja** | 58% → 61% | 1,83 | 100 kr | Deportivo gjorde noll | ❌ |
+| Deportivo – Sevilla | Över 2,5 | 46% | 2,20 | | 1 mål | ❌ |
+| Deportivo – Sevilla | Under 2,5 | 54% | 1,65 | | 1 mål | ✅ |
+| Deportivo – Sevilla | Deportivo över 0,5 mål | 78% | inget pris | | 0 mål | ❌ |
+| Milan – Benfica | **Under 2,5** | 51% → 56% | 2,15 | 100 kr | 2 mål | ✅ |
+| Milan – Benfica | Över 2,5 | 49% | 1,68 | | 2 mål | ❌ |
+| Milan – Benfica | BTTS Ja | 55% | 1,56 | | Milan gjorde noll | ❌ |
+| Milan – Benfica | Benfica över 1,5 mål | 44% | inget pris | | 2 mål | ✅ |
+| Anderlecht – Lyon | Lyon vinst | 49% | 1,92 | | 1–2 | ✅ |
+| Anderlecht – Lyon | Över 2,5 | 52% | inget pris | | 3 mål | ✅ |
+| Anderlecht – Lyon | BTTS Ja | 50% | inget pris | | båda gjorde mål | ✅ |
+| Anderlecht – Lyon | Lyon över 1,5 mål | 45% | inget pris | | 2 mål | ✅ |
+| Leverkusen – Celje | Över 2,5 | 80% | 1,26 | | 2 mål | ❌ |
+| Leverkusen – Celje | Leverkusen vinst | 85% | 1,19 | | 2–0 | ✅ |
+| Leverkusen – Celje | Leverkusen −2 asiatiskt | 56% | 1,35 | | exakt två mål | ➖ återbetalning |
+| Leverkusen – Celje | Leverkusen över 2,5 lagmål | 58% | inget pris | | 2 mål | ❌ |
+| Hapoel – Dinamo | Under 2,5 | 42% | 2,20 | | 0 mål | ✅ |
+| Hapoel – Dinamo | Dinamo vinst | 52% | 1,95 | | 0–0 | ❌ |
+| Hapoel – Dinamo | BTTS Ja | 55% | 1,57 | | ingen gjorde mål | ❌ |
+| Hapoel – Dinamo | Dinamo över 1,5 mål | 62% | inget pris | | 0 mål | ❌ |
+| Olympiakos – Jagiellonia | Olympiakos vinst | 59% | 1,37 | | 2–1 | ✅ |
+| Olympiakos – Jagiellonia | Över 2,5 | 53% | 1,63 | | 3 mål | ✅ |
+| Olympiakos – Jagiellonia | BTTS Ja | 50% | 1,88 | | båda gjorde mål | ✅ |
+| Olympiakos – Jagiellonia | Olympiakos över 1,5 mål | 48% | inget pris | | 2 mål | ✅ |
+| Sturm – Rennes | Över 2,5 | 55% | 1,70 | | 0 mål | ❌ |
+| Sturm – Rennes | Rennes vinst | 48% | 1,83 | | 0–0 | ❌ |
+| Sturm – Rennes | Rennes i paus | 38% | 2,54 | | 0–0 i paus | ❌ |
+| Sturm – Rennes | Sturm över 0,5 mål | 71% | inget pris | | 0 mål | ❌ |
+| Sunderland – AZ | AZ vinst | 24% → 19% | 5,00 | dragen | 1–0 hemma | ❌ |
+| Sunderland – AZ | Sunderland vinst | 50% | 1,53 | | 1–0 | ✅ |
+| Sunderland – AZ | Oavgjort | 26% | 4,00 | | 1–0 | ❌ |
+| Sunderland – AZ | AZ över 1,5 mål | 40% | inget pris | | 0 mål | ❌ |
+| Barcelona – Racing | Barcelona över 3,5 lagmål | 44% | 1,65 | | 7 mål | ✅ |
+| Barcelona – Racing | Racing under 0,5 mål | 43% | 2,05 | | 2 mål | ❌ |
+| Barcelona – Racing | BTTS Nej | 44% | 2,00 | | båda gjorde mål | ❌ |
+| Barcelona – Racing | Barcelona vinner båda halvlekarna | 55% | 1,65 | | 4–1 och 3–1 | ✅ |
+| Levante – Athletic | Under 2,5 | 48% | 1,95 | | matchen inställd | — |
+| Levante – Athletic | BTTS Ja | 52% | 1,67 | | matchen inställd | — |
+| Levante – Athletic | Athletic vinst | 40% | 2,15 | | matchen inställd | — |
+| Levante – Athletic | Levante över 1,5 mål | 42% | inget pris | | matchen inställd | — |
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Osasuna | Budimir | 2+ | 55% | 30 (inbytt 60') | 0 — Osasunas enda skott på mål togs av Raúl García | ❌ |
+| Atlético | Grimaldo | 1+ | 62% | 90 | ej bedömbar (ett noterat skott, ej angivet om på mål) | — |
+| Atlético | Baena | 1+ | 54% | 90 | 2 (mål 81') | ✅ |
+| Atlético | G. Simeone | 1+ | 32% | 22 (inbytt 68') | ej bedömbar | — |
+| Deportivo | Aubameyang | 1+ | 83% | 90 | ej bedömbar | — |
+| Sevilla | Guridi | 1+ | 45% | 82 (utbytt) | ej bedömbar | — |
+| Deportivo | Soriano | underlag saknas | — | 0 (bänken) | — | ❌ speltid |
+| Deportivo | Luismi Cruz | underlag saknas | — | 62 (utbytt) | ej bedömbar | — |
+| Deportivo | Peque | underlag saknas | — | 0 (ej i elvan, inget inhopp noterat) | — | ❌ speltid |
+| Celta | Swedberg | underlag saknas | — | 34 (inbytt 56') | ej bedömbar | — |
+| Celta | Hugo González | underlag saknas | — | 34 (inbytt 56') | ej bedömbar | — |
+| Milan | Gonçalo Ramos | 1+ | 63% | 90 | ej bedömbar | — |
+| Milan | Pulisic | 1+ | 63% | 45 (inbytt i paus) | 2 | ✅ |
+| Benfica | Lukébakio | underlag saknas | — | 90 | 3 (mål 16') | ✅ |
+| Benfica | Sudakov | underlag saknas | — | 70 (utbytt) | ej bedömbar | — |
+| Benfica | Durán | underlag saknas | — | 79 (utbytt) | ej bedömbar | — |
+| Lyon | Openda | 1+ | 81% | 65 (utbytt) | 1 (63') | ✅ |
+| Leverkusen | Schick | 1+ | 72% | 70 (utbytt) | ej bedömbar (ett noterat skott 36') | — |
+| Rennes | Lepaul | 1+ | 85% | 90 | 2 | ✅ |
+| Sunderland | Brobbey | 1+ | 22% | 23 (inbytt 67') | ej bedömbar | — |
+| Sunderland | Fofana | 1+ | 22% | 67 (utbytt) | ej bedömbar | — |
+| Sunderland | Meunier | underlag saknas | — | 23 (inbytt 67') | ej bedömbar | — |
+| AZ | Daal | underlag saknas | — | 90 | ej bedömbar | — |
+| AZ | Meerdink | underlag saknas | — | 83 (utbytt) | ej bedömbar | — |
+| AZ | Stengs | underlag saknas | — | 6 (inbytt 84') | ej bedömbar | — |
+| Barcelona | Lamine Yamal | 2+ | 61% | 90 | 2 (mål 89') | ✅ |
+| Barcelona | Raphinha | 1+ | 82% | 69 (utbytt) | 4 (hattrick) | ✅ |
+| Barcelona | Fermín López | 1+ | 78% | 0 (bänken hela matchen) | 0 | ❌ speltid |
+| Racing | Zabiri | 1+ | 69% | 31 (inbytt 59') | 2 (mål 65') | ✅ |
+| Racing | Pablo García | underlag saknas | — | 0 (bänken) | — | ❌ speltid |
+| Racing | Sergio Martínez | underlag saknas | — | 0 — fanns inte i matchtruppen | — | ❌ namnfel |
+| Levante | Brugui | 1+ | 68% | matchen inställd | — | — |
+| Levante | Iván Romero | 1+ | 68% | matchen inställd | — | — |
+| Athletic | Iñaki Williams | 1+ | 61% | matchen inställd | — | — |
+| Athletic | Roberto Navarro | 1+ | 51% | matchen inställd | — | — |
+
+Femton skottrader låg i matcher utan verifierad trupp (Omonias sex, Celjes fem, Anderlechts fem minus Kana och Sikan, Sturms fem minus Diakite och Weinhandl) och skrevs aldrig ut som rader; de går därför inte att minutkontrollera. Kana byttes in i paus och Sikan i 74:e, Diakite i 61:a. Nio rader kunde avgöras mot sin linje, sjutton fick sin minutsiffra men ingen skottsiffra, och fem föll på ren speltid.
+
+### Kuponger
+
+Ett enda kupongset lades 13:00 och reviderades två gånger under dagen; avsnittstotal och dagstotal är därför samma siffra.
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare: Omonia – Celta under 2,5, 70 kr @ 1,80 | ✅ +56,00 kr | — |
+| 2 — Huvudspel: Milan – Benfica under 2,5, 100 kr @ 2,15 | ✅ +115,00 kr | — |
+| 3 — Hedge: Deportivo – Sevilla BTTS Ja, 100 kr @ 1,83 | ❌ −100,00 kr | Deportivo gjorde inget mål, tio man från 58:e |
+| 4 — Uppsida: Sunderland – AZ, AZ vinst @ 5,00 | dragen 20:10 | hade fallit (1–0) — tillbakadragandet sparade 40 kr |
+
+### Totalt: 2/3 spelade kuponger (2/4 publicerade) · inga singlar · +71,00 kr på 270 kr insats
+
+Priserna är indikativa och hämtade ur förhandsartiklar. Räknat på filens egna rättvisa odds efter revideringarna (1,67 och 1,79) i stället för de noterade priserna blir kvällen +25,90 kr; spannet är +26 till +71 kr och den högre posten används, samma konvention som 10–15 september.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Omonia – Celta under 2,5 | +56 kr | Bra beslut — två lag utan målproduktion, och nedskrivningen efter elvorna tog ner både insats och skattning utan att riva tesen |
+| Milan – Benfica under 2,5 | +115 kr | Bra beslut — rotationen tog bort målsnittet som bar över-sidan, och skattningen höjdes med fyra punkter, inte åtta |
+| Deportivo – Sevilla BTTS Ja | −100 kr | Dålig tolkning, och överkonfidens på insatsen — uppgraderingen 58→61% och 70→100 kr drevs av att en Sevilla-anfallare var tillgänglig, men marknaden avgjordes av att hemmalaget gjorde noll |
+| Sunderland – AZ, AZ vinst | 0 kr (dragen) | Bra beslut — premissen om sju frånvarande var motbevisad, och spelet drogs i stället för att justeras |
+| Atlético över 2,5 lagmål 2,55 (ej spelad) | avstådd, landade | Dålig sannolikhet — 30% på ett hemmalag som gjorde fyra; frånvaron av två anfallare vägde för tungt |
+| Barcelona över 3,5 lagmål 1,65 (ej spelad) | avstådd, landade | Dålig sannolikhet — "har inte släppt in mer än tre" var fem matchers underlag och höll inte mot sju |
+| Leverkusen över 2,5 1,26 (ej spelad) | avstådd, föll | Bra beslut — priset begärde 79% och matchen gav två mål |
+| Sturm – Rennes över 2,5 1,70 (ej spelad) | avstådd, föll | Bra beslut — brytpunkten låg utanför bandet och matchen slutade mållös |
+| Hapoel – Dinamo under 2,5 2,20 (ej spelad) | avstådd, landade | Varians — 42% mot en brytpunkt på 45,5% är ett korrekt avstående som råkade landa |
+| Fermín López 1+ skott på mål | ❌ 0 minuter | Dålig data — 78% på en spelare som aldrig lämnade bänken, i ett avsparksfönster ingen elvkontroll täckte |
+
+**Lärdom:** ingen ny regel föreslås. Det som är värt att fortsätta räkna är att detta är tredje gången på fem dagar som en insats flyttas av en drivare som inte är den som sedan avgör marknaden — 12 och 15 september pekade nedskrivningarna åt rätt håll av fel skäl, ikväll pekade uppgraderingen åt fel håll av fel skäl och kostade 30 kr extra insats. Tre observationer är långt under bevisribban och blir ingenting förrän de är åtta.
