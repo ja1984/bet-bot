@@ -83,14 +83,20 @@ tvåmötesomgång — det senare avgör hur formen ska läsas.>
 ```markdown
 ## 📋 Kvällens matcher & domare
 
-| Tid | Match | Domare | Gula/match | Urval |
-|---|---|---|---|---|
-| 21:00 | Leeds – Newcastle | Salisbury (ENG) | 3,71 | 154 matcher, karriär |
+| Tid | Turnering | Match | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 21:00 | PL | Leeds – Newcastle | Salisbury (ENG) | 3,71 | 154 matcher, karriär |
+| 21:00 | CL | Juventus – NEC Nijmegen | Derevinskyi (UKR) | 4,23 | 133 matcher, karriär |
 ```
 
 Alla dagens matcher, även de som inte analyseras. Domaren i samma tabell, så det syns
 direkt vilka som är overifierade: skriv `—` och `ej verifierad` i stället för att
 utelämna raden.
+
+**Turnering** anges på varje rad med kort etikett: `PL`, `La Liga`, `CL`, `EL`. En kväll
+blandar ofta två eller tre turneringar och raderna sorteras på tid, så utan kolumnen går
+det inte att se vilken tävling en match tillhör. Sortera på tid som vanligt — gruppera
+inte på turnering.
 
 ## 3. Dagens spel
 
