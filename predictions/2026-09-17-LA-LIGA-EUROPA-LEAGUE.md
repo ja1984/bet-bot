@@ -8,19 +8,19 @@ La Liga omgång 6 (två matcher) och Europa Leagues ligafas omgång 1, andra kv�
 
 ## 📋 Kvällens matcher & domare
 
-| Tid | Match | Domare | Gula/match | Urval |
-|---|---|---|---|---|
-| 18:45 | Levski Sofia – Salzburg | Al-Emara (FIN) | 3,29 | 292 matcher, karriär |
-| 18:45 | OFI Kreta – Hoffenheim | Alberola Rojas (ESP) | 3,54 | 206 matcher, karriär; 4,20 i 25/26 |
-| 19:00 | Real Betis – Getafe | — | — | ej verifierad |
-| 21:00 | Beşiktaş – Marseille | Colombo (ITA) | 4,99 | 177 matcher, karriär; 5,17 i annan källa |
-| 21:00 | Celtic – Ferencváros | Kolarić (CRO) | 4,80 | 115 matcher, karriär; 4,66 på 79 i annan källa |
-| 21:00 | Crystal Palace – Lech Poznań | Očenáš (SVK) | 4,49 | karriär; 4,37 på 281 i annan källa |
-| 21:00 | Juventus – NEC Nijmegen | Derevinskyi (UKR) | 4,23 | 133 matcher, karriär |
-| 21:00 | Lillestrøm – Torreense | Berka (CZE) | 4,32 | karriär; 3,75 på 330 i annan källa |
-| 21:00 | Plzeň – Union Saint-Gilloise | Frid (ISR) | — | ej verifierad |
-| 21:00 | Real Sociedad – Bournemouth | Raczkowski (POL) | 4,78 | karriär; 4,67 på 480 i annan källa |
-| 21:30 | Málaga – Villarreal | — | — | ej verifierad |
+| Tid | Turnering | Match | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 18:45 | EL | Levski Sofia – Salzburg | Al-Emara (FIN) | 3,29 | 292 matcher, karriär |
+| 18:45 | EL | OFI Kreta – Hoffenheim | Alberola Rojas (ESP) | 3,54 | 206 matcher, karriär; 4,20 i 25/26 |
+| 19:00 | La Liga | Real Betis – Getafe | — | — | ej verifierad |
+| 21:00 | EL | Beşiktaş – Marseille | Colombo (ITA) | 4,99 | 177 matcher, karriär; 5,17 i annan källa |
+| 21:00 | EL | Celtic – Ferencváros | Kolarić (CRO) | 4,80 | 115 matcher, karriär; 4,66 på 79 i annan källa |
+| 21:00 | EL | Crystal Palace – Lech Poznań | Očenáš (SVK) | 4,49 | karriär; 4,37 på 281 i annan källa |
+| 21:00 | EL | Juventus – NEC Nijmegen | Derevinskyi (UKR) | 4,23 | 133 matcher, karriär |
+| 21:00 | EL | Lillestrøm – Torreense | Berka (CZE) | 4,32 | karriär; 3,75 på 330 i annan källa |
+| 21:00 | EL | Plzeň – Union Saint-Gilloise | Frid (ISR) | — | ej verifierad |
+| 21:00 | EL | Real Sociedad – Bournemouth | Raczkowski (POL) | 4,78 | karriär; 4,67 på 480 i annan källa |
+| 21:30 | La Liga | Málaga – Villarreal | — | — | ej verifierad |
 
 ---
 
