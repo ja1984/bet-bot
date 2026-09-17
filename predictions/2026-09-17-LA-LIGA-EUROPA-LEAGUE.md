@@ -295,3 +295,24 @@ Tre rader utan underlag på Málaga-sidan (trupp ej verifierad).
 ## 🟨 Kort
 
 Colombo ligger högst av kvällens domare på 4,99 gula per match över 177 karriärmatcher, följd av Kolarić på 4,80 och Raczkowski på 4,78. Inget kortspel — lagens kort per match saknas och ingen linje går att få.
+
+---
+
+## Uppdatering 18:20 — bekräftade startelvor (18:45-matcherna och Betis)
+
+**Levski Sofia–Salzburg (18:45):** Salzburg startar hela förstahandsanfallet — Tabaković på topp med Vertessen, Baidoo och Kitano bakom — och **Zawieschitzky i mål**, vilket bekräftar att förstemålvakten saknas precis som analysen förutsatte. Levski ställer upp i 3-4-2-1 som väntat, men med **Grujić på bänken**.
+→ Under 2,5 sänks marginellt: **50% (45–55%)**, rättvist odds **2,00**, pris 2,29, EV +14,5% (var 51% och +17%). Brytpunkten 43,7% ligger fortfarande under bandet. 🟢 står kvar, insats 65 kr oförändrad. Grujić utanför elvan drar åt fel håll för Levskis kontroll av mittfältet, men inte nog för att flytta beslutet.
+
+**OFI Kreta–Hoffenheim (18:45):** **Hlozek startar** — risken i motargumentet är alltså verklig och inte längre hypotetisk. Men **Kramarić sitter på bänken**, med Lemperle på topp i stället, och OFI startar hela sin anfallstrio Fountas–Kodro–Cantalapiedra.
+→ De två beskeden tar ut varandra: den namngivna nedsidan infriades, men Hoffenheims mest meriterade avslutare står utanför elvan. **Oavgjort oförändrat: 26% (22–30%)**, rättvist odds 3,85, pris 4,84, EV +26%. 🟡 står kvar, insats 35 kr.
+
+**Real Betis–Getafe (19:00):** Betis startar sin bästa elva — **Isco, Antony, Abde Ezzalzouli och Deossa samtliga från start**, Parrott på topp och **Cucho Hernández på bänken**. Getafe svarar med **två anfallare, Azón och Satriano**, medan Ünal och Terrats sitter. Spelas på La Cartuja.
+→ Betis elva är starkare än analysens förutsättning (Abde var uppgiven som osäker) och nudgas upp: **61% (55–66%)**, rättvist odds **1,64**, pris 1,73, EV +5,5% (var 60% och +4%). Brytpunkten 57,8% ligger dock kvar **inne i bandet** — spelet är fortsatt marginellt (**L1**). 🟡 står kvar, insats 25 kr oförändrad.
+→ **Skottraderna i matchblocket är delvis inaktuella:** Cucho Hernández, Ramón Terrats och Enes Ünal står alla utanför startelvan. Inga spel låg på dem.
+
+**Crystal Palace–Lech Poznań (21:00):** elvan är inte släppt, men Sage uppger att **Sarr är tillbaka i träning** efter ljumskbesväret och att Nketiah genomgår sista testerna. Analysen vilar på att båda saknas (**L7**).
+→ Ingen ändring nu: oavgjort 26% (22–30%), rättvist odds 3,85, pris 4,75. Startar Sarr är förutsättningen bruten och spelet ska ned — 20:00-körningen ser den bekräftade elvan.
+
+**Málaga–Villarreal (21:30):** mer än tre timmar bort, inget stort besked. Orörd.
+
+**Övriga 21:00-matcher:** elvorna släpps ca 20:00 och ligger utanför det här fönstret.
