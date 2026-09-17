@@ -28,13 +28,13 @@ La Liga omgång 6 (två matcher) och Europa Leagues ligafas omgång 1, andra kv�
 
 **Kuponger — 300 kr**
 
-| # | Typ | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
-|---|---|---|---|---|---|---|---|
-| 1 | Ankare | Málaga – Villarreal: under 2,5 | 2,34 | 56% (50–62%) | +31% | 🟢 7,5 | 100 kr |
-| 2 | Huvudspel | Levski Sofia – Salzburg: under 2,5 | 2,29 | 51% (46–56%) | +17% | 🟢 7 | 65 kr |
-| 3 | Motvikt | Real Betis – Getafe: Betis vinst | 1,73 | 60% (54–65%) | +4% | 🟡 5,5 | 25 kr |
-| 4 | Uppsida | OFI Kreta – Hoffenheim: oavgjort | 4,84 | 26% (22–30%) | +26% | 🟡 6,5 | 35 kr |
-| 5 | Uppsida | Crystal Palace – Lech Poznań: oavgjort | 4,75 | 26% (22–30%) | +24% | 🟡 6 | 30 kr |
+| # | Typ | Turnering | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | La Liga | Málaga – Villarreal: under 2,5 | 2,34 | 56% (50–62%) | +31% | 🟢 7,5 | 100 kr |
+| 2 | Huvudspel | EL | Levski Sofia – Salzburg: under 2,5 | 2,29 | 51% (46–56%) | +17% | 🟢 7 | 65 kr |
+| 3 | Motvikt | La Liga | Real Betis – Getafe: Betis vinst | 1,73 | 60% (54–65%) | +4% | 🟡 5,5 | 25 kr |
+| 4 | Uppsida | EL | OFI Kreta – Hoffenheim: oavgjort | 4,84 | 26% (22–30%) | +26% | 🟡 6,5 | 35 kr |
+| 5 | Uppsida | EL | Crystal Palace – Lech Poznań: oavgjort | 4,75 | 26% (22–30%) | +24% | 🟡 6 | 30 kr |
 
 **Singelspel**
 
