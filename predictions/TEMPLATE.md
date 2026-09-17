@@ -107,15 +107,15 @@ Först i filen, före all analys. Inga motiveringar — de finns per match läng
 
 **Kuponger — <budget> kr**
 
-| # | Typ | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
-|---|---|---|---|---|---|---|---|
-| 1 | Ankare | PSG vinst & ö2,5 | 1,22 | 85% (80–88%) | +4% | 🟢 7,5 | 100 kr |
+| # | Typ | Turnering | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | CL | PSG vinst & ö2,5 | 1,22 | 85% (80–88%) | +4% | 🟢 7,5 | 100 kr |
 
 **Singelspel**
 
-| Tid | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
-|---|---|---|---|---|---|---|---|---|
-| 21:00 | Lag A – Lag B | BTTS | Mål | 1,55 | 68% (62–72%) | +5% | 🟡 7 | 50 kr |
+| Tid | Turnering | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|---|
+| 21:00 | EL | Lag A – Lag B | BTTS | Mål | 1,55 | 68% (62–72%) | +5% | 🟡 7 | 50 kr |
 
 **Exponering:** X kr på mål · Y kr på en match · Z kr utanför kupongbudgeten
 **Pass:** <matcher utan spel, en rad med skälet>
@@ -134,6 +134,9 @@ Krav:
   samma tes.
 - **Sannolikheten skrivs med band**, `68% (62–72%)`. Efteranalysen läser den här
   tabellen direkt in i kalibreringen och ska inte behöva leta upp bandet i matchblocket.
+- **`Turnering` anges på varje rad**, samma etiketter som i sektion 2: `PL`, `La Liga`,
+  `CL`, `EL`. Spänner en kupong över två turneringar skrivs båda, `EL + La Liga` — en
+  kupong med ben i olika tävlingar ska synas som just det.
 
 ## 4. Match för match
 
