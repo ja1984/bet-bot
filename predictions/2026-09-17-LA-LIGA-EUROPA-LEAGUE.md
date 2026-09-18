@@ -339,3 +339,136 @@ Colombo ligger högst av kvällens domare på 4,99 gula per match över 177 karr
 **Plzeň–Union SG och Lillestrøm–Torreense (21:00):** bekräftade elvor gick inte att verifiera mot en namngiven källa före publicering — de står som **ej verifierade**, inte som oförändrade. Båda var PASS på pris och rörs inte.
 
 **Málaga–Villarreal (21:30):** elvan var ännu **inte bekräftad** när det här skrevs. Listorna som cirkulerar är märkta *alineaciones probables* och de två källorna är oense om fyra namn, så de duger inte som bekräftelse. **Foyth är däremot bekräftat ute** (åter 19 september) — analysen förutsatte det redan. Priset på under 2,5 står stilla: **2,32** mot 2,34 i analysen. 🟢 SPELA under 2,5 står kvar, insats 100 kr oförändrad.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** alla elva matcher var enkelmatcher utan förlängning, så samtliga 35 mål föll inom 90 minuter plus tilläggstid och räknas fullt ut. De sena målen är kontrollerade var för sig: Nketiah 89' (Palace), Gueye 86' straff (Villarreal), Kanellopoulos 84' (OFI), Kolo Muani 82' (Juventus) och Lehne Olsen 79' (Lillestrøm) ligger alla inom ordinarie tid. Inget mål har räknats bort och inget har räknats in på fel sida av 90.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Levski Sofia – Salzburg | 0–1 | Tabaković 39'. Levski avslutade med noll skott på mål |
+| OFI Kreta – Hoffenheim | 2–0 | Cantalapiedra 30' (framspelad av Kodro), Kanellopoulos 84' på nick efter hörna. Hoffenheim 18 skott och 57% boll |
+| Real Betis – Getafe | 1–0 | Abde Ezzalzouli i slutet av första halvlek efter VAR-granskning, framspelad av Parrott. Mario Martín utvisad sent på andra gula |
+| Beşiktaş – Marseille | 4–1 | Fakılı 15', Abdallah 30', Černý 56', Murillo 59', Poku sent |
+| Celtic – Ferencváros | 1–3 | Scales självmål tidigt, Baur 44', Zachariassen, Arzani 47' |
+| Crystal Palace – Lech Poznań | 4–0 | Pino 10', Richards 27', Strand Larsen 34' straff, Nketiah 89'. Murawski utvisad på andra gula |
+| Juventus – NEC Nijmegen | 5–0 | N. González 9', Alajbegović 24', Woltemade 34' straff, Çelik 75', Kolo Muani 82' |
+| Lillestrøm – Torreense | 1–2 | Alfaro 23', Pozo 49', Lehne Olsen 79' framspelad av Vá |
+| Plzeň – Union Saint-Gilloise | 0–3 | Mofokeng första halvlek, Biondic 43', Kricfalski 59' |
+| Real Sociedad – Bournemouth | 1–2 | Kluivert 11' (godkänt efter VAR), Rayan 20' på nick, Sergio Gómez 57' |
+| Málaga – Villarreal | 1–3 | Dotor 12', Moleiro 40', Gueye 47', Gueye 86' straff |
+
+Trettiofem mål på elva matcher, 3,2 per match.
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Levski – Salzburg | **Under 2,5** | 51% → 50% | 2,29 | 65 kr | 1 mål | ✅ |
+| Levski – Salzburg | Salzburg vinst | 42% | 2,35 | — | 0–1 | ✅ |
+| Levski – Salzburg | Oavgjort | 29% | 3,55 | — | 0–1 | ❌ |
+| Levski – Salzburg | Salzburg över 1,5 | 46% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| OFI – Hoffenheim | **Oavgjort** | 26% | 4,84 | 35 kr | 2–0 | ❌ |
+| OFI – Hoffenheim | Hoffenheim vinst | 52% | 1,47 | — | 2–0 | ❌ |
+| OFI – Hoffenheim | BTTS | 48% | 1,80 | — | Hoffenheim noll | ❌ |
+| OFI – Hoffenheim | OFI över 0,5 | 62% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Betis – Getafe | **Betis vinst** | 60% → 61% | 1,73 | 25 kr | 1–0 | ✅ |
+| Betis – Getafe | Över 2,5 | 41% | 2,25 | — | 1 mål | ❌ |
+| Betis – Getafe | BTTS | 38% | 2,20 | — | Getafe noll | ❌ |
+| Betis – Getafe | Betis över 1,5 | 57% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Beşiktaş – Marseille | Beşiktaş över 1,5 | 59% | 1,62 | — | 4 mål | ✅ |
+| Beşiktaş – Marseille | Beşiktaş vinst | 58% | 1,75 | — | 4–1 | ✅ |
+| Beşiktaş – Marseille | Beşiktaş 2-0 | 11% | 10,50 | — | 4–1 | ❌ |
+| Beşiktaş – Marseille | Över 2,5 | 52% | `PRIS EJ TILLGÄNGLIGT` | — | 5 mål | ✅ |
+| Celtic – Ferencváros | Celtic vinst | 55% → 52% | 1,67 | — | 1–3 | ❌ |
+| Celtic – Ferencváros | Över 2,5 | 58% → 55% | 1,53 | — | 4 mål | ✅ |
+| Celtic – Ferencváros | BTTS | 52% | 1,60 | — | 1–3 | ✅ |
+| Celtic – Ferencváros | Celtic över 1,5 | 55% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Palace – Lech | **Oavgjort** | 26% → 25% | 4,75 | 30 kr | 4–0 | ❌ |
+| Palace – Lech | Palace vinst | 56% | 1,44 | — | 4–0 | ✅ |
+| Palace – Lech | BTTS | 53% | 1,88 | — | Lech noll | ❌ |
+| Palace – Lech | Palace över 1,5 | 48% | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| Juventus – NEC | Över 2,5 | 66% | 1,44 | — | 5 mål | ✅ |
+| Juventus – NEC | Juventus över 2,5 | 47% | 1,78 | — | 5 mål | ✅ |
+| Juventus – NEC | Juventus vinst & BTTS | 35% | 2,75 | — | NEC noll | ❌ |
+| Juventus – NEC | Under 2,5 | 34% | 2,73 | — | 5 mål | ❌ |
+| Lillestrøm – Torreense | Lillestrøm vinst | 62% | 1,51 | — | 1–2 | ❌ |
+| Lillestrøm – Torreense | Torreense vinst | 16% | 5,74 | — | 1–2 | ✅ |
+| Lillestrøm – Torreense | Över 2,5 | 56% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Lillestrøm – Torreense | Lillestrøm över 1,5 | 58% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Plzeň – Union SG | Över 2,5 | 55% | 1,80 | — | 3 mål | ✅ |
+| Plzeň – Union SG | Union vinst | 40% | 2,55 | — | 0–3 | ✅ |
+| Plzeň – Union SG | Oavgjort | 27% | 3,55 | — | 0–3 | ❌ |
+| Plzeň – Union SG | Union över 1,5 | 47% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Sociedad – Bournemouth | BTTS | 60% → 62% | 1,62 → 1,52 | — | 1–2 | ✅ |
+| Sociedad – Bournemouth | Bournemouth vinst | 38% | 2,42 | — | 1–2 | ✅ |
+| Sociedad – Bournemouth | Över 3,5 | 33% | 2,88 | — | 3 mål | ❌ |
+| Sociedad – Bournemouth | Oavgjort | 28% | 3,60 | — | 1–2 | ❌ |
+| Málaga – Villarreal | **Under 2,5** | 56% | 2,34 | 100 kr | 4 mål | ❌ |
+| Málaga – Villarreal | Över 2,5 | 44% | 1,65 | — | 4 mål | ✅ |
+| Málaga – Villarreal | Villarreal vinst | 44% | 2,02 | — | 1–3 | ✅ |
+| Málaga – Villarreal | Málaga över 0,5 | 51% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+
+Tjugotre av fyrtiofyra bedömda marknader landade. Av de tolv marknader som listades under *Medvetet undvikna spel* landade **nio**, och åtta av de nio var målmarknader.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Betis | Antony | 1+ | 72% | start, utbytesminut ej verifierad | minst 1 — skott räddat till stolpen av Soria | ✅ |
+| Betis | Nelson Deossa | 1+ | 58% | start, utbytesminut ej verifierad | ej bedömbar | — |
+| Betis | Cucho Hernández | 1+ | 52% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Getafe | Ramón Terrats | 1+ | 50% | 0 — saknas i den bekräftade matchtruppen | — | ❌ speltid |
+| Getafe | Martín Satriano | 1+ | 42% | start, utbytesminut ej verifierad | ej bedömbar | — |
+| Getafe | Enes Ünal | 1+ | 18% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Palace | Jørgen Strand Larsen | 1+ | 50% | start | minst 1 — mål 34' | ✅ |
+| Palace | Eddie Nketiah | 1+ | 46% | inhopp, mål 89' | minst 1 — mål 89' | ✅ (raden drogs 20:35) |
+| Palace | Evann Guessand | 1+ | 38% | 0 — ej i truppen | — | ❌ speltid |
+| Juventus | Francisco Conceição | 1+ | 58% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Juventus | Nicolás González | 1+ | 56% | start, mål 9' | minst 1 | ✅ |
+| Juventus | Kerim Alajbegović | 1+ | 56% | start, mål 24' | minst 1 | ✅ |
+| Bournemouth | Marcus Tavernier | 1+ | 78% | start — raden drogs 20:35 på felaktig uppgift | ej bedömbar | — |
+| Bournemouth | Justin Kluivert | 1+ | 70% | start–85', mål 11' | minst 1 | ✅ |
+| Bournemouth | Rayan | 1+ | 58% | start, mål 20' — raden drogs 20:35 på felaktig uppgift | minst 1 | ✅ |
+| Sociedad | Luka Sučić | 1+ | 52% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Sociedad | Orri Óskarsson | 1+ | 50% | start | minst 1 — räddningar 85' och 90+1' | ✅ |
+| Sociedad | Beñat Turrientes | 1+ | 48% | start–60' | minst 1 — räddning 55' | ✅ |
+| Villarreal | Georges Mikautadze | 1+ | 70% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Villarreal | Nicolas Pépé | 1+ | 66% | bänk, inhopp ej verifierat | ej bedömbar | — |
+| Villarreal | Ayoze Pérez | 1+ | 42% | start | ej bedömbar | — |
+
+Raderna utan underlag i förhandsanalysen: **Lillestrøm–Torreense sex** — Gulbrandsen startade, Vá startade och lade framspelningen till 1–2-reduceringen 79', Dany Jean startade för Torreense, Drammeh satt på bänken, medan Bassi och Quintero saknas i de bekräftade elvorna. **Lech Poznań tre, NEC Nijmegen tre och Málaga tre** stod som `trupp ej verifierad` och saknar namn, så de kan varken minutkontrolleras eller bedömas.
+
+Tjugoen namngivna rader publicerades. **Nio kunde avgöras mot sin linje** — samtliga nio landade, och åtta av dem via ett noterat mål eller en noterad räddning. **Två föll på ren speltid** och **tre rader drogs före avspark**, varav två på en uppgift som visade sig vara fel.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, Málaga–Villarreal under 2,5, 100 kr @ 2,34 | ❌ | Fyra mål (1–3) |
+| 2 — Huvudspel, Levski–Salzburg under 2,5, 65 kr @ 2,29 | ✅ | — |
+| 3 — Motvikt, Betis vinst, 25 kr @ 1,73 | ✅ | — |
+| 4 — Uppsida, OFI–Hoffenheim oavgjort, 35 kr @ 4,84 | ❌ | OFI vann 2–0 |
+| 5 — Uppsida, Palace–Lech oavgjort, 30 kr @ 4,75 | ❌ | Palace vann 4–0 |
+
+### Totalt: 2/5 kuponger · 0/0 singlar · −62,90 kr
+
+Ett enda kupongset, lagt 11:00 och reviderat 18:20 och 20:35 utan att någon insats flyttades, så avsnittstotal och dagstotal är samma siffra. Inga singelspel publicerades. Priserna är indikativa previewpriser: räknat på filens egna rättvisa odds efter revideringarna (2,00 och 1,64) blir kvällen −84,00 kr, spannet är −84 till −63 kr och den högre posten används, samma konvention som 10–16 september.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Málaga–Villarreal under 2,5 | −100 kr | Dålig tolkning — Villarreals 3,4 mål per match avfärdades som en artefakt av deras eget försvar, och bänken levererade två målskyttar |
+| Levski–Salzburg under 2,5 | +83,85 kr | Bra beslut — lågblocket höll hela vägen och hemmalaget sköt noll på mål |
+| Betis vinst | +18,25 kr | Bra beslut — enmålsseger med nollan, exakt den matchbild som skrevs, men marginalen låg inne i bandet hela tiden |
+| OFI–Hoffenheim oavgjort | −35 kr | Dåligt marknadsval — matchbilden beskrev ett OFI i toppform medan skattningen gav Hoffenheim 52%; OFI över 0,5 uttryckte bilden och landade |
+| Palace–Lech oavgjort | −30 kr | Dålig tolkning — två anfallare på bänken flyttade skattningen en punkt och insatsen noll, och en av dem gjorde 4–0 i 89:e |
+| Sociedad–Bournemouth BTTS (ej spelad) | 0 kr | Bra beslut — 1,52 begärde 65,8% mot skattningen 62%; att marknaden landade ändrar inte priset |
+| Beşiktaş över 1,5 (ej spelad) | 0 kr | Bra beslut — brytpunkten 61,7% låg inne i bandet |
+
+**Lärdom:** den bekräftade elvan i en av matcherna angav två startande spelare som frånvarande, två skottrader drogs på den uppgiften och en av dem gjorde mål efter tjugo minuter — en elvuppgift som stryker en rad ska bekräftas mot en andra källa innan raden stryks.
