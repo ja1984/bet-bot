@@ -106,3 +106,13 @@ BTTS vann mot alternativen för att tesen är att båda gör mål, inte att det 
 ## 🟨 Kort
 
 Madley ligger på 3,07 gula och 0,07 röda per match över 412 karriärmatcher. González Esteban ligger på 4,39 gula och 0,25 röda per match över 126 karriärmatcher — bara tre av dem i La Liga, så karriärsiffran är den som gäller. Espanyol tar 3,00 gula per match och Elche 2,50 över sex matcher var. Inget kortspel: ingen linje och inget pris gick att hämta för någon av matcherna.
+
+## 🔄 Tillägg 20:30 — bekräftade elvor
+
+**Brentford–Chelsea.** João Pedro saknas helt i truppen och Welbeck går upp som anfallare, med Henderson och Barco i mitten medan Lavia, Gusto, Hato och Estêvão sitter på bänken. Brentford startar Damsgaard i stället för Sangaré; Schade, Thiago och Janelt startar som väntat, och Mathias Jensen är ute.
+→ Chelsea ställer upp med ett tunnare och mer avvaktande anfall än antagandet: över 2,5 sänks till 63% (57–69%), rättvist odds 1,59, mot ett pris på 1,47 som kräver 68,0%. BTTS sänks till 67% (60–73%), rättvist odds 1,49, mot 1,40 som kräver 71,4%. Under 2,5 höjs till 37% (31–43%), rättvist odds 2,70 — priset 2,65 kräver 37,7% och betalar fortfarande inte. 🔴 PASS står kvar, nu med marginal i stället för på håret. João Pedro-raden i skottabellen faller.
+
+**Espanyol–Elche.** Roberto Fernández och Calatrava startar, Puado, Kike García och Carreras saknas som antaget och El Hilali är avstängd. Elche lämnar Buonanotte på bänken och startar Lemar i stället; Niño och Cepeda startar.
+→ Båda lagen ställer upp med de målvägar analysen vilar på, och Lemar ersätter Buonanottes kreativa roll rakt av. BTTS Ja står kvar på 59% (53–65%), rättvist odds 1,69, brytpunkt 57,1% vid 1,75. 🟡 LITET SPEL oförändrat. Buonanotte- och Marcos Fernández-raderna i skottabellen faller.
+
+**Vad detta gör med spelen:** ingen insats flyttas. 30 kr på BTTS Ja i Espanyol–Elche står kvar, Brentford–Chelsea är fortsatt utan spel, och tre skottrader utgår för spelare som inte startar.
