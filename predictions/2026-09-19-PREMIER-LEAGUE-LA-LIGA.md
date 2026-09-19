@@ -291,3 +291,15 @@ Enda matchen i fönstret är **Sevilla – Barcelona** (21:00). Celta–Racing o
 **Isaac Romero — förutsättningen är omtvistad, inte fallen.** Sportsgambler har honom avstängd efter rött kort och startar Ure; Sports Mole och The Hard Tackle har honom i elvan. Uppgiften är inte bekräftad åt något håll, så 13:00-antagandet står kvar till elvorna släpps (**L7**). Det är 20:00-körningens fråga, och den som kan flytta både över 3,5 och BTTS-resonemanget.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Kupongerna är orörda och singeln på över 3,5 står kvar på 60 kr.
+
+## 🔄 Tillägg 20:15 — bekräftade elvor (21:00-avsparken)
+
+**Sevilla – Barcelona:** Barcelona spelar med **Livaković i mål** — Szczesny sitter på bänken, alltså inte den målvakt analysen byggde på. Längst fram saknas renodlad nia: Yamal, Gordon och Raphinha bakom Fermín. Sevilla ställer om åt andra hållet — **Kochorashvili startar i stället för Guridi**, Ure ensam på topp, och **Sangante startar** trots skadebeskedet. **Isaac Romero är tillgänglig men bänkad**: avstängningen som antogs 13:00 gällde inte, vilket ger Sevilla en målväg sent som analysen inte räknade med.
+
+→ Dragen tar delvis ut varandra — reservmålvakt och en tillgänglig Romero drar upp, trubbigare startelvor i båda straffområdena drar ned. Netto ned, eftersom marknaden kräver fyra mål. **Över 3,5 sänks till 47% (41–53%), rättvist odds 2,13.** Priset 2,20 står kvar sedan 18:15, brytpunkten 45,5% ligger fortfarande inne i bandet och EV faller från +8% till +3,4%. Utfallskonfidens 5/10, spelkvalitet 5/10.
+
+**Barcelona över 2,5** — matchens bästa marknad — skattas ned till **55% (47–62%)**, rättvist odds 1,82, utan nia på plan mot en samlad Sevilla-elva. Brytpunkten 56,2% på priset 1,78 ligger nu över skattningen: **fortfarande inte spelad, och skälet skärps från tunt värde till negativt.**
+
+**Skottraderna:** Yamal och Raphinha startar båda. Guridi står utanför elvan och kan inte bedömas.
+
+**Vad detta gör med spelen:** singeln på över 3,5 sänks från 60 kr till **40 kr**, och 20 kr lämnas ospelade. Beslutsraden för matchen läses nu som **bekräftad elva**. Kupongerna är avgjorda och rörs inte.
