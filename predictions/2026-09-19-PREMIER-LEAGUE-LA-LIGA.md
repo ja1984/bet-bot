@@ -249,3 +249,29 @@ Fyra rader utan underlag (Lopez, Correia, Guridi, Sierra).
 ## 🟨 Kort
 
 Domartillsättningarna gick inte att belägga för någon av dagens matcher, och utan namn finns ingen kortstatistik att slå upp. Inget kortspel.
+
+## 🔄 Tillägg 15:15 — bekräftade elvor (16:00- och 16:15-avsparkarna)
+
+**Athletic – Alavés:** Vivian ute med skada och Yeray utanför elvan — Paredes går in bredvid Laporte, och Louis-Jean spelar högerback i stället för Areso. Den backlinje som höll två nollor är alltså halverad. Guruzeta missar matchen med hamstringsbesvär, vilket drar åt andra hållet. Nico Williams och Sancet startar som antaget.
+→ Under 2,5 sänks till **58% (52–64%)**, rättvist odds **1,72**. Priset har samtidigt rört sig från 1,95 till **1,89** hos samma källa (Sportsgambler, indikativt): brytpunkten stiger till 52,8% och ligger nu inne i bandet. Som eget spel är benet marginellt.
+
+**Newcastle – Hull City:** Hull ställer upp med femmannaförsvar och McBurnie ensam på topp. Newcastle startar med Wissa ensam framme bakom Barnes, Murphy och Fernandez-Pardo; Joelinton borta som antaget, och Burn saknas också.
+→ Under 2,5 höjs till **55% (49–60%)**, rättvist odds **1,82**.
+
+**Brighton – Arsenal:** Saliba ute som antaget, men Brighton saknar nio spelare — Dunk och Mitoma bland dem — och Kostoulas leder anfallet.
+→ Under 2,5 höjs till **49% (43–55%)**, rättvist odds **2,04**. Brytpunkten 47,6% ligger fortfarande inne i bandet: **kvarstår PASS**.
+
+**Everton – Ipswich:** inga överraskningar i någon av elvorna. Ingen ändring, kvarstår PASS.
+
+Beslutsraden för dessa fyra matcher läses nu som **bekräftad elva**. Skottraderna stämmer mot elvorna med två undantag: Yalcouye (Brighton) och Stroud (Hull) står utanför och kan inte bedömas på skott.
+
+Celta–Racing och Forest–Coventry sparkar igång om drygt tre timmar, elvorna är inte släppta och inget stort besked har kommit — de och Sevilla–Barcelona står orörda.
+
+**Vad detta gör med spelen:** ingen insats flyttas.
+
+| # | Spel | Odds | Sannolikhet | Rättvist odds | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|
+| 1 | Athletic under 2,5 & Forest–Coventry BTTS-Nej | 3,72 | 36% (28–44%) | 2,78 | +34% | 🟢 7 | 100 kr |
+| 2 | Celta under 2,5 & Newcastle under 2,5 | 4,91 | 31% (25–38%) | 3,19 | +54% | 🟢 7,5 | 70 kr |
+
+Kupong 1 räknas om på Athletics nya pris; Forest-benet står kvar på 13:00-priset 1,97. Båda kupongernas brytpunkter — 26,9% respektive 20,4% — ligger utanför bandet, så de står kvar trots att ankarbenet tunnats ut.
