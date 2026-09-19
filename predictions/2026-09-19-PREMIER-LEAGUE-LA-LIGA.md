@@ -275,3 +275,19 @@ Celta–Racing och Forest–Coventry sparkar igång om drygt tre timmar, elvorna
 | 2 | Celta under 2,5 & Newcastle under 2,5 | 4,91 | 31% (25–38%) | 3,19 | +54% | 🟢 7,5 | 70 kr |
 
 Kupong 1 räknas om på Athletics nya pris; Forest-benet står kvar på 13:00-priset 1,97. Båda kupongernas brytpunkter — 26,9% respektive 20,4% — ligger utanför bandet, så de står kvar trots att ankarbenet tunnats ut.
+
+## 🔄 Tillägg 18:15 — domartillsättning och pris på matchens bästa marknad
+
+Enda matchen i fönstret är **Sevilla – Barcelona** (21:00). Celta–Racing och Forest–Coventry sparkade igång före den här körningen och rörs inte.
+
+**Domaren är fastställd — det var den öppna posten.** Juan Martínez Munuera dömer, Raúl Martín González på VAR (RFEF-tillsättningen, via YSscores/Africa Soccer). Kortsiffrorna går isär mellan källorna: **4,81 gula/match på 298 matcher** (StatsHub, varav 243 i La Liga på 4,79) mot **4,21 gula/match på 384 matcher** (PlayerStats). Tre matcher hittills i säsongen, alltså karriärsiffror (**G3**).
+
+→ Därmed går kortmarknaden att prissätta: **totalt över 3,5 kort till 1,61** (MyBookie via lasvegassportsbetting, indikativt). Skattning **62% (54–69%)** — bandet kommer från de två oförenliga domarsnitten och från att en ensidig match, där hemmalaget ska jaga boll mot ett bortalag på 67% possession, är precis den speltyp där kortmarknaden underlevererar (**G7**). Rättvist odds 1,61, brytpunkt **62,1%** — inne i bandet och i praktiken på skattningen. **PASS** (**L1**). Filens skäl "domaren gick inte att belägga" gäller inte längre; marknaden är prissatt och betalar ändå inte.
+
+**H8-fältet får sitt pris.** Barcelona över 2,5 lagmål — utpekad som matchens bästa marknad 13:00, då utan pris — ligger på **1,78** (samma källa, indikativt). Mot analysens **57% (49–64%)** är brytpunkten **56,2%**, inne i bandet, EV +1,5%. **Bästa marknad: Barcelona över 2,5 — fortfarande inte spelad, men skälet ändras från `PRIS EJ TILLGÄNGLIGT` till otillräckligt värde (I4).** Övriga lagtotaler som nu gick att hämta: Sevilla över 0,5 till 1,61 kräver 62,3% mot skattat ~58% — negativt; Barcelona över 1,5 till 1,24 kräver 80,6% och äter upp hela övertaget.
+
+**Över 3,5 står kvar.** Priset 2,20 bekräftas av en andra Oddschecker-avläsning daterad 18 sep (scoresandstats) — ingen prisrörelse sedan 13:00.
+
+**Isaac Romero — förutsättningen är omtvistad, inte fallen.** Sportsgambler har honom avstängd efter rött kort och startar Ure; Sports Mole och The Hard Tackle har honom i elvan. Uppgiften är inte bekräftad åt något håll, så 13:00-antagandet står kvar till elvorna släpps (**L7**). Det är 20:00-körningens fråga, och den som kan flytta både över 3,5 och BTTS-resonemanget.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupongerna är orörda och singeln på över 3,5 står kvar på 60 kr.
