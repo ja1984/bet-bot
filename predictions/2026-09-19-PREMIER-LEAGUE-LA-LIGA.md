@@ -303,3 +303,157 @@ Enda matchen i fönstret är **Sevilla – Barcelona** (21:00). Celta–Racing o
 **Skottraderna:** Yamal och Raphinha startar båda. Guridi står utanför elvan och kan inte bedömas.
 
 **Vad detta gör med spelen:** singeln på över 3,5 sänks från 60 kr till **40 kr**, och 20 kr lämnas ospelade. Beslutsraden för matchen läses nu som **bekräftad elva**. Kupongerna är avgjorda och rörs inte.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Samtliga nio matcher är ligamatcher utan förlängning, så varje marknad avgörs på 90 minuter plus tillägg (**C10**). Tre händelser kontrollerades explicit. Igor Jesus kvitterade för Forest i 86:e och målet **underkändes av VAR** (frispark i uppspelet, på Yirenkyi) — hade det stått sig faller kupong 1:s BTTS-Nej-ben och kvällen slutar på −162 kr i stället för +250 kr. Thierno Barrys andra mål för Everton i 58:e underkändes för offside. Pablo Duráns femte mål för Celta föll i **90+2**, alltså inom ordinarie tid, och räknas. Inga mål gjordes i förlängning i någon match.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Tottenham – Aston Villa | 2–3 | Manzambi 45+4', Jackson 67', Buendía 79'; Gallagher 86', van Hecke 90+8' |
+| Osasuna – Rayo Vallecano | 1–1 | Budimir 16'; Camello 50' (assist Pedrosa) |
+| Everton – Ipswich Town | 1–0 | Barry 11' (assist Tarkowski); Barry 58' underkänt offside; Fatawu rött 67' (andra gula) |
+| Brighton – Arsenal | 3–0 | Groß 31', Kostoulas 45', Chema Andrés 57'; Arsenals första förlust för säsongen |
+| Newcastle – Hull City | 2–1 | Willock 3', Hall 7' (båda assist Barnes); Cho 67' (assist Belloumi); Wissas straff räddad av Tzolakis 45+2 |
+| Athletic Club – Alavés | 0–0 | Sancets straff räddad av Sivera 67' (straff efter Tenaglia på N. Williams); Athletic 24 skott mot 2 |
+| Celta Vigo – Racing Santander | 5–0 | H. González 32' (straff), Moriba 43', Román 69', Durán 78' och 90+2'; Celta 9 skott på mål |
+| Nottingham Forest – Coventry City | 0–1 | Dasilva 55' (assist Rushworth, målvakt); Igor Jesus kvittering 86' underkänd av VAR |
+| Sevilla – Barcelona | 1–3 | Fofana 19'; Raphinha 22', 52', 69' (hattrick, två assist Yamal); ett gult kort i hela matchen |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Osasuna–Rayo | Under 2,5 | 52% (46–57%) | 1,84 | — | 2 mål | ✅ |
+| Osasuna–Rayo | Över 2,5 | 48% (43–54%) | 1,93 | — | 2 mål | ❌ |
+| Osasuna–Rayo | BTTS Ja | 52% (46–57%) | 1,68 | — | 1–1 | ✅ |
+| Osasuna–Rayo | Osasuna över 1,5 | 35% (29–41%) | inget pris | — | 1 mål | ❌ |
+| Everton–Ipswich | Över 2,5 | 54% (48–59%) | 1,74 | — | 1 mål | ❌ |
+| Everton–Ipswich | Under 2,5 | 46% (41–52%) | 2,07 | — | 1 mål | ✅ |
+| Everton–Ipswich | BTTS Ja | 56% (50–61%) | 1,65 | — | 1–0 | ❌ |
+| Everton–Ipswich | Everton över 1,5 | 48% (42–54%) | inget pris | — | 1 mål | ❌ |
+| Brighton–Arsenal | Under 2,5 | 47% → 49% (43–55%) | 2,10 | — | 3 mål | ❌ |
+| Brighton–Arsenal | Över 2,5 | 53% (47–59%) | 1,71 | — | 3 mål | ✅ |
+| Brighton–Arsenal | BTTS-Nej | 45% (39–51%) | 2,10 | — | Arsenal 0 | ✅ |
+| Brighton–Arsenal | Brighton över 1,5 | 38% (32–45%) | inget pris | — | 3 mål | ✅ |
+| Newcastle–Hull | **Under 2,5** | 53% → 55% (49–60%) | 2,25 | **70 kr (K2)** | 3 mål | ❌ |
+| Newcastle–Hull | BTTS-Nej | 52% (46–57%) | 2,12 | — | 2–1 | ❌ |
+| Newcastle–Hull | BTTS Ja | 48% (43–54%) | 1,66 | — | 2–1 | ✅ |
+| Newcastle–Hull | Hull över 0,5 | 62% (55–68%) | inget pris | — | 1 mål | ✅ |
+| Athletic–Alavés | **Under 2,5** | 60% → 58% (52–64%) | 1,89 | **100 kr (K1)** | 0 mål | ✅ |
+| Athletic–Alavés | BTTS-Nej | 55% (48–61%) | 1,90 | — | 0–0 | ✅ |
+| Athletic–Alavés | Athletic vinst | 55% (49–61%) | 1,70 | — | 0–0 | ❌ |
+| Athletic–Alavés | Alavés under 1,5 | 72% (65–78%) | inget pris | — | 0 mål | ✅ |
+| Celta–Racing | **Under 2,5** | 57% (50–63%) | 2,18 | **70 kr (K2)** | 5 mål | ❌ |
+| Celta–Racing | BTTS-Nej | 50% (44–56%) | 2,20 | — | Racing 0 | ✅ |
+| Celta–Racing | Över 2,5 | 43% (37–50%) | 1,65 | — | 5 mål | ✅ |
+| Celta–Racing | Celta över 1,5 | 32% (26–38%) | inget pris | — | 5 mål | ✅ |
+| Forest–Coventry | **BTTS-Nej** | 62% (54–68%) | 1,97 | **100 kr (K1)** | Forest 0 | ✅ |
+| Forest–Coventry | Under 2,5 | 58% (51–64%) | 2,05 | — | 1 mål | ✅ |
+| Forest–Coventry | Forest vinst | 58% (51–64%) | 1,62 | — | 0–1 | ❌ |
+| Forest–Coventry | Coventry under 0,5 | 58% (50–65%) | inget pris | — | 1 mål | ❌ |
+| Sevilla–Barcelona | **Över 3,5** | 49% → 47% (41–53%) | 2,20 | **40 kr (singel)** | 4 mål | ✅ |
+| Sevilla–Barcelona | Över 2,5 | 80% (74–84%) | 1,29 | — | 4 mål | ✅ |
+| Sevilla–Barcelona | BTTS Ja | 57% (50–63%) | 1,57 | — | 1–3 | ✅ |
+| Sevilla–Barcelona | Barcelona över 2,5 lagmål | 57% → 55% (47–62%) | 1,78 | — | 3 mål | ✅ |
+| Sevilla–Barcelona | Sevilla över 0,5 lagmål | ~58% | 1,61 | — | 1 mål | ✅ |
+| Sevilla–Barcelona | Barcelona över 1,5 lagmål | — | 1,24 | — | 3 mål | ✅ |
+| Sevilla–Barcelona | Totalt över 3,5 kort | 62% (54–69%) | 1,61 | — | **1 gult i hela matchen** | ❌ |
+
+Tottenham–Aston Villa prissattes aldrig (utanför tidsfönstret) och har därför inga marknadsrader.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Osasuna | Budimir | 1+ | 67% | 90 | ≥1 (mål 16') | ✅ |
+| Osasuna | Barja | 1+ | underlag saknas | 56 | ej bedömbar | — |
+| Osasuna | Osambela | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Rayo | Camello | 1+ | underlag saknas | 71 | ≥1 (mål 50') | ✅ |
+| Rayo | De Frutos | 1+ | underlag saknas | 71 | ej bedömbar | — |
+| Rayo | Á. García | 1+ | underlag saknas | 87 | ej bedömbar | — |
+| Everton | Grealish | 1+ | 33% | 79 | ej bedömbar | — |
+| Everton | Barry | 1+ | underlag saknas | 90 | ≥1 (mål 11') | ✅ |
+| Everton | Dewsbury-Hall | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Ipswich | Emersonn | 1+ | underlag saknas | 81 | ej bedömbar | — |
+| Ipswich | Enciso | 1+ | underlag saknas | 74 | ej bedömbar | — |
+| Ipswich | Fatawu | 1+ | underlag saknas | 67 (utvisad) | ej bedömbar | — |
+| Arsenal | Saka | 1+ | 58% | 81 | ej bedömbar | — |
+| Arsenal | Havertz | 1+ | 28% | 90 | ej bedömbar | — |
+| Arsenal | Ødegaard | 1+ | 28% | 73 | ej bedömbar | — |
+| Brighton | Kostoulas | 1+ | underlag saknas | 76 | ≥1 (mål 45') | ✅ |
+| Brighton | Yalcouyé | 1+ | underlag saknas | 5 (inhopp 85') | ej bedömbar | — |
+| Brighton | Gómez | 1+ | underlag saknas | 86 | ej bedömbar | — |
+| Newcastle | Barnes | 1+ | 43% | 90 | ej bedömbar (två assist) | — |
+| Newcastle | Wissa | 1+ | 23% | 90 | ≥1 (straff räddad 45+2) | ✅ |
+| Newcastle | Murphy | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Hull | McBurnie | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Hull | Belloumi | 1+ | underlag saknas | 83 | ej bedömbar | — |
+| Hull | Stroud | 1+ | underlag saknas | **0 (bänk hela matchen)** | — | ❌ speltid |
+| Athletic | N. Williams | 1+ | 47% | 90 | ej bedömbar (vann straffen 67') | — |
+| Athletic | Sancet | 1+ | 42% | 90 | ≥1 (straff räddad 67') | ✅ |
+| Athletic | I. Williams | 1+ | underlag saknas | 62 | ej bedömbar | — |
+| Athletic | Navarro | 1+ | underlag saknas | 75 | ej bedömbar | — |
+| Alavés | tre namnlösa rader | 1+ | trupp ej verifierad | **går ej att fylla i** | — | — |
+| Celta | Jutglà | 1+ | 58% | 63 | ej bedömbar | — |
+| Celta | H. Álvarez | 1+ | underlag saknas | 90 | ej bedömbar (två assist) | — |
+| Celta | H. González | 1+ | underlag saknas | 46 | ≥1 (straffmål 32') | ✅ |
+| Racing | Canales | 1+ | underlag saknas | 27 (inhopp 63') | ej bedömbar | — |
+| Racing | Zabiri | 1+ | underlag saknas | 75 | ej bedömbar | — |
+| Racing | Vicente | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Forest | Gibbs-White | 1+ | 58% | startade, utbytesminut ej belagd | ej bedömbar | — |
+| Forest | Delap | 1+ | 32% | startade, ≥58 (gult 58') | ej bedömbar | — |
+| Forest | Igor Jesus | 1+ | underlag saknas | 32 (inhopp 58') | ej bedömbar* | — |
+| Coventry | Simms | 1+ | underlag saknas | 17 (inhopp 73') | ej bedömbar | — |
+| Coventry | Rudoni | 1+ | underlag saknas | 73 | ej bedömbar | — |
+| Coventry | Mason-Clark | 1+ | underlag saknas | 45 (byttes i paus) | ej bedömbar | — |
+| Barcelona | Yamal | 1+ | 73% | 90 | ej bedömbar (två assist) | — |
+| Barcelona | Raphinha | 1+ | 66% | 77 | ≥3 (hattrick 22', 52', 69') | ✅ |
+| Barcelona | F. López | 1+ | underlag saknas | startade, utbytesminut ej belagd | ej bedömbar | — |
+| Sevilla | Correia | 1+ | underlag saknas | 59 | ej bedömbar | — |
+| Sevilla | Guridi | 1+ | underlag saknas | 11 (inhopp 79') | ej bedömbar | — |
+| Sevilla | Sierra | 1+ | underlag saknas | 79 | ej bedömbar | — |
+
+*Igor Jesus nickade i 76:e (rensad på linjen) och satte bollen i mål i 86:e, men målet underkändes för frispark i uppspelet. En underkänd träff av det slaget stryks normalt ur skottstatistiken, så raden står som `ej bedömbar` i stället för ✅.
+
+**48 rader publicerades över åtta matcher, 45 av dem med namn.** Åtta rader kunde avgöras mot sin linje — Budimir, Camello, Barry, Kostoulas, Wissa, Sancet, H. González och Raphinha — och **samtliga åtta landade**, alla via ett noterat mål eller en noterad straffräddning, samma bevisstandard som 13, 16 och 17 september. Två av dem (Wissa 23%, Sancet 42%) landade på en räddad straff, alltså på matchens enskilt mest osannolika väg till ett skott på mål. **En rad föll på ren speltid** (**J4**): Stroud satt kvar på bänken hela matchen — och det var korrekt förutsagt, eftersom 15:15-uppdateringen redan hade flaggat honom som utanför elvan (**J4b**). **Trettiosju rader fick sin minutsiffra men ingen skottsiffra.** Ingen spelarvis skott på mål-statistik gick att hämta i efterhand för någon av kvällens matcher, vilket är det normala utfallet **J4** beskriver och inte en processmiss.
+
+Tre rader (Gibbs-White, Delap, F. López) står som startande utan belagd utbytesminut — samtliga källor bekräftar starten men ingen redovisar bytet, så de var på planen och distinktionen "sköt inte" kontra "var inte på planen" är ändå avgjord. **Tre rader gick inte att minutkontrollera alls**: Alavés tre främsta skyttar publicerades utan namn under `trupp ej verifierad`, och utan ett namn finns ingen elva att slå upp. Det är samma **J4c**-mekanism som noterades 15 september. En räknefelsnotering: filen skrev "Fyra rader utan underlag" för Athletic–Alavés men räknade upp fem (I. Williams, Navarro plus Alavés tre).
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare: Athletic under 2,5 (0–0 ✅) & Forest–Coventry BTTS-Nej (0–1 ✅) | ✅ 100 kr × 3,72 = **+272 kr** | — |
+| 2 — Huvudspel: Celta under 2,5 (5–0 ❌) & Newcastle under 2,5 (2–1 ❌) | ❌ **−70 kr** | **båda** benen föll |
+
+Kupongerna är ett enda set, lagt 13:00 och omräknat 15:15 utan att någon insats flyttades; 18:15- och 20:15-tilläggen rörde bara singeln. Avsnittstotal och dagstotal är därför samma siffra.
+
+**Singel:** Sevilla–Barcelona över 3,5, 40 kr × 2,20 ✅ (1–3, fyra mål) = **+48 kr**. Posten skrevs ned från 60 kr till 40 kr 20:15; de 20 kr som lämnades ospelade hade gett ytterligare +24 kr.
+
+### Totalt: 1/2 kuponger · 1/1 singlar · +250 kr
+
+Kupongerna: +202 kr på 170 kr insats. Singeln: +48 kr på 40 kr. Dagen: **+250 kr på 210 kr spelat** av 300 kr budget.
+
+*Räknat på filens egna rättvisa odds i stället för de indikativa previewpriserna (2,78 för kupong 1 och 2,13 för singeln) blir kvällen +153 kr; spannet är +153 till +250 kr och den högre posten används, samma konvention som 10–18 september. Underlaget är svagare än tidigare kvällar: kupong 1:s pris 3,72 kommer från **en** källa (Sportsgambler, indikativt) och över 3,5-priset 2,20 bekräftades av två Oddschecker-avläsningar, alltså inte två oberoende marknader. Priserna kan ha rört sig.*
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 (Athletic under 2,5 & Forest BTTS-Nej) | +272 kr | Bra beslut — båda benen vann på den mekanism analysen skrev ut i förväg, men BTTS-Nej-benet låg en VAR-granskning från att falla |
+| Kupong 2, ben A — Celta under 2,5 | −70 kr (hela kupongen) | Recensbias (**L3**) — Celtas tre mål på sex omgångar lästes som egenskap utan motståndarjustering, mot ligans sämsta försvar |
+| Kupong 2, ben B — Newcastle under 2,5 | (samma kupong) | Dålig sannolikhet — Hulls två insläppta vilade på fyra matcher, under **A2**:s gräns, och bar ändå uppskrivningen 53% → 55% |
+| Kupongsetet som helhet | +202 kr | Korrelation (**L6**) — fyra av fyra ben på samma tes (få mål); filen kvantifierade det och lämnade 70 kr ospelade, vilket är rätt hantering men inte en hedge |
+| Singel Sevilla–Barça över 3,5 | +48 kr | Bra beslut — 2,20 mot brytpunkt 45,5% betalade för osäkerheten; nedskrivningen till 40 kr följde **L1** och kostade 24 kr på en vinnare utan att därför vara fel |
+| Kort över 3,5 i Sevilla–Barça (passad) | 0 kr | Dålig sannolikhet — 62% på en match som gav **ett** gult kort totalt; passet räddades av **L1**, inte av siffran |
+| Barcelona över 2,5 lagmål (passad, matchens bästa marknad) | 0 kr | Dålig sannolikhet — sänkt till 55% på "ingen renodlad nia", laget gjorde tre; **H8**-raden skrevs korrekt men skattningen bar den inte |
+| Celta–Racing över 2,5 (undviken) | 0 kr | Dålig sannolikhet — 43% mot 5–0, spegelbilden av samma misstag som under-benet |
+| Brighton–Arsenal under 2,5 (passad) | 0 kr | Bra beslut — brytpunkten låg inne i bandet och matchen slutade 3–0 |
+| Osasuna–Rayo under 2,5 och Everton–Ipswich över 2,5 (passade) | 0 kr | Bra beslut — båda passades på pris, och skattningens riktning stämde i båda |
+
+**Fem av åtta marknader i *Medvetet undvikna spel* landade**, samtliga negativa till de noterade priserna, så varje enskilt avstående följde värdetestet. Kvällens starkaste läsning var Forest–Coventry BTTS-Nej på 62%: motargumentet pekade ut tröstmålet som den klassiska vägen förbi marknaden, och det tröstmålet gjordes — och underkändes. Kvällens svagaste var Celta under 2,5 på 57% mot 5–0. Inget av kvällens fynd når **A2**:s åtta datapunkter eller **A2b**:s trettio, så inget regelförslag lämnas. **A7**-räknaren står oförändrad på sju BTTS Ja-rader: fyra BTTS Ja-marknader skattades, ingen rekommenderades, och tre av fyra landade.
