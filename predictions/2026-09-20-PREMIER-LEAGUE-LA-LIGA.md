@@ -208,3 +208,11 @@ Valencia under 0,5 lagmål är den renaste formen av tesen och gick inte att pri
 ## 🟨 Kort
 
 Busquets Ferrer dömer Villarreal–Levante på 5,53 gula per match över 146 karriärmatcher och 6,05 den gångna säsongen, och Ortiz Arias derbyt på 4,68. Inget kortspel — lagens kort per match saknas och ingen kortlinje gick att få.
+
+## 🔄 Tillägg 20:40 — bekräftade elvor
+
+**Valencia–Real Sociedad:** Valencia ställer upp som väntat, med Duro och Danjuma i anfallet. Real Sociedad roterar tyngre än väntat efter torsdagens europaförlust — Kubo, Barrenetxea, Herrera och Sarr börjar på bänken, Beitia går in i mittförsvaret och Ochieng på kanten — och Oyarzabal är den enda etablerade målpunkten kvar i gästernas elva.
+→ BTTS-Nej höjs till 65% (60–69%), rättvist odds 1,54, EV +37% mot 2,10. Utfallskonfidens 7/10, kvalitet 🟢 8. Bekräftad elva.
+Det oprövade mittbacksparet drar åt andra hållet och sänker tröskeln för Valencias första hemmamål för säsongen; det är den risken som håller bandets nedre kant på 60%.
+
+**Vad detta gör med spelen:** ingen insats flyttas. BTTS-Nej ligger bara som kupongben ihop med Deportivo–Betis, och den matchen har redan sparkat igång.
