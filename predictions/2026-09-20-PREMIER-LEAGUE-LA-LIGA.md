@@ -216,3 +216,136 @@ Busquets Ferrer dömer Villarreal–Levante på 5,53 gula per match över 146 ka
 Det oprövade mittbacksparet drar åt andra hållet och sänker tröskeln för Valencias första hemmamål för säsongen; det är den risken som håller bandets nedre kant på 60%.
 
 **Vad detta gör med spelen:** ingen insats flyttas. BTTS-Nej ligger bara som kupongben ihop med Deportivo–Betis, och den matchen har redan sparkat igång.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** inga matcher gick till förlängning, så allt nedan är 90 minuter plus ordinarie tilläggstid. Fem mål föll efter 80:e minuten och räknas samtliga: Haaland 81', Beitia/Blázquez 84' (2–2 på Mestalla), Azón 85', Mikautadze 86', Villares 87', Cunha 89', Rüdiger 89' och Barrenetxea 90+1. Barrenetxeas mål är ordinarie tilläggstid i andra halvlek, inte förlängning, och räknas därför. Inget spel avgjordes av ett mål som skulle ha räknats bort — Valencia–Sociedads BTTS-Nej var redan fälld i 84:e, och Deportivo–Betis under 2,5 höll trots kvitteringen i 87:e.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Getafe – Málaga | 1–0 | Azón 85' (assist Satriano). Málaga utan mål. |
+| Bournemouth – Liverpool | 0–1 | Isak 58'. Liverpools tredje raka nolla i ligan. |
+| Leeds – Crystal Palace | 0–0 | Mitchells mål underkänt av VAR; Benítez fem räddningar, Calvert-Lewin rakt på honom. Fem gula. |
+| Man City – Sunderland | 5–3 | E. Fernández 9', Brobbey 12', Cherki 29', Brobbey 33', Semenyo 43', Semenyo 57', Brobbey 59', Haaland 81'. Hattrick i förlust. |
+| Atlético – Real Madrid | 2–1 | Huijsen utvisad 52' för fällning i straffområdet, Grimaldo straff 53', Jonathan David 59', Rüdiger 89'. Real med tio man i nästan 40 minuter. |
+| Fulham – Man United | 1–1 | Självmål Lisandro Martínez 56', Cunha 89' via deflektion. 26 avslut i första halvlek utan mål. |
+| Villarreal – Levante | 3–1 | Ayoze Pérez 41', Iván Romero 42', Moleiro 54', Mikautadze 86'. Villarreal 21 avslut mot 5. |
+| Deportivo – Real Betis | 1–1 | Cucho Hernández 43', Villares 87'. |
+| Valencia – Real Sociedad | 2–3 | Sučić 26', Mayol, Soler straff 75', 2–2 på nick efter Mayols inlägg 84' (bokförd som självmål av Beitia i flera källor), Barrenetxea 90+1. Óskarsson utvisad 90+6. |
+
+Nio matcher, 26 mål — 2,89 per match. Under 2,5 landade i fem av nio.
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Getafe – Málaga | **BTTS-Nej** | 70% (64–75%) | 1,61 | 30 kr | Málaga 0 mål | ✅ |
+| Getafe – Málaga | Under 2,5 | 69% | 1,47 | — | 1 mål | ✅ |
+| Getafe – Málaga | Getafe vinst | 45% | 1,97 | — | 1–0 | ✅ |
+| Getafe – Málaga | Málaga under 0,5 lagmål | 58% | pris saknades | — | 0 mål | ✅ |
+| Bournemouth – Liverpool | Under 2,5 | 41% | 2,70 | — | 1 mål | ✅ |
+| Bournemouth – Liverpool | Över 2,5 | 59% | 1,46 | — | 1 mål | ❌ |
+| Bournemouth – Liverpool | BTTS | 62% | 1,41 | — | Bournemouth 0 | ❌ |
+| Bournemouth – Liverpool | Liverpool över 1,5 lagmål | 48% | pris saknades | — | 1 mål | ❌ |
+| Leeds – Palace | **Leeds över 2,5 lagmål** | 35% (30–40%) | 3,25 | 40 kr | 0 mål | ❌ |
+| Leeds – Palace | Leeds vinst | 54% | 1,75 | — | 0–0 | ❌ |
+| Leeds – Palace | BTTS | 57% | 1,70 | — | 0–0 | ❌ |
+| Leeds – Palace | Leeds över 1,5 lagmål | 62% | pris saknades | — | 0 mål | ❌ |
+| Man City – Sunderland | **Under 2,5** | 50% (44–56%) | 2,30 | kupongben | 8 mål | ❌ |
+| Man City – Sunderland | Över 2,5 | 48% | 1,61 | — | 8 mål | ✅ |
+| Man City – Sunderland | BTTS-Nej | 58% | 1,79 | — | båda gjorde mål | ❌ |
+| Man City – Sunderland | City −1,5 handikapp | 45% | 1,89 | — | 5–3 | ✅ |
+| Atlético – Real Madrid | Atlético +0,5 (dubbelchans) | 58% (52–64%) | 1,78 | — | 2–1 | ✅ |
+| Atlético – Real Madrid | Över 2,5 | 60% | 1,52 | — | 3 mål | ✅ |
+| Atlético – Real Madrid | BTTS | 60% | 1,45 | — | båda gjorde mål | ✅ |
+| Atlético – Real Madrid | Under 2,5 | 40% | 2,48 | — | 3 mål | ❌ |
+| Fulham – Man United | Under 2,5 | 40% (34–46%) | 2,48 | — | 2 mål | ✅ |
+| Fulham – Man United | Över 2,5 | 60% | 1,52 | — | 2 mål | ❌ |
+| Fulham – Man United | BTTS | 62% | 1,46 | — | båda gjorde mål | ✅ |
+| Fulham – Man United | Man United vinst | 44% | 1,97 | — | 1–1 | ❌ |
+| Villarreal – Levante | **Levante dubbelchans** | 44% (38–50%) | 2,55 | kupongben | 3–1 | ❌ |
+| Villarreal – Levante | Över 2,5 | 64% | 1,44 | — | 4 mål | ✅ |
+| Villarreal – Levante | BTTS | 58% | 1,54 | — | båda gjorde mål | ✅ |
+| Villarreal – Levante | Villarreal över 1,5 lagmål | 53% | pris saknades | — | 3 mål | ✅ |
+| Deportivo – Betis | **Under 2,5** | 54% (49–59%) | 2,08 | kupongben | 2 mål | ✅ |
+| Deportivo – Betis | BTTS-Nej | 50% | 2,20 | — | båda gjorde mål | ❌ |
+| Deportivo – Betis | Över 2,5 | 46% | 1,72 | — | 2 mål | ❌ |
+| Deportivo – Betis | Betis över 1,5 lagmål | 33% | pris saknades | — | 1 mål | ❌ |
+| Valencia – Sociedad | **BTTS-Nej** | 62% → 65% (60–69%) | 2,10 | kupongben | båda gjorde mål | ❌ |
+| Valencia – Sociedad | Under 2,5 | 58% | 1,88 | — | 5 mål | ❌ |
+| Valencia – Sociedad | BTTS | 38% | 1,67 | — | båda gjorde mål | ✅ |
+| Valencia – Sociedad | Valencia under 0,5 lagmål | 45% | pris saknades | — | 2 mål | ❌ |
+
+De tre matcher där bästa marknaden pekades ut men inte spelades landade alla tre: Bournemouth–Liverpool under 2,5, Fulham–United under 2,5 och Atlético +0,5. Av de tolv medvetet undvikna marknaderna landade sju — exakt vad de noterade priserna implicerade sammanlagt (7,3 förväntade träffar), och nära filens egna skattningar (6,8). Avståendena var alltså varken bra eller dåliga som grupp; de var prissatta.
+
+### Skott på mål
+
+Inga linjer och inga sannolikheter publicerades — samtliga rader stod som underlag saknas. Minuterna kontrolleras ändå, eftersom det är den enda kolumnen som skiljer "sköt inte" från "var inte på planen".
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Getafe | Enes Ünal | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Getafe | Martín Satriano | — | — | start, utbytesminut ej belagd | ej bedömbar (assist 85') | — |
+| Málaga | David Larrubia | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Liverpool | Alexander Isak | — | — | 89 (utbytt) | minst 1 (mål 58') | — |
+| Bournemouth | Evanilson | — | — | start, ej i den redovisade bytesloggen | ej bedömbar | — |
+| Bournemouth | Justin Kluivert | — | — | **0 — varken i elvan eller bland redovisade inhopp** | föll på speltid | — |
+| Leeds | Dominic Calvert-Lewin | — | — | 90 | ej bedömbar (sköt rakt på Benítez) | — |
+| Crystal Palace | Jørgen Strand Larsen | — | — | 82 (utbytt) | ej bedömbar | — |
+| Crystal Palace | Ismaïla Sarr | — | — | **inhopp 82' — ca 8 + tilläggstid** | ej bedömbar | — |
+| Man City | Erling Haaland | — | — | start, utbytesminut ej belagd | minst 1 (mål 81') | — |
+| Man City | Rayan Cherki | — | — | start, utbytesminut ej belagd | minst 1 (mål 29') | — |
+| Sunderland | Brian Brobbey | — | — | start, utbytesminut ej belagd | minst 3 (mål 12', 33', 59') | — |
+| Real Madrid | Kylian Mbappé | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Real Madrid | Vinícius Júnior | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Atlético | Jonathan David | — | — | start, utbytesminut ej belagd | minst 1 (mål 59') | — |
+| Man United | Matheus Cunha | — | — | 90 | minst 1 (mål 89') | — |
+| Man United | Bryan Mbeumo | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Fulham | Alex Iwobi | — | — | ca 71 (utbytt) | ej bedömbar | — |
+| Villarreal | Georges Mikautadze | — | — | **inhopp, minut ej belagd** | minst 1 (mål 86') | — |
+| Villarreal | Gerard Moreno | — | — | **0 — bänkad, inget inhopp belagt** | föll på speltid | — |
+| Levante | Roger Brugué | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Deportivo | Pierre-Emerick Aubameyang | — | — | **0 — bänkad, inget inhopp belagt** | föll på speltid | — |
+| Real Betis | Antony | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Real Betis | Isco | — | — | **0 — bänkad, inget inhopp belagt** | föll på speltid | — |
+| Valencia | Hugo Duro | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Valencia | Arnaut Danjuma | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+| Real Sociedad | Mikel Oyarzabal | — | — | start, utbytesminut ej belagd | ej bedömbar | — |
+
+27 rader över nio matcher. **Noll** rader kunde avgöras mot en linje, eftersom ingen linje publicerades. Sju rader har ändå bevis för minst ett skott på mål via ett noterat mål. **Sex rader startade inte** — fyra av dem satt kvar på bänken eller stod utanför truppen helt. Alla 27 namn gick att minutkontrollera, vilket är första gången kolumnen är komplett sedan 14 september. Ingen spelarvis skott på mål-statistik gick att hämta i efterhand för någon av de nio matcherna.
+
+### Kuponger
+
+Ett enda kupongset, lagt 13:00. Tillägget 20:15 flyttade ingen insats, så avsnittstotal och dagstotal är samma siffra.
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, 90 kr × 4,37 | ❌ | Valencia–Sociedad BTTS-Nej (2–3). Deportivo–Betis under 2,5 landade. |
+| 2 — Huvudspel, 60 kr × 5,87 | ❌ | Båda: Man City under 2,5 (5–3) och Levante dubbelchans (1–3). |
+
+### Totalt: 0/2 kuponger · 1/2 singlar · −171,70 kr
+
+Insats 220 kr (150 kr kuponger, 70 kr singlar). Enda returen: Getafe–Málaga BTTS-Nej 30 kr × 1,61 = 48,30 kr.
+
+*Priserna är indikativa (sportsgambler, football365). Räknat på filens eget rättvisa odds för den enda vinnaren (1,43) blir natten −177,10 kr; spannet är −177 till −172 kr och den högre posten används, samma konvention som tidigare kvällar.*
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Getafe–Málaga BTTS-Nej (singel) | +18,30 kr | Bra beslut — två anfall utan en spelare som gör mål på egen hand, och matchen gav ett mål. |
+| Leeds–Palace Leeds över 2,5 lagmål (singel) | −40 kr | Recensbias — en 4–1 och motståndarens frånvarolista lästes som målmiljö; gästerna skapade de bästa chanserna och höll nollan. |
+| Kupong 1 — Ankare | −90 kr | Korrelation — hävstång på en och samma måltes i två matcher. |
+| Kupong 2 — Huvudspel | −60 kr | Korrelation — samma tes igen, och den här gången föll båda benen. |
+| Ben: Valencia–Sociedad BTTS-Nej | föll | Dålig tolkning — rotationen lästes som att gästernas målpunkter var borta; två av de bänkade avgjorde matchen efter inhopp. |
+| Ben: Man City under 2,5 | föll | Narrativbias — nio raka hemmamöten med minst två hemmamål stod i filen som motargument och flyttade skattningen ett par punkter. |
+| Ben: Levante dubbelchans | föll | Varians, men brytpunkten låg inne i bandet — ett marginellt spel gjordes till kupongben. |
+| Ben: Deportivo–Betis under 2,5 | landade | Bra beslut — tät match, två mål, precis den läsning som skrevs. |
+
+Kvällens tes var inte fel: under 2,5 landade i fem av nio matcher och de tre avstådda undermarknaderna gick alla in. Hela exponeringen låg ändå på två kuponger som krävde att fyra specifika ben höll samtidigt, och nedskalningen av kupongbudgeten från 300 till 150 kr var därför rätt reflex men fel verktyg — den minskade insatsen utan att minska antalet ben.
+
+**Lärdom:** en räkning av hur många undvikna marknader som landade säger ingenting förrän den ställs mot summan av de implicerade sannolikheterna. Sju av tolv i kväll ser ut som en missad kant och är exakt vad priserna förutsade.
