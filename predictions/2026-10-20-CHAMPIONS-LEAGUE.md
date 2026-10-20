@@ -222,3 +222,18 @@ BTTS och över 2,5 är båda rätt läsning av matchen och fel pris — brytpunk
 ## 🟨 Kort
 
 Sánchez Martínez ligger på 5,37 gula per match över 431 karriärmatcher och är kvällens klart kortrikaste domare; Marciniak 4,07, Siebert 4,23, Schärer 4,09 och Gözübüyük 4,10 ligger kring snittet, Oliver 3,49 och Alberola Rojas 3,25 under. Inget kortspel — ingen kortlinje gick att få pris på, och lagens kort per match saknas för de sex klubbarna utanför de fem stora ligorna.
+
+## 🔄 Tillägg 18:15 — bekräftade besked inför 21:00
+
+**PSG–Barcelona.** Avstängningsfrågan som analysen lämnade öppen är avgjord: **inga avstängningar** på någondera sidan. Barcelona saknar bekräftat Koundé (fotled), Eric García (lår), Christensen (lår) och Bardghji (korsband), och Gerard Martín är tveksam (fotled); PSG saknar Nuno Mendes (lår), Marquinhos är tillbaka. Tre mittbackar ute och den fjärde tveksam var matchens öppna fråga — den faller åt PSG:s håll, och bandet smalnar när osäkerhetskällan försvinner.
+
+→ **PSG vinst: 44% (38–49%) → 47% (42–52%)**, rättvist odds 2,13. Pris 2,48 indikativt står kvar (Football Whispers 2,50, Sportytrader 2,51, 20 okt — ingen materiell prisrörelse). Brytpunkt 40,3% ligger nu **utanför** bandet. EV +9% → **+17%**. Utfallskonfidens 5,5 → 6,0. 🟡 LITET SPEL → **🟢 SPELA**, spelkvalitet 🟡 6,5 → 🟢 7,0.
+→ **Kupong 2** (PSG vinst + Liverpool BTTS-Nej): 23% (17–29%) → **25% (19–31%)**, rättvist odds 4,00, odds 5,90, brytpunkt 16,9%. EV +38% → **+47%**. Kvalitet 🟡 6,5 → 🟢 7,0.
+
+**Man City–AEK.** Haaland saknades i måndagens avslutande pass och tränaren säger "He can be available. We will see." Villkoret som Under 3,5 vilar på hårdnar, men hans status är fortfarande inte bekräftad — skattningen står kvar tills 20:00-körningen ser elvan.
+
+**Liverpool–Villarreal.** Frimpong bekräftat ute vid sidan av Szoboszlai, Gravenberch tillbaka från avstängning. Båda drar åt BTTS-Nej men för lite för att flytta skattningen. Ingen ändring.
+
+**Napoli–Bodø/Glimt.** Bodø saknar Evjen och Bech Riisnæs (knä) samt Mikkelsen (ljumske), Blomberg tveksam. Inget bekräftat som ändrar BTTS-Nej. Ingen ändring.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupong 2 står kvar på 70 kr — uppgraderingen ligger i robustheten, inte i storleken, och kvarts-Kelly på de nya talen ger ~64 kr mot kupong 1:s 100 kr, så en höjning vore överspel. De två 18:45-matcherna rörs inte: båda är inom 30-minutersgränsen, och båda var PASS utan exponering.
