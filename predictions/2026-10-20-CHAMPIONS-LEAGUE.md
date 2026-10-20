@@ -237,3 +237,30 @@ Sánchez Martínez ligger på 5,37 gula per match över 431 karriärmatcher och 
 **Napoli–Bodø/Glimt.** Bodø saknar Evjen och Bech Riisnæs (knä) samt Mikkelsen (ljumske), Blomberg tveksam. Inget bekräftat som ändrar BTTS-Nej. Ingen ändring.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Kupong 2 står kvar på 70 kr — uppgraderingen ligger i robustheten, inte i storleken, och kvarts-Kelly på de nya talen ger ~64 kr mot kupong 1:s 100 kr, så en höjning vore överspel. De två 18:45-matcherna rörs inte: båda är inom 30-minutersgränsen, och båda var PASS utan exponering.
+
+## 🔄 Tillägg 20:15 — bekräftade startelvor inför 21:00
+
+**Man City–AEK. Haaland bekräftat på bänken.** Villkoret som Under 3,5 vilade på är avgjort: City gör åtta byten och Floyd Samba gör sin första CL-start som ensam anfallare, med Haaland, Doku och Ndiaye bland avbytarna (Yahoo Sports laguppställning publicerad 17:52 UTC, CityXtra och dave.sport med identisk elva — tre oberoende källor). City: Donnarumma; Lewis, Khusanov, Dias, Gvardiol; Anderson, Fernández; Allan, Cherki, Foden; Samba. AEK: Brignoli; Rota, Moukoudi, Relvas, Pilios; Majer, Arriaga, Marin, João Mário; Jović, Varga.
+→ **Under 3,5: 52% (45–59%) → 57% (50–63%)**, rättvist odds 1,75. Pris 2,27 indikativt står kvar. Brytpunkt 44,1% ligger utanför bandet. EV +18% → **+29%**. Utfallskonfidens 6,0 → 6,5. 🟡 LITET SPEL → **🟢 SPELA**, spelkvalitet 🟡 6,5 → 🟢 7,0.
+Nudgen stannar på fem punkter: Haaland kan kliva in i andra halvlek, och en elva med åtta byten släpper rimligen till mer bakåt — båda drar åt över-hållet.
+
+**Napoli–Bodø/Glimt. Gästernas anfallstrio är intakt.** Blomberg, tveksam vid 18:15, startar tillsammans med Helmersen och Hauge. Napoli: Meret; Di Lorenzo, Rrahmani, Rafa Marín, Spinazzola; Anguissa, De Bruyne, McTominay; Politano, Højlund, Lang — Rafa Marín i mittförsvaret och Meret i mål, båda andrahandsval (Football Italia, officiella elvor).
+→ **BTTS-Nej: 60% (53–67%) → 57% (50–63%)**, rättvist odds 1,75. Pris 2,37 står kvar. Brytpunkt 42,2% utanför bandet. EV +42% → **+35%**. Utfallskonfidens 7,0 → 6,5. **🟢 SPELA står kvar.**
+
+**Liverpool–Villarreal. Sex byten — men Alisson och Van Dijk startar.** Isak, Wirtz och Barcola är bänkade; Ngumoha, Gakpo och Koumas startar framåt (This Is Anfield, Yahoo Sports). Villarreal ställer upp med Mikautadze, Moleiro och Buchanan framåt, där Buchanans medverkan motsägs mellan källorna och därför inte vägs in.
+→ **Ingen ändring. BTTS-Nej står kvar på 53% (46–59%)**, rättvist odds 1,89, EV +26%. De två effekterna tar ut varandra: ett kraftigt roterat Liverpool gör det något mer sannolikt att hemmalaget självt uteblir från målprotokollet, medan en ovan backlinje gör Villarreal-målet något mer sannolikt. Att Alisson och Van Dijk inte vilades är skälet att nettot inte blir negativt.
+
+**PSG–Barcelona. Gerard Martín klarade sig — den öppna frågan föll åt Barcelonas håll.** PSG: Safonov; Hakimi, Marquinhos, Pacho, Hernández; Neves, Vitinha, Ruiz; Doué, Dembélé, Kvaratskhelia — starkast tillgängliga elva. Barcelona: Joan García; Espart, Cubarsí, Gerard Martín, Cancelo; Pedri, Bernal, Olmo; Yamal, Raphinha, Gordon, med Rodri på bänken (Parisfans officiella elvor, Heavy, Barça Blaugranes). Raphinha startar efter lårskadan.
+→ **PSG vinst: 47% (42–52%) → 46% (41–51%)**, rättvist odds 2,17. Pris 2,48 står kvar. Brytpunkt 40,3% ligger kvar utanför bandet, men med knapp marginal. EV +17% → **+14%**. Utfallskonfidens 6,0 oförändrad. 🟢 SPELA → **🟡 LITET SPEL**, spelkvalitet 🟢 7,0 → 🟡 6,5.
+18:15-uppgraderingen vilade delvis på att även den fjärde mittbacken kunde falla bort. Han spelar, och Raphinha är tillbaka — det tar tillbaka en del av uppgraderingen, inte hela, eftersom backlinjen fortfarande är provisorisk med Cubarsí som enda renodlade mittback.
+
+**Kupongerna omräknade**
+
+| # | Spel | Odds | 18:15 | Nu | Rättvist odds | Brytpunkt | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Napoli BTTS-Nej + Man City under 3,5 | 5,38 | 31% (24–40%) | **32% (25–40%)** | 3,08 | 18,6% | +68% → **+75%** | 🟢 7,5 → **🟢 8,0** | 100 kr |
+| 2 | PSG vinst + Liverpool BTTS-Nej | 5,90 | 25% (19–31%) | **24% (19–30%)** | 4,10 | 16,9% | +47% → **+44%** | 🟢 7,0 | 70 kr |
+
+**Insatserna står kvar — 170 kr totalt.** Kvarts-Kelly på de nya talen ger ~113 kr för kupong 1 mot staken 100 kr och ~59 kr för kupong 2 mot 70 kr. Båda ligger inom den tolerans 18:15-körningen redan accepterade, och att flytta pengar mellan kuponger 45 minuter före avspark på en rotationsläsning är överspel.
+
+**Övriga matcher.** Roma–Slovan, Stuttgart–Atlético och Porto–PSV står kvar som PASS utan exponering — för tre av dem var skälet att bästa marknad saknade pris, och en bekräftad elva levererar inget pris. De två 18:45-matcherna har sparkat igång och rörs inte.
