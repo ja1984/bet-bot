@@ -8,6 +8,7 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-10-20 | CL ligafas omgång 3 | 2 | 0/2 ❌ | ~-170 kr*************** |
 | 2026-10-19 | Premier League + La Liga | 0 | 0/0 | ~-96 kr************** |
 | 2026-09-20 | Premier League + La Liga | 2 | 0/2 ❌ | ~-172 kr************* |
 | 2026-09-19 | Premier League + La Liga | 2 | 1/2 ✅ | ~+250 kr************ |
@@ -22,6 +23,8 @@ på Facit-sidan.
 | 2026-09-10 | CL ligafas omgång 1 | 4 | 4/4 ✅ | ~+702 kr*** |
 | 2026-09-09 | CL ligafas omgång 1 | 4 | 2/2 ✅ | ~+105 kr** |
 | 2026-09-08 | CL ligafas omgång 1 | 4 | 1/4 ❌ | ~-90 kr* |
+
+*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* = 20 okt: **två kuponger publicerade, två spelade** — ett enda kupongset, lagt 13:00 och omräknat 18:15 och 20:15 utan att någon insats flyttades, så avsnittstotal och dagstotal är samma siffra. Spelat: **K1 Napoli BTTS-Nej & Man City under 3,5 100 kr × 5,38 ❌** (4–3 och 5–1 — båda benen föll) · **K2 PSG vinst & Liverpool BTTS-Nej 70 kr × 5,90 ❌** (4–2 och 4–3 — PSG-benet landade, BTTS-Nej-benet föll) = **−170,00 kr på 170 kr i kuponger**. Inga singelspel publicerades — sektion 3:s singeltabell var tom med angivet skäl — så dagens netto är kupongerna ensamma. Båda kupongerna föll, så summan är oberoende av vilket pris som används: spannet är en enda siffra. 130 kr av kupongbudgeten lämnades ostakade och sparade lika mycket. Nio matcher gav **40 mål (4,44 per match)**, båda lagen gjorde mål i **sju av nio** och över 2,5 landade i **åtta av nio** — och **tre av fyra kupongben krävde att ett lag inte gör mål**. Exponeringsraden skrev ut den koncentrationen i förväg utan att flytta en krona. Ligafasens egen BTTS-frekvens på 72 procent stod utskriven i filen och skattades ändå ned till 40 procent i den ena BTTS-Nej-matchen och 47 i den andra; båda nedskrivningarna vilade på färre än åtta bortamatcher och båda föll. Kvällens sämsta läsning var Man City under 3,5, uppskriven 52% → 57% kl 20:15 på en bänkad anfallare och åtta byten: laget gjorde fem mål ändå. Den tredje BTTS-Nej-marknaden, Roma–Slovan, **passades** med motiveringen att marknaden är skörast ihop med en väntad storseger — och den var den enda av de tre som hade landat (4–0). **Åtta av elva medvetet undvikna marknader landade**; de elva priserna implicerade 6,7 förväntade träffar och filens egna skattningar 6,0, så avståendena lämnade drygt en träff på bordet — på elva observationer ingen mätbar kant, men samma riktning som förlusten. **Tolv skottrader, samtliga med namn och samtliga med verifierad minutsiffra; fyra gick att avgöra mot sin linje och alla fyra landade.** Tre rader föll i praktiken på speltid, och 20:15-elvan innehöll svaret på alla tre utan att det nådde raderna.*
 
 *\*\*\*\*\*\*\*\*\*\*\*\*\*\* = 19 okt: **noll kuponger publicerade** — kvällens två värden pekade åt samma håll och en dubbel av dem hade lagt hela insatsen på en tes, så kupongbudgeten nollades. Ett enda spelfönster (analyserad 14:15), så avsnittstotal och dagstotal är samma siffra. Spelat: **Tottenham–Coventry under 2,5 120 kr @ 2,45 ❌** (3–1, fyra mål) och **Getafe–Rayo under 2,5 40 kr @ 1,60 ✅** (1–1) = **−96,00 kr på 160 kr insats**. Räknat på filens egna rättvisa odds (1,75 och 1,56) blir kvällen −97,60 kr; spannet är −97,60 till −96,00 kr och den högre posten används, samma konvention som 10–20 september. Kvällens sämsta läsning var under 2,5 i Tottenham–Coventry, kvällens största position på 120 kr: hemmalagets tredje största underskott mot förväntade mål lästes som bevis för att målen uteblir, när det är argumentet för att de kommer — och gästernas "ett mål på tre bortamatcher" är tre datapunkter (**A2**). Matchen gav 28 skott och fyra mål. Getafe–Rayo landade åt rätt håll av fel skäl: Getafe spelade 62 minuter med tio man efter Djenés utvisning i 28:e och Rayo sköt 21 gånger på 2,2 förväntade mål utan att få mer än ett. **Fyra av nio medvetet undvikna marknader landade**, men de nio priserna implicerade 4,3 träffar och filens egna skattningar 4,0 — utfallet blev fyra, alltså ingen missad kant. **Åtta av tolv skottrader gick att avgöra mot sin linje och fyra landade** — bästa avgörandegraden sedan 16 september — och samtliga tolv fick en verifierad minutsiffra. En rad föll på ren speltid: den högst rankade skytten i en av matcherna fanns varken i elvan eller på bänken, trots att filens egen matchbild skrev att han testades sent (**J4**).*
 
@@ -69,15 +72,16 @@ på Facit-sidan.
 | 12 | 2026-09-19 | +250 kr | +1 384 kr |
 | 13 | 2026-09-20 | -172 kr | +1 212 kr |
 | 14 | 2026-10-19 | -96 kr | +1 116 kr |
+| 15 | 2026-10-20 | -170 kr | +946 kr |
 
 ---
 
-**Löpande totaler:** 33 kuponger publicerade, 29 spelade | 16/29 träffar (55,2%) | Netto: ~+1 116 kr
+**Löpande totaler:** 35 kuponger publicerade, 31 spelade | 16/31 träffar (51,6%) | Netto: ~+946 kr
 
-*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 18/33 (54,5%).*
+*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 18/35 (51,4%).*
 
-*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr), singeln den 15 september (+22 kr), singeln den 18 september (+22,50 kr), singeln den 19 september (+48 kr) och de två singlarna den 20 september (−21,70 kr) samt de två singlarna den 19 oktober (−96 kr). Kupongerna ensamma står på ~+537 kr över de elva kvällar som hade kuponger.*
+*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr), singeln den 15 september (+22 kr), singeln den 18 september (+22,50 kr), singeln den 19 september (+48 kr) och de två singlarna den 20 september (−21,70 kr) samt de två singlarna den 19 oktober (−96 kr). Kupongerna ensamma står på ~+367 kr över de tolv kvällar som hade kuponger.*
 
-*Singelspel utanför kupongerna: 16 publicerade, 13 spelade, 9/13 träff (11–12 sep, 14–15 sep, 18–20 sep, 19 okt). Den 13, 16 och 17 september publicerades inga singelspel.*
+*Singelspel utanför kupongerna: 16 publicerade, 13 spelade, 9/13 träff (11–12 sep, 14–15 sep, 18–20 sep, 19 okt). Den 13, 16 och 17 september och den 20 oktober publicerades inga singelspel.*
 
 *Formatnot (16 sep): resultatcellen tar `V/T` följt av **enbart** ✅ eller ❌ — ingen annan symbol. Raderna för 11 och 15 september skrevs som `0/0 ➖` och matchade därför inte sajtens radmönster; båda föll tyst ur både listan och grafen, och 11 september-kvällens +31 kr saknades i sajtens egen summa fram till nu. Symbolen är borttagen ur båda raderna. En kvällslös kupongrad skrivs `0/0` utan markör.*

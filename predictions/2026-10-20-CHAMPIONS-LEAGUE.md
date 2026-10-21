@@ -264,3 +264,113 @@ Nudgen stannar på fem punkter: Haaland kan kliva in i andra halvlek, och en elv
 **Insatserna står kvar — 170 kr totalt.** Kvarts-Kelly på de nya talen ger ~113 kr för kupong 1 mot staken 100 kr och ~59 kr för kupong 2 mot 70 kr. Båda ligger inom den tolerans 18:15-körningen redan accepterade, och att flytta pengar mellan kuponger 45 minuter före avspark på en rotationsläsning är överspel.
 
 **Övriga matcher.** Roma–Slovan, Stuttgart–Atlético och Porto–PSV står kvar som PASS utan exponering — för tre av dem var skälet att bästa marknad saknade pris, och en bekräftad elva levererar inget pris. De två 18:45-matcherna har sparkat igång och rörs inte.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** ligafasen spelar enkelmatcher utan förlängning, så samtliga 40 mål föll inom ordinarie tid och tillägg. De tre sena målen räknas alla: Bodø/Glimts 3–4-reducering i 90+4, självmålet som gav Napoli 4–3 i 89:e och Slavias kvittering i Istanbul i 89:e. Inget mål har strukits ur någon bedömning.
+
+### Resultat
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Fenerbahçe – Slavia Prag | 2–2 | Aydın 4', Greenwood 11' — Provod 15', Kacor 89' (inhoppare) |
+| Sabah – Borussia Dortmund | 1–2 | Guirassy 10' och 53' — McCarthy 39' |
+| AS Roma – Slovan Bratislava | 4–0 | Hermoso 21', Molina 39', Pisilli 52', Malen 58' (straff) |
+| Napoli – Bodø/Glimt | 4–3 | Politano 1', Hauge 27', McTominay 41', Helmersen 62', McTominay 75', Bjørtuft självmål 89', Fet 90+4' |
+| VfB Stuttgart – Atlético Madrid | 1–1 | Leweling 36' — Álvarez 47'; Hjulmand utvisad 64', Atlético tio man i halvtimme |
+| Liverpool – Villarreal | 4–3 | Mikautadze 4', Cardona 29' — Mac Allister 36' och 65', Araujo 45+2', Wirtz 68' (inhoppad i paus), Oluwaseyi 87' |
+| FC Porto – PSV | 0–1 | Til 57' |
+| Manchester City – AEK Aten | 5–1 | Anderson 12', Foden 34', 65' och 76' — Pilios 52' — Cherki 57'; Haaland bänkad hela matchen |
+| PSG – Barcelona | 4–2 | Doué 38', Espart 55', Hernández 72', Yamal 79', Vitinha 81', Ruiz 86'; Dembélé utbytt skadad i första halvlek |
+
+Nio matcher, **40 mål (4,44 per match)**. Båda lagen gjorde mål i **sju av nio**, över 2,5 landade i **åtta av nio**.
+
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Fenerbahçe – Slavia | Över 2,5 | 60% | 1,62 | — | fyra mål | ✅ |
+| Fenerbahçe – Slavia | BTTS | 55% | 1,67 | — | 2–2 | ✅ |
+| Fenerbahçe – Slavia | Över 3,5 | 36% | 2,56 | — | fyra mål | ✅ |
+| Fenerbahçe – Slavia | Fenerbahçe över 1,5 | 58% | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Sabah – Dortmund | BTTS | 52% | 1,75 | — | 1–2 | ✅ |
+| Sabah – Dortmund | Över 2,5 | 55% | 1,64 | — | tre mål | ✅ |
+| Sabah – Dortmund | Dortmund vinst | 70% | 1,30 | — | 1–2 | ✅ |
+| Sabah – Dortmund | Sabah över 0,5 | 62% | `PRIS EJ TILLGÄNGLIGT` | — | McCarthy 39' | ✅ |
+| Roma – Slovan | Över 2,5 | 63% | 1,30 | — | fyra mål | ✅ |
+| Roma – Slovan | Över 3,5 | 42% | 1,79 | — | fyra mål | ✅ |
+| Roma – Slovan | BTTS | 32% | 1,91 | — | Slovan utan mål | ❌ |
+| Roma – Slovan | Roma över 1,5 | 70% | `PRIS EJ TILLGÄNGLIGT` | — | fyra mål | ✅ |
+| Napoli – Bodø/Glimt | **BTTS-Nej** | 60% → 57% | 2,37 | **100 kr (ben)** | 4–3, gästerna tre mål | ❌ |
+| Napoli – Bodø/Glimt | Under 2,5 | 48% | 2,62 | — | sju mål | ❌ |
+| Napoli – Bodø/Glimt | Napoli vinst | 58% | 1,61 | — | 4–3 | ✅ |
+| Napoli – Bodø/Glimt | Bodø/Glimt över 0,5 | 42% | `PRIS EJ TILLGÄNGLIGT` | — | tre mål | ✅ |
+| Stuttgart – Atlético | Stuttgart vinst | 34% | 3,30 | — | 1–1 | ❌ |
+| Stuttgart – Atlético | Atlético vinst | 44% | 2,00 | — | 1–1 | ❌ |
+| Stuttgart – Atlético | Under 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Stuttgart – Atlético | Stuttgart över 1,5 | 45% | `PRIS EJ TILLGÄNGLIGT` | — | ett mål | ❌ |
+| Liverpool – Villarreal | **BTTS-Nej** | 53% | 2,38 | **70 kr (ben)** | 4–3, gästerna tre mål | ❌ |
+| Liverpool – Villarreal | Över 2,5 | 67% | 1,44 | — | sju mål | ✅ |
+| Liverpool – Villarreal | Över 3,5 | 45% | 2,30 | — | sju mål | ✅ |
+| Liverpool – Villarreal | Villarreal över 0,5 | 47% | `PRIS EJ TILLGÄNGLIGT` | — | tre mål | ✅ |
+| Porto – PSV | Under 2,5 | 55% | `PRIS EJ TILLGÄNGLIGT` | — | ett mål | ✅ |
+| Porto – PSV | Över 2,5 | 45% | 1,55 | — | ett mål | ❌ |
+| Porto – PSV | Porto vinst | 56% | 1,61 | — | 0–1 | ❌ |
+| Porto – PSV | PSV över 0,5 | 50% | `PRIS EJ TILLGÄNGLIGT` | — | Til 57' | ✅ |
+| Man City – AEK | **Under 3,5** | 52% → 57% | 2,27 | **100 kr (ben)** | sex mål | ❌ |
+| Man City – AEK | Över 3,5 | 48% | 1,73 | — | sex mål | ✅ |
+| Man City – AEK | Över 2,5 | 76% | 1,29 | — | sex mål | ✅ |
+| Man City – AEK | AEK över 0,5 | 32% | `PRIS EJ TILLGÄNGLIGT` | — | Pilios 52' | ✅ |
+| PSG – Barcelona | **PSG vinst** | 44% → 47% → 46% | 2,48 | **70 kr (ben)** | 4–2 | ✅ |
+| PSG – Barcelona | Över 2,5 | 82% | 1,18 | — | sex mål | ✅ |
+| PSG – Barcelona | BTTS | 79% | 1,20 | — | 4–2 | ✅ |
+| PSG – Barcelona | PSG över 1,5 | 72% | `PRIS EJ TILLGÄNGLIGT` | — | fyra mål | ✅ |
+
+**Av kvällens elva medvetet undvikna marknader landade åtta.** De elva noterade priserna implicerar sammanlagt 6,7 förväntade träffar och filens egna skattningar 6,0 — utfallet blev åtta, alltså drygt en träff mer än priserna räknade med. På elva observationer är det ingen kant, men riktningen är densamma som kvällens spelade sida och pekar åt samma håll: skattningarna låg för lågt på mål.
+
+### Skott på mål
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Villarreal | Georges Mikautadze | 1+ | 64% | 66 (utbytt 66') | minst 1 — mål i 4:e | ✅ |
+| Liverpool | Lewis Koumas | 1+ | 41% | 66 (utbytt 66') | ej bedömbar | — |
+| Liverpool | Florian Wirtz | 1+ | 31% | 45 (inhoppad 46') | minst 1 — mål i 68:e | ✅ |
+| Villarreal | Gerard Moreno | 1+ | 28% | 12 (inhoppad 78') | ej bedömbar | — |
+| Liverpool | Cody Gakpo | 1+ | 17% | 90 | minst 1 — räddning av Gulácsi noterad | ✅ |
+| Villarreal | Alberto Moleiro | *underlag saknas* | — | 53 (utbytt 53') | ej bedömbar | — |
+| Barcelona | Raphinha | 1+ | 78% | 45–60 (källorna går isär om utbytesminuten) | ej bedömbar | — |
+| Barcelona | Lamine Yamal | 1+ | 75% | minst 79 — mål i 79:e | minst 1 — mål i 79:e | ✅ |
+| PSG | Ousmane Dembélé | 1+ | 58% | ca 20 (utbytt skadad i första halvlek) | ej bedömbar | — |
+| PSG | Désiré Doué | 1+ | 58% | minst 38 — mål i 38:e, utbytt sent, minut ej belagd | minst 1 — mål i 38:e | ✅ |
+| PSG | Khvicha Kvaratskhelia | 1+ | 52% | 59 (utbytt skadad 59') | ej bedömbar | — |
+| Barcelona | Dani Olmo | 1+ | 39% | ca 22 (utbytt skadad i första halvlek) | ej bedömbar | — |
+
+Tolv rader, **samtliga tolv med namn och samtliga tolv med en verifierad minutsiffra**. Fyra rader gick att avgöra mot sin linje och alla fyra landade — samtliga via ett noterat mål eller en noterad räddning; spelarvis skott på mål gick inte att hämta i efterhand för någondera matchen. **Tre rader föll i praktiken på speltid:** två spelare byttes ut skadade i första halvlek och en kom in med tolv minuter kvar. Den bekräftade elvan kl 20:15 skrev ut både att Liverpools nummer tre på listan satt på bänken och att gästernas anfallstrio inte innehöll Gerard Moreno — ingen av uppgifterna följde med ner på skottraderna, trots att samma fil innehöll dem.
+
+### Kuponger
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, 100 kr @ 5,38 | ❌ −100 kr | Båda: Napoli BTTS-Nej (4–3) och Man City under 3,5 (5–1) |
+| 2 — Mix, 70 kr @ 5,90 | ❌ −70 kr | Liverpool BTTS-Nej (4–3); PSG vinst landade |
+
+Ett enda kupongset, lagt 13:00 och omräknat 18:15 och 20:15 utan att någon insats flyttades — avsnittstotal och dagstotal är därför samma siffra.
+
+### Totalt: 0/2 kuponger · inga singlar · −170 kr
+
+Båda kupongerna föll, så summan är oberoende av vilket pris som används — spannet är en enda siffra, −170,00 kr på 170 kr insats. De 130 kr som lämnades ostakade av kupongbudgeten sparade lika mycket till.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Napoli BTTS-Nej (ben, 100 kr) | ❌ | Dålig sannolikhet — gästernas bortamålform vilade på en enda bortamatch |
+| Man City under 3,5 (ben, 100 kr) | ❌ | Dålig tolkning — åtta byten och bänkad anfallare lästes som målundertryckande mot kvällens svagaste motstånd |
+| Liverpool BTTS-Nej (ben, 70 kr) | ❌ | Dålig sannolikhet — sex raka bortaförluster lästes som egenskap utan motståndarjustering |
+| PSG vinst (ben, 70 kr) | ✅ | Bra beslut — marknaden valdes före priset och båda revideringarna gick åt rätt håll |
+| Kupong 1 | −100 kr | Korrelation — båda benen krävde att ett lag inte gör mål |
+| Kupong 2 | −70 kr | Korrelation — det vinnande benet betalade ingenting eftersom det satt ihop med kvällens tredje målundertryckande ben |
+| Roma BTTS-Nej (ospelad) | ✅ | Bra beslut — passades på att marknaden är skörast ihop med en väntad storseger, och den landade |
+| Skottraderna | 4/4 avgjorda ✅ | Bra beslut på raderna, efterlevnadsmiss på kontrollen — tre rader föll på speltid som den bekräftade elvan redan hade svaret på |
+
+Kvällens struktur är hela förlusten. **Tre av fyra kupongben krävde att ett lag inte gör mål**, exponeringsraden skrev ut det i förväg — och ingen insats flyttades på den observationen. Ligafasens egen BTTS-frekvens på 72 procent stod utskriven i filen och skattades ändå ned till 40 procent i en match och 47 i en annan. Den enda match där samma marknad passades med motiveringen att den är skör, Roma–Slovan, är den enda av de tre där den hade landat.
+
+**Lärdom:** en nedskrivning från en utskriven basfrekvens måste själv bära bevis — båda kvällens avsteg vilade på färre än åtta bortamatcher, och båda föll.
