@@ -279,3 +279,17 @@ BTTS var kandidat på LASK:s tre mål mot Liverpool, men Sporting har släppt in
 ## 🟨 Kort
 
 Quintero González ligger på 5,27 gula per match över 85 karriärmatcher och Godinho på 5,38 över 290 — kvällens två kortrikaste tillsättningar, båda i matcher som analysen i övrigt pekar bort ifrån. Inget kortspel läggs: inga lagkortslinjer gick att prissätta och lagens kort per match saknas.
+
+## 🔄 Tillägg 13:20 — bekräftade truppbesked
+
+**Bayern–Arsenal:** Kimmich är ur truppen — klubben bekräftade under dagen att han saknas efter ett dödsfall i den närmaste familjen. Olises avstängning och Musialas skada låg redan inne i morgonens läsning; Kimmich gjorde det inte. Díaz och Gnabry finns kvar i truppen. Pivoten blir Bischof–Pavlović mot Arsenals press: Bayerns eget målflöde sjunker något, Arsenals stiger något, och spridningen i matchbilden ökar mer än mittvärdet flyttas.
+→ Över 2,5 sänks 70% → **68% (60–76%)**, rättvist odds **1,47**. Brytpunkten 65,4% ligger kvar inne i bandet. EV +7% → **+4%**.
+→ Kupong 2 (Bayern över 2,5 + Como över 2,5) 49% → **48% (38–58%)**, rättvist odds **2,08**, EV +14% → **+11%**. Spelkvalitet 🟡 6,5 → 🟡 6.
+
+**Levante–Athletic:** Analysen förutsatte Athletic utan Nico Williams. Han finns i den officiella 23-mannatruppen efter muskelskadan; Sancet är fortsatt borta. Rapporterna väntar honom från bänken snarare än från start, men förutsättningen i analysen är inte längre sann — och det är just Athletics blankning hela spelet vilar på. Bandet breddas nedåt eftersom hans roll är okänd.
+→ BTTS-Nej sänks 56% → **52% (45–58%)**, rättvist odds **1,92**. Brytpunkten 50,5% ligger nu nära bandets mitt och EV faller +11% → **+3%** — marginellt i bästa fall (**L1**).
+→ 🟡 LITET SPEL → **🔴 PASS**.
+
+**Övriga åtta matcher:** inga bekräftade besked utöver vad morgonens analys redan räknade med. Ingen ändring.
+
+**Vad detta gör med spelen:** Singeln utgår, 50 kr av. Kupong 2 trimmas 70 → 50 kr på det sänkta kvalitetstalet. Kupong 1 (Lille över 2,5 + Inter–Shakhtar BTTS) står orörd på 100 kr. **Ny exponering: 150 kr** mot tidigare 220 kr.
