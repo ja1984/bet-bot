@@ -308,3 +308,21 @@ Quintero González ligger på 5,27 gula per match över 85 karriärmatcher och G
 **Övriga sju matcher:** inga bekräftade besked sedan 13:20. Ingen ändring.
 
 **Vad detta gör med spelen:** Kupong 2 utgår, 50 kr av. Kupong 1 (Lille över 2,5 + Inter–Shakhtar BTTS) står kvar orörd på 100 kr som kvällens enda spel. **Ny exponering: 100 kr** mot 150 kr efter 13:20 och 220 kr i morgonens analys.
+
+## 🔄 Tillägg 18:30 — bekräftade startelvor 18:45
+
+**Como–Manchester United:** **Matchen spelas.** Ingen uppskjutning är beslutad, båda lagen har lämnat teamsheet och matchen står som ordinarie i Flashscores matchstatus. Como: Butez; Couto, Kempf, Ramon, Valle; Perrone, Milla; Baturina, Paz, Da Cunha; Douvikas. Trevoh Chalobah och Moise Kean, båda sena fitnesskontroller i previewmaterialet, saknas helt i matchtruppen. United: Lammens; Mazraoui, Maguire, de Ligt, Dalot; Andrey Santos, Tielemans; Mbeumo, Fernandes, Cunha; Mount — tunnare än normalt men inte den tomma anfallslinje morgonens läsning utgick från; Zirkzee, Diallo och Baleba sitter på bänken.
+→ Den ena av 15:25-tilläggets två namngivna osäkerheter faller bort: om matchen alls spelas är inte längre en fråga. Planens skick efter regnet är det fortfarande, och det är den som bär bandet.
+→ Över 2,5 höjs 66% → **68% (60–75%)**, rättvist odds **1,47**. Brytpunkten 65,8% ligger kvar inne i bandet, EV +0,3% → **+3%** — fortfarande marginellt (**L1**). **🔴 PASS står kvar, och kupong 2 återupplivas inte.**
+→ Skottraderna: Nico Paz, Douvikas, Mbeumo och Bruno Fernandes startar alla. Jesús Rodríguez startar inte och Diallo är bänkad — båda låg redan utan underlag.
+
+**Lille–Galatasaray:** Lille: Özer; Goffi, Ngoy, Alexsandro, Verdonk; André, Mukau, Bentaleb; Bakwa, Haraldsson, Diaoune. Målvaktsfrågan som morgonens analys lämnade öppen är stängd — Özer startar. **Giroud sitter på bänken** och Diaoune tar anfallsplatsen, ett betydligt mindre meriterat alternativ. Galatasaray: Çakır; Bardakçı, Sánchez, Jakobs; Torreira, Sara; Akgün, Batrakov, Yılmaz; Osimhen — **Osimhen startar**, och bortalagets målhot är därmed intakt. Bekräftat via Flashscores teamsheet och WhoScoreds lineupsida oberoende av varandra.
+→ Nettot är en nedåtnudge, inte en omläsning (**L7**): en stabil förstahandsmålvakt bakom Lille och en oprövad anfallare framför väger tyngre än att Osimhen bekräftas där han redan var inräknad. Över 2,5 sänks 71% → **70% (63–76%)**, rättvist odds **1,43**. Brytpunkten 63,3% ligger vid bandets nedre kant — kanten, inte mitten. EV +12% → **+11%**.
+→ Kupong 1 (Lille över 2,5 + Inter–Shakhtar BTTS) 45% → **45% (36–53%)**, rättvist odds **2,23**, EV +24% → **+22%**. Spelkvalitet 🟢 7,5 → **🟢 7**. Insatsen står kvar på 100 kr.
+→ Skottraden Giroud 1+ **utgår** — han startar inte. Bakwa och Haraldsson startar som antaget.
+
+**Levante–Athletic (20:00):** startelvorna är inte släppta ännu och inget bekräftat besked har tillkommit om Nico Williams sedan 13:20. Ingen ändring — spelet är redan PASS.
+
+**21:00-matcherna:** inga bekräftade besked sedan 15:25. Kompany är fortsatt rapporterad sjuk men inte bekräftat ur spel, och Inter–Shakhtar har inget nytt skadebesked. Ingen ändring; de elvorna är 20:00-körningens jobb.
+
+**Vad detta gör med spelen:** inget nytt spel läggs och inget dras. Kupong 1 står kvar på 100 kr som kvällens enda spel. **Exponering: 100 kr**, oförändrad sedan 15:25. Priserna är desamma indikativa previewpriser som i morgonens analys och kan ha rört sig.
