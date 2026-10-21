@@ -293,3 +293,18 @@ Quintero González ligger på 5,27 gula per match över 85 karriärmatcher och G
 **Övriga åtta matcher:** inga bekräftade besked utöver vad morgonens analys redan räknade med. Ingen ändring.
 
 **Vad detta gör med spelen:** Singeln utgår, 50 kr av. Kupong 2 trimmas 70 → 50 kr på det sänkta kvalitetstalet. Kupong 1 (Lille över 2,5 + Inter–Shakhtar BTTS) står orörd på 100 kr. **Ny exponering: 150 kr** mot tidigare 220 kr.
+
+## 🔄 Tillägg 15:25 — orange vädervarning i Lombardiet
+
+**Como–Manchester United:** Lombardiet ligger under **orange vädervarning** för regn och åska. Prognosen anger drygt 60 mm regn före avspark och åskväder som håller i sig till 02 lokal tid, och Stadio Sinigaglia har bara en täckt läktare. Matchen är enligt flera rapporter i allvarlig risk att skjutas upp; Como uppger sig trygga med att planen håller, och beslutet tas av matchdelegaten tillsammans med lokala myndigheter, med en planbesiktning närmare avspark. **Ingen uppskjutning är beslutad** — det bekräftade är varningen och planens skick, inte utfallet. Faller matchen bort gäller UEFA:s artikel 27: spel dagen efter i första hand. Morgonens analys räknade inte med vädret alls, och en vattensjuk plan sänker tempo och passningsspel i båda riktningarna samtidigt som den breddar utfallet (halkmål åt andra hållet). Bandet vidgas på två namngivna källor: planens skick är okänt och om matchen alls spelas är okänt.
+→ Como över 2,5 sänks 70% → **66% (57–74%)**, rättvist odds **1,52**. Brytpunkten 65,8% ligger nu mitt i bandet och i princip på skattningen. EV +6% → **+0,3%** (**L1**).
+→ Kupong 2 (Bayern över 2,5 + Como över 2,5) 48% → **45% (34–56%)**, rättvist odds **2,23**, EV +11% → **+5%**. Båda benen ligger därmed på eller strax över nollan — kupongen är en produkt av två ben utan egen marginal.
+→ 🟡 6 → **🔴 PASS**. Kupong 2 utgår.
+
+**Bayern–Arsenal:** Kompany är sjuk i en virusinfektion och missade tisdagens träning och presskonferens, där assisterande Aaron Danks tog över; Neuer har tränat två dagar efter fotproblemet. Båda är **tveksamma, inte bekräftat ur spel** — ingen av dem passerar tröskeln för ett tillägg, och Bayern rörs inte utöver 13:20-sänkningen.
+
+**Inter–Shakhtar:** samma regionala varning täcker Milano, men ingen rapport pekar ut matchen som hotad och San Siro är täckt och dränerat. Ingen ändring.
+
+**Övriga sju matcher:** inga bekräftade besked sedan 13:20. Ingen ändring.
+
+**Vad detta gör med spelen:** Kupong 2 utgår, 50 kr av. Kupong 1 (Lille över 2,5 + Inter–Shakhtar BTTS) står kvar orörd på 100 kr som kvällens enda spel. **Ny exponering: 100 kr** mot 150 kr efter 13:20 och 220 kr i morgonens analys.
