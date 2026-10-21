@@ -326,3 +326,17 @@ Quintero González ligger på 5,27 gula per match över 85 karriärmatcher och G
 **21:00-matcherna:** inga bekräftade besked sedan 15:25. Kompany är fortsatt rapporterad sjuk men inte bekräftat ur spel, och Inter–Shakhtar har inget nytt skadebesked. Ingen ändring; de elvorna är 20:00-körningens jobb.
 
 **Vad detta gör med spelen:** inget nytt spel läggs och inget dras. Kupong 1 står kvar på 100 kr som kvällens enda spel. **Exponering: 100 kr**, oförändrad sedan 15:25. Priserna är desamma indikativa previewpriser som i morgonens analys och kan ha rört sig.
+
+## 🔄 Tillägg 20:15 — bekräftade startelvor 21:00
+
+**Inter–Shakhtar:** Inter: J. Martínez; Akanji, Bastoni, Carlos Augusto; Spence, Barella, Çalhanoğlu, Sučić, Dimarco; Bonny, Thuram. Shakhtar: Riznyk; Vinícius Tobias, Bondar, Matviyenko, Pedro Henrique; Ocheretko; Alisson Santana, Pedrinho, Marlon Gomes, Mendoza; Kauã Elias. Inter ställer upp med Thuram och Bonny från start och Çalhanoğlu bakom dem — den halva av spelet som var nästan given står kvar, och Lautaros frånvaro låg redan inne. Shakhtar kommer i 4-1-4-1 med Ocheretko som ensamt ankare och Kauã Elias som ensam spets, en mer sluten bortauppställning än omställningsbilden analysen räknade med. Osäkerheten om elvorna faller bort ur bandet; Shakhtars nivå mot det här motståndet bär det fortfarande ensam.
+→ BTTS sänks 64% → **63% (58–68%)**, rättvist odds **1,59**. Brytpunkten 58,1% ligger vid bandets nedre kant. EV +10% → **+8%**. Utfallskonfidens 6,5/10.
+→ Skottraden Pio Esposito 1+ **utgår** — han sitter på bänken. Thuram startar som antaget.
+
+**Kupong 1:** Lille–Galatasaray står i 2–4 — **över 2,5 är avgjord och hemme**. Kupongen hänger därmed enbart på Inter–Shakhtar BTTS, och dess kvarvarande sannolikhet är spelets egen: **63%**, rättvist odds 1,59 mot kupongpriset 2,72.
+
+**Bayern–Arsenal:** Neuer startar, och Arsenal ställer upp utan Saliba som analysen räknade med. Kupong 2 ligger kvar utanför och återupplivas inte.
+
+**Övriga 21:00-matcher:** inget bekräftat besked som flyttar en bedömning. De fem passen står kvar.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupong 1 står kvar på 100 kr med ett ben avgjort och ett kvar. **Exponering: 100 kr**, oförändrad sedan 15:25.
