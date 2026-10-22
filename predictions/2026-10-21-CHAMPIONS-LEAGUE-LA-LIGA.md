@@ -340,3 +340,132 @@ Quintero González ligger på 5,27 gula per match över 85 karriärmatcher och G
 **Övriga 21:00-matcher:** inget bekräftat besked som flyttar en bedömning. De fem passen står kvar.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Kupong 1 står kvar på 100 kr med ett ben avgjort och ett kvar. **Exponering: 100 kr**, oförändrad sedan 15:25.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Samtliga mål föll inom ordinarie tid — ligafasens enkelmatcher spelas utan förlängning. Två tilläggsminutsmål räknas in: Zirkzees 1–4-reducering i 90+1 och Etta Eyongs 3–1 i 90+8. Ett mål räknas inte in: Newertons kvittering för Shakhtar i 79:e underkändes för offside, och det är den enda händelsen som skiljer kvällens kupong från vinst.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Como – Manchester United | 4–1 | Paz 2', Douvikas 49' (Paz), Paz 57', Ramón 76'; Zirkzee 90+1' |
+| Lille – Galatasaray | 2–4 | Akgün 2', Diaoune 7', Diaoune 39', Batrakov 44', Bentaleb självmål 52', Osimhen 61' (Yılmaz) |
+| Levante – Athletic Club | 3–1 | Brugué 20', Brugué 22', Berenguer 67' (straff), Etta Eyong 90+8'; Laporte utvisad 73' |
+| Aston Villa – Viking | 3–1 | Barkley 23', Buendía 37' (straff), Heggheim självmål 62', Christiansen 84' |
+| Bayern München – Arsenal | 2–2 | Eze 25' (Ødegaard), Davies 35' (Kane), Kane 61' (straff), Rice 82'; Saka ut skadad 10' |
+| Club Brugge – Lens | 3–0 | Vanaken 45+3', Seys 50', Forbs 72'; Lens sju skott på mål, Sommer höll nollan |
+| Inter – Shakhtar Donetsk | 1–0 | Carlos Augusto 77' (Mkhitaryan); Bastoni utvisad 68'; Newertons 1–1 i 79' underkänt för offside |
+| Real Betis – Feyenoord | 1–0 | Isco 59' (straff) efter handsspel; Ernst nio räddningar |
+| Real Madrid – RB Leipzig | 4–1 | Bernardo Silva 43', Güler 52', Mbappé 83', Gomis 85', Diomande 87' |
+| Sporting CP – LASK | 2–3 | L. Suárez 5' (straff), Lang 15', Kalajdzic 63', Dánek 68', L. Suárez 89' (straff) |
+
+Tio matcher gav 38 mål — 3,8 per match. Över 2,5 landade i åtta av tio och båda lagen gjorde mål i sju av tio.
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Como – Man United | Över 2,5 | 70% → 68% | 1,52 | utgick 15:25 | 5 mål | ✅ |
+| Como – Man United | BTTS | 64% | 1,44 | — | 4–1 | ✅ |
+| Como – Man United | Como vinst | 45% | 2,30 | — | 4–1 | ✅ |
+| Como – Man United | Como över 1,5 | 55% | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| Lille – Galatasaray | Över 2,5 | 71% → 70% | 1,58 | kupongben | 6 mål | ✅ |
+| Lille – Galatasaray | BTTS | 66% | 1,49 | — | 2–4 | ✅ |
+| Lille – Galatasaray | Lille vinst | 44% | 2,18 | — | 2–4 | ❌ |
+| Lille – Galatasaray | Lille över 1,5 | 58% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Levante – Athletic | BTTS-Nej | 56% → 52% | 1,98 | utgick 13:20 | båda gjorde mål | ❌ |
+| Levante – Athletic | Under 2,5 | 58% | 1,76 | — | 4 mål | ❌ |
+| Levante – Athletic | Athletic vinst | 40% | 2,16 | — | 3–1 till Levante | ❌ |
+| Levante – Athletic | Athletic över 0,5 | 55% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Villa – Viking | Villa över 2,5 (lagtotal) | 58% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Villa – Viking | Över 2,5 | 80% | 1,26 | — | 4 mål | ✅ |
+| Villa – Viking | BTTS | 48% | 1,63 | — | 3–1 | ✅ |
+| Villa – Viking | Villa vinst | 78% | 1,22 | — | 3–1 | ✅ |
+| Bayern – Arsenal | Över 2,5 | 70% → 68% | 1,53 | utgick 15:25 | 4 mål | ✅ |
+| Bayern – Arsenal | Över 3,5 | 48% | 2,20 | — | 4 mål | ✅ |
+| Bayern – Arsenal | BTTS | 65% | 1,50 | — | 2–2 | ✅ |
+| Bayern – Arsenal | Bayern över 1,5 | 66% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Brugge – Lens | Över 2,5 | 76% | 1,37 | — | 3 mål | ✅ |
+| Brugge – Lens | BTTS | 62% | 1,37 | — | 3–0 | ❌ |
+| Brugge – Lens | Brugge vinst | 50% | 1,87 | — | 3–0 | ✅ |
+| Brugge – Lens | Brugge över 1,5 | 60% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Brugge – Lens | Över 3,5 (bästa marknad) | — | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ❌ |
+| Inter – Shakhtar | BTTS | 64% → 63% | 1,72 | kupongben | Shakhtar noll | ❌ |
+| Inter – Shakhtar | Över 2,5 | 76% | 1,26 | — | 1 mål | ❌ |
+| Inter – Shakhtar | Inter vinst | 80% | 1,18 | — | 1–0 | ✅ |
+| Inter – Shakhtar | Shakhtar över 0,5 | 72% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Betis – Feyenoord | Över 3,5 (bästa marknad) | 58% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Betis – Feyenoord | Över 2,5 | 77% | 1,35 | — | 1 mål | ❌ |
+| Betis – Feyenoord | BTTS | 68% | 1,41 | — | 1–0 | ❌ |
+| Betis – Feyenoord | Betis över 1,5 | 68% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Real Madrid – Leipzig | Real Madrid över 1,5 (bästa marknad) | 74% | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| Real Madrid – Leipzig | Över 2,5 | 79% | 1,20 | — | 5 mål | ✅ |
+| Real Madrid – Leipzig | BTTS | 55% | 1,50 | — | 4–1 | ✅ |
+| Real Madrid – Leipzig | Real Madrid −2 | 45% | 1,83 | — | vinst med tre mål | ✅ |
+| Sporting – LASK | Sporting över 1,5 (bästa marknad) | 70% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Sporting – LASK | Över 2,5 | 73% | 1,33 | — | 5 mål | ✅ |
+| Sporting – LASK | BTTS | 42% | 1,78 | — | 2–3 | ✅ |
+| Sporting – LASK | Sporting vinst till noll | 47% | 2,10 | — | 2–3 | ❌ |
+
+Av de elva medvetet undvikna marknaderna landade **sex**. De elva priserna implicerar sammanlagt 7,3 förväntade träffar och filens egna skattningar 7,2 — avståendena lämnade alltså ingen kant på bordet. Fem matchers bästa marknad saknade pris; tre av de fem landade.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Como | Nico Paz | 1+ | 75% | 80 | minst 1 (två mål) | ✅ |
+| Como | Douvikas | 1+ | 72% | 90 | minst 1 (mål 49') | ✅ |
+| Como | Jesús Rodríguez | `underlag saknas` | — | 0 (ej i matchtruppen) | — | ej bedömbar |
+| Man United | Mbeumo | 1+ | 68% | 86 | ej bedömbar | ej bedömbar |
+| Man United | Bruno Fernandes | 1+ | 53% | 67 | ej bedömbar | ej bedömbar |
+| Man United | Amad Diallo | `underlag saknas` | — | 45 (inbytt 45') | ej bedömbar | ej bedömbar |
+| Lille | Giroud | 1+ | 42% (raden utgick 18:30) | 27 (inbytt 63') | ej bedömbar | utgick före avspark |
+| Lille | Haraldsson | 1+ | 41% | 90 | ej bedömbar | ej bedömbar |
+| Lille | Bakwa | 1+ | 27% | 90 | ej bedömbar (underkänt mål 20') | ej bedömbar |
+| Galatasaray | Osimhen | `underlag saknas` | — | 86 | minst 1 (mål 61') | ej bedömbar |
+| Galatasaray | Barış Alper Yılmaz | `underlag saknas` | — | minst 61 (assist 61') | ej bedömbar | ej bedömbar |
+| Galatasaray | Yunus Akgün | `underlag saknas` | — | minst 2 (mål 2') | minst 1 (mål 2') | ej bedömbar |
+| Levante | Iván Romero | 1+ | 65% | 72 | ej bedömbar | ej bedömbar |
+| Athletic | Iñaki Williams | 1+ | 53% | 45 (inbytt 46') | ej bedömbar | ej bedömbar |
+| Athletic | Berenguer | 1+ | 24% | 90 | minst 1 (straffmål 67') | ✅ |
+| Levante | Brugué | `underlag saknas` | — | 72 | minst 1 (två mål) | ej bedömbar |
+| Levante | Ratkov | `underlag saknas` | — | 72 | ej bedömbar | ej bedömbar |
+| Athletic | Navarro | `underlag saknas` | — | 81 | ej bedömbar | ej bedömbar |
+| Bayern | Kane | 1+ | 76% | 90 | minst 1 (straffmål 61') | ✅ |
+| Bayern | Luis Díaz | 1+ | 75% | 25 (inbytt 65') | ej bedömbar | ej bedömbar |
+| Arsenal | Saka | 1+ | 70% | 10 (ut skadad) | ej bedömbar | ej bedömbar |
+| Arsenal | Havertz | 1+ | 58% | 68 | ej bedömbar | ej bedömbar |
+| Arsenal | Ødegaard | 1+ | 40% | 85 | ej bedömbar | ej bedömbar |
+| Bayern | Lennart Karl | `underlag saknas` | — | 25 (inbytt 65') | ej bedömbar | ej bedömbar |
+| Inter | Thuram | 1+ | 67% | 75 | minst 1 (räddning) | ✅ |
+| Inter | Pio Esposito | 1+ | 60% (raden utgick 20:15) | 0 (oanvänd avbytare) | — | utgick före avspark |
+| Inter | Çalhanoğlu | `underlag saknas` | — | 59 | minst 1 (räddning 5') | ej bedömbar |
+| Shakhtar | Kauã Elias | `underlag saknas` | — | 72 | ej bedömbar | ej bedömbar |
+| Shakhtar | Pedrinho | `underlag saknas` | — | startade, bytesminut ej verifierad | ej bedömbar | ej bedömbar |
+| Shakhtar | Newerton | `underlag saknas` | — | 18 (inbytt 72') | minst 1 (räddning 87', underkänt mål 79') | ej bedömbar |
+
+Trettio rader över fem matcher. **Fem gick att avgöra mot sin publicerade linje och alla fem landade** (Paz 75%, Douvikas 72%, Kane 76%, Thuram 67%, Berenguer 24%). Spelarvis skott på mål gick inte att hämta i efterhand för någon av matcherna. Fyra rader föll på speltid: en spelare fanns inte i matchtruppen, en satt på bänken till 65:e, en byttes in i paus och en gick ut skadad i tionde minuten. Två rader drogs korrekt före avspark — den ene kom in i 63:e, den andre spelade inte alls.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, Lille över 2,5 + Inter–Shakhtar BTTS, 100 kr @ 2,72 | ❌ | Inter–Shakhtar BTTS — 1–0, Shakhtar utan mål |
+| 2 — Mix, Bayern över 2,5 + Como över 2,5, utgick 15:25 (0 kr) | — båda benen landade | — |
+
+### Totalt: 0/1 spelad kupong (2 publicerade) · 0/0 singlar (1 publicerad, utgick) · −100,00 kr
+
+Kupongen föll, så summan är oberoende av vilket pris som används och spannet är en enda siffra: de indikativa previewpriserna och filens egna rättvisa odds ger båda −100,00 kr.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Lille över 2,5 (kupongben) | ✅ i benet | Bra beslut — sex mål, och läsningen överlevde både en bänkad förstahandsanfallare och en stabil hemmamålvakt |
+| Inter–Shakhtar BTTS (kupongben) | ❌ i benet | Dålig tolkning — den bekräftade 4-1-4-1-uppställningen motsade omställningsbilden hela benet vilade på och sänkte skattningen en enda punkt |
+| Kupong 1 | −100 kr | Korrelation — hela kvällens exponering hamnade på en enda dubbel sedan två positioner dragits, och dess svagaste ben var filens egen största osäkerhet |
+| Kupong 2 (utgick 15:25) | 0 kr, båda benen landade | Dålig tolkning — en vädervarning utan beslutad uppskjutning sänkte en målmarknad i en match som gav fem mål |
+| Levante BTTS-Nej (utgick 13:20) | 0 kr, hade fallit | Bra beslut, rätt riktning av fel drivare — Athletic gjorde mål på straff i 67:e, fjorton minuter innan den återvändande kantspelaren byttes in |
