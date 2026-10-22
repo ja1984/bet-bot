@@ -432,3 +432,61 @@ kupongexponeringen går från 300 till 280 kr. Beloppet omfördelas inte — en 
 här nära avspark vore ny analys, inte en uppdatering. Ankaret (Lech–Sunderland BTTS Nej,
 100 kr), Sturm Graz–Marseille under 2,5 (80 kr), Bournemouth–Milan över 2,5 (70 kr),
 Juventus–Rennes över 2,5 (30 kr) och Tierney 1+ skott på mål (30 kr) står oförändrade.
+
+## 🔄 Tillägg 20:00 — bekräftade startelvor, 21:00-matcherna
+
+Elvorna är släppta. Tre av kvällens fem spel rör 21:00-matcher; två av dem vilar på
+förutsättningar som nu fallit (**L7**). De åtta 18:45-matcherna är igång och rörs inte.
+
+**Celtic–Celta Vigo.** Celta startar **Aspas som kapten, med Jutglà och Hugo Álvarez** i en
+trebackslinje — alltså sin bästa tillgängliga anfallstrio, inte den decimerade uppsättning
+analysen byggde på. 13:00-tesen löd "saknar sex spelare däribland två anfallare"; 18:00
+konstaterade att halva den premissen var borta. Resten är borta nu: Aspas är inte ett
+inhopp med oklar speltid, han startar. Celtic roterar dessutom bakåt — Johnstone i mål
+före Sinisalo, och Murray/Scales i mittlåset sedan Trusty lämnat truppen efter ett dödsfall
+i familjen, utöver Carter-Vickers och Johnston. Kvar av tesen är bara bortatorkan.
+(Elvorna från ysscores och zamins textreferat; de överensstämmer, men båda är
+aggregatorer — ingen klubb- eller UEFA-bekräftelse har gått att läsa av härifrån.)
+
+→ **Celta under 0,5 mål: 31% → 27% (23–32%)**, rättvist odds 3,70 mot 3,75 indikativt
+(oförändrat pris). Brytpunkt 26,7% ligger inne i bandet (**L1**) och EV faller till
+**+1,3%** — i praktiken ingen marginal alls.
+
+**Hoffenheim–Lyon.** Fonseca roterar: **Šulc struken ur truppen** (klubben anger inget skäl),
+Ouédraogo ute, och **Tolisso, Nuamah och Morton reste med men startar på bänken**. Upp
+front startar 18-årige Himbert med Boudache och Nakamura. Openda och Tagliafico var redan
+inräknade 13:00 — dessa fem är nya. Hoffenheim ställer samtidigt upp i stort sett fullt
+med Baumann och Kramarić. Tesen "Lyon leder Ligue 1" bärs av en elva som inte spelar;
+fasresultatet 2 av 2 står däremot kvar, eftersom Fonseca roterat i Europa hela säsongen.
+Det gör detta till en nedjustering, inte ett strykande. (Elvan bekräftad via Bulinews och
+WhoScored, som överensstämmer.)
+
+→ **Lyon vinst: 38% → 34% (28–40%)**, rättvist odds 2,94 mot 3,25 indikativt. Brytpunkt
+30,8% ligger nu inne i bandet (**L1**). Bandet vidgas på en anfallstrio utan gemensamma
+minuter. EV +10,5%.
+
+→ **Kupong 4 (Lyon vinst × Celta under 0,5) DRAS — 🟢 7 → 🟡 6 → 🔴 PASS.** 9,2%
+(6,4–12,8%), rättvist odds 10,89 mot 12,19, EV +12,1%. EV:t är fortfarande positivt, och
+det är inte skälet att dra: skälet är att kupongens uttalade premiss är motbevisad, inte
+bara osäker (**L7**). Celtabenet har efter elvan +1,3% EV — ingen edge — och Lyonbenet är
+marginellt. En dubbel där ena benet saknar marginal och det andra är marginellt är ingen
+värdespekulation. 50 kr tas bort.
+
+**Bournemouth–Milan.** Bekräftat: **Maignan i mål** (previewarnas elvor hade Petrovic) och
+**Cissé ensam på topp** — Rayan startar inte, och Ramos, Chukwueze, Saelemaekers och Gabbia
+är skadade med Terracciano avstängd. Milan ställer alltså upp med sitt starkaste målvakts-
+och försvarsalternativ och sitt svagaste anfallsalternativ. Båda drar åt färre mål, och
+den attack som gjorde elva mål på fem matcher är inte den som spelar. Bournemouth är intakt
+med Evanilson och Kluivert. (Officiella elvor via Football Italia, bekräftat mot WhoScored.)
+
+→ **Över 2,5: 63% → 60% (54–65%)**, rättvist odds 1,67 mot 1,75 indikativt. Brytpunkt
+57,1% gick från bandets nederkant till att ligga inne i bandet (**L1**). EV +10% → **+5,0%**.
+Utfallskonfidens 6 → 5,5/10, spelkvalitet 🟡 6 → **🟡 5,5**. **Insats 70 → 50 kr.**
+
+**Celtic–Celta, skottspelet:** Tierney startar som vänsterback. Singeln står oförändrad.
+
+**Reviderad exponering:** kuponger **300 → 230 kr** (Lech–Sunderland 100 kr och Sturm
+Graz–Marseille 80 kr är igång och orörda, Bournemouth–Milan 50 kr). Singlar 60 kr
+oförändrat. De **70 kr som frigörs placeras inte om** — 20:00-körningen uppdaterar, den
+analyserar inte fram nya spel (**L6**). Kvällens kvarvarande måltes lutar nu ännu tyngre
+defensivt, men de två defensiva spelen startade före elvorna och är låsta.
