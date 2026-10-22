@@ -392,3 +392,43 @@ under den nye tränaren; Levski är obesegrade i sex bortamatcher.
 Kabakov ligger på 2,92 gula per match över sina tjugo senaste matcher, med noll röda i samma
 urval. Det priset som finns på rött kort i Celtic–Celta kräver 20% och underlaget pekar åt
 motsatt håll. Sjutton av kvällens domare är overifierade. Inget kortspel.
+
+## 🔄 Tillägg 18:00 — Celtas trupp till Glasgow
+
+**Celtic–Celta Vigo (21:00).** Celta reser med 24 man och **Pablo Durán är med** —
+friskförklarad i tisdags efter smällen mot Elche — liksom **Iago Aspas**. Borta är Borja
+Iglesias, Starfelt (reser men kan inte spela), El-Abdellaoui, Álvaro Núñez och Miguel
+Román: fem spelare, inte sex, och bara en av dem anfallare. 13:00-analysens motargument
+vilade uttryckligen på "ett Celta utan Borja Iglesias och Pablo Durán" — halva den
+förutsättningen är borta, och åtta anfallare i truppen är djup, inte kris (**E3**).
+Celtic saknar samtidigt Carter-Vickers och sannolikt Johnston, vilket drar åt samma håll.
+Bortatorkan (ett mål på fem, missat målet i fyra) står kvar och bär fortfarande tesen, så
+spelet nedgraderas — det dras inte (**L7**).
+
+→ **Celta under 0,5 mål: 35% → 31% (25–38%)**, rättvist odds 3,23 mot 3,75 indikativt
+(oförändrat pris, ingen ny notering hittad). Brytpunkt 26,7% ligger nu **inne i bandet**
+(**L1**) — marginellt, inte robust. Bandet vidgas nedåt på Duráns matchform efter två
+veckor ur spel, Aspas oklara speltid (Giráldez: inte redo för 90 minuter) och att elvan
+ännu inte är släppt (**L2**). Utfallskonfidens 6 → 5,5/10.
+
+→ **Kupong 4 (Lyon vinst × Celta under 0,5):** 13% → **12% (8,3–16,3%)**, rättvist odds
+8,49 mot 12,19. EV +44% mot +62% i 13:00-analysen. Brytpunkt 8,2% ligger kvar strax
+utanför bandets nedre kant — kvar som spel, men utan marginal. Spelkvalitet 🟢 7 → 🟡 6.
+
+**Bournemouth–Milan (21:00):** Alex Scott och Kroupi fortsatt ute, båda sedan september.
+Inget nytt sedan 13:00 — ingen ändring.
+
+**Hoffenheim–Lyon (21:00):** inga nya besked. Tagliafico och Openda var redan inräknade —
+ingen ändring.
+
+**18:45-matcherna:** bekräftade startelvor gick inte att nå i någon läsbar källa före
+avspark — UEFA publicerar bara trupplistor, Sofascore svarar 403, Fotmob 404, och de elvor
+som fanns var sinsemellan motstridiga *förväntade* uppställningar. Inget tillägg görs därför
+på gissade elvor: Lech–Sunderland, Sturm Graz–Marseille och Juventus–Rennes står kvar
+oförändrade på 13:00-analysen.
+
+**Vad detta gör med spelen:** en insats flyttas. **Kupong 4 sänks 50 → 30 kr**, och
+kupongexponeringen går från 300 till 280 kr. Beloppet omfördelas inte — en ny placering så
+här nära avspark vore ny analys, inte en uppdatering. Ankaret (Lech–Sunderland BTTS Nej,
+100 kr), Sturm Graz–Marseille under 2,5 (80 kr), Bournemouth–Milan över 2,5 (70 kr),
+Juventus–Rennes över 2,5 (30 kr) och Tierney 1+ skott på mål (30 kr) står oförändrade.
