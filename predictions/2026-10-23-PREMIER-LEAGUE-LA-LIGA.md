@@ -106,3 +106,23 @@ Flemming och Philogene saknas i den förväntade elvan. Igor Jesus leder Forests
 ## 🟨 Kort
 
 Bramall ligger på 4,0 gula per match över 17 Premier League-matcher förra säsongen; de tre matcherna den här säsongen är för få att räkna på. Domaren i Alavés–Málaga går inte att verifiera. Inget kortspel — lagens kort per match saknas för alla fyra lagen, och utan verifierad domare i den match där ett pris finns (över 4,5 kort, 2,05) går linjen inte att bedöma.
+
+## Tillägg 18:00 — prisrörelse och domartillsättning
+
+*Två ändringar sedan 13:00. Spellistan i sektion 3 står kvar som den skrevs — det här avsnittet är det som gäller: ett av de två singelspelen dras tillbaka.*
+
+**Alavés – Málaga · Alavés vinst: 🟡 LITET SPEL → 🔴 PASS**
+
+Priset 1,80 finns inte längre hos någon källa som går att läsa. bet365 noterar 3/5 = 1,60 (via Kickoff), SportsGambler −161 = 1,62, och det bästa pris som nämns i löptext är 1,73. Sannolikheten står kvar på **64% (57–70%)** och rättvist odds på 1,56 — fotbollsbilden är oförändrad och analysen skrivs inte om. Det är brytpunkten som flyttat: från 55,6% vid 1,80 till **61,7% vid 1,62**, alltså in i bandet. Det är precis det robusthetstest **L1** finns för, och EV faller från +15% till **+3,7%** vid 1,62 (+2,4% vid 1,60) och är negativ under 61,7% — hela bandets nedre tredjedel. Utfallskonfidens står kvar på **7/10**; det är **spelkvaliteten** som faller, vilket är hela poängen med att skilja dem åt (**M1**). Spelet återgår till 🟡 LITET SPEL först vid **1,76 eller bättre**, där brytpunkten 56,8% åter ligger utanför bandets nedre kant.
+
+**Alavés – Málaga · BTTS Nej: 🟢 SPELA står kvar, 100 kr**
+
+Även den här linjen har kortats, 1,76 → 1,73 (SportsGambler) respektive 1,70 (bet365 7/10), men brytpunkten 57,8–58,8% ligger fortfarande **under** bandets nedre kant på 60%. Edgen är alltså robust på samma sätt som i originalanalysen. Sannolikhet 68% (60–76%), rättvist odds 1,47, EV +17,6% vid 1,73 och +15,6% vid 1,70. Spelkvalitet 🟢 7,5 oförändrad. Spelet håller ned till 1,67 — därunder går brytpunkten in i bandet.
+
+**Exponering efter tillägget:** 100 kr i stället för 150 kr, en position i stället för två. Den korrelation originalavsnittet flaggade — två spel som båda faller på ett Málagamål — är därmed borta, och det som återstår är den position där priset fortfarande bär skattningen.
+
+**Domaren i Alavés – Málaga är bekräftad:** Carlos Muñiz Muñoz (RFEF:s domarkommitté, via iusport), med Carlos del Cerro på VAR. Karriärsnittet ligger på 3,58–4,11 gula per match beroende på källa (OddAlerts 3,58 på 80 matcher 2021–26, StatsHub 3,64, Valuestats 3,71, PlayerStats 4,11); säsongen rymmer bara 3–4 matcher, så karriärsiffran är den som gäller (**G3**). Över 4,5 kort 2,05 kräver 48,8% — källspridningen på en halv kort/match lägger ensam brytpunkten inne i bandet, det är hans första match med Alavés, och lagens kort per match saknas fortfarande för båda lagen. Linjen är därmed **bedömd i stället för obedömbar**, men svaret blir detsamma: inget kortspel. Siffrorna, inte renomméet, avgör (**G1**).
+
+**Ipswich – Nottingham Forest: ingen ändring.** Lukic (ljumske) och Jack Taylor (knä) ute, Fatawu tillgänglig efter avstängning, Forest utan Savona (knä) och Igor Jesus (vadskada, redan med i originalanalysen). Gibbs-Whites status motsägs mellan källorna och är inte bekräftad. Inget av detta vänder en match som var PASS på pris, inte på personal — den förblir 🔴 PASS.
+
+**Startelvor:** inga bekräftade elvor ännu i någon av matcherna. Båda sparkar igång 21:00 och elvorna släpps omkring 20:00, vilket är 20:00-körningens uppgift (**L7**). Analyserna ovan vilar fortfarande på förväntade elvor.
