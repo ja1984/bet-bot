@@ -490,3 +490,195 @@ Graz–Marseille 80 kr är igång och orörda, Bournemouth–Milan 50 kr). Singl
 oförändrat. De **70 kr som frigörs placeras inte om** — 20:00-körningen uppdaterar, den
 analyserar inte fram nya spel (**L6**). Kvällens kvarvarande måltes lutar nu ännu tyngre
 defensivt, men de två defensiva spelen startade före elvorna och är låsta.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Arton enkelmatcher i ligafasen — ingen förlängning spelas, så varje marknad
+nedan avgörs på ordinarie tid plus tillägg. Två tilläggstidshändelser påverkade bedömningen:
+Kramarićs 1–0 för Hoffenheim i 45+4 **räknas** (första halvlekens tillägg), och ett
+Juventusmål i 90+1 **underkändes av VAR** och räknas inte — hade det stått sig hade matchen
+slutat 3–2, men över 2,5 var redan avgjord i 67:e. Ingen match gick utöver ordinarie tid.
+
+Omgången gav **63 mål på 18 matcher — 3,50 per match**. Båda lagen gjorde mål i **9 av 18
+(50,0%)** och över 2,5 landade i **14 av 18 (77,8%)**. Mot den fasnivå filen själv skrev ut
+inför kvällen — BTTS 52,8%, över 2,5 63,9%, 2,86 mål per match — låg BTTS på nivån och
+målmängden klart över den.
+
+### Resultat
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Ararat-Armenia – AZ Alkmaar | 0–4 | Patati två mål; hemmalaget nollat |
+| Dinamo Zagreb – NEC Nijmegen | 2–4 | Bischoff 25', Beljo 33' och 37', Linssen 45' och 54', Chery 80' |
+| Ferencváros – Torreense | 4–1 | Yusuf 20', Pozo 23', Gómez 58', självmål Diadié 80', Lisztes 89' |
+| Juventus – Rennes | 2–2 | Çelik 5', Al-Taamari 15', Dia 43' (straff), Woltemade 67' (straff); Juventusmål underkänt i 90+1 |
+| Lech Poznań – Sunderland | 1–1 | Tutierov 2', Bengtsson 70' (inhoppare) |
+| OFI Kreta – Bayer Leverkusen | 0–2 | Gästerna kontrollerade; OFI utan mål |
+| Union Saint-Gilloise – Hapoel Beer Sheva | 4–0 | Hapoel nollat på neutral plan |
+| Sturm Graz – Marseille | 1–0 | Diakité 13' på omställning; Marseille 72% boll utan att nå fram |
+| Beşiktaş – Crystal Palace | 2–2 | Ndidi vid halvtid, Pino och Mateta i en femminutersperiod efter paus, Olaitan 73' |
+| Bournemouth – AC Milan | 3–0 | Kluivert 8' (straff), **Maignan utvisad 27'**, Tavernier 32' (straff), Adli 84' (frispark) |
+| Celje – Salzburg | 2–2 | Celje gjorde sina första mål i fasen |
+| Celtic – Celta Vigo | 1–2 | Baur 47', Javi Rodríguez 68' och 71'; Celta 22 skott mot 8, fyra på mål var |
+| Hoffenheim – Lyon | 3–0 | Kramarić 45+4, Daghim 49', Hložek 83'; Lyon utan mål |
+| Jagiellonia – Anderlecht | 0–3 | Onia Seke bland målskyttarna; Anderlechts första poäng i fasen |
+| Lillestrøm – Real Sociedad | 0–6 | Sergio Gómez och Sučić två mål var |
+| Olympiakos – Sparta Prag | 1–0 | Ännu en smal hemmaseger |
+| Omonia Nicosia – Benfica | 1–4 | Omonia släppte in sina första mål i fasen |
+| Viktoria Plzeň – Levski Sofia | 1–2 | Levski obesegrade borta; Plzeň fortsatt utan poäng |
+
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Ararat–AZ | Över 1,5 | 85% (80–89%) | 1,16 | — | 4 mål | ✅ |
+| Ararat–AZ | AZ vinst | 62% (55–68%) | 1,38 | — | 0–4 | ✅ |
+| Ararat–AZ | Över 2,5 | 68% (61–74%) | inget pris | — | 4 mål | ✅ |
+| Ararat–AZ | Ararat över 0,5 | 66% (58–73%) | inget pris | — | 0 mål | ❌ |
+| Dinamo–NEC | Dinamo vinst | 57% (50–63%) | 1,48 | — | 2–4 | ❌ |
+| Dinamo–NEC | Under 2,5 | 62% (55–68%) | inget pris | — | 6 mål | ❌ |
+| Dinamo–NEC | Dinamo över 1,5 | 44% (37–51%) | inget pris | — | 2 mål | ✅ |
+| Dinamo–NEC | BTTS Nej | 66% (59–72%) | inget pris | — | båda gjorde mål | ❌ |
+| Ferencváros–Torreense | Ferencváros vinst | 68% (61–74%) | 1,30 | — | 4–1 | ✅ |
+| Ferencváros–Torreense | Ferencváros över 1,5 | 64% (57–70%) | inget pris | — | 4 mål | ✅ |
+| Ferencváros–Torreense | Över 2,5 | 65% (58–71%) | inget pris | — | 5 mål | ✅ |
+| Ferencváros–Torreense | BTTS | 52% (45–59%) | inget pris | — | båda gjorde mål | ✅ |
+| Juventus–Rennes | **Över 2,5** | 58% (52–63%) | 1,91 | **30 kr** | 4 mål | ✅ |
+| Juventus–Rennes | Juventus vinst | 60% (53–66%) | 1,42 | — | 2–2 | ❌ |
+| Juventus–Rennes | Oavgjort & BTTS | 15% (11–19%) | 2,20 | — | 2–2 | ✅ |
+| Juventus–Rennes | Juventus över 1,5 | 57% (50–64%) | inget pris | — | 2 mål | ✅ |
+| Juventus–Rennes | Woltemade målskytt | underlag saknas | 2,50 | — | mål 67' (straff) | ✅ |
+| Lech–Sunderland | **BTTS Nej** | 66% (58–72%) | 2,10 | **100 kr** | båda gjorde mål | ❌ |
+| Lech–Sunderland | Sunderland vinst | 58% (51–64%) | 1,69 | — | 1–1 | ❌ |
+| Lech–Sunderland | Över 2,5 | 52% (45–59%) | 1,79 | — | 2 mål | ❌ |
+| Lech–Sunderland | Lech över 0,5 | 45% (38–52%) | inget pris | — | 1 mål | ✅ |
+| OFI–Leverkusen | Leverkusen vinst | 72% (65–78%) | 1,20 | — | 0–2 | ✅ |
+| OFI–Leverkusen | Leverkusen över 1,5 | 70% (63–76%) | inget pris | — | 2 mål | ✅ |
+| OFI–Leverkusen | Över 2,5 | 61% (54–67%) | inget pris | — | 2 mål | ❌ |
+| OFI–Leverkusen | OFI under 0,5 | 52% (45–59%) | inget pris | — | 0 mål | ✅ |
+| Union SG–Hapoel | Union vinst | 62% (54–69%) | 1,38 | — | 4–0 | ✅ |
+| Union SG–Hapoel | Union över 1,5 | 58% (50–65%) | inget pris | — | 4 mål | ✅ |
+| Union SG–Hapoel | Under 2,5 | 54% (47–61%) | inget pris | — | 4 mål | ❌ |
+| Union SG–Hapoel | BTTS Nej | 60% (53–67%) | inget pris | — | Hapoel 0 mål | ✅ |
+| Sturm Graz–Marseille | **Under 2,5** | 57% (50–63%) | 2,10 | **80 kr** | 1 mål | ✅ |
+| Sturm Graz–Marseille | Över 2,5 | 43% (37–50%) | 1,73 | — | 1 mål | ❌ |
+| Sturm Graz–Marseille | Marseille vinst | 45% (38–52%) | 2,00 | — | 1–0 | ❌ |
+| Sturm Graz–Marseille | Sturm under 0,5 | 44% (37–51%) | inget pris | — | 1 mål | ❌ |
+| Beşiktaş–Palace | Beşiktaş vinst | 48% (42–54%) | 2,25 | — | 2–2 | ❌ |
+| Beşiktaş–Palace | BTTS | 61% (54–67%) | 1,50 | — | båda gjorde mål | ✅ |
+| Beşiktaş–Palace | BTTS & över 2,5 | 48% (41–55%) | 1,80 | — | 4 mål, båda gjorde mål | ✅ |
+| Beşiktaş–Palace | Beşiktaş över 1,5 | 62% (55–68%) | inget pris | — | 2 mål | ✅ |
+| Bournemouth–Milan | **Över 2,5** | 63% → 60% (54–65%) | 1,75 | **50 kr** | 3 mål | ✅ |
+| Bournemouth–Milan | Bournemouth vinst | 47% (40–54%) | 2,10 | — | 3–0 | ✅ |
+| Bournemouth–Milan | BTTS | 60% (53–66%) | inget pris | — | Milan 0 mål | ❌ |
+| Bournemouth–Milan | Bournemouth över 1,5 | 50% (43–57%) | inget pris | — | 3 mål | ✅ |
+| Bournemouth–Milan | Evanilson målskytt | underlag saknas | 3,00 | — | inget mål | ❌ |
+| Celje–Salzburg | Salzburg vinst | 55% (48–62%) | 1,53 | — | 2–2 | ❌ |
+| Celje–Salzburg | Celje under 0,5 | 48% (41–55%) | inget pris | — | 2 mål | ❌ |
+| Celje–Salzburg | Under 2,5 | 52% (45–59%) | inget pris | — | 4 mål | ❌ |
+| Celje–Salzburg | BTTS Nej | 63% (56–69%) | inget pris | — | båda gjorde mål | ❌ |
+| Celtic–Celta | **Celta under 0,5 mål** | 35% → 31% → 27% (23–32%) | 3,75 | **dragen 20:00** | Celta 2 mål | ❌ |
+| Celtic–Celta | Celtic vinst | 42% (36–48%) | 2,75 | — | 1–2 | ❌ |
+| Celtic–Celta | Under 1,5 | 30% (24–37%) | 4,20 | — | 3 mål | ❌ |
+| Celtic–Celta | BTTS & över 2,5 | 36% (30–43%) | 2,05 | — | 3 mål, båda gjorde mål | ✅ |
+| Celtic–Celta | Rött kort i matchen | underlag saknas | 5,00 | — | inga röda kort | ❌ |
+| Hoffenheim–Lyon | **Lyon vinst** | 38% → 34% (28–40%) | 3,25 | **dragen 20:00** | 3–0 | ❌ |
+| Hoffenheim–Lyon | Över 2,5 | 68% (61–74%) | 1,50 | — | 3 mål | ✅ |
+| Hoffenheim–Lyon | BTTS | 68% (61–74%) | 1,50 | — | Lyon 0 mål | ❌ |
+| Hoffenheim–Lyon | Lyon över 1,5 | 55% (48–62%) | inget pris | — | 0 mål | ❌ |
+| Jagiellonia–Anderlecht | Jagiellonia vinst | 34% (27–42%) | 3,10 | — | 0–3 | ❌ |
+| Jagiellonia–Anderlecht | Anderlecht vinst | 39% (32–46%) | 2,25 | — | 0–3 | ✅ |
+| Jagiellonia–Anderlecht | Under 2,5 | 58% (50–65%) | inget pris | — | 3 mål | ❌ |
+| Jagiellonia–Anderlecht | Anderlecht under 0,5 | 42% (35–50%) | inget pris | — | 3 mål | ❌ |
+| Lillestrøm–Sociedad | Real Sociedad vinst | 52% (45–59%) | 1,44 | — | 0–6 | ✅ |
+| Lillestrøm–Sociedad | Real Sociedad över 1,5 | 48% (41–55%) | inget pris | — | 6 mål | ✅ |
+| Lillestrøm–Sociedad | Över 2,5 | 60% (53–66%) | inget pris | — | 6 mål | ✅ |
+| Lillestrøm–Sociedad | BTTS | 60% (53–66%) | inget pris | — | Lillestrøm 0 mål | ❌ |
+| Olympiakos–Sparta | Olympiakos vinst | 55% (48–62%) | 1,50 | — | 1–0 | ✅ |
+| Olympiakos–Sparta | Under 2,5 | 58% (51–65%) | inget pris | — | 1 mål | ✅ |
+| Olympiakos–Sparta | Olympiakos över 1,5 | 42% (35–49%) | inget pris | — | 1 mål | ❌ |
+| Olympiakos–Sparta | BTTS Nej | 58% (51–65%) | inget pris | — | Sparta 0 mål | ✅ |
+| Omonia–Benfica | Över 2,5 | 58% (51–64%) | 1,57 | — | 5 mål | ✅ |
+| Omonia–Benfica | Benfica vinst | 62% (55–69%) | 1,38 | — | 1–4 | ✅ |
+| Omonia–Benfica | Under 2,5 | 42% (36–49%) | inget pris | — | 5 mål | ❌ |
+| Omonia–Benfica | Omonia dubbelchans | 48% (41–55%) | inget pris | — | 1–4 | ❌ |
+| Plzeň–Levski | Plzeň vinst | 42% (34–50%) | inget pris | — | 1–2 | ❌ |
+| Plzeň–Levski | Över 2,5 | 56% (48–63%) | inget pris | — | 3 mål | ✅ |
+| Plzeň–Levski | BTTS | 58% (50–65%) | inget pris | — | båda gjorde mål | ✅ |
+| Plzeň–Levski | Levski över 0,5 | 68% (60–75%) | inget pris | — | 2 mål | ✅ |
+
+Av de 72 matchbedömda marknaderna skattades **48 över 50%** och **30 av dem landade (62,5%)**;
+de **24 som skattades 50% eller lägre** landade i **9 fall (37,5%)**. Riktningen stämmer alltså
+i båda ändar, och kvällens förlust ligger inte i en generellt skev skala utan i en enskild post.
+
+**Sju av elva medvetet undvikna marknader landade.** De elva noterade prisernas implicerade
+sannolikheter summerar till 5,6 förväntade träffar; för de åtta som bar en egen skattning var
+filens eget tal 4,5 och priserna 4,7, mot fem träffar. Avståendena lämnade ingen mätbar kant
+på bordet. Dyrast att ha stått utanför var Celtic–Celta BTTS & över 2,5 på 2,05 och
+Beşiktaş–Palace BTTS på 1,50 — båda landade, båda hade negativt EV till sina priser.
+
+**Tolv matcher passades, och i elva av dem saknade den utpekade bästa marknaden pris.**
+Sju av de tolv bästa marknaderna landade: över 2,5 i Ararat–AZ, Ferencváros över 1,5,
+Leverkusen över 1,5, Union över 1,5, Sociedad över 1,5, under 2,5 i Olympiakos–Sparta och
+Levski över 0,5. Fem lagtotaler bland dem — samma blinda fläck som föregående kvällar.
+
+### Skott på mål
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Celtic | Tierney | 1+ | 38% (30–46%) | 90 | ej bedömbar | ej avgjord |
+| Celtic | Høgh | — | underlag saknas | 17 (inbytt 73') | ej bedömbar | — |
+| Celtic | Camilo Durán | — | underlag saknas | 80 (utbytt 80') | ej bedömbar | — |
+| Celta | Jutglà | — | underlag saknas | 77 (utbytt 77') | ej bedömbar | — |
+| Celta | Swedberg | — | underlag saknas | 27 (inbytt 63') | ej bedömbar | — |
+| Celta | Hugo Álvarez | — | underlag saknas | 85 (utbytt 85'); assist till 1–1 | ej bedömbar | — |
+
+Samtliga sex rader fick en verifierad minutsiffra och **ingen föll på speltid** — alla sex var
+på planen. Celtic hade fyra skott på mål i matchen och Celta fyra; spelarvis fördelning gick
+inte att hämta från någon källa, så ingen rad kunde avgöras mot sin linje. Tierney startade som
+vänsterback precis som 20:00-tillägget angav.
+
+### Kuponger
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare: Lech–Sunderland BTTS Nej, 100 kr @ 2,10 | ❌ | BTTS Nej — 1–1, mål i 2:a och 70:e |
+| 2 — Huvudspel: Bournemouth–Milan över 2,5, 50 kr @ 1,75 | ✅ | — |
+| 3 — Hedge: Sturm Graz–Marseille under 2,5, 80 kr @ 2,10 | ✅ | — |
+| 4 — Uppsida: Lyon vinst × Celta under 0,5 — **dragen 20:00** | dragen; båda benen föll | Lyon vinst (0–3) och Celta under 0,5 (2 mål) |
+
+Ett enda kupongset, lagt 13:00 och omräknat 18:00 och 20:00, så avsnittstotal och dagstotal är
+samma siffra. 230 kr av 300 kr i kupongbudget spelades; de 70 kr som frigjordes under dagen
+placerades inte om. En notering om filens egen bokföring: 18:00-tillägget skrev ned kupong 4
+från 50 till 30 kr, men 20:00-tillägget skriver att "50 kr tas bort" när det som faktiskt
+återstod var 30 kr. Exponeringssiffran 230 kr stämmer, textraden gör det inte.
+
+### Totalt: 2/3 spelade kuponger (4 publicerade) · 1/1 avgjord singel av två publicerade · +52,80 kr
+
+Kuponger: −100,00 + 88,00 + 37,50 = **+25,50 kr på 230 kr**. Singlar: Juventus–Rennes över 2,5
+30 kr @ 1,91 ✅ = **+27,30 kr**. Nattens netto på 260 kr avgjord insats: **+52,80 kr**.
+
+Priserna är indikativa och hämtade ur previewmaterial 19–22 oktober. Räknat på filens egna
+rättvisa odds i stället (1,75 · 1,67 · 1,72) blir kvällen +15,10 kr; spannet är +15 till +53 kr
+och den högre posten används, samma konvention som tidigare kvällar. **Tierneysingeln på 30 kr
+gick inte att avgöra** — spelarvis skott på mål fanns inte att hämta — och ligger utanför summan
+ovan; med den hade natten landat mellan +22,80 kr (förlust) och +124,80 kr (träff).
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Lech–Sunderland BTTS Nej, 100 kr | −100 kr | Dålig sannolikhet, recensbias på drivaren — 66% mot fasens egen BTTS-Nej-nivå på 47,2%, och hela påslaget vilade på fyra matchers måltorka |
+| Sturm Graz–Marseille under 2,5, 80 kr | +88 kr | Bra beslut — två oskarpa anfall, och matchen blev den 1–0 som tesen beskrev |
+| Bournemouth–Milan över 2,5, 50 kr | +37,50 kr | Varians — nedskrivningen 20:00 vilade på att Milans förstamålvakt startade, och det var hans utvisning i 27:e som gav målen |
+| Juventus–Rennes över 2,5, 30 kr | +27,30 kr | Bra beslut — fyra mål före 70:e i precis den öppna matchbild tesen beskrev |
+| Kupong 4 (Lyon vinst × Celta under 0,5) | dragen, 0 kr | Bra beslut — premissen var motbevisad av de bekräftade elvorna och båda benen föll |
+| Tierney 1+ skott på mål, 30 kr | ej avgjord | Ingen orsak att klassa — han spelade 90 minuter, men spelarvis skott på mål gick inte att hämta i efterhand |
+
+Ankaret är kvällens enda egentliga fel, och det är ett prissättningsfel i skattningen snarare än
+en felläsning av matchen: Lech var mycket riktigt tandlöst i 70 minuter och behövde en
+inhoppare för att hitta målet. Men 66% på BTTS-Nej i en ligafas vars egen BTTS-frekvens filen
+själv skrivit ut som 52,8% innebär ett påslag på nära nitton procentenheter, och bäraren var en
+fyramatcherssvit — under bevisribban för ett mönster. Till priset 2,10 låg brytpunkten på 47,6%,
+alltså i praktiken exakt fasens egen nivå; spelet hade alltså ingen kant alls utan påslaget.
+Samma form av misstag — en utskriven fasnivå som därefter överskrids kraftigt i målmarknaderna
+— noterades den 20 oktober i två fall och den 21 oktober i ett. Fyra observationer är inte ett
+mönster, men de ligger åt samma håll och räknas vidare.
