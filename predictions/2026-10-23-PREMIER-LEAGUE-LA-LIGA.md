@@ -126,3 +126,44 @@ Priset 1,80 finns inte längre hos någon källa som går att läsa. bet365 note
 **Ipswich – Nottingham Forest: ingen ändring.** Lukic (ljumske) och Jack Taylor (knä) ute, Fatawu tillgänglig efter avstängning, Forest utan Savona (knä) och Igor Jesus (vadskada, redan med i originalanalysen). Gibbs-Whites status motsägs mellan källorna och är inte bekräftad. Inget av detta vänder en match som var PASS på pris, inte på personal — den förblir 🔴 PASS.
 
 **Startelvor:** inga bekräftade elvor ännu i någon av matcherna. Båda sparkar igång 21:00 och elvorna släpps omkring 20:00, vilket är 20:00-körningens uppgift (**L7**). Analyserna ovan vilar fortfarande på förväntade elvor.
+
+## Tillägg 20:00 — bekräftade startelvor
+
+*Elvorna är ute i båda matcherna. Det här avsnittet är en delta: två förutsättningar från 13:00 har fallit och ett spel får nya siffror. Resonemangen ovan står kvar oförändrade.*
+
+**Alavés – Málaga · bekräftade elvor**
+
+Alavés (Quique Sánchez Flores), 5-3-2: Sivera; Ángel Pérez, Tenaglia, Koski, Valentini, Rebbach; Antonio Blanco, Ibáñez, Aleñá; Boyé, **Mariano Díaz**. Denis Suárez, Toni Martínez och Novoa på bänken.
+Málaga (Funes): Alfonso Herrero; Puga, Galilea, Ramón, Rafita, Aznou; Recio, Dotor, Dani Lorenzo; Larrubia, **Niño**. **Chupe**, Cajuste och Calero på bänken.
+Källor: Comuniate och El Desmarque, båda publicerade som *alineaciones confirmadas*, plus El Españols direktrapport. En fjärde oberoende feed (ysscores) ger samma elvor och skiljer sig bara i namnformen på två spelare. Hemmalag verifierat via arenan: matchen spelas på **Mendizorroza**, alltså Alavés hemma.
+
+**Två förutsättningar från 13:00 föll — båda åt samma håll:**
+- **Mariano Díaz startar.** 13:00 skrev att han *saknas i den förväntade elvan och raden förutsätter inhopp*. Han startar i stället bredvid Boyé — Alavés går ut med två spetsar.
+- **Chupete är petad.** 13:00 hade honom i den förväntade elvan som skotträknad spelare. Málaga ställer upp med Niño ensam på topp bakom Larrubia och Dani Lorenzo, med dubbla ytterbackar (Rafita och Aznou) — en försiktig bortauppställning.
+
+**BTTS Nej: 🟢 SPELA står kvar — uppgraderas. 100 kr.**
+Petningen av Chupe och den defensiva bortaformationen förstärker exakt den premiss spelet vilar på: att Málaga inte gör mål. Motvikten är att Alavés två spetsar höjer sannolikheten för det scenario originalets motargument pekade ut — att Alavés drar ifrån och Málaga får ett tröstmål. Nettot är en nudge uppåt, inte ett omtag (**L7**).
+Sannolikhet **68% → 70% (64–76%)**, rättvist odds **1,43**. Bandet smalnar för att rotationsosäkerheten är borta — en namngiven drivare, inte en schablon (**L2**). Brytpunkt 57,8% vid 1,73 och 58,8% vid 1,70, alltså fortfarande **under** bandets nedre kant 64% — edgen är robust. EV **+21,1%** vid 1,73 (SportsGambler) och **+19,0%** vid 1,70 (bet365 7/10). Tålighetsgränsen flyttar från 1,67 till **cirka 1,56**.
+Utfallskonfidens **7 → 7,5/10** · spelkvalitet **🟢 7,5 → 🟢 8,0** (**M1**). BTTS Nej bär inget konfidenstak — **A7** gäller BTTS Ja.
+**Insatsen står kvar på 100 kr.** Edgen växte måttligt; att höja exponeringen 40 minuter före avspark på en nudge är inte vad siffran bär.
+
+**Alavés vinst: 🔴 PASS står kvar.** Två spetsar från start är gynnsamt för läsningen, men spelet drogs 18:00 på *pris*, inte på personal, och elvan flyttar inget pris. Sannolikheten står kvar på 64% (57–70%), rättvist odds 1,56, och återinträdesgränsen 1,76 från 18:00 gäller oförändrad.
+
+**Skott på mål.** Mariano Díaz raden förutsätter inte längre inhopp — han startar. Chupetes rad gör det nu i stället. Inget pris finns på någon rad, så ingendera blir ett spel (**K4c**).
+
+**Ipswich – Nottingham Forest · bekräftade elvor**
+
+Ipswich (4-2-3-1): Walton; O'Shea, Diop, Ouattara, Florentino, Palacios, Davis; Fatawu, Enciso, **Philogene**, Emersonn. Flemming, Akpom och Maeda på bänken.
+Forest: Sels; Milenkovic, Jair Cunha, Murillo; Muñoz, McAtee, Schlager, Williams; **Gibbs-White**, Delap, Ndoye. Igor Jesus och Savona fortsatt ute.
+Källor: bet365 News och 101GreatGoals, båda som bekräftade elvor. Hemmalag verifierat via arenan: **Portman Road**, alltså Ipswich hemma.
+
+**Den öppna frågan från 18:00 är stängd: Gibbs-White startar.** 18:00 noterade att hans status *motsägs mellan källorna och är inte bekräftad*. Glasner har bekräftat honom spelklar efter en hel träningsvecka, och han går ut bakom Delap och Ndoye — Forests bästa anfallstrio. Dessutom föll 13:00-premissen att **Philogene saknas i den förväntade elvan**: han startar. Flemming är petad, vilket den premissen förutsåg.
+
+**Beslut: 🔴 PASS står kvar — men siffrorna justeras.**
+BTTS Ja **56% → 58% (50–63%)**, rättvist odds **1,72**. Priset 1,57 kräver 63,7% — fortfarande *över* bandets övre kant, så spelet är inte ens marginellt.
+Över 2,5 **52% → 54% (47–61%)**, rättvist odds **1,85**. Priset 1,74 kräver 57,5%, vilket ligger **inne** i bandet — marginellt, alltså PASS (**L1**).
+Utfallskonfidens **6 → 6,5/10**. Kontrollen är gjord och svaret är detsamma: Forests starkaste elva räcker inte för att bära de här två prisen.
+
+**Skott på mål.** Flemmings rad förutsätter nu inhopp; Philogenes är en startelvarad. McAtee, Ndoye och Delap startar som raderna antog. Inget pris finns, så ingen rad blir ett spel.
+
+**Exponering efter tillägget:** oförändrad — **100 kr på en position**, BTTS Nej i Alavés–Málaga. Inga nya spel tillkommer.
