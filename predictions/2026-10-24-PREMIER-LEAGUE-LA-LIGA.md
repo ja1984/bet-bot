@@ -231,3 +231,18 @@ Tolv rader utan underlag i de två återstående matcherna (Zabiri, Canales, And
 ## 🟨 Kort
 
 Kavanagh ligger på 4,10 gula per match över 30 matcher i Premier League förra säsongen och är dagens korttyngsta domare; Herczeg och Harrington ligger båda kring 3,5–3,9 på karriärsiffror. Inget kortspel — ingen av de spanska tillsättningarna gick att verifiera, och ingen kortlinje gick att få pris på.
+
+## 🔄 Tillägg 15:15 — bekräftade elvor (16:00-matcherna)
+
+**Arsenal–Everton (16:00).** Bekräftade elvor. Saliba, Saka och Tzolis ute ✓ — analysens premiss håller. Men **Gyökeres startar och Havertz sitter på bänken**, och Everton ställer upp utan **Grealish och Branthwaite** (Evertons elva vilar på en källa). Arsenals mittforward är alltså inte den elvan 13:00-läsningen byggde på, och Evertons förste mittback saknas. Två skäl som drar åt samma håll: fler mål än antaget.
+→ Under 2,5 sänks till **57% (51–63%)**, rättvist odds **1,75** (var 59%, 53–65%, 1,69). Brytpunkten 53,3% ligger nu inne i bandet → benet är marginellt (**L1**), inte ett litet spel. Utfallskonfidens 6 → 5,5/10. Nudge, inte indragning: premissen i texten är inte motbevisad (**L7**).
+→ Kupong 2 därmed **34% (27–40%)**, rättvist odds 2,98, EV +35% → **+30%** mot 3,87. Brytpunkten 25,8% ligger kvar utanför bandet, så kupongen står — men spelkvaliteten sänks **🟡 7 → 🟡 6,5**.
+Två rader i skott-på-mål-tabellen faller: **Havertz** (bänk) och **Branthwaite** (ej i elvan). Barry, Dewsbury-Hall, Ødegaard och Madueke startar som antaget.
+
+**Racing Santander–Espanyol (16:15).** Bekräftade elvor, inga överraskningar: Zabiri, Canales, Íñigo Vicente och Andrés Martín från start för Racing, Roberto Fernández och Zaragoza för Espanyol. Ingen ändring — över 2,5 står kvar på 64% (58–70%).
+
+**Coventry–Fulham (16:00).** Ingen bekräftad elva gick att läsa hos en källa som svarar (WhoScored 403, CoventryLive betalvägg); det enda som går att belägga är att Awoniyi inte startar och att Cherif leder anfallet, vilket om något talar för spelet. Frånvaron i övrigt är oförändrad. Ingen ändring — BTTS Nej står kvar på 56% (49–63%).
+
+**18:30- och 21:00-matcherna** ligger mer än tre timmar bort och inget stort besked har kommit — de lämnas orörda enligt närhetsregeln.
+
+**Vad detta gör med spelen:** Ingen insats flyttas. Båda kupongerna klarar fortfarande värdetestet på mittskattningen och kupong 2 har kvar brytpunkten utanför bandet; det som ändras är att kupong 2 nu är 🟡 6,5 i stället för 🟡 7, och att dess Arsenal-ben hade varit för tunt att ta in om elvan varit känd klockan 13:00.
