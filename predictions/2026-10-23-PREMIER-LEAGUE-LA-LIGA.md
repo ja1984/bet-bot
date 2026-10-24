@@ -167,3 +167,78 @@ Utfallskonfidens **6 → 6,5/10**. Kontrollen är gjord och svaret är detsamma:
 **Skott på mål.** Flemmings rad förutsätter nu inhopp; Philogenes är en startelvarad. McAtee, Ndoye och Delap startar som raderna antog. Inget pris finns, så ingen rad blir ett spel.
 
 **Exponering efter tillägget:** oförändrad — **100 kr på en position**, BTTS Nej i Alavés–Málaga. Inga nya spel tillkommer.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** fyra mål, samtliga inom ordinarie tid — Williams 13' och Enciso 41' på Portman Road, Niño 44' och Mañas 89' på Mendizorroza. Ingen av matcherna gick till förlängning och inget mål föll i tilläggstid, så båda matchernas BTTS och över/under avgörs på exakt de här fyra målen.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Alavés – Málaga | 1–1 | Niño 44' (framspelad av Ramón Enríquez), Mañas 89' på retur efter räddad nick av Toni Martínez. Mañas inbytt i 75:e, Niño utbytt i 77:e. Gula: Boyé 39', Tenaglia 67', Dotor 84' |
+| Ipswich – Nottingham Forest | 1–1 | Williams 13' på volley vid bortre stolpen, Enciso 41' efter Milenkovićs misstag. Forest 17 skott mot 7 och 2,31 mot 0,46 i förväntade mål; Ndoye räddad på mållinjen i 64:e, Williams ut skadad i 84:e |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Alavés – Málaga | BTTS Nej | 68% → 70% (64–76%) | 1,73 | 100 kr | Båda lagen gjorde mål | ❌ −100 kr |
+| Alavés – Málaga | Alavés vinst | 64% (57–70%) | 1,80 → 1,62 | 0 kr (dragen 18:00) | Oavgjort | ❌ som bedömning, 0 kr |
+| Alavés – Málaga | Under 2,5 | 59% (47–68%) | 1,86 | — | 2 mål | ✅ |
+| Alavés – Málaga | Alavés över 1,5 | 48% (41–55%) | 1,92 | — | 1 mål | ❌ |
+| Alavés – Málaga | BTTS Ja | 32% | 1,97 | — | Båda lagen gjorde mål | ✅ |
+| Alavés – Málaga | Första halvlek under 1,5 | ingen skattning | 1,46 | — | 1 mål till paus | ✅ |
+| Alavés – Málaga | Över 4,5 kort | ingen skattning | 2,05 | — | 3 kort | ❌ |
+| Ipswich – Forest | Över 2,5 | 52% → 54% (47–61%) | 1,74 | — | 2 mål | ❌ |
+| Ipswich – Forest | BTTS Ja | 56% → 58% (50–63%) | 1,57 | — | Båda lagen gjorde mål | ✅ |
+| Ipswich – Forest | Ipswich draw no bet | 51% (46–57%) | 2,15 | — | Oavgjort | insats åter |
+| Ipswich – Forest | Ipswich över 1,5 | 44% (37–51%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Ipswich – Forest | Under 2,5 | 48% | 2,06 | — | 2 mål | ✅ |
+| Ipswich – Forest | BTTS Nej | 44% | 2,28 | — | Båda lagen gjorde mål | ❌ |
+
+De två översta raderna speglar singeltabellen i sektion 3 rad för rad. Sektion 3 anger 50 kr på Alavés vinst; 18:00-tillägget drog posten till 0 kr och tabellen skrevs aldrig om, så insatskolumnen här följer tillägget och inte sektion 3.
+
+Fem av de åtta medvetet undvikna marknaderna landade. De åtta priserna implicerar 4,4 förväntade träffar och filens egna skattningar 3,4 på de sju som bär en — mot fyra träffar bland dessa sju. Avståendena lämnade alltså ingen mätbar kant på bordet.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Alavés | Lucas Boyé | 1+ | 71% | 90 | ej bedömbar | — |
+| Alavés | Mariano Díaz | 1+ | 63% | 66 (ut 66') | ej bedömbar | — |
+| Alavés | Ángel Pérez | 1+ | 47% | 90 | ej bedömbar | — |
+| Málaga | Adrián Niño | 1+ | 63% | 77 (ut 77') | 2 | ✅ |
+| Málaga | Chupete | 1+ | 49% | 13 (in 77') | ej bedömbar | — |
+| Málaga | David Larrubia | 1+ | 36% | 90 | ej bedömbar | — |
+| Ipswich | Zian Flemming | 1+ | 63% | 30 (in 60') | ej bedömbar | — |
+| Ipswich | Julio Enciso | 1+ | 51% | 90 | 1 (mål i 41:a) | ✅ |
+| Ipswich | Jaden Philogene | 1+ | 49% | 61 (ut 61') | ej bedömbar | — |
+| Forest | Dan Ndoye | 1+ | 43% | 69 (ut 69') | ej bedömbar | — |
+| Forest | Liam Delap | 1+ | 39% | 90+ (ut i tilläggstid) | ej bedömbar | — |
+| Forest | James McAtee | 1+ | 35% | 90 | ej bedömbar | — |
+
+Tolv rader, samtliga med namn och samtliga med verifierad minutsiffra. Två gick att avgöra mot sin linje och båda landade. Ingen rad föll på speltid: de två raderna som förutsatte inhopp fick båda speltid, Flemming från 60:e och Chupete från 77:e. Lagens skott på mål var 4–5 för Alavés och 3 för Málaga, 3 för Ipswich och 5 för Forest; spelarvis fördelning gick bara att belägga för Niño och Mañas.
+
+### Kuponger
+
+Inga kuponger publicerades — kvällen hade två matcher och den ena var pass på alla marknader, så ett andra ben saknades.
+
+### Totalt: 0/0 kuponger · 0/1 spelade singlar (2 publicerade) · −100 kr
+
+Ett enda spelfönster, lagt 13:00 och omräknat 18:00 och 20:00, så avsnittstotal och dagstotal är samma siffra. Spelet föll, så summan är oberoende av pris och spannet är en enda siffra: priserna 1,73 (SportsGambler) och 1,70 (bet365) hade spelat roll först vid vinst. Den dragna posten hade kostat ytterligare 50 kr om den legat kvar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Alavés – Málaga BTTS Nej | −100 kr | Recensbias — 70% motsvarar 0,36 förväntade Málagamål, mot 0,67 över säsongens nio matcher; de fyra bortamatcherna fick bära skattningen ensamma |
+| Alavés – Málaga Alavés vinst | 0 kr, dragen | Bra beslut — drogs på prisfallet, och matchen slutade oavgjort |
+| Alavés – Málaga under 2,5 | ej spelad, landade | Dåligt marknadsval — den marknad som överlever filens eget motargument, ett ensamt Málagamål, jämfördes aldrig mot spelet som inte gör det |
+| Ipswich – Forest över 2,5 | ej spelad, föll | Bra beslut — priset krävde mer än skattningen och matchen gav två mål |
+| Ipswich – Forest BTTS Ja | ej spelad, landade | Varians — 1,57 krävde 63,7% mot skattning 58%, avståendet var rätt till priset |
+| Ipswich – Forest draw no bet | ej spelad, insats åter | Bra beslut — kvällens utpekade bästa marknad gav varken vinst eller förlust |
+
+**Lärdom:** Räkna om en BTTS Nej-skattning till den målmängd den implicerar och ställ den mot motståndarens säsongssnitt — 70% svarar mot 0,36 mål mot säsongens 0,67, och hela kanten låg i den skillnaden.
