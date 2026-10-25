@@ -220,3 +220,21 @@ Av dessa är bara Tavernier 1,52 och Romero 1,66 prissatta över brytpunkten; re
 ## 🟨 Kort
 
 Ingen domartillsättning gick att verifiera för någon av dagens nio matcher, och därmed finns ingen kortstatistik att räkna på. Inget kortspel läggs.
+
+## 🔄 Tillägg 14:15 — bekräftade elvor
+
+Elvorna för 15:00-matcherna är släppta. Athletic–Getafe rullar redan och rörs inte.
+
+**Manchester United – Bournemouth:** United ställer upp utan renodlad anfallare — Sesko saknas i truppen och både Cunha och Bruno Fernandes startar på bänken, Fernandes för första gången i ligan den här säsongen. Mbeumo spelar ensam högst upp med Mount och Diallo bakom.
+→ Uniteds målförväntan sjunker mot morgonens antagande. Under 2,5 höjs 47% → **53% (47–58%)**, rättvist odds **1,89**; brytpunkten 44,8% på 2,23 ligger nu utanför bandet i stället för inne i det. Utfallskonfidens 6/10, spelkvalitet 🟢 7/10. Krysset flyttas 29% → 31% (27–35%) och har brytpunkten kvar inne i bandet.
+→ Tavernier startar ✓ — skottsingeln står orörd.
+
+**Hull – Brentford:** Hull i 5-4-1 med McBurnie ensam högst upp, Brentford utan de två avstängda. Precis det underlag under 2,5 vilar på. Ingen ändring.
+
+**Liverpool – Brighton:** Ferguson, Mitoma och Tzimas saknas som antaget. Ingen ändring.
+
+**Crystal Palace – Newcastle:** inga överraskningar. Ingen ändring.
+
+**Skottraderna mot bekräftad elva:** Tavernier, Mbeumo, Isak, Kostoulas, Schade och Barnes startar samtliga. **Gelhardt startar på bänken** — den raden faller på speltid, inte på skjutande.
+
+**Vad detta gör med spelen:** kupongerna står orörda — Hull–Brentford-benet bekräftas och ingen kupong rör Manchester United. Under 2,5 i United–Bournemouth läggs till som **🟡 LITET SPEL, 30 kr utanför kupongbudgeten**, förutsatt att 2,23 fortfarande går att få; priset är indikativt från förmiddagens underlag och kan ha rört sig. Skottsinglarna på Tavernier och Romero ligger kvar.
