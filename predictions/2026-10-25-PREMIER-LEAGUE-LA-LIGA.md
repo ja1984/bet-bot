@@ -238,3 +238,21 @@ Elvorna för 15:00-matcherna är släppta. Athletic–Getafe rullar redan och r�
 **Skottraderna mot bekräftad elva:** Tavernier, Mbeumo, Isak, Kostoulas, Schade och Barnes startar samtliga. **Gelhardt startar på bänken** — den raden faller på speltid, inte på skjutande.
 
 **Vad detta gör med spelen:** kupongerna står orörda — Hull–Brentford-benet bekräftas och ingen kupong rör Manchester United. Under 2,5 i United–Bournemouth läggs till som **🟡 LITET SPEL, 30 kr utanför kupongbudgeten**, förutsatt att 2,23 fortfarande går att få; priset är indikativt från förmiddagens underlag och kan ha rört sig. Skottsinglarna på Tavernier och Romero ligger kvar.
+
+## 🔄 Tillägg 17:40 — bekräftade elvor 18:30 och Courtois ur Clásicot
+
+**Real Sociedad – Levante (18:30):** båda elvorna bekräftade (fotmob + Marcas direktrapport, 17:30). Matarazzo gör fyra ändringar mot elvan som vann i Norge — **Kubo, Barrenetxea och Soler startar på bänken**, in kommer Guedes, Sučić och Gorrotxategi — medan Oyarzabal och Óskarsson står kvar högst upp. Levante skrotar ensamanfallaren: Luis Castro ställer upp i 4-4-2 med **Ratkov bredvid Romero**, och lämnar Oriol Rey och Toljan utanför.
+→ De två ändringarna drar åt var sitt håll: Sociedad tappar sin främsta kreatör, Levante skickar upp en spelare till och tunnar ut mittfältet. Över 2,5 justeras 68% → **67% (59–73%)**, rättvist odds **1,49**. Bandet vidgas för att båda anfallsuppställningarna skiljer sig från antagandet och den här kombinationen av elvor aldrig setts.
+→ Mot 1,50 är brytpunkten 66,7% och EV +0,5%; mot det indikativa 1,48 (BetMGM via Sportsgambler, kan ha rört sig) är brytpunkten 67,6% och EV −1%. **Marginalen är borta** — benet i kupong 2 behåller sin plats eftersom tesen inte är motbevisad (**L7**), men det är nu ett nollspel mot priset och inget nytt spel läggs på det.
+
+**Skottraderna mot bekräftad elva (J4b):** Romero, Oyarzabal och Brugué startar samtliga. Romero-singeln står kvar på 67% (60–73%) och 1,66 — en anfallspartner i 4-4-2 ger lika delar fler kontringar och en konkurrent om avsluten, så raden flyttas inte.
+
+**Domare, Real Sociedad – Levante:** fältet som stod `ej verifierad` går att fylla nu — **Javier Alberola Rojas**, 3,88 gula/match på 40 La Liga-matcher mot ligasnittet 4,47 (fotmob). Under snittet, alltså inget kortspel (**G1**). Hans 19 straffar på 40 matcher är det enda avvikande talet, men ingen straffmarknad går att prissätta.
+
+**Barcelona – Real Madrid (21:00):** **Courtois stryks ur laget med influensa** — klubben kallar det ett sent återbud, Lunin tar målet och Voloshyn kallas in som tredjemålvakt (bekräftat av flera oberoende källor, nyheten kom efter förmiddagens analys). Lunin har inte spelat en tävlingsmatch för Madrid den här säsongen.
+→ Barcelona vinst justeras 62% → **64% (57–70%)**, rättvist odds **1,56**. Över 2,5 justeras 84% → **86% (81–89%)**, rättvist odds **1,16**. BTTS står kvar på 78% — målvaktsbytet säger ingenting om Madrids väg till mål.
+→ Besluten står ändå: indikativt 1,62–1,65 på Barcelona (Bookmakers Review, Sportsgambler — noterat före beskedet) ger brytpunkt 61,5%, och 1,18 på över 2,5 ger 84,7%. Båda ligger kvar **inne i bandet** (**L1**), och bandets nedre halva hålls nere av att Optas modell ger Barcelona 54,4% och marknaden efter marginalavdrag ~59%. Den marknad som uttrycker ett rostigt reservmålvaktsläge renast — **Barcelona över 1,5** (**K4b**) — saknar fortfarande pris: `PRIS EJ TILLGÄNGLIGT`. 🔴 PASS kvarstår.
+
+**Domare, Barcelona – Real Madrid:** Juan Martínez Munuera, 4,53 gula/match på 36 La Liga-matcher mot snittet 4,47 (fotmob) — i nivå med ligan, inget kortspel.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupong 2:s La Liga-ben ligger kvar men utan marginal, Romero-singeln står orörd, och Clásicot förblir PASS trots att två skattningar höjs. Sunderland–Leeds rördes inte — den hade redan sparkat igång när körningen började.
