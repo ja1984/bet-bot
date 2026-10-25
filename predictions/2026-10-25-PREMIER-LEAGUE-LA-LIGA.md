@@ -256,3 +256,13 @@ Elvorna för 15:00-matcherna är släppta. Athletic–Getafe rullar redan och r�
 **Domare, Barcelona – Real Madrid:** Juan Martínez Munuera, 4,53 gula/match på 36 La Liga-matcher mot snittet 4,47 (fotmob) — i nivå med ligan, inget kortspel.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Kupong 2:s La Liga-ben ligger kvar men utan marginal, Romero-singeln står orörd, och Clásicot förblir PASS trots att två skattningar höjs. Sunderland–Leeds rördes inte — den hade redan sparkat igång när körningen började.
+
+## 🔄 Tillägg 20:15 — bekräftade elvor Clásicot
+
+**Barcelona – Real Madrid (21:00):** båda elvorna bekräftade. Barcelona ställer upp exakt som antaget — Joan García; Espart, Cubarsí, Martín, Cancelo; Rodri, Pedri; Yamal, Fermín, Gordon; Raphinha. Madrid gör om bakåt: **Dumfries petas till bänken och Valverde går ner som högerback**, med **Bernardo Silva** in centralt bredvid Tchouaméni. Både Alexander-Arnold och Carreras lämnas på bänken, så högerbacksvalet är ett val och inte ett tvång.
+→ Valverde på Yamals sida och en extra kontrollspelare i mitten är en försiktigare uppställning än den antagna, både mot kontringar och framåt. Barcelona vinst justeras 64% → **62% (55–68%)**, rättvist odds **1,61**. Över 2,5 justeras 86% → **84% (78–88%)**, rättvist odds **1,19**. BTTS står kvar på 78% — Mbappé, Bellingham och Diomande är orörda och ett backbyte säger ingenting om Madrids väg till mål.
+→ Mot indikativa 1,62 på Barcelona är brytpunkten 61,7% och EV +0,4%; mot 1,18 på över 2,5 är brytpunkten 84,7% och EV −1%. Över 2,5 låg efter Courtois-beskedet strax över sin brytpunkt och ligger nu under den igen. 🔴 PASS kvarstår på alla tre. Barcelona över 1,5 saknar fortfarande pris: `PRIS EJ TILLGÄNGLIGT`.
+
+**Skottraderna mot bekräftad elva:** Mbappé, Raphinha, Yamal och Bellingham startar samtliga. Ingen rad flyttas.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Varken kupong eller singel rör Clásicot, och de två skattningar som sänks sänks båda bort från spel.
