@@ -246,3 +246,127 @@ Två rader i skott-på-mål-tabellen faller: **Havertz** (bänk) och **Branthwai
 **18:30- och 21:00-matcherna** ligger mer än tre timmar bort och inget stort besked har kommit — de lämnas orörda enligt närhetsregeln.
 
 **Vad detta gör med spelen:** Ingen insats flyttas. Båda kupongerna klarar fortfarande värdetestet på mittskattningen och kupong 2 har kvar brytpunkten utanför bandet; det som ändras är att kupong 2 nu är 🟡 6,5 i stället för 🟡 7, och att dess Arsenal-ben hade varit för tunt att ta in om elvan varit känd klockan 13:00.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Villarreals 2–1 kom i **90+6 och räknas** — tilläggstid i andra halvlek är ordinarie speltid, och det är det målet som fäller kupong 1. Samma sak gäller Chelsea–Tottenhams 77' och 87', Racing–Espanyols 84' och Coventry–Fulhams 80'. Inget av dagens mål föll i förlängning; samtliga matcher var ligamatcher utan förlängning, så ingen marknad påverkas av **förlängningsregeln**.
+
+Filen innehåller **ett enda kupongset** (lagt 13:00; 15:15-tillägget flyttade ingen insats), så avsnittstotal och dagstotal är samma siffra.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Aston Villa – Man City | 2–1 | Jackson 6' och 60', Haaland 52' — ej bedömd, avsparksgränsen hade passerat |
+| Rayo Vallecano – Elche | 0–3 | Redondo 23' (straff), Fer Niño 36' (straff), Valera 68' (Buonanotte) |
+| Coventry City – Fulham | 0–1 | Bobb 80' på Kings passning; två bortdömda straffanspråk |
+| Arsenal – Everton | 2–0 | Konsa 7', Gabriel 68' (nick på Whites inlägg) |
+| Racing Santander – Espanyol | 2–1 | Expósito 62', Belocian 69' (Canales), Zabiri 84' |
+| Chelsea – Tottenham | 0–2 | Penders självmål 77', Tel 87'; Palmer utvisad ~80' (andra gula), Maddison ut skadad 50' |
+| Valencia – Villarreal | 1–2 | Pepelu 38' (straff), Freeman 69' (nick), Mikautadze 90+6' (Moleiro); Gueye utvisad 78', Elliott utvisad 89' |
+| Atlético Madrid – Deportivo | 1–0 | Julián Álvarez 48' på Grimaldos inlägg |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Rayo–Elche | **BTTS Nej** | 59% (52–64%) | 2,06 | ben i K2 | Rayo mållösa | ✅ |
+| Rayo–Elche | Under 2,5 | 55% (49–61%) | 2,04 | — | 3 mål | ❌ |
+| Rayo–Elche | BTTS Ja | 41% (36–48%) | 1,70 | — | Rayo mållösa | ❌ |
+| Rayo–Elche | Rayo över 1,5 | 45% (39–51%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Coventry–Fulham | **BTTS Nej** | 56% (49–63%) | 2,25 | ben i K1 | Coventry mållösa | ✅ |
+| Coventry–Fulham | Under 2,5 | 57% (49–64%) | 2,05 | — | 1 mål | ✅ |
+| Coventry–Fulham | BTTS Ja | 44% (37–51%) | 1,58 | — | Coventry mållösa | ❌ |
+| Coventry–Fulham | Coventry över 1,5 | 33% (27–39%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Arsenal–Everton | **Under 2,5** | 57% (51–63%) | 1,88 | ben i K2 | 2 mål | ✅ |
+| Arsenal–Everton | Över 2,5 | 41% (35–47%) | 1,90 | — | 2 mål | ❌ |
+| Arsenal–Everton | BTTS Nej | 56% (50–62%) | 1,66 | — | Everton mållösa | ✅ |
+| Arsenal–Everton | Everton under 1,5 | 72% (66–78%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ✅ |
+| Racing–Espanyol | **Över 2,5** | 64% (58–70%) | 1,67 | 40 kr | 3 mål | ✅ |
+| Racing–Espanyol | BTTS Ja | 62% (56–67%) | 1,55 | — | båda gjorde mål | ✅ |
+| Racing–Espanyol | Under 2,5 | 36% (30–42%) | 2,15 | — | 3 mål | ❌ |
+| Racing–Espanyol | Racing över 1,5 | 58% (51–65%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Chelsea–Tottenham | Chelsea över 1,5 | 67% (61–73%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Chelsea–Tottenham | Över 2,5 | 60% (54–66%) | 1,50 | — | 2 mål | ❌ |
+| Chelsea–Tottenham | BTTS Nej | 44% (38–50%) | 2,48 | — | Chelsea mållösa | ✅ |
+| Chelsea–Tottenham | Under 3,5 | 62% (56–68%) | 1,61 | — | 2 mål | ✅ |
+| Valencia–Villarreal | **Under 2,5** | 64% (57–70%) | 2,14 | ben i K1 | 3 mål, det sista i 90+6 | ❌ |
+| Valencia–Villarreal | BTTS Nej | 63% (56–69%) | 2,28 | — | båda gjorde mål | ❌ |
+| Valencia–Villarreal | Över 2,5 | 36% (30–43%) | 1,68 | — | 3 mål | ✅ |
+| Valencia–Villarreal | Valencia under 1,5 | 78% (72–84%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Atlético–Deportivo | Atlético över 1,5 | 69% (63–75%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Atlético–Deportivo | Över 2,5 | 64% (58–70%) | 1,55 | — | 1 mål | ❌ |
+| Atlético–Deportivo | BTTS Ja | 48% (42–54%) | 2,05 | — | Deportivo mållösa | ❌ |
+| Atlético–Deportivo | Atlético vinst | 76% (70–81%) | 1,26 | — | 1–0 | ✅ |
+
+Spelade marknader: **4/5**. Bedömda men ospelade: **10/23**. Av de nio medvetet undvikna marknaderna landade **fem**; de nio priserna implicerade 5,2 förväntade träffar och filens egna skattningar 4,8 på de åtta som bar en, mot fyra träffar bland dessa åtta — avståendena lämnade alltså ingen mätbar kant på bordet. **Båda de passade matchernas bästa marknad saknade pris och båda föll** (Chelsea över 1,5 och Atlético över 1,5). Sju lagtotaler prissattes aldrig; tre av dem landade.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Fulham | Joshua King | 1+ | 72% | 81 | 1 (av 4 skott) | ✅ |
+| Coventry | Jack Rudoni | 1+ | 51% | 90 | ej bedömbar | — |
+| Fulham | Gonzalo García | 1+ | 43% | 74 | ej bedömbar | — |
+| Coventry | Brandon Thomas-Asante | 1+ | 35% | 67 | minst 1 (räddning 28') | ✅ |
+| Fulham | Alex Iwobi | 1+ | 35% | 74 | ej bedömbar | — |
+| Coventry | Ephron Mason-Clark | 1+ | 28% | 23 (in 67') | ej bedömbar | — |
+| Everton | Thierno Barry | 1+ | 79% | 90 | 1 (av 2 skott) | ✅ |
+| Arsenal | Kai Havertz | 1+ | 63% | 22 (in 68') | ej bedömbar | — |
+| Everton | Kiernan Dewsbury-Hall | 1+ | 58% | 86 | ej bedömbar | — |
+| Arsenal | Martin Ødegaard | 1+ | 43% | 90 | 1 (av 5 skott) | ✅ |
+| Everton | Jarrad Branthwaite | 1+ | 35% | **0 — ej i elvan** | — | ❌ minuter |
+| Arsenal | Noni Madueke | 1+ | 22% | 90 | ej bedömbar | — |
+| Chelsea | João Pedro | 1+ | 74% | **0 — skadad, ej i truppen** | — | ❌ minuter |
+| Chelsea | Pedro Neto | 1+ | 68% | 88 | minst 1 (räddning 60') | ✅ |
+| Chelsea | Cole Palmer | 1+ | 58% | 80 (utvisad) | minst 1 (räddning 15') | ✅ |
+| Tottenham | Omar Marmoush | 1+ | 39% | 65 | 1 (av 3 skott) | ✅ |
+| Tottenham | Dominic Solanke | 1+ | 35% | 25 (in 65') | ej bedömbar | — |
+| Tottenham | James Maddison | 1+ | 33% | 50 (ut skadad) | ej bedömbar | — |
+| Villarreal | Georges Mikautadze | 1+ | 70% | inhoppare, minut ej belagd | minst 1 (mål 90+6) | ✅ |
+| Villarreal | Ayoze Pérez | 1+ | 59% | startade, byte ej belagt | ej bedömbar | — |
+| Villarreal | Alberto Moleiro | 1+ | 59% | inhoppare, minut ej belagd | ej bedömbar | — |
+| Valencia | Arnaut Danjuma | 1+ | 43% | startade, byte ej belagt | ej bedömbar | — |
+| Valencia | Javier Guerra | 1+ | 28% | startade, byte ej belagt | ej bedömbar | — |
+| Valencia | Filip Ugrinic | 1+ | 20% | inhoppare, minut ej belagd | ej bedömbar | — |
+| Atlético | Jonathan David | 1+ | 83% | **0 — oanvänd avbytare** | — | ❌ minuter |
+| Atlético | Álex Baena | 1+ | 63% | 90 | minst 1 (räddning) | ✅ |
+| Atlético | Álex Grimaldo | 1+ | 59% | 90 | ej bedömbar | — |
+| Deportivo | Jonathan Asp Jensen | 1+ | 58% | 11 (in 79') | ej bedömbar | — |
+| Deportivo | Yeremay Hernández | 1+ | 39% | 90 | minst 1 (räddning av Oblak) | ✅ |
+| Deportivo | Bil Nsongo | 1+ | 36% | 79 | ej bedömbar | — |
+
+Tolv rader stod som `underlag saknas` i förhandsanalysen och avgörs här: **Fer Niño** (mål 36'), **Zabiri** (mål 84') och **Expósito** (mål 62') hade minst ett skott på mål var; **Canales** spelade och spelade fram 2–1-kvitteringen i 69:e; **Roberto Fernández** spelade hela matchen, **Zaragoza** 76 minuter och **Andrés Martín** 67. För **Camello**, **De Frutos**, **Álvaro García**, **Lemar** och **Cepeda** gick varken speltid eller skott att belägga.
+
+Trettio publicerade rader: **tio gick att avgöra mot sin linje och alla tio landade**, **tre föll på speltid** och sjutton gick inte att avgöra, eftersom spelarvis skott på mål inte fanns att hämta. De tre minutfallen bar kvällens **högsta** publicerade sannolikhet (83%) och dess tredje högsta (74%). Den fjärde raden som 15:15-tillägget pekade ut — en bänkad anfallare — fick 22 minuter och hade kunnat avgöras om siffran gått att hämta.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, 100 kr @ 4,82 | ❌ | Valencia–Villarreal under 2,5; Coventry-benet landade |
+| 2 — Huvudspel, 80 kr @ 3,87 | ✅ | — |
+
+### Totalt: 1/2 kuponger · 1/1 singlar · +156,40 kr
+
+Kupong 2 gav 309,60 kr på 80 kr och singeln 66,80 kr på 40 kr; kupong 1 kostade 100 kr. Netto på 220 kr insats: **+156,40 kr**. De 80 kr som lämnades ostakade av budgeten sparade ingenting och kostade ingenting.
+
+Räknat på filens egna rättvisa odds (2,98 för kupong 2 och 1,56 för singeln) blir kvällen +80,90 kr; spannet är **+81 till +156 kr** och den högre posten används, samma konvention som tidigare kvällar. Priserna är indikativa och hämtade ur previewmaterial 22–24 oktober.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 — ankaret | −100 kr | Dåliga data — benet vilade på att gästerna kom från två mållösa matcher, men deras senaste match fyra dagar tidigare gav tre mål |
+| Valencia–Villarreal under 2,5 (ben) | ❌ | Dåliga data — motargumentets eget 1–3-scenario inträffade nästan exakt, och premissen det vägdes mot var fel |
+| Kupong 2 — huvudspelet | +229,60 kr | Bra beslut — marknadsvalet BTTS Nej framför under 2,5 var precis den skillnad 0–3 krävde |
+| Rayo–Elche BTTS Nej (ben) | ✅ | Varians — marknaden landade på fel lag: tesen var att gästerna tappat målformen, och det var hemmalaget som nollades |
+| Arsenal–Everton under 2,5 (ben) | ✅ | Bra beslut — elvuppdateringen sänkte benet till marginellt och det landade ändå; 20 skott mot 4 på mål gör utfallet knappare än 2–0 ser ut |
+| Racing–Espanyol över 2,5 | +26,80 kr | Bra beslut — rätt tes och det billigare uttrycket av den; BTTS Ja landade också, till sämre pris |
+| Chelsea–Tottenham, pass | — | Bra beslut, fel läsning — passet på uteblivet pris sparade pengar, men matchbilden blev omvänd: hemmalaget gjorde noll |
+| Atlético–Deportivo, pass | — | Bra beslut — den högst skattade marknaden saknade pris och föll, och vinsten till 1,26 landade men var korrekt avvisad på pris |
+| Skottraderna i 18:30- och 21:00-matcherna | ❌ minuter ×2 | Informationsmiss — båda beslutsraderna angav förväntad elva, och inget tillägg efter 15:15 kontrollerade raderna mot de bekräftade elvorna |
+
+**Lärdom:** En formuppgift av typen *"kommer från N matcher utan mål"* måste räknas över lagets alla tävlingsmatcher i fönstret, eller skriva ut vilken tävling den täcker. Nattens dyraste ben vilade på en svit som hoppade över motståndarens senaste match — spelad fyra dagar tidigare, med tre gjorda mål.
