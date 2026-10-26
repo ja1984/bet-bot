@@ -266,3 +266,125 @@ Elvorna för 15:00-matcherna är släppta. Athletic–Getafe rullar redan och r�
 **Skottraderna mot bekräftad elva:** Mbappé, Raphinha, Yamal och Bellingham startar samtliga. Ingen rad flyttas.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Varken kupong eller singel rör Clásicot, och de två skattningar som sänks sänks båda bort från spel.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Alla nio matcher är ligamatcher utan förlängning, och samtliga nitton mål föll inom ordinarie tid — det sista i 88:e minuten. Inget spel avgjordes av ett mål i tilläggstid, och ingen målmarknad hänger på gränsdragningen. Blockerade skott räknas inte som skott på mål.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Athletic Club – Getafe | 4–0 | Berenguer 17', I. Williams 35', Paredes 70', Berchiche 88'. Berenguer tre assist. Mario Martín (Getafe) rött kort 86' |
+| Crystal Palace – Newcastle | 0–2 | Osula 47', Barnes 58'. Båda målen inom elva minuter efter paus |
+| Hull City – Brentford | 1–1 | McBurnie 24' (straff, efter Hickeys frispark i straffområdet), Ouattara 63' |
+| Manchester United – Bournemouth | 0–3 | Rayan 38', Tavernier 43', Evanilson 71'. United noll mål utan renodlad anfallare |
+| Liverpool – Brighton | 2–0 | Groß självmål 17' (Wirtz-skott), Isak 21'. Brighton 17 skott, ett på mål |
+| Celta Vigo – Real Betis | 0–0 | Valles höll nollan i Betis mål; Celta fyra skott på mål mot Betis två |
+| Sunderland – Leeds | 0–0 | Mållöst; Brobbey två räddade avslut före paus |
+| Real Sociedad – Levante | 2–1 | Óskarsson 6', Nacho Pérez 22', Turrientes 27' (assist Guedes). Inga mål efter 27:e |
+| Barcelona – Real Madrid | 1–2 | Mbappé 41' och 87', Raphinha 61' (assist Pedri). Camavinga assist på segermålet |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Athletic – Getafe | **BTTS Nej** | 72% | 1,58 | kupongben | Getafe noll mål | ✅ |
+| Athletic – Getafe | Under 2,5 | 65% | 1,63 | — | 4 mål | ❌ |
+| Athletic – Getafe | Athletic vinst | 55% | 1,52 | — | 4–0 | ✅ |
+| Athletic – Getafe | Getafe över 0,5 | 40% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Palace – Newcastle | Under 2,5 | 44% | 2,35 | — | 2 mål | ✅ |
+| Palace – Newcastle | Över 2,5 | 56% | 1,58 | — | 2 mål | ❌ |
+| Palace – Newcastle | BTTS Nej | 42% | 2,55 | — | Palace noll mål | ✅ |
+| Palace – Newcastle | Palace över 1,5 | 41% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Hull – Brentford | **Under 2,5** | 53% | 2,28 | kupongben | 2 mål | ✅ |
+| Hull – Brentford | BTTS Nej | 54% | 2,20 | — | Båda gjorde mål | ❌ |
+| Hull – Brentford | Över 2,5 | 47% | 1,62 | — | 2 mål | ❌ |
+| Hull – Brentford | Brentford över 1,5 | 44% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Man United – Bournemouth | **Under 2,5** | 47% → 53% | 2,23 | 30 kr | 3 mål | ❌ |
+| Man United – Bournemouth | Kryss | 29% → 31% | 3,60 | — | 0–3 | ❌ |
+| Man United – Bournemouth | BTTS Nej | 47% | 2,38 | — | United noll mål | ✅ |
+| Man United – Bournemouth | United över 1,5 | 41% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Liverpool – Brighton | Brighton vinst | 33% | 3,20 | — | 0–2 | ❌ |
+| Liverpool – Brighton | Över 2,5 | 60% | 1,50 | — | 2 mål | ❌ |
+| Liverpool – Brighton | BTTS Ja | 64% | 1,45 | — | Brighton noll mål | ❌ |
+| Liverpool – Brighton | Brighton över 1,5 | 51% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Celta – Betis | **Under 2,5** | 58% | 2,04 | kupongben | 0 mål | ✅ |
+| Celta – Betis | BTTS Nej | 54% | 2,23 | — | Ingen gjorde mål | ✅ |
+| Celta – Betis | Över 2,5 | 42% | 1,74 | — | 0 mål | ❌ |
+| Celta – Betis | Betis över 1,5 | 37% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Sunderland – Leeds | Sunderland vinst | 30% | 3,05 | — | 0–0 | ❌ |
+| Sunderland – Leeds | Under 2,5 | 54% | 1,68 | — | 0 mål | ✅ |
+| Sunderland – Leeds | BTTS Nej | 50% | 1,91 | — | Ingen gjorde mål | ✅ |
+| Sunderland – Leeds | Leeds över 1,5 | 39% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Sociedad – Levante | **Över 2,5** | 68% → 67% | 1,50 | kupongben | 3 mål | ✅ |
+| Sociedad – Levante | BTTS Ja | 65% | 1,57 | — | Båda gjorde mål | ✅ |
+| Sociedad – Levante | Sociedad vinst | 58% | 1,56 | — | 2–1 | ✅ |
+| Sociedad – Levante | Sociedad över 1,5 | 64% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Barcelona – Real Madrid | Barcelona vinst | 62% → 64% → 62% | 1,65 / 1,62 | — | 1–2 | ❌ |
+| Barcelona – Real Madrid | Över 2,5 | 84% → 86% → 84% | 1,18 | — | 3 mål | ✅ |
+| Barcelona – Real Madrid | BTTS Ja | 78% | 1,24 | — | Båda gjorde mål | ✅ |
+| Barcelona – Real Madrid | Barcelona över 2,5 | 53% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Real Madrid | Mbappé | 1+ | 95% | 90 | 2 | ✅ |
+| Barcelona | Raphinha | 1+ | 86% | 86 | 1 | ✅ |
+| Barcelona | Yamal | 1+ | 83% | 90 | 0 | ❌ |
+| Bournemouth | Tavernier | 1+ | 76% | 87 | 1 | ✅ |
+| Man United | Mbeumo | 1+ | 76% | 90 | 1 | ✅ |
+| Hull | Gelhardt | 1+ | 74% | 4 | 0 | ❌ |
+| Liverpool | Isak | 1+ | 74% | 77 | 1 | ✅ |
+| Levante | Romero | 1+ | 67% | 62 | 1 | ✅ |
+| Brighton | Kostoulas | 1+ | 63% | 90 | 1 | ✅ |
+| Levante | Brugué | 1+ | 63% | 45 | 0 | ❌ |
+| Brentford | Schade | 1+ | 63% | 62 | 0 | ❌ |
+| Sunderland | Brobbey | 1+ | 63% | 65 | 2 | ✅ |
+| Real Sociedad | Oyarzabal | 1+ | 63% | 90 | 0 | ❌ |
+| Real Madrid | Bellingham | 1+ | 54% | 90 | 0 | ❌ |
+| Athletic | I. Williams | 1+ | 53% | 85 | 1 | ✅ |
+| Newcastle | Barnes | 1+ | 51% | 77 | 1 | ✅ |
+| Barcelona | Gordon | 1+ | underlag saknas | 85 | 3 | ✅ |
+| Real Betis | Ezzalzouli | 1+ | underlag saknas | 90 | 1 | ✅ |
+| Real Betis | Antony | 1+ | underlag saknas | 61 | 1 | ✅ |
+| Real Madrid | Diomande | 1+ | underlag saknas | 89 | 0 | ❌ |
+| Barcelona | Fermín | 1+ | underlag saknas | 74 | 0 | ❌ |
+| Real Sociedad | Guedes | 1+ | underlag saknas | 85 | 0 | ❌ |
+| Real Sociedad | Barrenetxea | 1+ | underlag saknas | 28 | 0 | ❌ |
+| Levante | Etta | 1+ | underlag saknas | 28 | 0 | ❌ |
+| Real Madrid | Endrick | 1+ | underlag saknas | 0 | — | ❌ |
+
+Nio av sexton rader med angiven sannolikhet landade. Två rader föll på speltid i stället för på skjutande: Gelhardt kom in i 86:e och sköt två gånger utanför, Endrick satt kvar på bänken hela matchen. Gordon hade kvällens högsta notering med tre skott på mål utan att någon siffra fanns att skatta honom på.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, 100 kr × 3,22 | ✅ +222,00 kr | — |
+| 2 — Huvudspel, 80 kr × 3,42 | ✅ +193,60 kr | — |
+
+### Totalt: 2/2 kuponger · 2/3 singlar · +421,00 kr
+
+Ett enda kupongset, lagt 13:00. Inget av de tre tilläggen flyttade en kupong, så avsnittstotal och dagstotal är samma siffra. Kuponger +415,60 kr på 180 kr · singlar +5,40 kr på 90 kr (Tavernier +15,60 · Romero +19,80 · United–Bournemouth under 2,5 −30,00).
+
+Priserna är indikativa previewnoteringar, inte verkliga spelbolagspriser: räknat på filens egna rättvisa odds (2,38 · 2,78 · 1,32 · 1,49) blir kvällen +274,70 kr, så spannet är +275 till +421 kr och den högre posten används, samma konvention som tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 | +222,00 kr | Bra beslut — två matcher utan gemensam tes, båda benen landade på sitt eget skäl |
+| Athletic–Getafe BTTS Nej | ✅ | Bra beslut — den ensidiga målbilden lästes rätt, och under 2,5 valdes bort för exakt det skäl som fällde den |
+| Celta–Betis under 2,5 | ✅ | Bra beslut — 0–0 ligger mitt i den bredare träffbilden |
+| Kupong 2 | +193,60 kr | Bra beslut på marknadsvalet, varians på det ena benets pris |
+| Hull–Brentford under 2,5 | ✅ | Bra beslut — 1–1 var precis det scenario som valde bort BTTS Nej, och det blev 1–1 |
+| Sociedad–Levante över 2,5 | ✅ | Varians — marginalen mot priset var noll efter elvorna, och tre mål på 27 minuter retirerar inte den invändningen |
+| Tavernier 1+ skott på mål | +15,60 kr | Bra beslut — startade, sköt en gång, gjorde mål på det |
+| Romero 1+ skott på mål | +19,80 kr | Bra beslut — landade på minimum, ett räddat avslut i 40:e och ut i 62:a |
+| Man United–Bournemouth under 2,5 | −30,00 kr | Dåligt marknadsval — elvan sa att United inte skulle göra mål och det stämde, men matchtotalen bar motståndarens tre |
+
+**Lärdom:** En elvuppgift som bara flyttar det ena lagets målförväntan får inte skriva upp en marknad som avgörs av båda lagens mål — United gjorde noll precis som elvan pekade på, och under 2,5 föll ändå på en motståndare ingen omskattning rörde.
