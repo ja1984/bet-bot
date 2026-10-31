@@ -266,3 +266,18 @@ Pawson ligger på 3,74 gula per match över 435 karriärmatcher och är den ende
 ## 🎯 Skott på mål
 
 Tolv rader utan underlag — per spelare-statistik för skott på mål gick inte att hämta för någon av dagens matcher. Ingen tabell och inget sidospel.
+
+---
+
+## 🔄 Tillägg 17:45 — bekräftade elvor 18:30-matcherna
+
+**Real Betis – Málaga (18:30):** båda elvorna bekräftade (Comuniate och ElDesmarque/SportAragón, ~17:30). Betis ställer om på tre platser mot den antagna elvan: **Antony börjar på bänken** och Rodrigo Riquelme tar kanten, Fornals in för Ceballos och Bartra in för Llorente. Cucho Hernández (vadskada), Junior Firpo och avstängde Facundo Bernal saknas, liksom Iker Losada. Málaga ställer upp i allt väsentligt som antaget — Herrero i mål, Adrián Niño högst upp.
+→ Betis tappar sin vassaste anfallsspelare i en match där hela målbilden vilar på hemmalaget. Under 3,5 justeras 69% → **72% (66–78%)**, rättvist odds **1,39**. Bandet hålls brett av tre namngivna källor (**L2**): Betis hemmaspridning med två sjumålsmatcher på fem, anfallskombinationen Riquelme–Parrott–Abde som aldrig setts, och Málagas bortaunderlag på bara fem matcher.
+→ Mot 1,62 (indikativt och oförändrat sedan förmiddagen, −163 i en previewnotering, kan ha rört sig) är brytpunkten 61,7% och EV **+16,6%**. Brytpunkten ligger nu **under bandets nedre kant** i stället för precis innanför den — edgen är robust (**L1**). Utfallskonfidens 7 → **7,5/10**, spelkvalitet 🟢 7,5 → **🟢 8/10**. Tesen är inte motbevisad utan förstärkt, alltså en nudge och ingen pullning (**L7**).
+
+**Tottenham – Crystal Palace (18:30):** båda elvorna bekräftade (Spurs officiella sajt och WhoScored). **Maddison klarade inte start och sitter på bänken** — Solanke in i stället, De Zerbis enda ändring mot elvan som vann på Stamford Bridge. Palace är intakta med Mateta tillbaka efter vilan och Kamada–Pino bakom honom.
+→ Spurs tappar sin främsta kreatör, vilket drar under 2,5 uppåt — men **🔴 PASS står kvar**. Passet vilade på två skäl, och det andra rör inte elvan: tesen "få mål" ligger redan på kupongbenet och Barcelona-singeln, och den samlade exponeringen blir högre, inte lägre, när Betis-skattningen höjs (**L6**). Ingen ny position läggs.
+
+**Aston Villa – Fulham och Barcelona – Alavés (21:00):** mer än tre timmar bort när körningen gjordes, och inga stora besked har kommit (**närhetsregeln**) — ingen ändring. Deras elvor släpps först efter att den här körningen avslutats.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupongens Betis-ben står kvar på 100 kr med en bättre skattning än när det lades. Kupongens sammanlagda sannolikhet räknas **inte** om — det andra benet (Bournemouth–Leeds) rullar redan, och en match som sparkat igång får inte bedömas här. Singlarna rörs inte.
