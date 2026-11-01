@@ -154,3 +154,19 @@ Fer Niño är tveksam med ländryggsbesvär — raden faller på speltid om han 
 ## 🟨 Kort
 
 Hernández Hernández dömer derbyt i Bilbao på 5,75 gula per match över 114 La Liga-matcher, det högsta snittet bland aktiva La Liga-domare. Madley ligger på 3,07 över 412 karriärmatcher. Inget kortspel läggs ändå: ingen linje gick att hämta för vare sig match- eller lagtotal, och de tre övriga domarna saknar verifierad kortstatistik.
+
+## 🔄 Tillägg 14:20 — bekräftad trupp och prisrörelse
+
+**Racing Santander–Real Madrid:** Valverde saknas i Real Madrids officiella trupputtagning ⚠ — muskelproblemet från Clásico höll inte för avspark, och han är därmed tredje etablerade startspelaren borta vid sidan av Vinícius och Rodrygo. Courtois och Mendy är tillbaka i truppen. På hemmaplan saknas Salinas, ytterback och spelad 717 minuter på nio omgångar, avstängd på femte gula från 2–1-matchen mot Espanyol. Resten av Racings förstauppställning vilades medvetet i cupen i onsdags och är utvilad, inte skadad.
+
+→ De två frånvarolistorna tar ut varandra: Madrids tredje anfallsbortfall drar nedåt, ett fullt och utvilat Racing drar uppåt. **Sannolikheten står kvar på 27% (21–34%), rättvist odds 3,70.** Priset har däremot fallit — bästa verifierade pris nu är 4,00, vilket flyttar brytpunkten från 21,7% till 25,0%, alltså in mitt i bandet, och sänker EV från +24% till +8%. Utfallskonfidens oförändrad 4/10, spelkvalitet 🟡 6 → 🔴 4.
+
+**Liverpool–Arsenal:** Saka fortsatt utanför, precis som analysen förutsatte. Szoboszlai fortfarande bara tveksam, ingen bekräftad elva ännu. Ingen ändring.
+
+**Elche–Valencia:** Aguado ute med fotledsstukning, Elliott fortsatt avstängd. Mittfältsbortfall som inte rör målbilden. Ingen ändring.
+
+**Athletic–Real Sociedad:** Sancet är klar för derbyt efter vadmuskelbesväret — han stod som tveksam. Matchen ligger kvar som pass och ingen insats rörs.
+
+**Vad detta gör med spelen:** singeln Racing–Real Madrid under 2,5 på 30 kr tas bort om inte 4,60 går att få — till 4,00 ligger brytpunkten inne i bandet och spelet bär inte en insats. Kupongen på Elche–Valencia BTTS Nej & Liverpool–Arsenal BTTS Nej står oförändrad på 100 kr. Exponeringen blir därmed 100 kr till dagens priser, mot 130 kr i grundanalysen.
+
+*Priset 4,00 är indikativt, hämtat från Stats Insider (Bet365 Australien) den 1 november. Grundanalysens 4,60 kom från BetMGM den 30 oktober — skillnaden kan vara både rörelse och spridning mellan spelbolag.*
