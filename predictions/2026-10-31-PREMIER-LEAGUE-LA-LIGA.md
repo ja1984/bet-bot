@@ -296,3 +296,116 @@ Körningen ligger knappt två timmar före avspark. Startelvorna är ännu inte 
 **Aston Villa – Fulham (21:00):** nytt sedan 13:00 är att **Ryan Sessegnon är avstängd** och att Affengruber och Smith Rowe är tveksamma hos Fulham (Sports Mole). Villas frånvaro är oförändrad — Onana, Ruggeri och Wan-Bissaka. En avstängd ytterback hos bortalaget rör inte skälet till passet, som var att brytpunkten 47,6% ligger inne i bandet på under 2,5. **🔴 PASS står kvar — ingen ändring.** Domartillsättningen uppges vara Samuel Barrott, men bara av en källa och utan kortsiffror, och ingen kortlinje går att få — ingen flaggning på renommé (**G1**).
 
 **Vad detta gör med spelen:** ingen insats flyttas, ingen position läggs till och ingen tas bort. Kupongen rörs inte — dess båda ben är avgjorda eller rullar, och en match som sparkat igång får inte bedömas här. Barcelona-singeln står kvar på 50 kr med en lägre skattning och ett bättre pris. Exponeringen är oförändrad, 210 kr av 300 kr. **20:00-körningen är den som ser de bekräftade elvorna för båda 21:00-matcherna.**
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** inga matcher gick till förlängning, så samtliga marknader är avgjorda på ordinarie tid. Tre mål föll i tilläggstid och räknas alla: Adli 90+4 i Bournemouth–Leeds, som tog matchen från ett till två mål utan att fälla under 2,5, Fornals 45+2 i Betis–Málaga och Yamal 45+1 i Barcelona–Alavés.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Chelsea – Manchester United | 2–0 | Rogers 50', Palmer 64' straff · Lisandro Martínez utvisad på andra gula före straffen |
+| Levante – Atlético Madrid | 0–2 | Grimaldo 36', Giuliano Simeone 62' |
+| Bournemouth – Leeds | 2–0 | Evanilson 31' efter Traffords misstag, Adli 90+4 som inbytt |
+| Brentford – Nottingham Forest | 2–0 | Milenković självmål 30', Igor Thiago 76' · Forest 15 avslut mot Brentfords 6 |
+| Manchester City – Brighton | 0–1 | Ayari 11' efter Nunes misstag · Verbruggen sju räddningar |
+| Hull City – Ipswich Town | 2–2 | Florentino 22', Iroegbunam 58', McBurnie 68' frispark, Enciso 74' |
+| Coventry City – Sunderland | 3–1 | Sakamoto 17', Awoniyi 37', Rudoni · Le Fée straff efter Pinnocks hand |
+| Rayo Vallecano – Celta Vigo | 3–0 | De Frutos 36' och 55', Unai López 73' |
+| Tottenham – Crystal Palace | 2–0 | Mateta utvisad 13' · Gray 25' nick på hörna, Van Hecke 73' nick på hörna |
+| Real Betis – Málaga | 2–1 | Bartra 38' på Isco-inlägg, Fornals 45+2, Niño 68' |
+| Aston Villa – Fulham | 1–1 | Jackson 39' · Suzuki självmål 64' på hörna |
+| Barcelona – Alavés | 6–1 | Raphinha 8' och 41', Fermín 23', Yamal 45+1 och 64', Gordon 81' · Mariano Díaz 84' |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Chelsea – United | Oavgjort | 28% (24–32%) | 4,10 | — | 2–0 | ❌ |
+| Chelsea – United | Chelsea vinst | 47% (42–52%) | 1,81 | — | 2–0 | ✅ |
+| Chelsea – United | Över 2,5 & båda lagen gör mål | 44% (38–50%) | 1,74 | — | två mål, United nollade | ❌ |
+| Chelsea – United | Chelsea över 1,5 | 59% (52–65%) | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Levante – Atlético | Atlético vinst | 58% (52–63%) | 1,60 | — | 0–2 | ✅ |
+| Levante – Atlético | Båda lagen gör mål | 53% (46–59%) | 1,62 | — | Levante nollat | ❌ |
+| Levante – Atlético | Över 3,0 | 42% (36–48%) | 1,85 | — | två mål | ❌ |
+| Levante – Atlético | Levante över 0,5 | 67% (60–73%) | `PRIS EJ TILLGÄNGLIGT` | — | noll mål | ❌ |
+| Bournemouth – Leeds | **Under 2,5** | 60% (54–65%) | 1,93 | kupongben | två mål | ✅ |
+| Bournemouth – Leeds | Över 2,5 | 40% (35–46%) | 1,83 | — | två mål | ❌ |
+| Bournemouth – Leeds | Bournemouth över 1,5 | 28% (23–34%) | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Bournemouth – Leeds | Leeds över 0,5 | 52% (45–59%) | `PRIS EJ TILLGÄNGLIGT` | — | noll mål | ❌ |
+| Brentford – Forest | Över 2,5 | 54% (47–60%) | 1,68 | — | två mål | ❌ |
+| Brentford – Forest | Under 2,5 | 46% (40–53%) | 2,15 | — | två mål | ✅ |
+| Brentford – Forest | Brentford vinst | 48% (42–54%) | 2,05 | — | 2–0 | ✅ |
+| Brentford – Forest | Brentford över 1,5 | 57% (50–63%) | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| City – Brighton | **Över 3,25** | 53% (46–58%) | 1,88 | 60 kr | ett mål | ❌ |
+| City – Brighton | City vinst | 54% (48–59%) | 1,66 | — | 0–1 | ❌ |
+| City – Brighton | City över 2,5 | 40% (34–45%) | 2,30 | — | noll mål | ❌ |
+| City – Brighton | Brighton över 1,5 | 44% (37–50%) | `PRIS EJ TILLGÄNGLIGT` | — | ett mål | ❌ |
+| Hull – Ipswich | Oavgjort | 30% (25–35%) | 3,50 | — | 2–2 | ✅ |
+| Hull – Ipswich | Under 2,5 | 50% (44–56%) | 1,95 | — | fyra mål | ❌ |
+| Hull – Ipswich | Över 2,5 | 50% (44–56%) | 1,88 | — | fyra mål | ✅ |
+| Hull – Ipswich | Hull över 0,5 | 70% (63–76%) | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Coventry – Sunderland | Under 2,5 | 50% (43–57%) | 1,85 | — | fyra mål | ❌ |
+| Coventry – Sunderland | Över 2,5 | 50% (43–57%) | 1,90 | — | fyra mål | ✅ |
+| Coventry – Sunderland | Sunderland vinst | 38% (32–44%) | 2,38 | — | 3–1 till Coventry | ❌ |
+| Coventry – Sunderland | Coventry över 0,5 | 63% (55–70%) | `PRIS EJ TILLGÄNGLIGT` | — | tre mål | ✅ |
+| Rayo – Celta | Under 2,5 | 55% (48–63%) | 1,72 | — | tre mål | ❌ |
+| Rayo – Celta | Oavgjort | 32% (27–37%) | 3,40 | — | 3–0 | ❌ |
+| Rayo – Celta | Celta vinst | 32% (26–38%) | 3,10 | — | 3–0 till Rayo | ❌ |
+| Rayo – Celta | Celta över 0,5 | 55% (47–62%) | `PRIS EJ TILLGÄNGLIGT` | — | noll mål | ❌ |
+| Tottenham – Palace | Under 2,5 | 45% (39–51%) | 2,38 | — | två mål | ✅ |
+| Tottenham – Palace | Tottenham vinst till noll | 32% (27–38%) | 2,80 | — | 2–0 | ✅ |
+| Tottenham – Palace | Tottenham vinst | 58% (52–63%) | 1,53 | — | 2–0 | ✅ |
+| Tottenham – Palace | Palace över 0,5 | 63% (55–70%) | `PRIS EJ TILLGÄNGLIGT` | — | noll mål | ❌ |
+| Betis – Málaga | **Under 3,5** | 69% → 72% (62–76% → 66–78%) | 1,62 | kupongben | tre mål | ✅ |
+| Betis – Málaga | Betis vinst | 63% (57–69%) | 1,38 | — | 2–1 | ✅ |
+| Betis – Málaga | Över 3,5 | 31% (24–38%) | 2,25 | — | tre mål | ❌ |
+| Betis – Málaga | Betis över 1,5 | 56% (49–63%) | `PRIS EJ TILLGÄNGLIGT` | — | två mål | ✅ |
+| Villa – Fulham | Under 2,5 | 52% (46–58%) | 2,10 | — | två mål | ✅ |
+| Villa – Fulham | Över 2,5 | 48% (42–54%) | 1,72 | — | två mål | ❌ |
+| Villa – Fulham | Villa vinst | 47% (41–53%) | 2,00 | — | 1–1 | ❌ |
+| Villa – Fulham | Fulham över 0,5 | 59% (52–66%) | `PRIS EJ TILLGÄNGLIGT` | — | ett mål, självmål | ✅ |
+| Barcelona – Alavés | **Under 4,5** | 69% → 66% (62–76% → 58–73%) | 1,61 → 1,67 | 50 kr | sju mål | ❌ |
+| Barcelona – Alavés | Barcelona vinst till noll | 48% (41–55%) | 1,93 | — | 6–1 | ❌ |
+| Barcelona – Alavés | Båda lagen gör mål | 44% (37–51%) | 1,91 | — | båda gjorde mål | ✅ |
+| Barcelona – Alavés | Barcelona över 2,5 | 53% (46–60%) | `PRIS EJ TILLGÄNGLIGT` | — | sex mål | ✅ |
+
+**23 av 48 bedömda marknader landade mot 23,9 förväntade** räknat rakt på de angivna sannolikheterna. På dagsnivå är siffrorna alltså ärliga; felen ligger i vilka av dem som fick en insats.
+
+**Åtta matcher pekade ut en bästa marknad som inte spelades, och sex av dem landade:** Chelsea över 1,5 ✅, Atlético vinst ✅, Brentford under 2,5 ✅, Hull–Ipswich oavgjort ✅ (3,50), Tottenham–Palace under 2,5 ✅, Villa–Fulham under 2,5 ✅ — mot Coventry–Sunderland båda lagen gör mål-nej ❌ och Rayo–Celta oavgjort ❌. Fyra av de åtta passades på att brytpunkten låg inne i bandet och alla fyra landade; två saknade pris.
+
+Singeltabellen i sektion 3 står kvar på 69% och 1,61 för Barcelona-spelet. Insatsen låg på 66% och 1,67 efter 19:15-tillägget, och båda siffrorna redovisas ovan — tabellen städas inte i efterhand.
+
+Filen utlovar en 20:00-körning för de bekräftade elvorna i båda 21:00-matcherna. Den körningen finns inte i filen, så Barcelona-positionen gick till avspark på ett elvantagande.
+
+### Skott på mål
+
+Ingen tabell kan speglas. Förhandsanalysen skrev *"tolv rader utan underlag"* utan att namnge en enda spelare, och utan namn går varken speltid eller skottvolym att kontrollera i efterhand. Raderna är därmed inte bara oavgjorda utan oåterkalleligt borta som kalibreringsdata — det är den ena av dagens två processmissar, och den upprepar 15 september.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, defensiv dubbel (Bournemouth–Leeds under 2,5 & Betis–Málaga under 3,5) | ✅ | — |
+
+Ett enda kupongset, lagt 13:00. Varken 17:45- eller 19:15-tillägget flyttade en insats, så avsnittstotal och dagstotal är samma siffra.
+
+### Totalt: 1/1 kuponger · 0/2 singlar · +102 kr
+
+Kupongen gav +212 kr på 100 kr, singlarna −110 kr på 110 kr, netto **+102,00 kr på 210 kr insats**. Priserna är indikativa förhandsnoteringar och inte verifierade mot något spelbolag; räknat på filens egna rättvisa odds i kupongbenen (1,67 och 1,39) blir kvällen +22 kr, så spannet är +22 till +102 kr och den högre posten används, samma konvention som tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 | +212 kr | Bra beslut — båda benens brytpunkt låg under bandets nedre kant, och den robustheten var det som höll |
+| Manchester City – Brighton över 3,25 | −60 kr | Recensbias — båda lagens målsnitt vilade på fyra hemma- respektive fyra bortamatcher, och motargumentet om motståndarens ensidiga målprofil flyttade ingenting |
+| Barcelona – Alavés under 4,5 | −50 kr | Dåligt marknadsval — en ensidig målbild spelades som en marknad på låg total; och överkonfidens, motargumentet namngav 7–2 hemma och flyttade tre punkter |
+| Tottenham – Palace under 2,5, passad | 0 kr | Bra beslut — samma tes låg redan på tre positioner; att den landade ändrar inte avvägningen |
+| Hull – Ipswich oavgjort, passad | 0 kr | Varians — ett pass på 1,4 punkters marginal som landar säger inget om passet |
+| Tolv skottrader utan namn | 0 kr | Dåliga data — raderna räknades men namngavs inte, och går därför inte att avgöra i efterhand |
+
+**Lärdom:** en ensidig målbild och en låg totalmarknad är inte samma spel. Saknar lagtotalen pris är passet rätt svar — inte matchens total åt andra hållet, vilket nu är andra gången i år som samma byte kostar pengar.
