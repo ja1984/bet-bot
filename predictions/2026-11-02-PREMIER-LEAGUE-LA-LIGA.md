@@ -102,3 +102,21 @@ BTTS föll på att Osasuna hållits mållösa i två av sina tre senaste bortama
 ## 🟨 Kort
 
 Brooks ligger på 4,53 gula per match över 76 karriärmatcher i Premier League, mot ett ligamedian på 3,67, och González Esteban på 4,39 över 126 matcher. Inget kortspel — inga lagkortslinjer gick att få för någon av matcherna, och utan linje går varken över eller under att bedöma.
+
+## Tillägg 18:25 — prisrörelse på kvällens enda spel
+
+**Newcastle–Everton (21:00).** Inga bekräftade besked ännu — startelvorna släpps ca 20:00 och fångas av 20:00-körningen. Grealish (disciplinärende), Osula (fotled) och Branthwaite (hjärnskakningsprotokoll) är fortsatt *förväntade*, inte bekräftade, och källorna motsäger varandra på alla tre. Ingen ändrad domartillsättning gick att hitta — Brooks står kvar.
+
+→ **Priset på under 2,5 har krympt.** Analysen räknade på 2,22. Toffeeweb, med odds tidsstämplade 2 nov 18:14, listar 2,05 (7bet) och 2,10 (Ladbrokes); kickoff.co.uk anger 2,10 som bästa pris i löptexten men har bet365 kvar på 2,20 i sin otidsstämplade tabell. Sannolikheten är oförändrad **53% (46–60%)**, rättvist odds oförändrat **1,89** — ingen ny fotbollsinformation har tillkommit. Det som ändras är robustheten:
+
+| Pris | Brytpunkt | EV vid 53% | EV vid bandets 46% | Status |
+|---|---|---|---|---|
+| 2,22 | 45,0% | +17,7% | +2,1% | brytpunkten under bandet — robust kant |
+| 2,10 | 47,6% | +11,3% | −3,4% | brytpunkten inne i bandet — marginell (**L1**) |
+| 2,05 | 48,8% | +8,7% | −5,7% | brytpunkten inne i bandet — marginell |
+
+→ **Spelet blir prisvillkorat.** 2,20 eller bättre: oförändrat, 60 kr, 🟡 6,5. 2,10–2,19: nedskalat till 40 kr, 🟡 5,5 — centrala EV håller, men bandets nedre halva är nu EV-negativ. Under 2,10: avstå (**L5** — bandet slukar brytpunkten, och ingen ny information motiverar att bära det). Utfallskonfidens oförändrad 6/10.
+
+**Deportivo–Osasuna (21:00).** Ingen ändring. Osasuna saknar Herrando och Oroz och Del Castillo är tveksam — nytt sedan analysen, men det flyttar inte ett pass som vilar på priserna. Deportivo över 0,5 söktes om och är fortfarande `PRIS EJ TILLGÄNGLIGT`.
+
+**Exponering efter tillägget:** 40–60 kr beroende på pris, fortfarande en match och en målmarknad.
