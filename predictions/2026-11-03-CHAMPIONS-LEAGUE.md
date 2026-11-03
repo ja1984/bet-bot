@@ -280,3 +280,57 @@ BTTS bär också värde men förlorade mot totalen på två punkter: marginalen 
 ## 🟨 Kort
 
 Kružliak ligger på 5,06 gula per match över 290 karriärmatcher och Zwayer på 5,14 per match i Champions League — kvällens två strängaste domare, och båda dömer matcher med reell friktion. Inget kortspel: ingen kortlinje gick att hämta hos någon källa som svarar, och ett kortspel utan linje är en åsikt om en domare, inte ett spel.
+
+## Uppdatering 14:25 — truppbesked, ett spel draget
+
+Underlaget är UEFA:s officiella truppnyheter för omgång 4 samt Barcelonas egen
+publicerade matchtrupp. Startelvorna är ännu inte bekräftade — det här är besked om
+tillgänglighet, inte om elvor. Enda ändringen som rör pengar är Barcelona–Aston Villa.
+
+**Barcelona–Aston Villa (21:00): spelet dras.** Barcelonas offentliggjorda 23-mannatrupp
+innehåller både Cubarsí och Rodri Hernández, och UEFA listar noll avstängda i
+Barcelonatruppen. Frånvaron är Christensen, Koundé, Eric García, Olmo och Xavi Espart —
+fyra namn, men inte de fyra analysen byggde på. Tesen "saknar fyra försvarare, Cubarsí
+och Rodri avstängda" är därmed motbevisad, inte försvagad, och originalavsnittet satte
+själv villkoret: faller avstängningarna bort ska spelet dras. **L7** säger samma sak —
+ett faktum som motbevisar den skrivna tesen drar spelet, det justerar det inte.
+→ Villa dubbelchans: 32% (28–37%) → **27% (23–31%)**, rättvist odds 3,70. Brytpunkten
+vid 3,85 är 26,0% och ligger nu inne i bandet → **🔴 PASS (L1)**. 50 kr dras.
+Bandet kommer från tre namngivna källor (**L2**): Villa har en enda bortamatch i
+turneringen, Barcelonas försvarslinje är fortfarande omgjord med fem spelare borta, och
+elvan är förutsagd och inte bekräftad.
+
+**Atlético–Bayern (21:00): ingen ändring, 70 kr står kvar.** Nytt sedan 11:30 är att
+Hjulmand är avstängd och Cardoso och Romero borta hos Atlético, och att Olise är
+tveksam hos Bayern utöver Díaz, Musiala, Gnabry och Saibari. Allt pekar åt samma håll
+som BTTS-Nej, men skattningen höjs inte: en tveksam spelare och en avstängd mittfältare
+är inte underlag för att skriva upp 42%, och att höja ett tal på bekräftande besked är
+en omskrivning, inte en uppdatering.
+
+**Villarreal–PSG (21:00): ingen ändring.** Marquinhos borta är en fjärde PSG-frånvaro
+utöver de tre analysen räknade. Den stärker över 2,5 men ändrar inte skattningen på 80%.
+Kupongbenet står.
+
+**LASK–Slovan (21:00): ingen ändring, kupongbenet står.** UEFA listar inga frånvarande i
+Slovan-truppen, så premissen att båda deras noterade anfallare saknas är inte bekräftad.
+Det försvagar BTTS-fällan som argument — men BTTS var aldrig spelad, och ett Slovan som
+kan måla hjälper totalen snarare än stjälper den. Över 2,5 ligger kvar på 78%.
+
+**Galatasaray–Stuttgart (18:45): PASS står, premissen justerad.** UEFA listar noll
+frånvarande i Galatasaray — varken Bardakçıs avstängning eller Cuestas skada finns i
+deras lista, och den omgjorda mittbackslinjen är alltså obekräftad.
+→ Över 2,5: 77% (71–82%) → **74% (68–79%)**, rättvist odds 1,35. Brytpunkten vid 1,35 är
+74,1% och ligger kvar inne i bandet. Beslutet är oförändrat 🔴 PASS, nu av en tydligare
+anledning. Inga pengar berörs.
+
+**Shakhtar–Sporting, Bodø/Glimt–Lille, Feyenoord–Inter, Manchester United–Roma:** inga
+ändringar. Truppbeskeden stämmer med analysen — Lautaro och Bastoni borta hos Inter,
+Šeško borta och Svilar borta hos Roma med Dybala tveksam, Mbappé avstängd hos Lille i en
+match som redan var PASS. Carricks position rapporteras som pressad men ingen
+tränarändring är bekräftad, och ett rykte är inget besked.
+
+**Ny exponering: 240 kr i stället för 290 kr.** 170 kr på att mål kommer (kupongen plus
+United–Roma) · 70 kr på att ett lag nollas · **0 kr på resultatmarknader** sedan Villa
+drogs. Fyra matcher bär pengar, ned från fem. De 50 kr som frigörs flyttas inte till ett
+annat spel — inget av kvällens pass har blivit bättre prissatt sedan 11:30, och att
+omfördela en dragen insats för att hålla totalen uppe är precis det **L5b** inte ber om.
