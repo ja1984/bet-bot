@@ -334,3 +334,175 @@ United–Roma) · 70 kr på att ett lag nollas · **0 kr på resultatmarknader**
 drogs. Fyra matcher bär pengar, ned från fem. De 50 kr som frigörs flyttas inte till ett
 annat spel — inget av kvällens pass har blivit bättre prissatt sedan 11:30, och att
 omfördela en dragen insats för att hålla totalen uppe är precis det **L5b** inte ber om.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Inget mål föll i tilläggstid och ingen match gick till förlängning — kvällens
+sista mål kom i 86:e minuten på Old Trafford. Samtliga mål- och BTTS-marknader är därmed
+avgjorda på rent 90-minutersresultat.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Shakhtar – Sporting CP | 0–1 | Doumbia 59' |
+| Galatasaray – Stuttgart | 2–0 | Batrakov 12', 15' |
+| Atlético Madrid – Bayern | 0–2 | Karl 54', Laimer 74' (Kane framspelning). Neuer spelade 90 minuter |
+| Barcelona – Aston Villa | 3–0 | Yamal 7', Raphinha 52', 64' |
+| Bodø/Glimt – Lille | 0–0 | Mållöst; Lille utan poäng efter fyra omgångar |
+| Feyenoord – Inter | 0–3 | Bisseck 8', Pio Esposito 34', Zieliński 54' |
+| LASK – Slovan Bratislava | 4–0 | Jørgensen 19', 37', Ljubičić 44', Adeniran 48' |
+| Manchester United – Roma | 3–2 | Soulé 11', Malen 18' (straff), Bruno Fernandes 58' (straff), Cunha 83', 86'. Cunha utvisad 90+1 |
+| Villarreal – PSG | 0–6 | Neves 9', Doué 12', Mayulu 13', Fabián Ruiz 17', 50', Boly 78' |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Shakhtar – Sporting | Över 2,5 | 63% | 1,70 | — | 1 mål | ❌ |
+| Shakhtar – Sporting | BTTS | 62% | 1,60 | — | Shakhtar nollat | ❌ |
+| Shakhtar – Sporting | Shakhtar dubbelchans | 55% | 1,84 | — | Bortaseger | ❌ |
+| Shakhtar – Sporting | Sporting över 1,5 | 58% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Galatasaray – Stuttgart | Över 2,5 | 74% | 1,35 | — | 2 mål | ❌ |
+| Galatasaray – Stuttgart | BTTS | 70% | 1,34 | — | Stuttgart nollat | ❌ |
+| Galatasaray – Stuttgart | Stuttgart dubbelchans | 56% | 1,72 | — | Hemmaseger | ❌ |
+| Galatasaray – Stuttgart | Stuttgart över 1,5 | 55% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Atlético – Bayern | **BTTS-Nej** | 42% | 2,85 | **70 kr** | Atlético nollat | ✅ |
+| Atlético – Bayern | Under 2,5 | 38% | 2,75 | — | 2 mål | ✅ |
+| Atlético – Bayern | Över 2,5 | 62% | 1,45 | — | 2 mål | ❌ |
+| Atlético – Bayern | BTTS | 58% | 1,40 | — | Atlético nollat | ❌ |
+| Atlético – Bayern | Atlético över 1,5 | 38% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Barcelona – Aston Villa | Aston Villa dubbelchans | 27% | 3,85 | dragen | Hemmaseger | ❌ |
+| Barcelona – Aston Villa | Över 2,5 | 84% | 1,18 | — | 3 mål | ✅ |
+| Barcelona – Aston Villa | BTTS | 70% | 1,44 | — | Villa nollat | ❌ |
+| Barcelona – Aston Villa | Barcelona över 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Bodø/Glimt – Lille | Över 2,5 | 74% | 1,44 | — | 0 mål | ❌ |
+| Bodø/Glimt – Lille | BTTS | 70% | 1,44 | — | Båda nollade | ❌ |
+| Bodø/Glimt – Lille | Bodø/Glimt vinst | 55% | 1,74 | — | Oavgjort | ❌ |
+| Bodø/Glimt – Lille | Bodø/Glimt över 1,5 | 60% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Feyenoord – Inter | Feyenoord vinst | 31% | 3,55 | — | Bortaseger | ❌ |
+| Feyenoord – Inter | Över 2,5 | 73% | 1,38 | — | 3 mål | ✅ |
+| Feyenoord – Inter | BTTS | 70% | 1,38 | — | Feyenoord nollat | ❌ |
+| Feyenoord – Inter | Feyenoord över 1,5 | 48% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Feyenoord – Inter | Inter vinst | 46% | 1,88 | — | 0–3 | ✅ |
+| LASK – Slovan | **Över 2,5** | 78% | 1,40 | **kupongben** | 4 mål | ✅ |
+| LASK – Slovan | LASK över 1,5 | 72% | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| LASK – Slovan | LASK vinst | 69% | 1,42 | — | 4–0 | ✅ |
+| LASK – Slovan | BTTS | 37% | 1,55 | — | Slovan nollat | ❌ |
+| Man United – Roma | **Över 2,5** | 71% | 1,50 | **60 kr** | 5 mål | ✅ |
+| Man United – Roma | BTTS | 68% | 1,46 | — | 3–2 | ✅ |
+| Man United – Roma | Roma vinst | 33% | 3,00 | — | Hemmaseger | ❌ |
+| Man United – Roma | United över 1,5 | 50% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Villarreal – PSG | **Över 2,5** | 80% | 1,36 | **kupongben** | 6 mål | ✅ |
+| Villarreal – PSG | BTTS | 75% | 1,40 | — | Villarreal nollat | ❌ |
+| Villarreal – PSG | PSG vinst | 57% | 1,67 | — | 0–6 | ✅ |
+| Villarreal – PSG | PSG över 1,5 | 72% | `PRIS EJ TILLGÄNGLIGT` | — | 6 mål | ✅ |
+
+Trettioåtta bedömda marknader, **femton landade mot 22,6 förväntade** räknat på filens egna
+sannolikheter. Hela underskottet sitter i en marknad: **nio BTTS-marknader prissattes och en
+landade, mot 5,8 förväntade.** Åtta av nio matcher höll minst ett lag utan mål, och de 26 målen
+över nio matcher — 2,89 per match — ligger långt under ligafasens 4,09.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Shakhtar | Mendoza | 1+ | — | 67 | 0 | ❌ |
+| Shakhtar | Kauã Elias | 1+ | — | 90 | 1 | ✅ |
+| Shakhtar | Marlon Gomes | 1+ | — | 83 | 0 | ❌ |
+| Sporting | Suárez | 1+ | — | 90 | 0 | ❌ |
+| Sporting | Catamo | 1+ | — | 83 | 0 | ❌ |
+| Sporting | Irankunda | 1+ | — | 0 | — | ❌ |
+| Stuttgart | Demirović | 1+ | 70% | 74 | 0 | ❌ |
+| Stuttgart | Undav | 1+ | 36% | 90 | 1 | ✅ |
+| Stuttgart | Führich | 1+ | 32% | 82 | 1 | ✅ |
+| Galatasaray | Osimhen | 1+ | — | 90 | 1 | ✅ |
+| Galatasaray | Yılmaz | 1+ | — | 68 | 0 | ❌ |
+| Galatasaray | Akgün | 1+ | — | 90 | 0 | ❌ |
+| Bayern | Kane | 1+ | 62% | 90 | 0 | ❌ |
+| Atlético | Álvarez | 1+ | 54% | 75 | 0 | ❌ |
+| Bayern | Karl | 1+ | 32% | 68 | 1 | ✅ |
+| Atlético | G. Simeone | 1+ | 28% | 90 | 1 | ✅ |
+| Bayern | Bischof | 1+ | 24% | 90 | 0 | ❌ |
+| Atlético | Lookman | 1+ | — | 31 | 0 | ❌ |
+| Barcelona | Raphinha | 1+ | 74% | 70 | 2 | ✅ |
+| Barcelona | Yamal | 1+ | 72% | 90 | 3 | ✅ |
+| Barcelona | Gordon | 1+ | 61% | 90 | 1 | ✅ |
+| Aston Villa | Jackson | 1+ | 58% | 77 | 0 | ❌ |
+| Aston Villa | McGinn | 1+ | 26% | 77 | 0 | ❌ |
+| Aston Villa | Mbaye | 1+ | — | 28 | 0 | ❌ |
+| Lille | Giroud | 1+ | 45% | 20 | 0 | ❌ |
+| Bodø/Glimt | Helmersen | 1+ | — | 70 | 0 | ❌ |
+| Bodø/Glimt | Hauge | 1+ | — | 90 | 0 | ❌ |
+| Bodø/Glimt | Blomberg | 1+ | — | 90 | 1 | ✅ |
+| Lille | Bakwa | 1+ | — | 86 | 1 | ✅ |
+| Lille | Diaouné | 1+ | — | 81 | 0 | ❌ |
+| Inter | Thuram | 1+ | 66% | 57 | 1 | ✅ |
+| Feyenoord | Hadj Moussa | 1+ | — | 90 | 1 | ✅ |
+| Feyenoord | Ferri | 1+ | — | 62 | 0 | ❌ |
+| Feyenoord | Valente | 1+ | — | 90 | 1 | ✅ |
+| Inter | Pio Esposito | 1+ | — | 90 | 1 | ✅ |
+| Inter | Barella | 1+ | — | 78 | 0 | ❌ |
+| LASK | Kalajdzic | 1+ | — | 27 | 2 | ✅ |
+| LASK | Danek | 1+ | — | 27 | 0 | ❌ |
+| LASK | Lang | 1+ | — | 15 | 0 | ❌ |
+| LASK | Ljubicic | 1+ | — | 63 | 1 | ✅ |
+| Slovan | Čerepkai | 1+ | — | 0 | — | ❌ |
+| Slovan | Šporar | 1+ | — | 75 | 1 | ✅ |
+| Roma | Malen | 1+ | 71% | 78 | 2 | ✅ |
+| United | Mbeumo | 1+ | 64% | 90 | 0 | ❌ |
+| Roma | Soulé | 1+ | 61% | 90 | 1 | ✅ |
+| United | Bruno Fernandes | 1+ | 46% | 88 | 1 | ✅ |
+| United | Cunha | 1+ | 43% | 90 | 3 | ✅ |
+| Roma | Cristante | 1+ | 29% | 90 | 0 | ❌ |
+| Villarreal | Mikautadze | 1+ | 62% | 27 | 0 | ❌ |
+| PSG | Ferran Torres | 1+ | 61% | 30 | 0 | ❌ |
+| PSG | Doué | 1+ | 54% | 74 | 4 | ✅ |
+| Villarreal | Moleiro | 1+ | 45% | 27 | 0 | ❌ |
+| PSG | Akliouche | 1+ | 43% | 60 | 0 | ❌ |
+| Villarreal | Buchanan | 1+ | 39% | 90 | 0 | ❌ |
+
+Femtiofyra skottrader, samtliga med namn och samtliga med verifierad minutsiffra; 53 gick att
+avgöra mot 1+-linjen och 23 landade. Av de 27 raderna med angiven sannolikhet landade **13 mot
+13,6 förväntade**. Fyra av raderna med sannolikhet föll på korta inhopp — 20, 27, 27 och 30
+minuter — och två rader utan sannolikhet föll utan speltid alls: en oanvänd avbytare och ett
+namn som inte fanns i matchtruppen.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare: LASK över 2,5 + Villarreal–PSG över 2,5, 110 kr @ 1,90 | ✅ | — |
+
+Ett enda kupongset, lagt 11:30; 14:25-tillägget drog en singel men rörde ingen kupong, så
+avsnittstotal och dagstotal är samma siffra.
+
+### Totalt: 1/1 kuponger · 2/2 singlar · +258,50 kr
+
+Kupongen gav +99,00 kr på 110 kr, BTTS-Nej +129,50 kr på 70 kr och över 2,5 i Manchester
++30,00 kr på 60 kr — 240 kr insats, 498,50 kr tillbaka. Den dragna singeln räknas varken som
+insats eller förlust; den hade fallit och tillbakadragandet sparade 50 kr.
+
+Priserna är indikativa (sportsgambler.com med BetMGM-noteringar, samt statz.ai för LASK-benet).
+Räknat på filens egna rättvisa odds (1,61 · 2,38 · 1,41) blir kvällen +188,60 kr; spannet är
++189 till +259 kr och den högre posten används, samma konvention som tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 — LASK över 2,5 + Villarreal–PSG över 2,5 | +99 kr | Bra beslut — båda benens brytpunkt låg under bandets undre kant, och matcherna gav fyra respektive sex mål |
+| Atlético–Bayern BTTS-Nej | +129,50 kr | Bra beslut på marknadsvalet, dåliga data i premissen — målbilden blev ensidig precis som skrivet, men Neuer spelade hela matchen och inte Ulreich; felet låg åt spelets nackdel |
+| Manchester United–Roma över 2,5 | +30 kr | Bra beslut — kvällens tunnaste marginal på kvällens mest öppna match, och den gav fem mål |
+| Barcelona–Aston Villa dubbelchans (dragen 14:25) | 0 kr | Bra beslut — truppbeskedet motbevisade tesen i stället för att försvaga den, spelet drogs och matchen slutade 3–0 |
+
+Kvällens tyngsta icke-beslut är de nio BTTS-marknader som alla passades och av vilka en landade.
+Samtliga nio passades på pris, inte på en tes om att målen skulle utebli — utfallet gav rätt åt
+avståendena av ett skäl avståendena inte angav.
+
+**Lärdom:** Skottraderna mäter sig själva bara när hela uppsättningen går att avgöra i efterhand.
+Kvällar där bara en handfull rader kunnat hämtas har gett 84% träff (26/31), kvällar med bred
+täckning 60% (51/85) — vid i praktiken samma angivna sannolikhet, 54,7% mot 56,7%. Det är källan
+som sållar bort nollorna, inte skattningen som är bra.
