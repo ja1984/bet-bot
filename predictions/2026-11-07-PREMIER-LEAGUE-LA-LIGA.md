@@ -187,3 +187,24 @@ Priset 2,38 är indikativt och ser lågt prissatt ut för den här målbilden; r
 ## 🟨 Kort
 
 Inga domartillsättningar gick att verifiera för dagens åtta matcher, och utan faktisk kortstatistik läggs inget kortspel. Att Valencias sex senaste matcher alla haft minst fem kort och att Newcastle har ligans näst flest varningar räcker inte utan domare och utan linje.
+
+## 🔄 Tillägg 17:30 — sena skadebesked
+
+**Osasuna–Athletic:** Berchiche är inte avstängd utan spelar vänsterback, och både Nico och Iñaki Williams startar — Athletic är ett helare lag än analysen räknade med. Osasuna saknar samtidigt Aimar Oroz, Jorge Herrando och Romain Del Castillo, alla tre med muskelskador.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Under 2,5** | 63% | 56–68% | 1,80 | 55,6% | Medel |
+| BTTS-Nej | 57% | 50–63% | 1,91 | 52,4% | Marginellt |
+| Kryss | 28% | 25–32% | 3,45 | 29,0% | Negativt |
+
+Krysset sänks från 31% till 28%, rättvist odds 3,57 mot priset 3,45 — brytpunkten ligger nu över skattningen och spelet **utgår**. Under 2,5 har fått ett pris, 1,80 hos Football Whispers, indikativt; skattningen från i morse står kvar, eftersom Osasunas borttappade kreatör väger upp att Athletics anfall är mer intakt än antaget.
+
+**Beslut.** 🟡 LITET SPEL — under 2,5. Utfallskonfidens 6,5/10. Förväntad elva.
+**Motargument.** Athletics tremannaanfall får utdelning och det slutar 0–3; BTTS-Nej överlever det scenariot men inte ett 1–2, och dess brytpunkt ligger inne i bandet, så under 2,5 är den bättre betalda formen av samma tes — men bandets undre kant ligger bara fyra tiondels procentenheter över brytpunkten, därav liten insats.
+
+**Nottingham Forest–Man City:** Forest saknar Savona och Domínguez och har Igor Jesus som frågetecken, City saknar Semenyo. Haaland har inget skadebesked. Ingenting som rör förutsättningarna för BTTS-Nej. Ingen ändring.
+
+**Valencia–Real Madrid:** inga besked som flyttar något. Ingen ändring.
+
+**Vad detta gör med spelen:** krysset i Osasuna–Athletic utgår och samma 40 kr flyttas till under 2,5 i samma match. Kupongerna är orörda. Total exponering 220 kr, oförändrad och fortfarande i sin helhet på få mål.
