@@ -302,3 +302,40 @@ urval som håller. Inget kortspel ändå — lagens kort per match gick inte att
 någon av matcherna och ingen linje går att få. Soto Grado ligger högst av alla på 4,73
 över 22 matcher, men Elche–Betis saknar samma underlag. Muñiz Muñoz har bara fem
 matcher den här säsongen, så siffran 3,60 är för tunn att använda.
+
+## 🔄 Tillägg 17:40 — bekräftade elvor (18:30-matcherna)
+
+**Villarreal–Getafe.** Premissen i 13:00-analysen faller: **Djené och Satriano är inte
+avstängda — båda startar**, och Getafe ställer upp **5-3-2** med Satriano som andraforward
+bredvid Ünal, inte den 4-2-3-1 som låg till grund. Villarreal startar utan Gerard Moreno
+(inte i truppen), med Pépé och Ayoze Pérez på bänken och Oluwaseyi bredvid Mikautadze.
+→ BTTS-Nej **66% → 64% (55–70%)**, rättvist odds **1,56**, brytpunkt 55,9%,
+EV mot 1,79 **+15%** (var +18%). Brytpunkten ligger nu **inne i bandet** (**L1**) →
+spelkvalitet **🟢 8 → 🟡 6,5**, utfallskonfidens 7 → 6,5.
+Bandets nedre kant sänks på tre namngivna drivare (**L2**): den felaktiga
+avstängningsuppgiften underminerar truppunderlaget i originalläsningen; det är inte belagt
+om Getafes nolla på fem bortamatcher sammanföll med Satrianos frånvaro; och formationen är
+en annan än den som modellerades. Tesen är **försvagad, inte motbevisad** — bortanollan och
+Djenés förstärkta fembackslinje drar åt var sitt håll — så spelet nudgas enligt **L7**
+i stället för att dras.
+
+**Celta–Levante.** Elvorna är ännu inte bekräftade (fortfarande *predicted* 17:40). Ingen
+ändring: under 2,5 står kvar på 69% (60–75%).
+
+**Atlético–Barcelona.** Förväntade elvor fortfarande. Ingen ändring — matchen är PASS och
+ligger utanför närhetsfönstret.
+
+**Skott på mål — minutkontroll mot bekräftad elva (J4b).** Villarreal–Getafe: fem av sex
+namn startar. **Pépé startar på bänken** — den raden är en minutrisk, inte en skottfråga.
+Mikautadze, Moleiro, Ünal, Satriano och Mojica startar samtliga.
+
+**Pris.** Inget nytt BTTS-Nej-pris gick att hämta, så EV räknas mot samma indikativa 1,79
+(SportsGambler/BetMGM, 6 nov) — ingen bakåtberäkning (**K4c**). 1X2 har rört sig
+marginellt sedan dess (Villarreal 1,43 → 1,46, Celta 1,85 → 1,81), vilket inte berör något
+rekommenderat spel.
+
+**Vad detta gör med spelen:** kupong 1 (Celta–Levante under 2,5 **&** Villarreal–Getafe
+BTTS-Nej) räknas om till **44% (33–53%)**, rättvist odds **2,27**, brytpunkt 29,6%,
+EV mot 3,38 **+49%** (var +54%). Brytpunkten ligger fortfarande utanför bandet, så kupongen
+står kvar — men insatsen sänks **90 kr → 70 kr**, eftersom ett av två ben vilar på en
+premiss som visade sig vara fel. Dagens exponering 270 kr → 250 kr. Inga andra spel rörs.
