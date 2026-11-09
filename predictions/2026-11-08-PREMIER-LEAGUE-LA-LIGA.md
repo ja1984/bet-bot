@@ -339,3 +339,201 @@ BTTS-Nej) räknas om till **44% (33–53%)**, rättvist odds **2,27**, brytpunkt
 EV mot 3,38 **+49%** (var +54%). Brytpunkten ligger fortfarande utanför bandet, så kupongen
 står kvar — men insatsen sänks **90 kr → 70 kr**, eftersom ett av två ben vilar på en
 premiss som visade sig vara fel. Dagens exponering 270 kr → 250 kr. Inga andra spel rörs.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ingen match gick till förlängning. Fyra mål föll i ordinarie tilläggstid
+och räknas därför fullt ut: Nketiahs straff i 90+5 i Palace–Liverpool, Zirkzee i 90+2 och
+Dorgu i 90+6 i Manchester United–Aston Villa, och Carlos Romero i 90+1 i Villarreal–Getafe.
+Straffen i 90+5 är kvällens enda sena mål som ensamt fällde ett spel — den tog bort
+BTTS-Nej i Palace–Liverpool vid 0–3. Målen på Old Trafford föll i en match som sedan länge
+passerat 2,5, och Villarreals andra mål rörde inte BTTS-Nej eftersom Getafe stod utan mål
+hela vägen. Resultaten är hämtade från minst två oberoende källor per match.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Elche – Real Betis | 0–2 | Riquelme 81', Bartra 89' — Elche utan skott på mål bland sina tre utpekade avslutare |
+| Sunderland – Chelsea | 1–0 | Le Fée 36' (straff) efter fällning på Brobbey; Chelsea utan mål |
+| Brighton – Brentford | 2–0 | Diego Gómez 15', Groß 42' (straff); Igor Thiago utvisad 23', Brentford tio man i 67 minuter |
+| Crystal Palace – Liverpool | 1–3 | Mac Allister 40', Wirtz 54', Isak 89', Nketiah 90+5' (straff) |
+| Ipswich – Bournemouth | 1–2 | Evanilson 5', Leif Davis 46' (självmål), Clarke 73' (straff) |
+| Real Sociedad – Rayo Vallecano | 1–0 | Óskarsson 67'; Remiro räddade De Frutos i 59' |
+| Manchester United – Aston Villa | 4–4 | Alysson 1', Jackson 4', Fernandes 16' (straff), Tielemans 44', McGinn 48' (straff), Goretzka 53', Zirkzee 90+2', Dorgu 90+6' |
+| Villarreal – Getafe | 2–0 | Buchanan 80', C. Romero 90+1'; 22 avslut mot 9, förväntade mål 2,38 mot 0,68 |
+| Celta Vigo – Levante | 0–0 | Celta 23 avslut och 8 på mål, två underkända mål; Levante utan skott på mål |
+| Atlético Madrid – Barcelona | 1–2 | G. Simeone 10', Fermín López 45' och 66' |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Elche – Betis | BTTS-Nej | 52% (45–58%) | 2,30 | 30 kr | 0–2 | ✅ |
+| Elche – Betis | Under 2,5 | 50% (42–58%) | 2,18 | — | 2 mål | ✅ |
+| Elche – Betis | Betis vinst | 50% (43–57%) | 2,04 | — | 0–2 | ✅ |
+| Elche – Betis | Elche över 0,5 | 61% (52–69%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Sunderland – Chelsea | Under 2,5 | 60% (53–66%) | 1,97 | ben i K2 | 1 mål | ✅ |
+| Sunderland – Chelsea | BTTS-Nej | 57% (50–63%) | 2,10 | — | 1–0 | ✅ |
+| Sunderland – Chelsea | Chelsea vinst | 53% (45–60%) | 1,97 | — | 1–0 Sunderland | ❌ |
+| Sunderland – Chelsea | Sunderland över 0,5 | 55% (47–62%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Brighton – Brentford | BTTS-Nej | 52% (44–59%) | 2,40 | ben i K3 | 2–0 | ✅ |
+| Brighton – Brentford | Under 2,5 | 52% (44–59%) | 2,38 | — | 2 mål | ✅ |
+| Brighton – Brentford | Brighton vinst | 56% (48–64%) | 1,84 | — | 2–0 | ✅ |
+| Brighton – Brentford | Över 2,5 | 48% (41–56%) | 1,57 | — | 2 mål | ❌ |
+| Palace – Liverpool | BTTS-Nej | 58% (50–65%) | 2,28 | ben i K2 | 1–3, straff i 90+5 | ❌ |
+| Palace – Liverpool | Under 2,5 | 52% (44–59%) | 2,60 | — | 4 mål | ❌ |
+| Palace – Liverpool | Liverpool vinst | 58% (50–65%) | 1,52 | — | 1–3 | ✅ |
+| Palace – Liverpool | Palace över 0,5 | 57% (48–65%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Ipswich – Bournemouth | BTTS-Ja | 60% (53–67%) | 1,60 | — | 1–2 | ✅ |
+| Ipswich – Bournemouth | Över 2,5 | 59% (51–66%) | 1,65 | — | 3 mål | ✅ |
+| Ipswich – Bournemouth | Ipswich dubbelchans | 53% (46–60%) | 1,95 | — | 1–2 | ❌ |
+| Ipswich – Bournemouth | Bournemouth över 1,5 | 54% (46–62%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Sociedad – Rayo | Över 2,5 | 61% (54–67%) | 1,58 | — | 1 mål | ❌ |
+| Sociedad – Rayo | BTTS-Ja | 62% (55–68%) | 1,58 | — | 1–0 | ❌ |
+| Sociedad – Rayo | Sociedad vinst | 55% (47–62%) | 1,70 | — | 1–0 | ✅ |
+| Sociedad – Rayo | Sociedad över 1,5 | 64% (56–71%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Man United – Villa | Under 2,5 | 54% (47–61%) | 2,43 | ben i K3 | 8 mål | ❌ |
+| Man United – Villa | BTTS-Nej | 49% (42–56%) | 2,55 | — | 4–4 | ❌ |
+| Man United – Villa | United vinst | 40% (33–47%) | 2,15 | — | 4–4 | ❌ |
+| Man United – Villa | Villa över 0,5 | 70% (62–77%) | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| Villarreal – Getafe | BTTS-Nej | 64% (55–70%) | 1,79 | ben i K1 | 2–0 | ✅ |
+| Villarreal – Getafe | Under 2,5 | 66% (57–72%) | 2,02 | — | 2 mål | ✅ |
+| Villarreal – Getafe | Villarreal vinst | 60% (52–67%) | 1,43 | — | 2–0 | ✅ |
+| Villarreal – Getafe | Villarreal över 1,5 | 55% (46–63%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Celta – Levante | Under 2,5 | 69% (60–75%) | 1,89 | ben i K1 | 0 mål | ✅ |
+| Celta – Levante | BTTS-Nej | 64% (56–70%) | 1,98 | — | 0–0 | ✅ |
+| Celta – Levante | Celta vinst | 48% (40–55%) | 1,85 | — | 0–0 | ❌ |
+| Celta – Levante | Levante över 0,5 | 50% (42–58%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Atlético – Barcelona | Under 2,5 | 36% (30–42%) | 3,30 | — | 3 mål | ❌ |
+| Atlético – Barcelona | Över 2,5 | 64% (58–70%) | 1,32 | — | 3 mål | ✅ |
+| Atlético – Barcelona | BTTS-Nej | 32% (26–39%) | 3,20 | — | 1–2 | ❌ |
+| Atlético – Barcelona | Barcelona vinst | 49% (42–56%) | 2,02 | — | 1–2 | ✅ |
+
+**Tjugofyra av fyrtio bedömda marknader landade mot 22,1 förväntade** räknat på filens
+egna sannolikheter. Dagsnivån är alltså ärlig; felet ligger i vilka av dem som fick insats.
+**Fem av de åtta medvetet undvikna marknaderna landade** — däribland Palace–Liverpool
+BTTS-Ja, som avfärdades uttryckligen på att hemmalaget inte gjort mål på tre matcher,
+medan motsatta sidan av samma marknad bar 80 kr.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Barcelona | Raphinha | 1+ | 85% | 90' | 0 av 3 avslut (två blockerade, ett utanför) | ❌ |
+| Barcelona | Lamine Yamal | 1+ | 82% | 90' | 0 av 5 avslut (samtliga utanför) | ❌ |
+| Barcelona | Anthony Gordon | 1+ | 70% | 86' | 1 (räddad 32') | ✅ |
+| Atlético | Jonathan David | 1+ | 78% | 12' (inbytt 78') | 0 | ❌ |
+| Atlético | Julián Álvarez | 1+ | 63% | 90' | 1 (räddad 26') | ✅ |
+| Atlético | Álex Baena | 1+ | 60% | 72' | 1 (räddad 38') | ✅ |
+| Real Sociedad | Mikel Oyarzabal | 1+ | 60% | 0' (varken i elvan eller inbytt) | — | ❌ |
+| Real Sociedad | Luka Sučić | 1+ | 55% | 90' | 0 av 3 avslut | ❌ |
+| Real Sociedad | Orri Óskarsson | 1+ | 54% | 90' | 1 (mål 67') | ✅ |
+| Rayo | Sergio Camello | `underlag saknas` | `underlag saknas` | 80' | 0 av 1 avslut | ❌ |
+| Rayo | Jorge de Frutos | `underlag saknas` | `underlag saknas` | 90' | 1 (räddad 59') | ✅ |
+| Rayo | Giorgi Tsitaishvili | `underlag saknas` | `underlag saknas` | 90' | 1 (räddad 8') | ✅ |
+| Elche | Fer Niño | `underlag saknas` | `underlag saknas` | 69' | 0 av 2 avslut | ❌ |
+| Elche | Facundo Buonanotte | `underlag saknas` | `underlag saknas` | 20' (inbytt 70') | 0 | ❌ |
+| Elche | Lucas Cepeda | `underlag saknas` | `underlag saknas` | 70' | 0 av 3 avslut | ❌ |
+| Betis | Troy Parrott | `underlag saknas` | `underlag saknas` | 78' | 0 av 2 avslut | ❌ |
+| Betis | Antony | `underlag saknas` | `underlag saknas` | 69' | 1 (räddad 51') | ✅ |
+| Betis | Isco | `underlag saknas` | `underlag saknas` | 83' | 2 (räddade 67' och 72') | ✅ |
+| Villarreal | Georges Mikautadze | `underlag saknas` | `underlag saknas` | 84' | 0 av 1 avslut (blockerat) | ❌ |
+| Villarreal | Nicolas Pépé | `underlag saknas` | `underlag saknas` | 14' (inbytt 76', assist 80') | 0 | ❌ |
+| Villarreal | Alberto Moleiro | `underlag saknas` | `underlag saknas` | 63' | 0 av 2 avslut | ❌ |
+| Getafe | Enes Ünal | `underlag saknas` | `underlag saknas` | 81' | 0 | ❌ |
+| Getafe | Martín Satriano | `underlag saknas` | `underlag saknas` | 90' | 0 av 1 avslut (blockerat) | ❌ |
+| Getafe | Johan Mojica | `underlag saknas` | `underlag saknas` | 90' | 0 | ❌ |
+| Celta | Ferran Jutglà | `underlag saknas` | `underlag saknas` | 0' (oanvänd avbytare) | — | ❌ |
+| Celta | Hugo Álvarez | `underlag saknas` | `underlag saknas` | 45' (inbytt 45') | 0 av 1 avslut | ❌ |
+| Celta | Ilaix Moriba | `underlag saknas` | `underlag saknas` | 90' | 0 | ❌ |
+| Levante | Dejan Ratkov | `underlag saknas` | `underlag saknas` | 0' (ej i matchtruppen) | — | ❌ |
+| Levante | Iván Romero | `underlag saknas` | `underlag saknas` | 45' (inbytt 45') | 0 av 1 avslut | ❌ |
+| Levante | Roger Brugué | `underlag saknas` | `underlag saknas` | 90' | 0 av 3 avslut | ❌ |
+| Sunderland | Brian Brobbey | `underlag saknas` | `underlag saknas` | 67' | ej bedömbar | — |
+| Sunderland | Enzo Le Fée | `underlag saknas` | `underlag saknas` | 88' (mål på straff 36') | ej bedömbar | — |
+| Sunderland | Simon Angulo | `underlag saknas` | `underlag saknas` | 2' (inbytt 88') | ej bedömbar | — |
+| Chelsea | Cole Palmer | 1+ | `underlag saknas` | 90' | ej bedömbar | — |
+| Chelsea | Estêvão | `underlag saknas` | `underlag saknas` | 45' (inbytt 45') | ej bedömbar | — |
+| Chelsea | Pedro Neto | `underlag saknas` | `underlag saknas` | 62' | ej bedömbar | — |
+| Brighton | Charalampos Kostoulas | `underlag saknas` | `underlag saknas` | 82' | ej bedömbar | — |
+| Brighton | Diego Gómez | `underlag saknas` | `underlag saknas` | 90' (mål 15') | ej bedömbar | — |
+| Brighton | Yasin Ayari | `underlag saknas` | `underlag saknas` | 78' | ej bedömbar | — |
+| Brentford | Igor Thiago | `underlag saknas` | `underlag saknas` | 23' (utvisad) | ej bedömbar | — |
+| Brentford | Kevin Schade | `underlag saknas` | `underlag saknas` | 90' | ej bedömbar | — |
+| Brentford | Dango Ouattara | `underlag saknas` | `underlag saknas` | 45' | ej bedömbar | — |
+| Palace | Jørgen Strand Larsen | `underlag saknas` | `underlag saknas` | 72' | ej bedömbar | — |
+| Palace | Yeremy Pino | `underlag saknas` | `underlag saknas` | 87' | ej bedömbar | — |
+| Palace | Daichi Kamada | `underlag saknas` | `underlag saknas` | 90' | ej bedömbar | — |
+| Liverpool | Alexander Isak | `underlag saknas` | `underlag saknas` | 90' (mål 89') | ej bedömbar | — |
+| Liverpool | Florian Wirtz | `underlag saknas` | `underlag saknas` | 90' (mål 54') | ej bedömbar | — |
+| Liverpool | Cody Gakpo | `underlag saknas` | `underlag saknas` | 76' | ej bedömbar | — |
+| Ipswich | Emersonn | `underlag saknas` | `underlag saknas` | 54' | ej bedömbar | — |
+| Ipswich | Jaden Philogene | `underlag saknas` | `underlag saknas` | 54' | ej bedömbar | — |
+| Ipswich | Julio Enciso | `underlag saknas` | `underlag saknas` | 90' | ej bedömbar | — |
+| Bournemouth | Evanilson | `underlag saknas` | `underlag saknas` | 85' (mål 5') | ej bedömbar | — |
+| Bournemouth | Justin Kluivert | `underlag saknas` | `underlag saknas` | 68' | ej bedömbar | — |
+| Bournemouth | Marcus Tavernier | `underlag saknas` | `underlag saknas` | 90' | ej bedömbar | — |
+| Man United | Bryan Mbeumo | `underlag saknas` | `underlag saknas` | 83' | ej bedömbar | — |
+| Man United | Matheus Cunha | `underlag saknas` | `underlag saknas` | 90' | ej bedömbar | — |
+| Man United | Bruno Fernandes | `underlag saknas` | `underlag saknas` | 90' (mål på straff 16') | ej bedömbar | — |
+| Aston Villa | Nicolas Jackson | `underlag saknas` | `underlag saknas` | 86' (mål 4') | ej bedömbar | — |
+| Aston Villa | John McGinn | `underlag saknas` | `underlag saknas` | 71' (mål på straff 48') | ej bedömbar | — |
+| Aston Villa | Jérémy Manzambi | `underlag saknas` | `underlag saknas` | 78' | ej bedömbar | — |
+
+**Sextio rader, samtliga med namn och samtliga med verifierad minutsiffra.** Trettio gick
+att avgöra mot 1+-linjen och **åtta landade**; de trettio raderna i de sex engelska
+matcherna står som `ej bedömbar`, eftersom spelarvis skott på mål inte gick att hämta för
+någon av dem. Av de nio raderna med angiven sannolikhet landade **fyra mot 6,1 förväntade**,
+och hela underskottet sitter i toppen: de tre högst skattade raderna (85%, 82% och 78%)
+föll allihop, och de två högsta föll på rent skjutande — två spelare som båda var på planen
+i nittio minuter och tillsammans avslutade åtta gånger utan ett enda skott på mål.
+**Sex rader föll på minuter i stället för på skjutande:** en inbytt i 78:e, en oanvänd
+avbytare, en som inte fanns i matchtruppen, en i elvan som varken startade eller byttes in,
+en inbytt i 70:e och en inbytt i 76:e. Bänkplatsen för Villarreals kantspelare var
+utskriven i förväg i 17:40-tillägget; frånvaron hos Sociedads förstanamn var det inte.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare (70 kr × 3,38) | ✅ | — |
+| 2 — Huvudspel (80 kr × 4,49) | ❌ | Palace–Liverpool BTTS-Nej — straff i 90+5 vid 0–3 |
+| 3 — Uppsida (70 kr × 5,83) | ❌ | Man United–Villa under 2,5 — åtta mål |
+
+### Totalt: 1/3 kuponger · 1/1 singlar · +55,60 kr
+
+Ett enda kupongset, lagt 13:00; 17:40-tillägget sänkte ankarets insats 90 → 70 kr men lade
+varken till eller drog någon post, så avsnittstotal och dagstotal är samma siffra. Kupong 1
+gav +166,60 kr på 220 kr i kuponger, alltså **+16,60 kr på kupongerna ensamma**, och singeln
+gav **+39,00 kr**. Priserna är indikativa (SportsGambler/BetMGM, noterade 6 november);
+räknat på filens egna rättvisa odds (2,27 i kupong 1 och 1,92 i singeln) blir kvällen
+−33,50 kr, så spannet är −34 till +56 kr och den högre posten används, samma konvention som
+tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Elche–Betis BTTS-Nej (singel) | +39 kr | Bra beslut — ensidig målbild, och det var den utpekade sidan som nollades |
+| Kupong 1 | +166,60 kr | Bra beslut — båda benens brytpunkt låg under bandets nedre kant |
+| Celta–Levante under 2,5 (ben) | ✅ | Varians åt rätt håll — hemmalaget sköt 23 gånger och 8 på mål utan att träffa |
+| Villarreal–Getafe BTTS-Nej (ben) | ✅ | Dåliga data i 13:00-premissen, rättad 17:40 — marknadsvalet bar ändå |
+| Kupong 2 | −80 kr | Dåligt marknadsval — BTTS-Nej i en match filen själv skattade till bekväm bortaseger |
+| Palace–Liverpool BTTS-Nej (ben) | ❌ | Dåligt marknadsval — spelet är skörast i just den storseger analysen förutsåg |
+| Sunderland–Chelsea under 2,5 (ben) | ✅ | Bra beslut — tesen höll rakt av, en match med ett mål |
+| Kupong 3 | −70 kr | Recensbias — måltorkan över två matcher lästes som egenskap |
+| Man United–Villa under 2,5 (ben) | ❌ | Recensbias — två mål på fyra minuter motbevisade "två trötta anfall" |
+| Brighton–Brentford BTTS-Nej (ben) | ✅ | Varians åt rätt håll — utvisningen i 23:e avgjorde benet, inte läsningen |
+| Pass Atlético–Barcelona | — | Bra beslut — under 2,5 föll, brytpunkten låg korrekt inne i bandet |
+| Pass Real Sociedad–Rayo | — | Bra beslut — både över 2,5 och BTTS-Ja föll |
+| Pass Ipswich–Bournemouth | — | Bra beslut på processen, fel på utfallet — BTTS-Ja landade på en passad tunn marginal |
+| Skottrader 75%+ | 0/3 | Överkonfidens — tre rader över 78% och ingen landade, två på rent skjutande |
+
+**Lärdom:** BTTS-Nej valdes i en match som samma fil skattade till en bekväm bortaseger,
+och den föll på exakt det tröstmål som uppstår när ledningen är tre mål. Varningen för det
+scenariot finns i regelverket, men den är skriven för en väntad *hemma*seger och träffade
+därför inte — mekanismen bryr sig inte om vilken planhalva favoriten kommer från. Går som
+förslag via pull request.
