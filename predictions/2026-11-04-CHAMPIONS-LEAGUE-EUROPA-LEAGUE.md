@@ -289,3 +289,108 @@ Fem rader utan underlag (Merino, Tzolis, Nowák, Suleiman, Ayaosi) — tjeckiska
 ## 🟨 Kort
 
 Peljto (PSV–Brugge) och Pajač (Rennes–Olympiacos) ligger båda på 4,6 gula per match, över 283 respektive 261 karriärmatcher, och är kvällens högsta. Guida följer på 4,1 över 387 matcher. Inget kortspel — ingen källa noterar en kortlinje för någon av matcherna, och lagens kort per match går inte att belägga.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ingen match gick till förlängning — ligafasen avgörs på 90 minuter plus ordinarie tilläggstid. Tre mål föll i tilläggstid och räknas alla: Valverdes 90+2 i Aten, Nováks 90:e i Prag och Papacciolis avslutande i Lens. **Nováks mål fällde kupong 2:s Pragben ensamt** — fram till 90:e minuten höll BTTS-Nej där. Samus straff i 90:e i Porto låg i en match som sedan länge hade mål av båda lagen.
+
+### Resultat
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Rennes – Olympiacos | 0–0 | Mållöst, Samba höll nollan; Dia utan mål |
+| AEK Aten – Real Madrid | 2–3 | Koïta 12', Bellingham 32', Pilios 75', Mbappé 78', Valverde 90+2' |
+| Fenerbahçe – Liverpool | 3–2 | Nyoni 25', Greenwood 29', Isak 69', Brown 73', Muriqi 79' |
+| Borussia Dortmund – Real Betis | 2–1 | Fábio Silva och Karetsas (72'); Guirassy utbytt skadad i första halvlek |
+| FC Porto – Napoli | 4–1 | Bednarek, McTominay 43', Gabri Veiga, Kiwior, Samu 90' straff; rött kort Rafa Marín 88' |
+| Lens – Como | 1–9 | Douvikas hattrick, Baturina, Papaccioli i tilläggstid; turneringens gemensamma rekordseger |
+| PSV – Club Brugge | 1–2 | Mål av båda lagen |
+| RB Leipzig – Manchester City | 2–3 | Lukeba självmål 37', Baku 49', Enzo Fernández 58', Nusa 61', Haaland 78' |
+| Slavia Prag – Arsenal | 1–2 | Madueke 9', Gyökeres 38', Novák 90' |
+| Viking – Sabah | 4–1 | Mål av båda lagen |
+
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Fenerbahçe–Liverpool | Över 3,5 | 60% (53–66%) | 1,97 (ben @ 2,52) | 100 kr, kupong 1 | 5 mål | ✅ |
+| AEK–Real Madrid | Över 2,5 | 82% (76–87%) | 1,28 (ben @ 2,52) | 100 kr, kupong 1 | 5 mål | ✅ |
+| Slavia–Arsenal | BTTS-Nej | 62% (55–68%) | 1,66 (ben @ 4,48) | 40 kr, kupong 2 | Mål av båda, hemmamålet i 90:e | ❌ |
+| Lens–Como | BTTS-Nej | 45% (38–52%) | 2,70 (ben @ 4,48) | 40 kr, kupong 2 | Mål av båda | ❌ |
+| FC Porto–Napoli | BTTS-Nej | 55% (48–62%) | 2,23 | 70 kr | Mål av båda, 1–1 i paus | ❌ |
+| Rennes–Olympiacos | Över 2,5 | 56% (49–63%) | 1,83 | — | 0 mål | ❌ |
+| Rennes–Olympiacos | BTTS | 57% (50–63%) | 1,65 | — | 0 mål | ❌ |
+| Rennes–Olympiacos | Olympiacos dubbelchans | 54% (47–60%) | 1,64 | — | 0–0 | ✅ |
+| AEK–Real Madrid | BTTS | 55% (48–62%) | 1,70 | — | Mål av båda | ✅ |
+| AEK–Real Madrid | AEK dubbelchans | 22% (17–27%) | 4,50 | — | Bortaseger | ❌ |
+| Fenerbahçe–Liverpool | Över 2,5 | 76% (70–82%) | 1,37 | — | 5 mål | ✅ |
+| Fenerbahçe–Liverpool | BTTS | 65% (58–71%) | 1,50 | — | Mål av båda | ✅ |
+| Dortmund–Betis | BTTS | 64% (57–70%) | 1,49 | — | Mål av båda | ✅ |
+| Dortmund–Betis | Över 2,5 | 63% (56–69%) | 1,50 | — | 3 mål | ✅ |
+| Dortmund–Betis | Betis dubbelchans | 45% (39–51%) | 2,06 | — | Hemmaseger | ❌ |
+| FC Porto–Napoli | Under 2,5 | 50% (43–57%) | 2,12 | — | 5 mål | ❌ |
+| FC Porto–Napoli | Porto vinst | 47% (40–54%) | 1,94 | — | 4–1 | ✅ |
+| Lens–Como | Över 2,5 | 68% (61–74%) | 1,52 | — | 10 mål | ✅ |
+| Lens–Como | Como utan oavgjort | 61% (54–67%) | 1,47 | — | Bortaseger | ✅ |
+| PSV–Club Brugge | Över 2,5 | 73% (66–79%) | 1,32 | — | 3 mål | ✅ |
+| PSV–Club Brugge | BTTS | 69% (62–75%) | 1,32 | — | Mål av båda | ✅ |
+| PSV–Club Brugge | BTTS-Nej | 31% (25–37%) | 3,25 | — | Mål av båda | ❌ |
+| Leipzig–Manchester City | Över 2,5 | 76% (70–82%) | 1,33 | — | 5 mål | ✅ |
+| Leipzig–Manchester City | BTTS | 63% (56–69%) | 1,41 | — | Mål av båda | ✅ |
+| Leipzig–Manchester City | Leipzig dubbelchans | 40% (34–46%) | 2,55 | — | Bortaseger | ❌ |
+| Slavia–Arsenal | Över 2,5 | 55% (48–62%) | 1,63 | — | 3 mål | ✅ |
+| Slavia–Arsenal | Under 2,5 | 45% (38–52%) | 2,28 | — | 3 mål | ❌ |
+| Viking–Sabah | Över 2,5 | 72% (65–78%) | 1,40 | — | 5 mål | ✅ |
+| Viking–Sabah | BTTS | 57% (50–64%) | 1,55 | — | Mål av båda | ✅ |
+| Viking–Sabah | Viking vinst | 58% (51–65%) | 1,50 | — | 4–1 | ✅ |
+
+Nio matcher prissattes på över 2,5 eller över 3,5. **Nio av tio målmarknader landade** — den enda som föll var Rennes–Olympiacos, kvällens enda mållösa match. Samtliga tre BTTS-Nej-positioner föll.
+
+### Skott på mål
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Rennes | Dia | 1+ | 41% | ej verifierad | ej bedömbar | ej bedömbar |
+| Real Madrid | Mbappé | 2+ | 74% | 90, start | ej bedömbar, mål 78' | ej bedömbar |
+| Real Madrid | Bellingham | 1+ | 57% | 90, start | minst 1, mål 32' | ✅ |
+| Real Madrid | Vinícius | 1+ | 56% | 90, start som kapten | ej bedömbar | ej bedömbar |
+| Liverpool | Isak | 1+ | 64% | 24, inhopp 66' | minst 1, mål 69' | ✅ |
+| Liverpool | Wirtz | 1+ | 27% | 24, inhopp 66' | ej bedömbar | ej bedömbar |
+| Betis | Antony | 1+ | 71% | ej verifierad | ej bedömbar | ej bedömbar |
+| Dortmund | Guirassy | 1+ | 71% | utbytt skadad i första halvlek | ej bedömbar | ej bedömbar |
+| Napoli | McTominay | 1+ | 60% | start | minst 1, mål 43' | ✅ |
+| Napoli | Lucca | 1+ | 19% | avbytare, inhopp ej verifierat | ej bedömbar | ej bedömbar |
+| Lens | Thauvin | 1+ | 70% | start | ej bedömbar | ej bedömbar |
+| Como | Paz | 1+ | 70% | start | ej bedömbar | ej bedömbar |
+| Como | Douvikas | 1+ | 68% | start | minst 3, hattrick | ✅ |
+| Manchester City | Haaland | 1+ | 78% | 90, start | minst 1 av 3 skott, mål 78' | ✅ |
+| Leipzig | Nusa | 1+ | 64% | start | minst 1, mål 61' | ✅ |
+| Arsenal | Gyökeres | 1+ | underlag saknas | start | minst 1, mål 38' | ✅ |
+
+Sex av sexton rader gick att avgöra, samtliga sex på att spelaren gjorde mål — spelarvis skott på mål går inte att hämta i efterhand för någon av matcherna. **Två rader föll på minuter:** Liverpools båda namn satt på bänken när fem ändringar gjordes och kom in först i 66:e minuten, och Dortmunds anfallare byttes ut skadad före paus. Liverpoolraderna vilade på en förväntad elva som inte höll.
+
+Av de fyrtiofem namn som stod utan underlag går ett att avgöra och det är det mest talande: **Fenerbahçes Greenwood startade och gjorde 1–1**. Raden saknade statistik, inte spelare.
+
+### Kuponger
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare | ✅ | — |
+| 2 — Hedge | ❌ | Båda: Slavia–Arsenal BTTS-Nej och Lens–Como BTTS-Nej |
+
+### Totalt: 1/2 kuponger · 0/1 singlar · +42 kr
+
+Kupong 1 gav 100 kr × 2,52 = **+152 kr**, kupong 2 −40 kr och singeln −70 kr på 210 kr total insats. Priserna är de indikativa noteringar filen angav (BetMGM via sportsgambler.com, rotowire.com och statz.ai, satta 2–3 november). Räknat på filens egna rättvisa odds i stället blir kvällen −3 kr; spannet är −3 till +42 kr och den högre posten används, samma konvention som tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Fenerbahçe–Liverpool över 3,5 | +152 kr, delad | Bra beslut — målmiljön lästes rätt och 3,5 var det bättre betalda uttrycket än BTTS, som filen uttryckligen valde bort |
+| AEK–Real Madrid över 2,5 | +152 kr, delad | Bra beslut — men truppuppgiften var fel, se raden nedan |
+| Real Madrids truppuppgift | 0 kr | Dåliga data — Valverde angavs som frånvarande och avgjorde matchen i 90+2; felet rörde inte marknaden som spelades |
+| Slavia–Arsenal BTTS-Nej | −40 kr, delad | Varians — marknaden höll i 89 minuter och föll på ett tröstmål |
+| Lens–Como BTTS-Nej | −40 kr, delad | Dåligt marknadsval — BTTS-Nej lades i en match filen själv skattade till ensidig bortadominans, vilket är marknadens skörast scenario |
+| FC Porto–Napoli BTTS-Nej | −70 kr | Recensbias — tre turneringsmatchers måltorka lästes som en egenskap hos matchen; det stod 1–1 i paus |
+| Kupong 2 | −40 kr | Korrelation — två ben på samma tes i två matcher med ensidig målbild föll tillsammans |
+| Sex passade över 2,5 som landade | 0 kr | Varians — de sex skattningarna gav 4,1 förväntade träffar mot sex faktiska, vilket ligger inom spridningen och inte visar att priserna var fel bedömda |
+
+**Lärdom:** Ingen. Att nio av tio målmarknader landade på en omgång är en omgång, inte ett mönster.

@@ -208,3 +208,92 @@ Krysset sänks från 31% till 28%, rättvist odds 3,57 mot priset 3,45 — brytp
 **Valencia–Real Madrid:** inga besked som flyttar något. Ingen ändring.
 
 **Vad detta gör med spelen:** krysset i Osasuna–Athletic utgår och samma 40 kr flyttas till under 2,5 i samma match. Kupongerna är orörda. Total exponering 220 kr, oförändrad och fortfarande i sin helhet på få mål.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ingen match gick till förlängning. Fyra av dagens mål föll efter 79:e minuten och räknas alla: Okafor 79', Murphy 80', Muniz 83' och Osasunas kvittering i 90:e. **Kvitteringen i 90:e fällde ingen spelad position** — under 2,5 höll på två mål — men den gjorde BTTS-Nej i samma match till förlust och lät det tillbakadragna krysset landa. Fulham–Newcastle gick från 0–0 till 1–1 på de sista tio minuterna utan att passera 2,5.
+
+Dagen hade ett enda kupongset, lagt 13:00. Tillägget 17:30 flyttade en singelinsats inom samma match men lade varken till eller drog någon post, så avsnittstotal och dagstotal är samma siffra.
+
+### Resultat
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Leeds – Tottenham | 1–0 | Okafor 79' som inhoppare |
+| Málaga – Racing Santander | 1–2 | Dotor för Málaga; Luque och Zabiri vände för Racing |
+| Arsenal – Hull City | 1–0 | Ødegaard 72' |
+| Fulham – Newcastle | 1–1 | Murphy 80', Muniz 83' |
+| Espanyol – Deportivo | 0–0 | Mållöst |
+| Osasuna – Athletic Club | 1–1 | Båda målen i slutskedet, 84' och 90'; källorna går isär om vilket lag som ledde först |
+| Nottingham Forest – Man City | 3–1 | Cunha 6', Delap 18', Cherki 52', Delap 73' |
+| Valencia – Real Madrid | 0–3 | Real Madrids åttonde raka seger i alla tävlingar |
+
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Forest–Man City | BTTS-Nej | 68% (60–74%) | 2,38 (ben @ 4,55) | 110 kr, kupong 1 | Mål av båda, Forest tre | ❌ |
+| Leeds–Tottenham | Under 2,5 | 62% (56–67%) | 1,91 (ben @ 4,55) | 110 kr, kupong 1 | 1 mål | ✅ |
+| Fulham–Newcastle | Under 2,5 | 54% (47–59%) | 2,30 | 70 kr, kupong 2 | 2 mål | ✅ |
+| Osasuna–Athletic | Under 2,5 | 63% (56–68%) | 1,80 | 40 kr | 2 mål | ✅ |
+| Osasuna–Athletic | Kryss | 28% (25–32%) | 3,45 | tillbakadragen 17:30 | 1–1 | ✅ |
+| Leeds–Tottenham | BTTS-Nej | 57% (50–62%) | 2,15 | — | Endast hemmamål | ✅ |
+| Leeds–Tottenham | Tottenham vinst | 42% (36–47%) | 2,45 | — | Hemmaseger | ❌ |
+| Leeds–Tottenham | Leeds under 1,5 | 70% (63–76%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Málaga–Racing | Málaga över 0,5 | 73% (66–78%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Málaga–Racing | BTTS | 60% (53–66%) | `PRIS EJ TILLGÄNGLIGT` | — | Mål av båda | ✅ |
+| Málaga–Racing | Málaga vinst | 40% (34–46%) | 2,28 | — | Bortaseger | ❌ |
+| Málaga–Racing | Kryss | 30% (25–34%) | 3,55 | — | 1–2 | ❌ |
+| Arsenal–Hull | Arsenal över 1,5 | 55% (48–61%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Arsenal–Hull | BTTS | 36% (30–42%) | 2,50 | — | Hull mållösa | ❌ |
+| Arsenal–Hull | Arsenal vinst | 80% (74–85%) | 1,12 | — | 1–0 | ✅ |
+| Arsenal–Hull | Hull över 0,5 | 38% (32–44%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Fulham–Newcastle | BTTS-Nej | 45% (38–50%) | 2,50 | — | Mål av båda | ❌ |
+| Fulham–Newcastle | Fulham vinst | 42% (36–48%) | 1,95 | — | Oavgjort | ❌ |
+| Fulham–Newcastle | Fulham under 1,5 | 62% (55–68%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Espanyol–Deportivo | Deportivo dubbelchans | 62% (55–68%) | `PRIS EJ TILLGÄNGLIGT` | — | 0–0 | ✅ |
+| Espanyol–Deportivo | Deportivo vinst | 33% (28–38%) | 3,00 | — | Oavgjort | ❌ |
+| Espanyol–Deportivo | Kryss | 29% (25–34%) | 3,30 | — | 0–0 | ✅ |
+| Espanyol–Deportivo | Espanyol över 1,5 | 40% (34–46%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ❌ |
+| Osasuna–Athletic | BTTS-Nej | 57% (50–63%) | 1,91 | — | Mål av båda | ❌ |
+| Osasuna–Athletic | Athletic vinst | 44% (38–50%) | 1,97 | — | Oavgjort | ❌ |
+| Osasuna–Athletic | Osasuna under 1,5 | 66% (58–72%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| Forest–Man City | Under 2,5 | 52% (45–58%) | 2,30 | — | 4 mål | ❌ |
+| Forest–Man City | Man City vinst | 58% (51–64%) | 1,66 | — | Hemmaseger | ❌ |
+| Forest–Man City | Man City över 1,5 | 57% (50–63%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Valencia–Real Madrid | Valencia under 1,5 | 74% (67–79%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ✅ |
+| Valencia–Real Madrid | Real Madrid över 1,5 | 60% (52–67%) | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Valencia–Real Madrid | Real Madrid vinst | 75% (68–80%) | 1,23 | — | 0–3 | ✅ |
+| Valencia–Real Madrid | Kryss | 15% (12–19%) | 6,40 | — | Bortaseger | ❌ |
+
+Fem av dagens åtta matcher pekades ut med en obespelad bästa marknad som saknade pris. **Fyra av de fem landade** — Leeds under 1,5, Málaga över 0,5, Deportivo dubbelchans och Valencia under 1,5 — medan Arsenal över 1,5 föll. Läsningen höll i de matcher som aldrig gick att spela.
+
+### Skott på mål
+
+Inga skottrader publicerades: per-spelarsiffror gick inte att belägga för någon av dagens åtta matcher och inga namn skrevs ut. Det finns därför inga rader att bedöma, och ingen minutkontroll att göra.
+
+### Kuponger
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare | ❌ | Forest–Man City BTTS-Nej; Leedsbenet landade |
+| 2 — Huvudspel | ✅ | — |
+
+### Totalt: 1/2 kuponger · 1/1 singlar · +13 kr
+
+Kupong 2 gav 70 kr × 2,30 = **+91 kr** och singeln 40 kr × 1,80 = **+32 kr**, mot kupong 1:s −110 kr på 220 kr total insats. Priserna är de indikativa noteringar filen angav ur förhandsartiklar, med Osasuna–Athletics 1,80 från Football Whispers; räknat på filens egna rättvisa odds blir dagen −3 kr, och spannet är −3 till +13 kr med den högre posten använd.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Forest–Man City BTTS-Nej | −110 kr | Dålig tolkning — noll hemmamål på fyra matcher lästes som en egenskap trots att filen själv noterade ligans näst flesta avslut; motargumentet fanns på plats och ändrade ingenting |
+| Kupong 1 | −110 kr | Överkonfidens på insatsen — dagens största position låg på den sämst underbyggda tesen, och det andra benet landade |
+| Leeds–Tottenham under 2,5 | +0 kr, ben som landade | Bra beslut — arton ligamatcher med tretton under 2,5 är ett urval som bär, och matchen gav ett mål |
+| Fulham–Newcastle under 2,5 | +91 kr | Bra beslut — men marginellt: två mål föll på de sista tio minuterna och ett tredje hade vänt den |
+| Osasuna–Athletic under 2,5 | +32 kr | Bra beslut — måltesen var rätt och överlevde båda sena målen |
+| Osasuna–Athletic kryss, tillbakadraget | 0 kr, hade gett +98 kr | Varians — beskedet som sänkte skattningen var korrekt och beslutet rätt på den information som fanns; utfallet gynnade den dragna posten |
+| Leeds–Tottenham BTTS-Nej, avstådd | 0 kr | Bra beslut — korrekt avstådd på korrelation med under 2,5 i samma match, och den landade |
+
+De fyra spelade marknadernas egna skattningar gav 2,5 förväntade träffar mot tre faktiska. Dagens enda förlust är också dagens enda position där filen vägde en kort svit tyngre än sin egen motevidens.
+
+**Lärdom:** Ingen ny regel. Dagen bekräftar en regel som redan står i regelverket — en måltorka ska opponentjusteras och vägas mot underliggande avslutsvolym innan den blir ett spel — och en bekräftelse flyttar ingen skattning av sig själv.
