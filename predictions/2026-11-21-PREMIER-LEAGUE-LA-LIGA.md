@@ -240,3 +240,15 @@ Priserna är indikativa, hämtade ur LiveScores omgångsgenomgång respektive pr
 ## 🟨 Kort
 
 Kavanagh ligger högst av dagens domare på 4,9 gula per match och Madley på 4,8, båda på säsongssiffror till och med 8 november utan angivet matchantal. Inget kortspel läggs: lagens kort per match går inte att hämta, ingen linje finns att spela mot, och de fyra La Liga-domarna är inte tillsatta i någon källa som gick att verifiera.
+
+## 🔄 Tillägg 17:35 — bekräftade elvor
+
+**Newcastle–Arsenal.** Newcastle spelar Miley och Willock på mitten med Osula ensam på topp — Elanga, Wissa, Fernández-Pardo och Nico González sitter alla på bänken. Arsenal är utan Saka och Zubimendi, Dowman är avstängd, Havertz leder anfallet med Gyökeres som avbytare och Bruno Guimarães går in bredvid Rice.
+
+Båda lagens vassaste anfallsalternativ står alltså utanför plan när matchen börjar, och rotationsfrågan som gjorde bandet brett är besvarad. Under 2,5 höjs till **59% (54–63%)**, rättvist odds 1,69 mot priset 2,18 där brytpunkten ligger på 45,9% — nu klart under bandets nedre kant. Utfallskonfidens 6,5 → 7/10, kvaliteten står kvar på 🟢 7. Bekräftad elva.
+
+Kupong 1 går därmed från 30% (24–36%) till **31% (25–37%)**, rättvist odds 3,20 mot 4,32.
+
+**Sevilla–Betis.** Officiell elva är ännu inte publicerad. Ingen ändring.
+
+**Vad detta gör med spelen:** ingen insats flyttas. Kupong 1 ligger kvar på 100 kr — höjningen är inkrementell och kupongens andra ben vilar fortfarande på en förväntad elva i Real Madrid–Celta.
