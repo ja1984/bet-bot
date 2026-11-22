@@ -252,3 +252,135 @@ Kupong 1 går därmed från 30% (24–36%) till **31% (25–37%)**, rättvist od
 **Sevilla–Betis.** Officiell elva är ännu inte publicerad. Ingen ändring.
 
 **Vad detta gör med spelen:** ingen insats flyttas. Kupong 1 ligger kvar på 100 kr — höjningen är inkrementell och kupongens andra ben vilar fortfarande på en förväntad elva i Real Madrid–Celta.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Elva ligamatcher, ingen förlängning någonstans — samtliga mål räknas in.
+De sena mål som räknats är Strand Larsen 45+1, Kluivert 45+3, Denis Suárez 90',
+Aaronson 90+1 och Kike Salas 90+1. Kupongens två ben föll båda långt innan tilläggstid:
+Celta gjorde mål i 6:e minuten och Newcastle–Arsenals fyra mål kom mellan 33:e och 78:e.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Manchester City – Fulham | 1–1 | Muniz 16', Anderson 57' på halvklarerad hörna. Haalandmål bortdömt för frispark på Leno |
+| Alavés – Deportivo | 3–1 | Á. Pérez 2', Tenaglia 41' självmål, Boyé 62', Denis Suárez 90'. Alavés 21 avslut mot 7 |
+| Chelsea – Leeds | 1–4 | Emegha 25', Okafor 28', Calvert-Lewin 53' straff, Okafor 58', Aaronson 90+1. Leeds första vinst på Stamford Bridge sedan 1999 |
+| Tottenham – Ipswich | 2–0 | Williams-Barnett 15', Solanke 51'. Walton höll Ipswich kvar med flera räddningar |
+| Aston Villa – Sunderland | 0–0 | Mållöst. Talbi krullade sent utanför för bortalaget |
+| Bournemouth – Nottingham Forest | 2–0 | Evanilson 19', Kluivert 45+3. Nionde raka segern för hemmalaget |
+| Coventry – Crystal Palace | 3–2 | Awoniyi 5', Pino 13', Sakamoto 30', Strand Larsen 45+1, McNeil 85' självmål |
+| Rayo Vallecano – Valencia | 0–1 | Copete 41' framspelad av Javi Guerra. Rayo 21 avslut varav 5 på mål, 0,72 xG |
+| Newcastle – Arsenal | 2–2 | Eze 33', Barnes 49', Thiaw 62' på hörna, Madueke 78'. Hall och Ødegaard bakom varsitt mål |
+| Sevilla – Real Betis | 1–1 | Antony 50', Kike Salas 90+1 |
+| Real Madrid – Celta Vigo | 2–1 | Durán 6', Bellingham 66', Espí 85'. Mbappé missad straff 25' |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Manchester City – Fulham | Hemmalaget över 1,5 | 69% (62–74%) | `PRIS EJ TILLGÄNGLIGT` | — | City 1 mål | ❌ |
+| Manchester City – Fulham | Över 2,5 | 65% (58–70%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ❌ |
+| Manchester City – Fulham | City vinst | 70% (64–75%) | 1,40 | — | 1–1 | ❌ |
+| Manchester City – Fulham | BTTS | 44% (38–50%) | `PRIS EJ TILLGÄNGLIGT` | — | Båda gjorde mål | ✅ |
+| Alavés – Deportivo | Deportivo vinst | 33% (28–38%) | 3,25 | 40 kr | Alavés vann 3–1 | ❌ −40 kr |
+| Alavés – Deportivo | Under 2,5 | 55% (48–61%) | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ❌ |
+| Alavés – Deportivo | Bortalaget över 0,5 | 72% (65–78%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål, självmål | ✅ |
+| Alavés – Deportivo | BTTS | 51% (45–57%) | `PRIS EJ TILLGÄNGLIGT` | — | Båda noterade mål | ✅ |
+| Chelsea – Leeds | Bortalaget under 1,5 | 77% (70–82%) | `PRIS EJ TILLGÄNGLIGT` | — | Leeds 4 mål | ❌ |
+| Chelsea – Leeds | Under 2,5 | 50% (44–56%) | `PRIS EJ TILLGÄNGLIGT` | — | 5 mål | ❌ |
+| Chelsea – Leeds | Chelsea vinst | 51% (45–57%) | 1,91 | — | 1–4 | ❌ |
+| Chelsea – Leeds | Hemmalaget över 1,5 | 52% (45–58%) | `PRIS EJ TILLGÄNGLIGT` | — | Chelsea 1 mål | ❌ |
+| Tottenham – Ipswich | Bortalaget över 0,5 | 67% (60–73%) | `PRIS EJ TILLGÄNGLIGT` | — | Ipswich utan mål | ❌ |
+| Tottenham – Ipswich | Över 2,5 | 54% (47–60%) | 1,70 | — | 2 mål | ❌ |
+| Tottenham – Ipswich | Tottenham vinst | 56% (50–62%) | 1,60 | — | 2–0 | ✅ |
+| Tottenham – Ipswich | BTTS | 55% (48–61%) | `PRIS EJ TILLGÄNGLIGT` | — | Ipswich utan mål | ❌ |
+| Aston Villa – Sunderland | Bortalaget under 1,5 | 84% (78–88%) | `PRIS EJ TILLGÄNGLIGT` | — | Sunderland utan mål | ✅ |
+| Aston Villa – Sunderland | Villa vinst | 55% (49–60%) | 1,85 | — | 0–0 | ❌ |
+| Aston Villa – Sunderland | Under 2,5 | 55% (48–61%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ✅ |
+| Aston Villa – Sunderland | Hemmalaget över 1,5 | 48% (42–54%) | `PRIS EJ TILLGÄNGLIGT` | — | Villa utan mål | ❌ |
+| Bournemouth – Forest | Bournemouth vinst | 55% (49–60%) | 1,91 (kupongben @ 4,97) | 80 kr | 2–0 | ✅ |
+| Bournemouth – Forest | Bortalaget under 1,5 | 79% (72–84%) | `PRIS EJ TILLGÄNGLIGT` | — | Forest utan mål | ✅ |
+| Bournemouth – Forest | Hemmalaget över 1,5 | 57% (50–63%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Bournemouth – Forest | Över 2,5 | 52% (45–58%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ❌ |
+| Coventry – Crystal Palace | Coventry vinst | 42% (37–47%) | 2,60 (kupongben @ 4,97) | 80 kr | 3–2 | ✅ |
+| Coventry – Crystal Palace | Över 2,5 | 56% (49–62%) | `PRIS EJ TILLGÄNGLIGT` | — | 5 mål | ✅ |
+| Coventry – Crystal Palace | Hemmalaget över 1,5 | 51% (44–57%) | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Coventry – Crystal Palace | BTTS | 57% (50–63%) | `PRIS EJ TILLGÄNGLIGT` | — | Båda gjorde mål | ✅ |
+| Rayo – Valencia | Under 2,5 | 56% (50–61%) | 1,70 | — | 1 mål | ✅ |
+| Rayo – Valencia | Bortalaget under 1,5 | 82% (76–87%) | `PRIS EJ TILLGÄNGLIGT` | — | Valencia 1 mål | ✅ |
+| Rayo – Valencia | Rayo vinst | 46% (40–52%) | 1,97 | — | 0–1 | ❌ |
+| Rayo – Valencia | BTTS | 48% (42–54%) | `PRIS EJ TILLGÄNGLIGT` | — | Rayo utan mål | ❌ |
+| Newcastle – Arsenal | Under 2,5 | 59% (54–63%) | 2,18 (kupongben @ 4,32) | 100 kr | 4 mål | ❌ |
+| Newcastle – Arsenal | BTTS-Nej | 58% (51–64%) | 2,10 | — | Båda gjorde mål | ❌ |
+| Newcastle – Arsenal | Arsenal vinst | 56% (50–61%) | 1,60 | — | 2–2 | ❌ |
+| Newcastle – Arsenal | Hemmalaget under 1,5 | 74% (67–79%) | `PRIS EJ TILLGÄNGLIGT` | — | Newcastle 2 mål | ❌ |
+| Sevilla – Real Betis | Betis vinst | 42% (36–47%) | 2,45 | — | 1–1 | ❌ |
+| Sevilla – Real Betis | Under 2,5 | 53% (46–59%) | 1,97 | — | 2 mål | ✅ |
+| Sevilla – Real Betis | Bortalaget över 0,5 | 70% (63–76%) | `PRIS EJ TILLGÄNGLIGT` | — | Betis 1 mål | ✅ |
+| Sevilla – Real Betis | BTTS | 52% (46–58%) | `PRIS EJ TILLGÄNGLIGT` | — | Båda gjorde mål | ✅ |
+| Real Madrid – Celta | Real Madrid vinst och hållen nolla | 53% (46–58%) | 1,98 (kupongben @ 4,32) | 100 kr | Vann, men släppte in i 6:e | ❌ |
+| Real Madrid – Celta | Hemmalaget över 1,5 | 78% (72–83%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Real Madrid – Celta | Över 2,5 | 66% (59–72%) | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Real Madrid – Celta | Real Madrid –2,5 handikapp | 38% (32–44%) | 2,25 | — | Vann med ett mål | ❌ |
+
+Tjugo av fyrtiofyra bedömda marknader landade. Deportivos enda mål var ett självmål,
+som avräknas som bortamål — både bortalaget över 0,5 och BTTS landar därför på en boll
+som ingen Deportivo-spelare rörde sist.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| — | Inga skottrader publicerades | — | — | — | — | — |
+
+Förhandsanalysen publicerade varken rader eller namn: skottstatistik per spelare gick
+inte att belägga för någon av de elva matcherna. Därmed finns inga spelare att följa upp
+med minuter, och natten lämnar noll skottrader till kalibreringen — kvällens
+täckningsgrad är 0 av 0. Det är en annan sorts lucka än `ej bedömbar`: där saknas
+utfallet, här saknas frågan.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare (defensiv), 100 kr @ 4,32 | ❌ −100 kr | Båda benen: Newcastle–Arsenal under 2,5 (4 mål) och Real Madrid vinst och hållen nolla (Durán 6') |
+| 2 — Huvudspel (resultat), 80 kr @ 4,97 | ✅ +317,60 kr | — |
+
+### Totalt: 1/2 kuponger · 0/1 singlar · +177,60 kr
+
+Kupongvinsten vilar på ett indikativt pris: Bournemouth-benets 1,91 hämtades ur
+previewmaterial och inget andra pris gick att hämta för att rama in spannet, så
++317,60 kr är beräknat på det publicerade 4,97 och inte på ett avräknat spel.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 2 | +317,60 kr | Bra beslut — båda benen hade brytpunkten under skattningen, men en kupong på 23% som landar bekräftar ingen siffra |
+| Bournemouth vinst | ✅ ben | Bra beslut — hemmamålbilden höll och bortalaget hölls mållöst precis som skattat |
+| Coventry vinst | ✅ ben | Dåliga data — bortalaget uppgavs sakna en anfallare som både startade och gjorde mål; benet landade ändå |
+| Kupong 1 | −100 kr | Korrelation — båda benen krävde att ett försvar höll, så ankaret bar en tes och inte två |
+| Newcastle–Arsenal under 2,5 | ❌ ben | Varians på spelet, dålig tolkning på höjningen — bänkade anfallare lästes som målsänkning, men målen kom på en hörna och två individuella misstag |
+| Real Madrid vinst och hållen nolla | ❌ ben | Dåligt marknadsval — tesen var hemmadominans, och marknaden lade till ett nollkrav som tesen inte bar; filens egen bästa marknad, över 1,5, landade |
+| Deportivo vinst | −40 kr | Narrativbias — åtta matcher utan vinst och en målform över fyra bortamatcher lästes som styrka hos bortalaget; hemmalaget sköt 21 gånger |
+| Rayo–Valencia under 2,5 | Avstådd, landade | Bra beslut — brytpunkten låg över skattningen, så avståendet följde värdetestet |
+| Newcastle–Arsenal BTTS-Nej | Avstådd, föll | Bra beslut — korrelationsregeln höll en andra förlorande position borta från samma match |
+| Manchester City vinst | Avstådd, föll | Bra beslut — tre raka ligaförluster fick väga mot 1,40 och favoriten tappade poäng igen |
+| Sevilla–Betis under 2,5 | Avstådd, landade | Bra beslut — brytpunkten inne i bandet på ett derby är ett pass, och marknaden avgjordes i 90+1 |
+| Tottenham vinst | Avstådd, landade | Dåligt pris — rätt lag utpekat, men 1,60 krävde 62,5% mot skattningens 56% |
+
+Kvällens två kuponger delar inte bara utfall utan struktur. Kupong 2 byggdes av två
+oberoende hemmavinster och överlevde att Palace kvitterade två gånger. Kupong 1 kallades
+defensivt ankare och exponeringsraden skrev själv ut att den bar "en defensiv tes över
+två matcher" — den observationen noterades och ändrade ingen insats, och båda benen föll
+sedan på samma sak: mål. Det är inte otur i två matcher, det är en position i en
+tes. Marknadsvalet i Real Madrid–Celta drar åt samma håll: hemmadominans bar över 1,5
+och över 2,5, som båda landade, men inte nollkravet som faktiskt spelades.
+
+Sex BTTS-marknader prissattes och bedömdes utan att någon rekommenderades, och fyra
+landade mot ett angivet snitt på 51%. Sex observationer räcker inte för att säga något
+om marknaden åt något håll, och natten lämnar därför inget BTTS-avtryck i kalibreringen.

@@ -8,6 +8,7 @@ på Facit-sidan.
 
 | Date | Tournament | Combos | Result | Profit/Loss |
 |---|---|---|---|---|
+| 2026-11-21 | Premier League + La Liga | 2 | 1/2 ✅ | ~+178 kr******************************* |
 | 2026-11-20 | La Liga | 0 | 0/0 | ~+66 kr****************************** |
 | 2026-11-08 | Premier League + La Liga | 3 | 1/3 ❌ | ~+56 kr***************************** |
 | 2026-11-07 | Premier League + La Liga | 2 | 1/2 ✅ | ~+13 kr**************************** |
@@ -133,15 +134,16 @@ på Facit-sidan.
 | 28 | 2026-11-07 | +13 kr | +1 913 kr |
 | 29 | 2026-11-08 | +56 kr | +1 969 kr |
 | 30 | 2026-11-20 | +66 kr | +2 035 kr |
+| 31 | 2026-11-21 | +178 kr | +2 213 kr |
 
 ---
 
-**Löpande totaler:** 56 kuponger publicerade, 50 spelade | 27/50 träffar (54,0%) | Netto: ~+2 035 kr
+**Löpande totaler:** 58 kuponger publicerade, 52 spelade | 28/52 träffar (53,8%) | Netto: ~+2 213 kr
 
-*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 30/56 (53,6%).*
+*Läsningsträff (varje publicerad kupong bedömd på utfall, oavsett om den spelades): 31/58 (53,4%).*
 
-*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr), singeln den 15 september (+22 kr), singeln den 18 september (+22,50 kr), singeln den 19 september (+48 kr) och de två singlarna den 20 september (−21,70 kr), de två singlarna den 19 oktober (−96 kr), singeln den 22 oktober (+27,30 kr) singeln den 23 oktober (−100 kr), singeln den 24 oktober (+26,80 kr) de tre singlarna den 25 oktober (+5,40 kr), de två singlarna den 26 oktober (−100 kr) de två singlarna den 30 oktober (+107,40 kr) de två singlarna den 31 oktober (−110,00 kr) de två singlarna den 3 november (+159,50 kr) singeln den 4 november (−70,00 kr), de två singlarna den 6 november (−120,00 kr), singeln den 7 november (+32,00 kr) singeln den 8 november (+39,00 kr) samt singeln den 20 november (+66,00 kr). Kupongerna ensamma står på ~+1 494 kr över de tjugotre kvällar som hade kuponger.*
+*Nettot innehåller sidospel utanför de fyra kupongerna: boosten den 10 september (+450 kr av kvällens +702 kr), singelspelen den 11 september (+31 kr), de två singlarna den 12 september (+66 kr), de tre singlarna den 14 september (+56,60 kr), singeln den 15 september (+22 kr), singeln den 18 september (+22,50 kr), singeln den 19 september (+48 kr) och de två singlarna den 20 september (−21,70 kr), de två singlarna den 19 oktober (−96 kr), singeln den 22 oktober (+27,30 kr) singeln den 23 oktober (−100 kr), singeln den 24 oktober (+26,80 kr) de tre singlarna den 25 oktober (+5,40 kr), de två singlarna den 26 oktober (−100 kr) de två singlarna den 30 oktober (+107,40 kr) de två singlarna den 31 oktober (−110,00 kr) de två singlarna den 3 november (+159,50 kr) singeln den 4 november (−70,00 kr), de två singlarna den 6 november (−120,00 kr), singeln den 7 november (+32,00 kr) singeln den 8 november (+39,00 kr) singeln den 20 november (+66,00 kr) samt singeln den 21 november (−40,00 kr). Kupongerna ensamma står på ~+1 712 kr över de tjugofyra kvällar som hade kuponger.*
 
-*Singelspel utanför kupongerna: 42 publicerade, 34 spelade, 20/33 avgjorda träff (11–12 sep, 14–15 sep, 18–20 sep, 19 okt, 22–26 okt, 30–31 okt, 3 nov, 4 nov, 6–8 nov och 20 nov). Den 22 oktober gick en av de två singlarna inte att avgöra — spelarvis skott på mål fanns inte att hämta — och räknas varken som träff eller miss. Den 13, 16 och 17 september och den 20 oktober publicerades inga singelspel; den 21 oktober publicerades en singel som drogs före avspark, och den 23 oktober drogs en av två publicerade singlar på samma sätt, den 1 november drogs kvällens enda publicerade singel före avspark, den 3 november drogs en av tre publicerade singlar på samma sätt, och den 7 november publicerades två singlar i samma match där krysset drogs 17:30 och insatsen flyttades till under 2,5.*
+*Singelspel utanför kupongerna: 43 publicerade, 35 spelade, 20/34 avgjorda träff (11–12 sep, 14–15 sep, 18–20 sep, 19 okt, 22–26 okt, 30–31 okt, 3 nov, 4 nov, 6–8 nov och 20–21 nov). Den 22 oktober gick en av de två singlarna inte att avgöra — spelarvis skott på mål fanns inte att hämta — och räknas varken som träff eller miss. Den 13, 16 och 17 september och den 20 oktober publicerades inga singelspel; den 21 oktober publicerades en singel som drogs före avspark, och den 23 oktober drogs en av två publicerade singlar på samma sätt, den 1 november drogs kvällens enda publicerade singel före avspark, den 3 november drogs en av tre publicerade singlar på samma sätt, och den 7 november publicerades två singlar i samma match där krysset drogs 17:30 och insatsen flyttades till under 2,5.*
 
 *Formatnot (16 sep): resultatcellen tar `V/T` följt av **enbart** ✅ eller ❌ — ingen annan symbol. Raderna för 11 och 15 september skrevs som `0/0 ➖` och matchade därför inte sajtens radmönster; båda föll tyst ur både listan och grafen, och 11 september-kvällens +31 kr saknades i sajtens egen summa fram till nu. Symbolen är borttagen ur båda raderna. En kvällslös kupongrad skrivs `0/0` utan markör.*
