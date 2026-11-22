@@ -241,3 +241,37 @@ uttrycker matchbilden bäst saknar pris.
 Gil Manzano ligger på 4,92 gula per match över 106 karriärmatcher och Hernández Hernández på
 5,14 över 120 — båda högt. Inget kortspel ändå: lagens kort per match går inte att belägga och
 ingen linje finns att spela mot.
+
+## Uppdatering 14:25 — bekräftad elva Hull–Brighton
+
+**Hull–Brighton (15:00):** elvorna är bekräftade. Beslutet står: 🔴 PASS. Brighton vinst
+1,50 kräver fortfarande 66,7% och skattningen är oförändrad 57% (51–62%), rättvist odds
+1,75 — den bekräftade elvan flyttar den inte över brytpunkten.
+
+Skottraderna räknas om mot elvan (**J4b**):
+
+- **Kostoulas startar inte** — bänkad, Rutter in i stället. Raden 1+ skott på mål (63%)
+  faller på speltid, inte på skytte (**J4**).
+- **Gelhardt startar inte** — raden (49%) faller på samma grund.
+- **Belloumi startar** ✓ — osäkerheten som flaggades i originalavsnittet är avförd.
+  Raden står oförändrad (0,67 skott på mål/match, 9 matcher, 1+ 49%).
+- **Rutter** ersätter Kostoulas men har ingen belagd skott-på-mål-siffra i våra källor —
+  ingen rad sätts, `underlag saknas` (**J4c**).
+- Kvarstående rader opåverkade: Diego Gómez (59%) och Ayari (59%) startar båda, Cho (43%)
+  startar.
+
+Bekräftade elvor — **Hull:** Tzolakis; Coyle, Ajayi, Mendy, Stroud; Belloumi, Crooks,
+Iroegbunam, Slater; McBurnie, Cho. **Brighton:** Verbruggen; Costinha, Vuskovic, Dunk,
+Boscagli; Groß, Chema Andrés, Gómez, Ayari, De Cuyper; Rutter.
+
+Crooks tillbaka från avstängning samt Mendy och Belloumi åter i elvan stärker Hull
+marginellt jämfört med matchbildens antagande — vilket drar åt PASS, inte ifrån det.
+Brighton är nära full styrka; Yohana är ny på skadelistan och Mitoma fortsatt borta.
+Formationsuppgiften är omtvistad mellan källorna (5-4-1 respektive 4-2-3-1) och används
+inte till något.
+
+**Racing–Real Sociedad (16:15):** elvorna ännu inte bekräftade vid körningen. Sučić
+fortsatt osäker, Barrenetxea fortsatt ute. Ingen ändring.
+
+**Liverpool–Man United (17:30):** elvorna ännu inte bekräftade. Krysset 4,20 står
+oförändrat. Ingen ändring.
