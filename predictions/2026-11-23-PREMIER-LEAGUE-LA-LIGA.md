@@ -106,3 +106,53 @@ Inga priser går att få på skottmarknaderna.
 ## 🟨 Kort
 
 Pawson ligger på 3,33 gula per match över 572 karriärmatcher; säsongens fem ligamatcher visar 4,80 men är för få att väga. Brentford är det korttyngre laget med 22 gula och 3 röda på tio matcher mot Evertons 18 gula och noll röda, vilket pekar mot en lagtotal snarare än matchtotal — men ingen linje och inget pris går att få, så inget kortspel läggs. Hernández Maeso ligger på 4,40 gula per match över 137 karriärmatcher, med bara fem matcher den här säsongen.
+
+---
+
+## 🔄 Tillägg 20:05 — bekräftade elvor
+
+**Levante–Elche (21:00): bekräftad elva.** Tre spanska medier publicerar samma bekräftade
+uppställningar (eldesmarque 19:54, sportaragon 19:45, Comuniate).
+
+**Levante:** Ryan; Toljan, Mandi, Dela, Manu Sánchez; Oriol Rey; Olasagasti, Requena;
+Brugué, Thiago Fernández; Iván Romero.
+**Elche:** Dituro; Buba Sangaré, Redondo, Chust, Revivo; Morcillo, Villar; Cepeda,
+Valera; Osorio, Fer Niño.
+
+Karl Etta Eyong, som previewmaterialet väntade på topp, står utanför elvan — Iván Romero
+startar som anfallsreferens i stället. Matchbilden i originalavsnittet vilar på Levantes
+hemmamålsfacit och två läckande försvar, inte på Etta Eyong, så skattningarna flyttas
+inte (**L7**). Manu Sánchez startar som väntat efter hamstringsbesväret.
+
+Skottraderna räknas om mot elvan (**J4b**):
+
+- **Iván Romero startar** ✓ · **Brugué startar** ✓ · **Dela (Adrián de la Fuente)
+  startar** ✓ — alla tre Levante-rader står oförändrade.
+- **Fer Niño startar** ✓ · **Cepeda startar** ✓ — båda Elche-raderna står kvar.
+- **Buonanotte står utanför elvan** — raden (0,50 skott på mål/match, 1+ 36%) faller på
+  speltid, inte på skytte (**J4**).
+
+Beslutet står: 🔴 PASS. Ingen prissatt marknad i matchen har rört sig över sin brytpunkt,
+och Levante över 1,5 är fortfarande oprissatt — elvan gör den frågan varken bättre eller
+sämre ställd.
+
+**Brentford–Everton (21:00): elvan är INTE bekräftad vid körningen.** Ingen officiell
+laguppställning går att belägga. Sökträffarna på "confirmed team news" för den här
+affischen leder till mötet den 11 april 2026 — de sheetsen har Collins och Thiago i
+elvan, båda otillgängliga ikväll, och är alltså inaktuella och har inte använts. En
+aggregator listar en elva med Damsgaard och Anthony från start och Schade och Jensen på
+bänken, men märker den varken som officiell eller preliminär och överlappar kraftigt med
+aprilsheeten. Den behandlas därför inte som bekräftad (**E1, E6, J4**). **Ingen ändring.**
+
+Båda tagna positionerna står alltså kvar på förväntad elva, precis som originalavsnittet
+flaggade (**L7**), och Schade-raden (0,70 skott på mål/match, 1+ 48%) bär fortsatt öppen
+bänkrisk som inte gått att avföra.
+
+Domartillsättningarna är oförändrade — Pawson respektive Hernández Maeso, kontrollerade
+mot football-data.org vid körningen. Priset på under 2,5 ligger kvar i spannet 2,00–2,14
+hos de källor som går att läsa (1xBet 2,14, Betway 2,05, bet365 11/10, Dabble 2,00) — mot
+noterade 2,04 är det ingen prisrörelse som ändrar värdet.
+
+**Vad detta gör med spelen:** ingen insats flyttas. 150 kr ligger kvar oförändrat på
+Brentford–Everton (under 2,5 90 kr, Everton under 1,5 60 kr) och Levante–Elche förblir
+PASS. Det enda som ändras i underlaget är att en skottrad faller på speltid.
