@@ -275,3 +275,135 @@ fortsatt osäker, Barrenetxea fortsatt ute. Ingen ändring.
 
 **Liverpool–Man United (17:30):** elvorna ännu inte bekräftade. Krysset 4,20 står
 oförändrat. Ingen ändring.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** ingen match gick till förlängning, men fyra mål föll i ordinarie
+tilläggstid och räknas alla. Hull gjorde båda sina mål på 90+2 och 90+5 — matchen
+slutade 2–0 och under 2,5 höll ändå. Atléticos straff på 90+2 var kvällens dyraste
+sena mål: Getafe–Atlético stod 0–2 ända in i tilläggstid, och det tredje målet fällde
+under 2,5 efter ordinarie tid. Real Sociedads reducering på 45+1 räknas på samma sätt.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Barcelona – Villarreal | 3–2 | Buchanan 5', Oluwaseyi 7' (0–2 i halvtid); Gerard Martín 57', Fermín López 61', Pau Navarro självmål 67'. Rött: Fermín López 75', Pau Navarro 90+3 (andra gula) |
+| Hull City – Brighton | 2–0 | McBurnie 90+2 och 90+5. Rött: Costinha 89' (andra gula). Tzolakis sju räddningar |
+| Racing Santander – Real Sociedad | 3–2 | Zabiri 6' och 8', Oyarzabal 45+1', Guedes 60', Canales 68' (straff) |
+| Liverpool – Man United | 4–0 | Rött: Yoro 8'. Szoboszlai 10', Wirtz 13', Ngumoha 66', Víctor Muñoz 82' |
+| Osasuna – Málaga | 1–0 | Budimir 20'. Rött: Catena 90+2 (andra gula) |
+| Getafe – Atlético Madrid | 0–3 | Baena 10', Cardoso 30', Grimaldo 90+2 (straff). Rött: Djené 90+1 |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Barcelona – Villarreal | Över 2,5 | 76% | `PRIS EJ TILLGÄNGLIGT` | — | 5 mål ✅ | — |
+| Barcelona – Villarreal | BTTS | 61% | `PRIS EJ TILLGÄNGLIGT` | — | båda gjorde mål ✅ | — |
+| Barcelona – Villarreal | Barcelona över 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål ✅ | — |
+| Barcelona – Villarreal | Barça vinner halvlek + över 2,5 + BTTS | 43% | 1,70 | — | halvtid 0–2 ❌ | — |
+| Hull City – Brighton | Hull under 1,5 | 84% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål ❌ | — |
+| Hull City – Brighton | Brighton vinst | 57% | 1,50 | — | förlust ❌ | — |
+| Hull City – Brighton | Under 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål ✅ | — |
+| Hull City – Brighton | Brighton över 1,5 | 50% | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål ❌ | — |
+| Hull City – Brighton | BTTS | 39% | `PRIS EJ TILLGÄNGLIGT` | — | 2–0 ❌ | — |
+| Racing – Real Sociedad | BTTS | 65% | `PRIS EJ TILLGÄNGLIGT` | — | båda gjorde mål ✅ | — |
+| Racing – Real Sociedad | Över 2,5 | 67% | `PRIS EJ TILLGÄNGLIGT` | — | 5 mål ✅ | — |
+| Racing – Real Sociedad | Real Sociedad över 1,5 | 59% | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål ✅ | — |
+| Racing – Real Sociedad | Racing över 0,5 | 75% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål ✅ | — |
+| Liverpool – Man United | **Kryss** | 26% | 4,20 | **40 kr** | 4–0 ❌ | **−40 kr** |
+| Liverpool – Man United | Liverpool vinst | 50% | 1,73 | — | vinst ✅ | — |
+| Liverpool – Man United | Man United vinst | 24% | 4,10 | — | förlust ❌ | — |
+| Liverpool – Man United | Över 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål ✅ | — |
+| Osasuna – Málaga | Dubbelchans 1X | 73% | `PRIS EJ TILLGÄNGLIGT` | — | hemmavinst ✅ | — |
+| Osasuna – Málaga | Osasuna vinst | 47% | 1,75 | — | vinst ✅ | — |
+| Osasuna – Málaga | Under 2,5 | 54% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål ✅ | — |
+| Osasuna – Málaga | Osasuna över 1,5 | 44% | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål ❌ | — |
+| Osasuna – Málaga | BTTS | 45% | `PRIS EJ TILLGÄNGLIGT` | — | 1–0 ❌ | — |
+| Getafe – Atlético | BTTS-Nej | 64% | `PRIS EJ TILLGÄNGLIGT` | — | 0–3 ✅ | — |
+| Getafe – Atlético | Under 2,5 | 62% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål ❌ | — |
+| Getafe – Atlético | Atlético vinst | 60% | 1,62 | — | vinst ✅ | — |
+| Getafe – Atlético | Atlético över 1,5 | 48% | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål ✅ | — |
+
+Sexton av tjugosex bedömda marknader landade. Av de fem matcher som fick en
+**bästa marknad** utpekad landade fyra — Barcelonas över 2,5, Racings BTTS,
+Osasunas dubbelchans och Getafes BTTS-Nej — och ingen av dem gick att spela.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Barcelona | Raphinha | 1+ | 82% | 90 | 0 (1 skott) | ❌ |
+| Barcelona | Lamine Yamal | 1+ | 79% | 90 | 1 (9 skott) | ✅ |
+| Barcelona | Anthony Gordon | 1+ | 69% | 22 (inhopp 68') | 1 | ✅ |
+| Villarreal | Mikautadze | 1+ | 69% | 86 | 0 (0 skott) | ❌ |
+| Villarreal | Pépé | 1+ | 63% | 14 (inhopp 76') | 0 | ❌ |
+| Villarreal | Buchanan | 1+ | 50% | 76 | 1 (mål 5') | ✅ |
+| Brighton | Kostoulas | 1+ | 63% | 23 (inhopp 67') | 1 | ✅ |
+| Brighton | Diego Gómez | 1+ | 59% | 80 | 2 (4 skott) | ✅ |
+| Brighton | Ayari | 1+ | 59% | 67 | 1 (2 skott) | ✅ |
+| Hull | Belloumi | 1+ | 49% | 90 | 1 (3 skott) | ✅ |
+| Hull | Gelhardt | 1+ | 49% | 0 (ej i truppen) | — | ❌ |
+| Hull | Cho | 1+ | 43% | 45 | 0 (1 skott) | ❌ |
+| Real Sociedad | Oyarzabal | 1+ | 60% | 90 | 2 (7 skott, mål 45+1) | ✅ |
+| Real Sociedad | Óskarsson | 1+ | 55% | 78 | 0 (3 skott) | ❌ |
+| Real Sociedad | Sučić | 1+ | 52% | 90 | 2 (5 skott) | ✅ |
+| Man United | Mbeumo | 1+ | 73% | 22 (inhopp 68') | 0 | ❌ |
+| Liverpool | Isak | 1+ | 70% | 85 | 3 (6 skott) | ✅ |
+| Man United | Cunha | 1+ | 55% | 45 | 0 (0 skott) | ❌ |
+| Man United | Amad Diallo | 1+ | 55% | 0 (oanvänd avbytare) | — | ❌ |
+| Liverpool | Szoboszlai | 1+ | 47% | 90 | 3 (7 skott, mål 10') | ✅ |
+| Liverpool | Víctor Muñoz | 1+ | 43% | 18 (inhopp 72') | 1 (mål 82') | ✅ |
+| Atlético | Jonathan David | 1+ | 72% | 0 (oanvänd avbytare) | — | ❌ |
+| Atlético | Julián Álvarez | 1+ | 63% | 75 | 2 (2 skott) | ✅ |
+| Atlético | Baena | 1+ | 60% | 67 | 2 (5 skott, mål 10') | ✅ |
+| Getafe | Azón | 1+ | 53% | 67 | 0 (4 skott) | ❌ |
+| Getafe | Terrats | 1+ | 47% | 45 | 0 (2 skott) | ❌ |
+| Getafe | Satriano | 1+ | 44% | 45 | 0 (1 skott) | ❌ |
+
+**14 av 27 rader landade** mot ett snitt på 59% angiven sannolikhet — 15,8 förväntade
+träffar mot 14 faktiska. Tre av de tretton missarna föll på speltid och inte på
+skjutande: två oanvända avbytare och en spelare som inte ens fanns i truppen. På ren
+skottfråga är raden 14/24. Fyra rader föll trots full speltid och gott om skott:
+två spelare sköt tre respektive fyra gånger utan att få en enda på mål.
+
+De tre Racing-raderna som stod som `underlag saknas` i förhandsanalysen hade landat
+allihop: Zabiri 86 minuter och 3 skott på mål med två mål, Vicente 89 minuter och 1,
+Canales 76 minuter och 2 med straffmålet. Matchens tre farligaste skyttar var precis
+de tre som inte gick att belägga.
+
+Kostoulas-raden avfördes i eftermiddagens uppdatering som fallen på speltid sedan han
+bänkats. Han hoppade in i 67:e minuten och sköt ett skott på mål — raden landade.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| — | inga kuponger publicerade | — |
+
+Ett enda kupongset lades under dagen, kl 13:00, med noll kuponger. Enda tillägget var
+elvuppdateringen 14:25, som inte flyttade någon insats.
+
+### Totalt: 0/0 kuponger · 0/1 singlar · −40 kr
+
+Spelet föll i sin helhet, så nattens resultat är −40 kr oavsett vilket pris som
+används: den indikativa noteringen 4,20 och filens eget rättvisa odds 3,85 ger samma
+siffra när insatsen är borta. Spannet är −40 till −40 kr.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Liverpool–Man United kryss | −40 kr | Varians — rött kort i 8:e minuten och 2–0 efter 13 minuter; ingen resultatmarknad överlever det |
+| Hull under 1,5 (ej spelad) | ❌ | Dålig sannolikhet — dagens högsta skattning, 84%, föll på två mål i tilläggstid mot tio man |
+| Getafe–Atlético under 2,5 (ej spelad) | ❌ | Varians — marknaden låg rätt i 92 minuter och fälldes av en straff efter ordinarie tid |
+| Avstådda favoriter 1,50 / 1,62 / 1,73 / 1,75 | 3 av 4 vann | Bra beslut — värdetestet stoppade fyra kortoddsfavoriter, tre vann och en förlorade; skattningarna 57/60/50/47% förutsåg precis den spridningen |
+| Kostoulas skott på mål 1+ | ✅ trots avförd rad | Dålig tolkning — en bänkad men tillgänglig anfallare nollades i stället för att räknas om på inhoppsminuter |
+| Racing-raderna utan underlag | 3 av 3 hade vunnit | Dåliga data — de enda rader som inte gick att belägga var matchens tre faktiska skyttar |
+
+**Lärdom:** en bekräftad bänkning är inte samma sak som noll speltid. Raden ska
+skattas ned mot förväntade inhoppsminuter, inte strykas — bara en spelare som saknas
+i truppen är en nollrad.
