@@ -156,3 +156,79 @@ noterade 2,04 är det ingen prisrörelse som ändrar värdet.
 **Vad detta gör med spelen:** ingen insats flyttas. 150 kr ligger kvar oförändrat på
 Brentford–Everton (under 2,5 90 kr, Everton under 1,5 60 kr) och Levante–Elche förblir
 PASS. Det enda som ändras i underlaget är att en skottrad faller på speltid.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Brentfords fjärde mål föll i 90+1 och räknas — ordinarie tilläggstid, inte
+förlängning. Levantes kvittering kom i 88:e minuten. Ingen av matcherna gick till
+förlängning, så samtliga fem mål på dagen avgörs inom 90 minuter.
+
+### Resultat
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Brentford – Everton | 4–0 | Lewis-Potter 23' och 25', Tarkowski rött kort 40', Janelt 67', Carvalho 90+1'. Brentford 21 skott (7 på mål) mot Evertons 4 (2) |
+| Levante – Elche | 1–1 | Revivo 62' (framspelad av Valera), Requena 88' (framspelad av Olasagasti). Toljan ut skadad 22', Manu Sánchez ut skadad 56'. Fem gula till Levante, ett till Elche |
+
+### Marknader
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Brentford – Everton | Under 2,5 | 59% (53–64%) | 2,04 | 90 kr | 4 mål | ❌ −90 kr |
+| Brentford – Everton | Everton under 1,5 | 80% (74–85%) | 1,44 | 60 kr | Everton 0 mål | ✅ +26,40 kr |
+| Brentford – Everton | BTTS-Nej | 58% (52–64%) | 2,23 | — | Everton höll nollan | ✅ |
+| Brentford – Everton | Över 2,5 | 41% (36–47%) | 1,76 | — | 4 mål | ✅ |
+| Brentford – Everton | BTTS Ja | 42% | 1,60 | — | Everton mållösa | ❌ |
+| Brentford – Everton | Brentford vinst | 42% | 2,30 | — | 4–0 | ✅ |
+| Levante – Elche | BTTS Ja | 56% (50–62%) | 1,58 | — | båda gjorde mål | ✅ |
+| Levante – Elche | Över 2,5 | 55% (49–61%) | 1,72 | — | 2 mål | ❌ |
+| Levante – Elche | Under 2,5 | 45% (39–51%) | 2,08 | — | 2 mål | ✅ |
+| Levante – Elche | Levante över 1,5 | 56% (49–63%) | `PRIS EJ TILLGÄNGLIGT` | — | Levante 1 mål | ❌ |
+| Levante – Elche | Levante vinst | 40% | 2,15 | — | 1–1 | ❌ |
+
+### Skott på mål
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Everton | Thierno Barry | 1+ | 72% | 69 (ut 69') | 1 | ✅ |
+| Everton | Kiernan Dewsbury-Hall | 1+ | 52% | 69 (ut 69') | 0 | ❌ |
+| Brentford | Kevin Schade | 1+ | 48% | 24 (in 66') | 0 | ❌ |
+| Everton | Jarrad Branthwaite | 1+ | 33% | 90 | 0 | ❌ |
+| Brentford | Jaidon Anthony | 1+ | 33% | 81 (ut 81') | 0 | ❌ |
+| Brentford | Keane Lewis-Potter | 1+ | 25% | 74 (ut 74') | 2 | ✅ |
+| Levante | Iván Romero | 1+ | 58% | 77 (ut 77') | 0 | ❌ |
+| Levante | Roger Brugué | 1+ | 55% | 90 | 0 | ❌ |
+| Elche | Fer Niño | 1+ | 52% | 90 | 0 | ❌ |
+| Elche | Lucas Cepeda | 1+ | 49% | 81 (ut 81') | 0 | ❌ |
+| Levante | Adrián de la Fuente | 1+ | 42% | 90 | 0 | ❌ |
+| Elche | Facundo Buonanotte | 1+ | 36% | 0 (utanför elvan, oanvänd) | — | ❌ |
+
+Tolv rader, två träffar mot 5,6 förväntade. Elva av tolv föll på skytte, en enda på
+speltid — och den var redan avförd i tilläggsavsnittet. Brentfords och Levantes
+lagsummor bekräftar raderna: de enda skotten på mål föll på Lewis-Potter (2), Damsgaard
+(2), Wilson, Carvalho, Janelt, Barry och Armstrong i London, och på Requena, Etta Eyong,
+Revivo och Redondo i Valencia.
+
+### Kuponger
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| Inga kuponger lades | — | — |
+
+### Totalt: 0/0 kuponger · 1/2 singlar · −64 kr
+
+Filen har ett enda kupongset, lagt 12:10; 20:05-tillägget flyttade ingen insats, så
+avsnittstotal och dagstotal är samma siffra. Under 2,5 noterades till 2,04 och låg
+mellan 2,00 och 2,14 hos de källor som gick att läsa, lagtotalen till 1,44 — eftersom
+under 2,5 föll med hela insatsen är summan −64 kr i hela prisspannet.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Brentford–Everton under 2,5 | −90 kr | Narrativbias — motargumentet beskrev exakt det 4–0-scenario som kom, och skattningen stod kvar på 59% |
+| Everton under 1,5 | +26 kr | Bra beslut — lagtotalen överlevde precis det scenario som dödade matchtotalen |
+| BTTS-Nej 2,23 (ej spelad) | — | Dåligt marknadsval — matchens utpekade bästa marknad valdes bort för korrelation, medan den sämre prissatta positionen i samma match fick kvällens största insats |
+| Levante–Elche pass | — | Bra beslut — båda marknaderna som landade låg under sin brytpunkt och var inte spelbara till priset |
+| Skottraderna 2/12 | — | Dålig sannolikhet — 1+-linjerna summerade till 5,6 träffar i två matcher som gav fyra skott på mål åt gången |
+
+**Lärdom:** Korrelation är ett skäl att välja *en* av två positioner som bara kan vinna
+ihop — inte ett skäl att välja bort den av dem som är bäst prissatt.
