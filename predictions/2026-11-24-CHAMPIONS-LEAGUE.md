@@ -1,0 +1,350 @@
+# ⚽ Champions League — tisdag 24 november 2026
+
+Omgång 5 i ligafasen, nio enkelmatcher utan returmöte — formen läses rakt av, utan
+hänsyn till något andra ben.
+
+## Hela dagen (analyserad 12:10)
+
+## 📋 Kvällens matcher & domare
+
+| Tid | Turnering | Match | Domare | Gula/match | Urval |
+|---|---|---|---|---|---|
+| 18:45 | CL | Bodø/Glimt – LASK | Meler (TUR) | 4,70 | 300 matcher, karriär |
+| 18:45 | CL | Galatasaray – Aston Villa | Siebert (GER) | 4,23 | 406 matcher, karriär |
+| 21:00 | CL | Arsenal – Borussia Dortmund | Mariani (ITA) | 4,81 | 289 matcher, karriär |
+| 21:00 | CL | Como – AEK Aten | Alberola Rojas (ESP) | 3,54 | 206 matcher, karriär |
+| 21:00 | CL | Feyenoord – Porto | Peljto (BIH) | 4,29 | 83 matcher, karriär |
+| 21:00 | CL | Manchester City – Napoli | Kovács (ROU) | 5,39 | 385 matcher, karriär |
+| 21:00 | CL | RB Leipzig – Lens | Kružliak (SVK) | 5,06 | 290 matcher, karriär |
+| 21:00 | CL | Real Madrid – PSV | Eskås (NOR) | 3,42 | 281 matcher, karriär |
+| 21:00 | CL | Slovan Bratislava – Real Betis | Brisard (FRA) | 3,75 | 240 matcher, karriär |
+
+Ligafasen 2026/27 ligger efter fyra omgångar på 4,04 mål per match över 72 matcher: BTTS
+går in i 64 procent, över 2,5 i 75 och över 3,5 i 60. Det är nivån kvällens skattningar
+mäts mot.
+
+## 🎯 Dagens spel
+
+**Kuponger — 200 kr**
+
+| # | Typ | Turnering | Spel | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Ankare | CL | Arsenal–Dortmund under 3,5 | 1,81 | 68% (61–74%) | +23% | 🟢 8 | 110 kr |
+| 2 | Huvudspel | CL | Feyenoord–Porto över 2,5 + Leipzig–Lens över 2,5 | 2,14 | 58% (47–66%) | +23% | 🟢 7 | 90 kr |
+
+**Singelspel**
+
+| Tid | Turnering | Match | Spel | Typ | Odds | Sannolikhet | EV | Kvalitet | Insats |
+|---|---|---|---|---|---|---|---|---|---|
+| 21:00 | CL | Como – AEK Aten | BTTS | Mål | 1,66 | 68% (61–74%) | +13% | 🟢 7 | 60 kr |
+| 18:45 | CL | Bodø/Glimt – LASK | BTTS-Nej | Mål | 2,90 | 40% (33–48%) | +16% | 🟡 6 | 30 kr |
+
+**Exponering:** 150 kr på att mål kommer (kupong 2 och Como) mot 140 kr på att de uteblir
+(kupong 1 och Bodø/Glimt) · 110 kr på en enda match, Arsenal–Dortmund, som är kvällens
+största position · 90 kr i singlar utanför kupongbudgeten · fyra matcher bär pengar, ingen
+match bär två spel. Totalen stannar på 290 kr därför att fem av nio matcher inte klarade
+värdetestet.
+
+**Pass:** Real Madrid–PSV (hela matchen prissatt för en målfest bortalagets profil inte
+bär) · Galatasaray–Aston Villa (hemmalaget utan sina tre främsta anfallare, inget pris
+kompenserar) · Manchester City–Napoli (rätt marknad, 2,7 procents marginal) ·
+Slovan–Betis (marknaden som matchar tesen saknar pris) · RB Leipzig–Lens bär bara som
+kupongben, inte som singel.
+
+Priserna är indikativa, hämtade från sportsgambler.com (noteringar satta 22 november)
+utom Arsenal–Dortmund under 3,5, som kommer från rotowire.com, Slovan–Betis över 2,5 och
+BTTS från footballwhispers.com, och Real Madrids lagtotal från dailysports.net. De kan ha
+rört sig.
+
+## 📋 Match för match
+
+### 1. Bodø/Glimt – LASK (18:45)
+
+**Matchbild.** Aspmyra i slutet av november mot ett LASK som svänger mellan ytterligheter —
+3–6, 3–2, 4–0 och 0–1 på fyra matcher. Bodø/Glimt saknar Evjen och Mikkelsen och har gjort
+ett mål på sina två hemmamatcher i ligafasen, men två matcher säger för lite för att väga
+mot deras 2,2 mål per match över tio hemmamatcher.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **BTTS-Nej** | 40% | 33–48% | 2,90 | 34,5% | Medel |
+| BTTS | 60% | 52–67% | 1,38 | 72,5% | Svag |
+| Över 2,5 | 70% | 62–76% | 1,28 | 78,1% | Svag |
+| Under 2,5 | 30% | 24–38% | 3,70 | 27,0% | Svag |
+| Bodø/Glimt över 1,5 | 48% | 40–56% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Bandet är brett av tre skäl: hemmaurvalet är två matcher, LASK:s bortaprofil pekar åt båda
+hållen samtidigt, och två av hemmalagets anfallare saknas.
+
+**Beslut.** 🟡 LITET SPEL — BTTS-Nej. Utfallskonfidens 5/10. Brytpunkten ligger precis
+innanför bandets nedre kant, vilket är varför insatsen är kvällens minsta. Förväntad elva.
+**Motargument.** LASK har gjort mål i tre av fyra och ett tidigt baklängesmål öppnar
+matchen; över 2,5 överlever det scenariot men kräver 78 procent och priset ger inte det.
+
+**Skott på mål.** Sex rader utan underlag (Hauge, Helmersen, Blomberg, Adeniran, Usor,
+Kalajdzic) — varken Eliteserien eller den österrikiska ligan täcks av statistikkällan.
+
+### 2. Galatasaray – Aston Villa (18:45)
+
+**Matchbild.** Galatasaray möter kvällens jämnaste match utan Osimhen, Rafael Leão och
+Sallai — de tre som skulle burit anfallet — medan Aston Villa bara saknar Cash och kommer
+från 0–0 mot Sunderland. Det som håller matchen jämn är hemmapubliken, inte elvan.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Över 2,5** | 68% | 60–74% | 1,49 | 67,1% | Medel |
+| Aston Villa | 44% | 37–51% | 2,20 | 45,5% | Svag |
+| BTTS | 58% | 50–65% | 1,42 | 70,4% | Svag |
+| Aston Villa över 1,5 | 46% | 38–54% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Bandet vilar på att tre av hemmalagets fyra främsta offensiva alternativ saknas och att
+ersättarna är etablerade men oprövade tillsammans.
+
+**Beslut.** 🔴 PASS. Utfallskonfidens 5/10. Förväntad elva.
+**Motargument.** Villa vann 3–2 i Brügge och kan avgöra på egen hand, men förlorade 0–3 i
+Barcelona lika enkelt — bortaformen säger inget åt något håll, och det höll skattningen nere.
+**Bästa marknad:** över 2,5 — **inte spelad:** brytpunkten 67,1% ligger inne i bandet.
+
+**Skott på mål.** Sex rader utan underlag (Sané, Batrakov, Barış Alper Yılmaz, Jackson,
+McGinn, Buendía) — Süper Lig täcks inte, och Villas siffror saknar angivet urval.
+
+### 3. Arsenal – Borussia Dortmund (21:00)
+
+**Matchbild.** Ligafasens snålaste försvar med 8–3 på fyra matcher tar emot ett Dortmund som
+släppt in fem, och båda saknar sin farligaste anfallare — Saka är ute, Guirassy tveksam.
+Arsenal byter dessutom målvakt när Raya är borta.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Under 3,5** | 68% | 61–74% | 1,81 | 55,2% | Stark |
+| Under 2,5 | 48% | 41–55% | 2,23 | 44,8% | Medel |
+| BTTS-Nej | 55% | 48–62% | 1,90 | 52,6% | Svag |
+| Arsenal | 58% | 51–65% | 1,41 | 70,9% | Svag |
+| Arsenal över 1,5 | 52% | 44–60% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Lagens matcher har gett 2,75 respektive 3,0 mål i snitt mot turneringens 4,04. Bandet hålls
+smalt av att båda målmiljöerna är stabila över fyra matcher; det som vidgar det är
+målvaktsbytet och Guirassys oklara status.
+
+**Beslut.** 🟢 SPELA — under 3,5. Utfallskonfidens 7/10. Kvällens bredaste marginal: 68
+procent mot en brytpunkt på 55,2, och nedre bandkanten ligger kvar över priset. Förväntad elva.
+**Motargument.** Arsenal gjorde tre mot Lille på hemmaplan och en ny målvakt kan kosta ett
+tidigt mål; under 2,5 faller då direkt, medan under 3,5 tål både 2–1 och 3–0. Det var skälet
+att välja den högre linjen.
+
+**Skott på mål — sidospel.**
+
+| Lag | Spelare | Skott på mål/match | Urval | Linje | Sannolikhet |
+|---|---|---|---|---|---|
+| Arsenal | Madueke | 0,63 | 8 matcher, PL 26/27 | 1+ | 47% |
+| Dortmund | Beier | 0,50 | 10 matcher, Bundesliga 26/27 | 1+ | 39% |
+| Arsenal | Gyökeres | 0,13 | 8 matcher, PL 26/27 | 1+ | 12% |
+
+Siffrorna är från den inhemska ligan, inte från turneringen matchen spelas i. Tre rader utan
+underlag (Ødegaard, Fábio Silva, Nmecha).
+
+### 4. Como – AEK Aten (21:00)
+
+**Matchbild.** Como har gjort nitton mål på fyra matcher och ändå släppt in i samtliga; AEK
+har gjort mål i alla fyra, inklusive borta mot Manchester City och hemma mot Real Madrid.
+Como saknar Kean och Diao men har Nico Paz och Douvikas kvar.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **BTTS** | 68% | 61–74% | 1,66 | 60,2% | Stark |
+| Över 2,5 | 83% | 77–87% | 1,30 | 76,9% | Medel |
+| Como –2 (asiatiskt) | 38% | 31–45% | 1,95 | 51,2% | Svag |
+| Como över 2,5 | 55% | 47–63% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Valet mellan de två målmarknaderna avgörs av vilken tes som bär: Como vinner stort oavsett,
+men bara den ena kräver att AEK också gör mål — och det har de gjort mot bättre motstånd än
+detta. Bandet vidgas av att AEK:s 2–8 på bortaplan kommer från just de två matcherna.
+
+**Beslut.** 🟢 SPELA — BTTS. Utfallskonfidens 6,5/10. Förväntad elva.
+**Motargument.** Como vann 9–1 mot Lens och 4–1 mot Manchester United — en ny genomklappning
+nollar AEK, och över 2,5 överlever det scenariot medan det här spelet inte gör det. Marginalen
+är tretton procent mot åtta, och det fick avgöra.
+
+**Skott på mål — sidospel.**
+
+| Lag | Spelare | Skott på mål/match | Urval | Linje | Sannolikhet |
+|---|---|---|---|---|---|
+| Como | Douvikas | 1,25 | 12 matcher, Serie A 26/27 | 1+ | 70% |
+| Como | Nico Paz | 1,09 | 11 matcher, Serie A 26/27 | 1+ | 66% |
+
+Siffrorna är från Serie A, inte från turneringen matchen spelas i. Fyra rader utan underlag
+(Baturina, Jović, Varga, Mantalos) — den grekiska ligan täcks inte av statistikkällan.
+
+### 5. Feyenoord – Porto (21:00)
+
+**Matchbild.** Feyenoord saknar fem försvarare — Beelen, Bos, Nieuwkoop, St. Juste och Moder —
+mot ett Porto som just gjorde fyra mål mot Napoli. Båda står på tre poäng och måste vinna;
+ingen av dem har råd att sitta still.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Över 2,5** | 72% | 65–78% | 1,66 | 60,2% | Stark |
+| BTTS | 66% | 58–72% | 1,54 | 64,9% | Svag |
+| Porto | 44% | 37–51% | 2,23 | 44,8% | Svag |
+| Porto över 1,5 | 58% | 50–66% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Lagens matcher har gett 3,75 respektive 3,25 mål i snitt. Bandet bärs av att försvarslinjen
+är improviserad och av att Portos form svängt mellan 0–1 och 4–1.
+
+BTTS föll på priset: tesen är att Feyenoord inte kan försvara, och den betalas lika bra av en
+3–0 som av en 2–1.
+
+**Beslut.** 🟢 SPELA — över 2,5, som ben i kupong 2. Utfallskonfidens 7/10. Förväntad elva.
+**Motargument.** Porto vann 1–0 borta mot PSV och kan stänga matchen lågt om de får ledningen
+tidigt; då räddar ingen målmarknad spelet, och det är kupongens svagare ände.
+
+**Skott på mål.** Sex rader utan underlag (Hadj Moussa, Valente, Ferri, Borja Sainz,
+André Silva, Pepê) — varken Eredivisie eller Primeira Liga täcks av statistikkällan.
+
+### 6. Manchester City – Napoli (21:00)
+
+**Matchbild.** Napoli reser utan Di Lorenzo, Badiashile, Lobotka, Meret och Rafa Marín och har
+inte vunnit någon av sina åtta senaste bortamatcher i turneringen, men anfallet med De Bruyne,
+Højlund och McTominay är intakt. City har själva släppt in fem på två hemmamatcher.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Över 2,5** | 79% | 73–84% | 1,30 | 76,9% | Medel |
+| BTTS | 64% | 57–70% | 1,62 | 61,7% | Svag |
+| Manchester City | 72% | 65–78% | 1,27 | 78,7% | Svag |
+| City över 2,5 | 52% | 44–60% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Bandet vidgas av att Napolis försvar är så ombyggt att deras fyra matcher inte längre beskriver
+den elva som startar.
+
+**Beslut.** 🔴 PASS. Utfallskonfidens 7/10. Läsningen håller, marginalen gör det inte.
+Förväntad elva.
+**Motargument.** Napoli nollades av Arsenal och kan nollas igen — över 2,5 överlever det på en
+3–0 och är därför rätt marknad framför BTTS, men 2,7 procents marginal bär ingen insats.
+**Bästa marknad:** över 2,5 — **inte spelad:** för tunt värde.
+
+**Skott på mål — sidospel.**
+
+| Lag | Spelare | Skott på mål/match | Urval | Linje | Sannolikhet |
+|---|---|---|---|---|---|
+| Manchester City | Haaland | 1,73 | 11 matcher, PL 26/27 | 1+ | 78% |
+| Napoli | Højlund | 1,00 | 11 matcher, Serie A 26/27 | 1+ | 63% |
+
+Siffrorna är från den inhemska ligan, inte från turneringen matchen spelas i. Fyra rader utan
+underlag (Foden, Cherki, De Bruyne, McTominay) — urvalet går inte att belägga för någon av dem.
+
+### 7. RB Leipzig – Lens (21:00)
+
+**Matchbild.** Lens har släppt in sexton mål på fyra matcher, elva av dem på två hemmamatcher,
+och Leipzig kommer från 5–1 borta mot Union Berlin. Leipzig saknar Lukeba och Ouédraogo, Lens
+har Édouard ute och tre man tveksamma.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Över 2,5** | 80% | 73–85% | 1,29 | 77,5% | Medel |
+| BTTS | 62% | 54–69% | 1,48 | 67,6% | Svag |
+| RB Leipzig | 62% | 55–69% | 1,36 | 73,5% | Svag |
+| Leipzig över 1,5 | 60% | 52–68% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+De två lagens matcher har gett 4,0 respektive 5,0 mål i snitt — kvällens tydligaste målmiljö.
+Bandet vidgas av att Leipzig bara gjort fem mål på fyra matcher trots helgens femmålsinsats i
+ligan.
+
+**Beslut.** 🟡 LITET SPEL — över 2,5, och bara som ben i kupong 2. Utfallskonfidens 7,5/10.
+Ensamt räcker inte 3,2 procents marginal; tillsammans med Feyenoord-benet gör den det.
+Förväntad elva.
+**Motargument.** Leipzig har gjort ett mål i tre av sina fyra matcher och kan vinna 1–0 precis
+som mot PSV; lagtotalen hade uttryckt tesen bättre men går inte att prissätta.
+**Bästa marknad:** Leipzig över 1,5 — **inte spelad:** inget pris gick att få.
+
+**Skott på mål.** Sex rader utan underlag (Gruda, Nusa, Baumgartner, Thauvin, Sima, Hazard) —
+urvalet går inte att belägga för någon av dem.
+
+### 8. Real Madrid – PSV (21:00)
+
+**Matchbild.** Real Madrid har vunnit alla fyra och varit inblandade i tjugo mål, men släppt in
+i varenda match; PSV har gjort tre mål på fyra matcher och deras egna matcher ligger på 1,75 mål
+— lägst i turneringen. Rodrygo, Endrick och Asencio saknas, och Mourinho väntas rotera i mitten.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Under 2,5** | 22% | 17–28% | 5,60 | 17,9% | Medel |
+| Real Madrid | 80% | 74–85% | 1,14 | 87,7% | Svag |
+| Över 2,5 | 76% | 68–82% | 1,17 | 85,5% | Svag |
+| BTTS | 58% | 50–65% | 1,54 | 64,9% | Svag |
+| Real Madrid över 2,5 | 48% | 40–56% | 1,43 | 69,9% | Svag |
+
+Bandet är kvällens bredaste därför att två oförenliga profiler möts: hemmalagets matcher har
+gett fem mål i snitt, bortalagets 1,75, och rotationen är oklar.
+
+**Beslut.** 🔴 PASS. Utfallskonfidens 4/10. Varje marknad i matchen är prissatt för att Madrid
+rullar över PSV, och ingen av dem lämnar något kvar. Förväntad elva.
+**Motargument.** Real Madrid har gjort minst två mål i varje match och PSV har släppt in i tre
+av fyra, så under-tesen kräver ett brott mot båda mönstren samtidigt — det är därför den stannar
+på 22 procent och inte högre.
+**Bästa marknad:** under 2,5 — **inte spelad:** brytpunkten 17,9% ligger inne i bandet.
+
+**Skott på mål — sidospel.**
+
+| Lag | Spelare | Skott på mål/match | Urval | Linje | Sannolikhet |
+|---|---|---|---|---|---|
+| Real Madrid | Mbappé | 2,62 | 13 matcher, La Liga 26/27 | 1+ | 85% |
+| Real Madrid | Vinícius Júnior | 0,78 | 9 matcher, La Liga 26/27 | 1+ | 54% |
+
+Siffrorna är från La Liga, inte från turneringen matchen spelas i. Fyra rader utan underlag
+(Bellingham, Til, Pepi, Van Bommel) — Eredivisie täcks inte av statistikkällan.
+
+### 9. Slovan Bratislava – Real Betis (21:00)
+
+**Matchbild.** Slovan har noll poäng, 1–17 i målskillnad och har gjort mål en enda gång på fyra
+matcher — nollade i de tre senaste, hemmamatchen inräknad. Betis spelar sin femte raka
+bortamatch utan Ceballos och Lo Celso, och Antonys status går isär mellan källorna.
+
+| Marknad | Sannolikhet | Band | Odds | Brytpunkt | Värde |
+|---|---|---|---|---|---|
+| **Över 2,5** | 76% | 69–81% | 1,36 | 73,5% | Medel |
+| Real Betis | 74% | 67–80% | 1,27 | 78,7% | Svag |
+| BTTS | 38% | 31–45% | 1,80 | 55,6% | Svag |
+| Real Betis över 1,5 | 64% | 56–72% | `PRIS EJ TILLGÄNGLIGT` | — | — |
+
+Måltorkan ligger i den här turneringen och inte i den inhemska ligan, vilket är varför den får
+väga tungt mot BTTS. Bandet vidgas av Antonys oklara status och av att Betis spelar sin femte
+bortamatch i rad.
+
+**Beslut.** 🔴 PASS. Utfallskonfidens 6/10. Matchtotalen bär 3,4 procents marginal men uttrycker
+en annan tes än den som skrivits — att Betis gör två eller tre mot ett lag som kanske inte gör
+något alls — och den marknaden går inte att prissätta. Förväntad elva.
+**Motargument.** Slovan kan hålla matchen på 0–2 som mot Stuttgart; då faller över 2,5 medan
+lagtotalen hade hållit, vilket är hela skälet att avstå i stället för att byta marknad.
+**Bästa marknad:** Betis över 1,5 — **inte spelad:** inget pris gick att få.
+
+**Skott på mål.** Sex rader utan underlag (Šporar, Barseghyan, Marcelli, Parrott, Isco, Abde) —
+den slovakiska ligan täcks inte, och Betis-spelarnas urval går inte att belägga.
+
+## ⚠️ Medvetet undvikna spel
+
+| Marknad | Varför |
+|---|---|
+| Real Madrid över 2,5 1,17 | Kräver 85,5%, skattning 76% — priset förutsätter en målfest PSV inte varit med om |
+| Real Madrid 1,14 | Kräver 87,7%, skattning 80% |
+| Real Madrid över 2,5 lagmål 1,43 | Kräver 69,9%, skattning 48% — den enda lagtotal kvällen gick att prissätta, och den är fel prissatt |
+| Como–AEK över 2,5 1,30 | Kräver 76,9%, skattning 83% — positivt, men samma tes som singeln och hade dubblat exponeringen på en match |
+| Manchester City–Napoli över 2,5 1,30 | Kräver 76,9%, skattning 79% — rätt marknad, 2,7% marginal |
+| Slovan–Betis över 2,5 1,36 | Kräver 73,5%, skattning 76% — uttrycker inte den skrivna matchbilden |
+| Galatasaray–Villa över 2,5 1,49 | Kräver 67,1%, skattning 68% — brytpunkten inne i bandet |
+| Bodø/Glimt–LASK över 2,5 1,28 | Kräver 78,1%, skattning 70% |
+| Leipzig–Lens BTTS 1,48 | Kräver 67,6%, skattning 62% — Lens har gjort mål i två av fyra |
+| Slovan–Betis BTTS 1,80 | Kräver 55,6%, skattning 38% — hemmalaget har gjort ett mål på fyra matcher |
+| Arsenal–Dortmund under 2,5 2,23 | Kräver 44,8%, skattning 48% — samma tes som ankaret men faller på 2–1 |
+| Real Betis 1,27 | Kräver 78,7%, skattning 74% |
+| Manchester City 1,27 | Kräver 78,7%, skattning 72% |
+| Arsenal 1,41 | Kräver 70,9%, skattning 58% — utan Saka och med ny målvakt |
+| Como –2 asiatiskt 1,95 | Kräver 51,2%, skattning 38% |
+
+## 🟨 Kort
+
+Kovács ligger högst av kvällens nio domare med 5,39 gula per match över 385 karriärmatcher,
+följd av Kružliak på 5,06 över 290 — men ingen kortlinje gick att hämta för någon av de två
+matcherna. Den enda linje som fanns att få, över 4,5 kort till 2,00 i Slovan–Betis, döms av
+Brisard på 3,75 gula per match över 240 matcher och kräver 50 procent för att gå jämnt ut.
+Inget kortspel ikväll.
