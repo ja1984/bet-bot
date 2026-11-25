@@ -348,3 +348,185 @@ följd av Kružliak på 5,06 över 290 — men ingen kortlinje gick att hämta f
 matcherna. Den enda linje som fanns att få, över 4,5 kort till 2,00 i Slovan–Betis, döms av
 Brisard på 3,75 gula per match över 240 matcher och kräver 50 procent för att gå jämnt ut.
 Inget kortspel ikväll.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ingen av kvällens nio matcher gick till förlängning — ligafasen spelas i
+enkelmatcher. Två mål föll i ordinarie tilläggstid och räknas båda: **Bogardes självmål i
+90+2 avgjorde Bodø/Glimt–LASK** efter 92 mållösa minuter, och **Nusas 90+4 lade fjärde
+målet i Leipzig–Lens**, en match som passerat 2,5 sedan 58:e. Inget mål i någon match föll
+utanför 90 minuter plus tilläggstid, och ingen marknad avgörs därför på annat underlag.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Bodø/Glimt – LASK | 1–0 | Bogarde självmål 90+2' — mållöst i 92 minuter |
+| Galatasaray – Aston Villa | 1–0 | Deniz Gül 77' (inhopp 62') · Aston Villa noll skott på mål |
+| Arsenal – Borussia Dortmund | 1–1 | Gyökeres 10', Beier 55' · 4–4 i skott på mål |
+| Como – AEK Aten | 1–0 | Milla 57' · Da Cunha missade straff 29' · Nico Paz i ribban 61' |
+| Feyenoord – Porto | 0–1 | Targhalline självmål 2' · Feyenoord 21 skott utan mål |
+| Manchester City – Napoli | 2–2 | Højlund 55', Bouaddi 67', Lang 76', Cherki 86' |
+| RB Leipzig – Lens | 3–1 | Raum 6', Nusa 9', Udol 58', Nusa 90+4' |
+| Real Madrid – PSV | 5–1 | Perišić straff 32', Valverde 50', Bellingham 60', Mbappé 64' och 84', Vinícius 87' |
+| Slovan Bratislava – Real Betis | 0–2 | Juan Hernández 43' och 57' |
+
+Kvällen gav **22 mål på nio matcher — 2,44 per match** mot ligafasens 4,04. Över 2,5
+landade i tre matcher av nio (33% mot 75%), BTTS i fyra av nio (44% mot 64%).
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Bodø/Glimt–LASK | BTTS-Nej | 40% (33–48%) | 2,90 | 30 kr | 1–0 | ✅ +57,00 kr |
+| Bodø/Glimt–LASK | BTTS | 60% (52–67%) | 1,38 | — | 1–0 | ❌ |
+| Bodø/Glimt–LASK | Över 2,5 | 70% (62–76%) | 1,28 | — | 1 mål | ❌ |
+| Bodø/Glimt–LASK | Under 2,5 | 30% (24–38%) | 3,70 | — | 1 mål | ✅ |
+| Bodø/Glimt–LASK | Bodø/Glimt över 1,5 | 48% (40–56%) | inget pris | — | 1 mål, och det var ett självmål | ❌ |
+| Galatasaray–Villa | Över 2,5 | 68% (60–74%) | 1,49 | — | 1 mål | ❌ |
+| Galatasaray–Villa | Aston Villa | 44% (37–51%) | 2,20 | — | 0–1 | ❌ |
+| Galatasaray–Villa | BTTS | 58% (50–65%) | 1,42 | — | 1–0 | ❌ |
+| Galatasaray–Villa | Aston Villa över 1,5 | 46% (38–54%) | inget pris | — | 0 mål | ❌ |
+| Arsenal–Dortmund | Under 3,5 | 68% (61–74%) | 1,81 | 110 kr | 2 mål | ✅ +89,10 kr |
+| Arsenal–Dortmund | Under 2,5 | 48% (41–55%) | 2,23 | — | 2 mål | ✅ |
+| Arsenal–Dortmund | BTTS-Nej | 55% (48–62%) | 1,90 | — | 1–1 | ❌ |
+| Arsenal–Dortmund | Arsenal | 58% (51–65%) | 1,41 | — | 1–1 | ❌ |
+| Arsenal–Dortmund | Arsenal över 1,5 | 52% (44–60%) | inget pris | — | 1 mål | ❌ |
+| Como–AEK | BTTS | 68% (61–74%) | 1,66 | 60 kr | 1–0 | ❌ −60,00 kr |
+| Como–AEK | Över 2,5 | 83% (77–87%) | 1,30 | — | 1 mål | ❌ |
+| Como–AEK | Como –2 (asiatiskt) | 38% (31–45%) | 1,95 | — | vann med ett | ❌ |
+| Como–AEK | Como över 2,5 | 55% (47–63%) | inget pris | — | 1 mål | ❌ |
+| Feyenoord–Porto | Över 2,5 | 72% (65–78%) | 1,66 | ben i kupong 2 | 1 mål | ❌ |
+| Feyenoord–Porto | BTTS | 66% (58–72%) | 1,54 | — | 0–1 | ❌ |
+| Feyenoord–Porto | Porto | 44% (37–51%) | 2,23 | — | 0–1 | ✅ |
+| Feyenoord–Porto | Porto över 1,5 | 58% (50–66%) | inget pris | — | 1 mål | ❌ |
+| City–Napoli | Över 2,5 | 79% (73–84%) | 1,30 | — | 4 mål | ✅ |
+| City–Napoli | BTTS | 64% (57–70%) | 1,62 | — | 2–2 | ✅ |
+| City–Napoli | Manchester City | 72% (65–78%) | 1,27 | — | 2–2 | ❌ |
+| City–Napoli | City över 2,5 | 52% (44–60%) | inget pris | — | 2 mål | ❌ |
+| Leipzig–Lens | Över 2,5 | 80% (73–85%) | 1,29 | ben i kupong 2 | 4 mål | ✅ |
+| Leipzig–Lens | BTTS | 62% (54–69%) | 1,48 | — | 3–1 | ✅ |
+| Leipzig–Lens | RB Leipzig | 62% (55–69%) | 1,36 | — | 3–1 | ✅ |
+| Leipzig–Lens | Leipzig över 1,5 | 60% (52–68%) | inget pris | — | 3 mål | ✅ |
+| Real Madrid–PSV | Under 2,5 | 22% (17–28%) | 5,60 | — | 6 mål | ❌ |
+| Real Madrid–PSV | Real Madrid | 80% (74–85%) | 1,14 | — | 5–1 | ✅ |
+| Real Madrid–PSV | Över 2,5 | 76% (68–82%) | 1,17 | — | 6 mål | ✅ |
+| Real Madrid–PSV | BTTS | 58% (50–65%) | 1,54 | — | 5–1 | ✅ |
+| Real Madrid–PSV | Real Madrid över 2,5 (lagtotal) | 48% (40–56%) | 1,43 | — | 5 mål | ✅ |
+| Slovan–Betis | Över 2,5 | 76% (69–81%) | 1,36 | — | 2 mål | ❌ |
+| Slovan–Betis | Real Betis | 74% (67–80%) | 1,27 | — | 0–2 | ✅ |
+| Slovan–Betis | BTTS | 38% (31–45%) | 1,80 | — | 0–2 | ❌ |
+| Slovan–Betis | Real Betis över 1,5 | 64% (56–72%) | inget pris | — | 2 mål | ✅ |
+
+**17 av 39 bedömda marknader landade mot 23,0 förväntade** räknat på filens egna
+sannolikheter. Hela underskottet ligger i målmarknaderna: **över 2,5 gick 3/8 mot 6,0
+förväntade** och **BTTS 3/8 mot 4,7**, medan de åtta resultat- och lagtotalmarknaderna gick
+6/8. De tre matcher som levererade mål levererade allihop fyra eller fler; de sex andra
+stannade på ett eller två.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Arsenal | Madueke | 1+ | 47% | 90 | ej bedömbar | — |
+| Dortmund | Beier | 1+ | 39% | 64 (ut 64') | minst 1 (mål 55') | ✅ |
+| Arsenal | Gyökeres | 1+ | 12% | 87 (ut 87') | minst 1 (mål 10') | ✅ |
+| Arsenal | Ødegaard | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Dortmund | Fábio Silva | 1+ | underlag saknas | 64 (ut 64') | ej bedömbar | — |
+| Dortmund | Nmecha | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Como | Douvikas | 1+ | 70% | 90 | ej bedömbar | — |
+| Como | Nico Paz | 1+ | 66% | 90 | ej bedömbar (ribba 61') | — |
+| Como | Baturina | 1+ | underlag saknas | 80 (ut 80') | ej bedömbar | — |
+| AEK | Jović | 1+ | underlag saknas | 74 (ut 74') | ej bedömbar | — |
+| AEK | Varga | 1+ | underlag saknas | 28 (in 62') | ej bedömbar | — |
+| AEK | Mantalos | 1+ | underlag saknas | 16 (in 74') | ej bedömbar | — |
+| Manchester City | Haaland | 1+ | 78% | 90 | ej bedömbar | — |
+| Napoli | Højlund | 1+ | 63% | 75 (ut 75') | minst 1 (mål 55') | ✅ |
+| Manchester City | Foden | 1+ | underlag saknas | 0 (oanvänd avbytare) | aldrig en skottfråga | ❌ |
+| Manchester City | Cherki | 1+ | underlag saknas | 90 | minst 1 (mål 86') | ✅ |
+| Napoli | De Bruyne | 1+ | underlag saknas | 75 (ut 75') | ej bedömbar | — |
+| Napoli | McTominay | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Real Madrid | Mbappé | 1+ | 85% | 90 | minst 2 (mål 64' och 84') | ✅ |
+| Real Madrid | Vinícius Júnior | 1+ | 54% | 90 | minst 1 (mål 87') | ✅ |
+| Real Madrid | Bellingham | 1+ | underlag saknas | 45 (in 46') | minst 1 (mål 60') | ✅ |
+| PSV | Til | 1+ | underlag saknas | 90 | 0 — PSV hade ett skott på mål, straffen | ❌ |
+| PSV | Pepi | 1+ | underlag saknas | 0 (spelade inte) | aldrig en skottfråga | ❌ |
+| PSV | Van Bommel | 1+ | underlag saknas | 83 (ut 83') | 0 | ❌ |
+| Bodø/Glimt | Hauge | 1+ | underlag saknas | 89 (ut 89') | ej bedömbar | — |
+| Bodø/Glimt | Helmersen | 1+ | underlag saknas | 16 (in 74') | ej bedömbar | — |
+| Bodø/Glimt | Blomberg | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| LASK | Adeniran | 1+ | underlag saknas | 82 (ut 82') | ej bedömbar | — |
+| LASK | Usor | 1+ | underlag saknas | 29 (in 61') | ej bedömbar | — |
+| LASK | Kalajdžić | 1+ | underlag saknas | 8 (in 82') | ej bedömbar | — |
+| Galatasaray | Sané | 1+ | underlag saknas | 0 (oanvänd avbytare) | aldrig en skottfråga | ❌ |
+| Galatasaray | Batrakov | 1+ | underlag saknas | 74 (ut 74') | ej bedömbar | — |
+| Galatasaray | Barış Alper Yılmaz | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Aston Villa | Jackson | 1+ | underlag saknas | 90 | 0 — Villa hade noll skott på mål | ❌ |
+| Aston Villa | McGinn | 1+ | underlag saknas | 74 (ut 74') | 0 | ❌ |
+| Aston Villa | Buendía | 1+ | underlag saknas | 8 (in 82') | 0 | ❌ |
+| Feyenoord | Hadj Moussa | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Feyenoord | Valente | 1+ | underlag saknas | 71 (ut 71') | ej bedömbar | — |
+| Feyenoord | Ferri | 1+ | underlag saknas | 24 (in 66') | ej bedömbar | — |
+| Porto | Borja Sainz | 1+ | underlag saknas | 0 (spelade inte) | aldrig en skottfråga | ❌ |
+| Porto | André Silva | 1+ | underlag saknas | 0 (spelade inte) | aldrig en skottfråga | ❌ |
+| Porto | Pepê | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| RB Leipzig | Gruda | 1+ | underlag saknas | 64 (ut 64') | ej bedömbar | — |
+| RB Leipzig | Nusa | 1+ | underlag saknas | 90 | minst 2 (mål 9' och 90+4') | ✅ |
+| RB Leipzig | Baumgartner | 1+ | underlag saknas | 63 (ut 63') | ej bedömbar | — |
+| Lens | Thauvin | 1+ | underlag saknas | 90 | ej bedömbar | — |
+| Lens | Sima | 1+ | underlag saknas | 64 (ut 64') | ej bedömbar | — |
+| Lens | Hazard | 1+ | underlag saknas | 0 (spelade inte) | aldrig en skottfråga | ❌ |
+| Slovan | Šporar | 1+ | underlag saknas | 76 (ut 76') | ej bedömbar | — |
+| Slovan | Barseghyan | 1+ | underlag saknas | 85 (ut 85') | ej bedömbar | — |
+| Slovan | Marcelli | 1+ | underlag saknas | 70 (ut 70') | ej bedömbar | — |
+| Real Betis | Parrott | 1+ | underlag saknas | 27 (in 63') | ej bedömbar | — |
+| Real Betis | Isco | 1+ | underlag saknas | 63 (ut 63') | ej bedömbar | — |
+| Real Betis | Abde | 1+ | underlag saknas | 87 (ut 87') | ej bedömbar | — |
+
+**Femtiofyra rader, samtliga med verifierad minutsiffra; nitton gick att avgöra och åtta
+landade.** Trettiofem rader står som `ej bedömbar` — spelarvis skott på mål går inte att
+hämta i efterhand för någon av de sju matcherna utanför Premier League och La Liga, och
+inte heller för de spelare vars lag hade mer än noll skott på mål.
+
+**Sex rader hade noll speltid.** Alla sex var truppmedlemmar som aldrig kom in: två
+oanvända avbytare och fyra som inte fanns i matchtruppen. Ingen rad namngav en spelare i
+fel klubb. Av de elva avgjorda missarna föll alltså **sex på minuter och fem på skytte**,
+och de fem skyttemissarna kommer från två lag som tillsammans hade ett skott på mål.
+
+**De nio raderna med angiven sannolikhet gav fem avgjorda — samtliga landade** mot 2,5
+förväntade, inklusive en rad på 12 procent. Fem rader mäter ingenting, men det är värt att
+notera att de fyra högst skattade raderna (85%, 78%, 70% och 66%) gav **en** avgjord
+siffra: skattningarna hamnar systematiskt på spelare vars skottdata inte går att hämta.
+Tre `underlag saknas`-rader avgjordes som träff på mål — en av dem en inhoppare som gjorde
+mål efter 14 minuter på planen.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare: Arsenal–Dortmund under 3,5, 110 kr @ 1,81 | ✅ +89,10 kr | — |
+| 2 — Huvudspel: Feyenoord–Porto över 2,5 + Leipzig–Lens över 2,5, 90 kr @ 2,14 | ❌ −90,00 kr | Feyenoord–Porto över 2,5 (0–1) — Leipzig-benet landade |
+
+### Totalt: 1/2 kuponger · 1/2 singlar · −3,90 kr
+
+*Priserna är indikativa. Räknat på filens egna rättvisa odds (1,47 och 2,50) blir kvällen
+−53 kr; spannet är −53 till −4 kr och den högre posten används, samma konvention som
+tidigare kvällar.*
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Kupong 1 — Arsenal–Dortmund under 3,5 | +89,10 kr | Bra beslut — brytpunkten 55,2% låg under bandets nedre kant, och den högre linjen valdes just för att tåla 2–1 |
+| Kupong 2 — Feyenoord över 2,5 + Leipzig över 2,5 | −90,00 kr | Varians — det nedskrivna förlustscenariot kom i minut 2, och 21 Feyenoord-skott gav noll mål |
+| Como–AEK BTTS | −60,00 kr | Dåligt marknadsval + recensbias — matchbilden sa ensidig målbild och BTTS valdes ändå, på marginalens storlek; nitton mål på fyra matcher lästes som egenskap |
+| Bodø/Glimt–LASK BTTS-Nej | +57,00 kr | Bra beslut — 40% till 2,90 mot brytpunkt 34,5%, och matchen var mållös i 92 minuter |
+| City–Napoli över 2,5 (ej spelad) | 0 kr | Bra beslut — 2,7 procents marginal är ett pass oavsett att marknaden landade |
+
+**Lärdom:** En BTTS-position i en match filen själv beskriver som ensidig har nu kostat
+pengar tre gånger (4, 8 och 24 november), varje gång vald på prisets eller marginalens
+storlek snarare än på matchbilden. Det är ingen kalibreringsmiss — skattningen 68% var inte
+orimlig — utan ett marknadsval som motsäger den tes som bär det. Föreslås som tillägg via
+pull request.
