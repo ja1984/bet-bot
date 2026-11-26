@@ -207,3 +207,159 @@ BTTS var kandidat men förlorar mot över 2,5: om Liverpool vinner 3–0 landar 
 ## 🟨 Kort
 
 Hernández Hernández ligger på 5,06 gula per match över 174 karriärmatcher och Guida på 5,33 över tre matcher i årets turnering, men ingen av de matcherna har en kortlinje att handla på. Den enda kortlinje som gick att få är över 4,5 kort i Sabah–Barcelona till 2,85, och där talar matchbilden emot: Walsh ligger visserligen på 4,25 gula per match, men en ensidig match med ett lag som styr bollen producerar färre kort än snittet, och skattningen på 36 procent lämnar brytpunkten 35,1 inne i bandet. Inget kortspel läggs. Lambrechts har en match i turneringen och ingen karriärsiffra gick att verifiera.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ligafasen spelas i enkelmatcher, så ingen match kunde gå till förlängning och samtliga 25 mål föll inom ordinarie tid — det sista i 82:a minuten. Inget mål föll i tilläggstid. Tre sena händelser påverkade ingen marknad: ett kort mot Falchener i 90+1 i Madrid, Tielemans utvisning i tilläggstid i Lissabon, och en straff till Slavia som ströks efter videogranskning sent i matchen — även med den inlagd hade matchen slutat på två mål och stannat under 2,5.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Sabah – Barcelona | 1–4 | Gordon 31', 50' · Adeyemi 55' · Gabriel Jesus 60' · Mickels 63' |
+| Slavia Prag – Villarreal | 0–1 | Buchanan 62' (Ayoze Pérez) · Veigas röda kort nedgraderat till gult efter granskning · straff till Slavia struken sent |
+| Atlético Madrid – Viking | 2–0 | Sørloth 19' (Grimaldo) · Álvarez 24' direkt frispark · båda målen klara efter 24 minuter |
+| Club Brugge – Liverpool | 0–3 | Isak 13', 82' · Wirtz 79' |
+| Inter – Stuttgart | 2–0 | Sučić 57' straff efter granskning · Lautaro Martínez 74' (Dimarco) |
+| Shakhtar – Fenerbahçe | 0–1 | Muriqi 56' · Lukaku missade fri position i tilläggstid |
+| Lille – Bayern München | 2–1 | Upamecano 15' (Bischof) · Ueda 62' (Ngoy) · Pavlović självmål 66' |
+| PSG – Roma | 2–2 | Hermoso 5' · Zabarnyi 31' (Mayulu) · Dembélé 62' straff · Malen 78' straff |
+| Sporting – Manchester United | 2–2 | Luis Suárez 33' straff, 80' · Bruno Fernandes 48' straff, 50' · Tielemans utvisad i tilläggstid |
+
+Nio matcher gav 25 mål, 2,78 per match mot ligafasens 3,86. Över 2,5 landade i fem av nio och båda lagen målade i fyra av nio, mot 70 respektive 62 procent i facit hittills. Fyra matcher slutade med hållen nolla.
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Sabah – Barcelona | Barcelona över 1,5 | 80% (73–85%) | `PRIS EJ TILLGÄNGLIGT` | — | 4 mål | ✅ |
+| Sabah – Barcelona | Över 4,5 | 35% (29–41%) | 1,73 | — | 5 mål | ✅ |
+| Sabah – Barcelona | BTTS | 45% (38–52%) | 1,67 | — | 1–4 | ✅ |
+| Sabah – Barcelona | Barcelona vinst | 83% (78–87%) | 1,10 | — | 1–4 | ✅ |
+| Sabah – Barcelona | Över 4,5 kort | 36% | 2,85 | — | kortantal ej hämtbart | ej bedömbar |
+| Slavia – Villarreal | **Över 2,5** | 72% (66–77%) | 1,54 | 90 kr (ben K1) | 1 mål | ❌ |
+| Slavia – Villarreal | BTTS | 62% (55–68%) | 1,47 | — | 0–1 | ❌ |
+| Slavia – Villarreal | Under 2,5 | 28% (23–34%) | 2,48 | — | 1 mål | ✅ |
+| Slavia – Villarreal | Villarreal över 1,5 | 55% (48–62%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ❌ |
+| Atlético – Viking | **Under 2,5** | 35% (29–41%) | 3,85 | 50 kr (ben K2) | 2 mål | ✅ |
+| Atlético – Viking | Över 2,5 | 65% (59–71%) | 1,26 | — | 2 mål | ❌ |
+| Atlético – Viking | BTTS | 42% (35–48%) | 2,10 | — | 2–0 | ❌ |
+| Atlético – Viking | Atlético över 1,5 | 63% (56–70%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Brugge – Liverpool | **Över 2,5** | 81% (76–85%) | 1,29 | 90 kr (ben K1) | 3 mål | ✅ |
+| Brugge – Liverpool | BTTS | 77% (72–82%) | 1,35 | — | 0–3 | ❌ |
+| Brugge – Liverpool | Under 2,5 | 19% (15–24%) | 3,60 | — | 3 mål | ❌ |
+| Brugge – Liverpool | Liverpool över 1,5 | 78% (71–83%) | `PRIS EJ TILLGÄNGLIGT` | — | 3 mål | ✅ |
+| Inter – Stuttgart | **Under 2,5** | 42% (35–49%) | 3,85 | 80 kr (singel) | 2 mål | ✅ |
+| Inter – Stuttgart | Över 2,5 | 58% (51–65%) | 1,25 | — | 2 mål | ❌ |
+| Inter – Stuttgart | BTTS | 50% (43–57%) | 1,35 | — | 2–0 | ❌ |
+| Inter – Stuttgart | Inter över 1,5 | 48% (41–55%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| Shakhtar – Fenerbahçe | **BTTS-Nej** | 56% (48–62%) | 2,38 | 50 kr (ben K2) | 0–1 | ✅ |
+| Shakhtar – Fenerbahçe | BTTS | 44% (38–52%) | 1,56 | — | 0–1 | ❌ |
+| Shakhtar – Fenerbahçe | Över 2,5 | 56% (49–62%) | 1,71 | — | 1 mål | ❌ |
+| Shakhtar – Fenerbahçe | Shakhtar under 1,5 | 60% (53–67%) | `PRIS EJ TILLGÄNGLIGT` | — | 0 mål | ✅ |
+| Lille – Bayern | Över 2,5 | 60% (53–67%) | 1,71 | — | 3 mål | ✅ |
+| Lille – Bayern | BTTS | 57% (50–64%) | 1,71 | — | 2–1 | ✅ |
+| Lille – Bayern | Lille vinst | 19% (15–25%) | 5,40 | — | 2–1 | ✅ |
+| Lille – Bayern | Bayern under 1,5 | 45% (38–52%) | `PRIS EJ TILLGÄNGLIGT` | — | 1 mål | ✅ |
+| PSG – Roma | PSG över 1,5 | 85% (79–89%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+| PSG – Roma | Över 2,5 | 78% (72–82%) | 1,34 | — | 4 mål | ✅ |
+| PSG – Roma | BTTS | 60% (53–66%) | 1,47 | — | 2–2 | ✅ |
+| PSG – Roma | Under 2,5 | 22% (18–28%) | 3,25 | — | 4 mål | ❌ |
+| Sporting – Man United | **Sporting vinst** | 42% (36–47%) | 2,60 | 30 kr (singel) | 2–2 | ❌ |
+| Sporting – Man United | BTTS-Nej | 41% (35–48%) | 2,65 | — | 2–2 | ❌ |
+| Sporting – Man United | Under 2,5 | 44% (37–50%) | 2,48 | — | 4 mål | ❌ |
+| Sporting – Man United | Sporting över 1,5 | 47% (40–54%) | `PRIS EJ TILLGÄNGLIGT` | — | 2 mål | ✅ |
+
+Trettiosex bedömda marknader, **21 landade mot 19,3 förväntade** utifrån filens egna sannolikheter. Nio lagtotaler saknade pris; åtta av de nio landade.
+
+### Skott på mål
+
+Ingen rad hade underlag i förhandsanalysen, och spelarvis skott på mål gick inte att hämta i efterhand för någon match. Minuterna är däremot kontrollerade på samtliga rader.
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Barcelona | Adeyemi | underlag saknas | underlag saknas | 90 (mål 55') | ej bedömbar | ej bedömbar |
+| Barcelona | Raphinha | underlag saknas | underlag saknas | 14 (inhopp 76') | ej bedömbar | ej bedömbar |
+| Sabah | tre rader utan namn | — | — | — | — | trupp ej verifierad |
+| Slavia | Chytil | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Slavia | Suleiman | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Slavia | Jurásek | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Villarreal | Mikautadze | underlag saknas | underlag saknas | 15 (inhopp 75') | ej bedömbar | ej bedömbar |
+| Villarreal | Oluwaseyi | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Villarreal | Mouriño | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Atlético | Álvarez | underlag saknas | underlag saknas | 57 (mål 24') | ej bedömbar | ej bedömbar |
+| Atlético | Sørloth | underlag saknas | underlag saknas | 71 (mål 19') | ej bedömbar | ej bedömbar |
+| Atlético | G. Simeone | underlag saknas | underlag saknas | 33 (inhopp 57') | ej bedömbar | ej bedömbar |
+| Viking | Tripić | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Viking | Christiansen | underlag saknas | underlag saknas | 33 (inhopp 57') | ej bedömbar | ej bedömbar |
+| Viking | Botheim | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Club Brugge | Tresoldi | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Club Brugge | Forbs | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Club Brugge | Vanaken | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Liverpool | Barcola | underlag saknas | underlag saknas | 86 | ej bedömbar | ej bedömbar |
+| Liverpool | Mac Allister | underlag saknas | underlag saknas | 17 (inhopp 73') | ej bedömbar | ej bedömbar |
+| Liverpool | Wirtz | underlag saknas | underlag saknas | 90 (mål 79') | ej bedömbar | ej bedömbar |
+| Inter | Lautaro Martínez | underlag saknas | underlag saknas | 22 (inhopp 68', mål 74') | ej bedömbar | ej bedömbar |
+| Inter | Esposito | underlag saknas | underlag saknas | 86 | ej bedömbar | ej bedömbar |
+| Inter | Barella | underlag saknas | underlag saknas | 86 | ej bedömbar | ej bedömbar |
+| Stuttgart | Demirović | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Stuttgart | Undav | underlag saknas | underlag saknas | 27 (inhopp 63') | ej bedömbar | ej bedömbar |
+| Stuttgart | El Khannouss | underlag saknas | underlag saknas | 84 | ej bedömbar | ej bedömbar |
+| Shakhtar | Meirelles | underlag saknas | underlag saknas | 7 (inhopp 83') | ej bedömbar | ej bedömbar |
+| Shakhtar | Marlon Gomes | underlag saknas | underlag saknas | 55 | ej bedömbar | ej bedömbar |
+| Shakhtar | Mendoza | underlag saknas | underlag saknas | 0 | — | ingen spelare med det namnet i truppen |
+| Fenerbahçe | Greenwood | underlag saknas | underlag saknas | 78 | ej bedömbar | ej bedömbar |
+| Fenerbahçe | Muriqi | underlag saknas | underlag saknas | 86 (mål 56') | ej bedömbar | ej bedömbar |
+| Fenerbahçe | Kahveci | underlag saknas | underlag saknas | 21 (inhopp 69') | ej bedömbar | ej bedömbar |
+| Lille | Diaoune | underlag saknas | underlag saknas | 13 (inhopp 77') | ej bedömbar | ej bedömbar |
+| Lille | Ueda | underlag saknas | underlag saknas | 77 (mål 62') | ej bedömbar | ej bedömbar |
+| Lille | Haraldsson | underlag saknas | underlag saknas | 87 | ej bedömbar | ej bedömbar |
+| Bayern | Karl | underlag saknas | underlag saknas | 84 | ej bedömbar | ej bedömbar |
+| Bayern | Musiala | underlag saknas | underlag saknas | 13 (inhopp 77') | ej bedömbar | ej bedömbar |
+| Bayern | Brown | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| PSG | Dembélé | underlag saknas | underlag saknas | 31 (inhopp 59', mål 62') | ej bedömbar | ej bedömbar |
+| PSG | Ferrán Torres | underlag saknas | underlag saknas | 59 | ej bedömbar | ej bedömbar |
+| PSG | Fabián Ruiz | underlag saknas | underlag saknas | 90 | ej bedömbar | ej bedömbar |
+| Roma | Malen | underlag saknas | underlag saknas | 23 (inhopp 67', mål 78') | ej bedömbar | ej bedömbar |
+| Roma | Soulé | underlag saknas | underlag saknas | 79 | ej bedömbar | ej bedömbar |
+| Roma | Mora | underlag saknas | underlag saknas | 0 (oanvänd avbytare) | — | ❌ på speltid |
+| Sporting | Luis Suárez | underlag saknas | underlag saknas | 86 (mål 33', 80') | ej bedömbar | ej bedömbar |
+| Sporting | Doumbia | underlag saknas | underlag saknas | 76 | ej bedömbar | ej bedömbar |
+| Sporting | Irankunda | underlag saknas | underlag saknas | 14 (inhopp 76') | ej bedömbar | ej bedömbar |
+| Man United | Mbeumo | underlag saknas | underlag saknas | 92 | ej bedömbar | ej bedömbar |
+| Man United | Bruno Fernandes | underlag saknas | underlag saknas | 92 (mål 48', 50') | ej bedömbar | ej bedömbar |
+| Man United | Zirkzee | underlag saknas | underlag saknas | 64 | ej bedömbar | ej bedömbar |
+
+Av de 50 namngivna raderna startade 33, tolv hoppade in, en satt kvar på bänken hela matchen, och en avser en spelare som inte finns i den truppen. Tre Sabah-rader skrevs aldrig ut med namn.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, 90 kr @ 1,99 | ❌ | Slavia–Villarreal över 2,5 (0–1). Brugge–Liverpool över 2,5 landade. |
+| 2 — Hedge, defensiv, 50 kr @ 9,16 | ✅ | — båda benen in, utbetalning 458 kr |
+
+Filen innehåller ett enda kupongset, lagt 13:00, utan tillägg senare på dagen — avsnittssumman och dagstotalen är därför samma siffra.
+
+### Totalt: 1/2 kuponger · 1/2 singlar · +516 kr
+
+Insatt 250 kr, utbetalt 766 kr. Kupong 2 gav +408 kr, Inter–Stuttgart under 2,5 gav +228 kr, kupong 1 −90 kr och Sporting vinst −30 kr.
+
+*Priserna är indikativa, hämtade ur previewartiklar 23–25 november. Räknat på filens egna rättvisa odds i stället blir kvällen +196 kr; spannet är +196 till +516 kr och den högre posten används, samma konvention som tidigare kvällar.*
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Inter–Stuttgart under 2,5 | +228 kr | Bra beslut — marknaden begärde 80 procent för över, skattningen landade på 42 efter medveten nedskuggning, och brytpunkten låg sexton punkter under den |
+| Kupong 2 | +408 kr | Bra beslut — två oberoende matcher och motsatt tes mot kupong 1, till ett pris som betalade för båda |
+| Atlético–Viking under 2,5 | ✅ ben | Bra beslut — hemmalagets fyra mål på fyra matcher bar inte priset 1,26 på över 2,5, och båda målen var gjorda efter 24 minuter |
+| Shakhtar–Fenerbahçe BTTS-Nej | ✅ ben | Bra beslut på marknaden, dåliga data i underlaget — Archie Brown uppgavs avstängd men startade, vilket talade mot spelet och ändå inte ändrade utfallet |
+| Kupong 1 | −90 kr | Varians på benet, korrelation på kupongen — det ben filen själv kallade bräckligt drog med sig ett ben på 81 procent |
+| Slavia–Villarreal över 2,5 | ❌ ben | Varians — matchen behövde två mål till, och motargumentet beskrev exakt det slut som kom |
+| Sporting vinst | −30 kr | Dåligt marknadsval — tre marknader bar lika mycket värde, brytpunkten låg inne i bandet, och Sporting ledde på skott och förväntade mål men tappade de tre poängen i 48:e och 50:e minuten |
+| Lille–Bayern, pass | — | Bra beslut som kostade — brytpunkten låg inne i bandet på båda målmarknaderna, och alla fyra bedömda marknader landade |
+| PSG–Roma, pass | — | Bra beslut — målexponeringen var redan tagen, och den marknad som uttryckte matchbilden saknade pris |
+| Sabah–Barcelona, pass | — | Varians — tre avstådda marknader landade, men över 4,5 krävde 57,8 procent mot en skattning på 35 |
