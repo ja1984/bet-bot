@@ -349,3 +349,25 @@ BTTS vann över en ren målmarknad därför att båda lagen har en egen väg til
 ## 🟨 Kort
 
 Fem av kvällens arton domare går att belägga med kortstatistik: Godinho 4,88 och Kabakov 4,72 i karriären, Pajač 4,6 på 261 matcher, Sozza 4,44 på 251 och Kavanagh 4,26 på 34 matcher den här säsongen. Inget kortspel läggs — lagens kort per match går inte att hämta för kvällens turnering och ingen linje finns att spela mot.
+
+## 🔄 Tillägg 17:50 — bekräftade elvor 18:45
+
+**Olympiacos–Milan:** Pulisic **bänkad** ⚠ · Bailey **helt utanför truppen** ⚠ · Tomori bänkad · Pirola in för Carmo.
+
+Bekräftade elvor (sempremilan, publicerade 17:40):
+Milan 4-2-3-1: Maignan; Gila, De Winter, Diawara, Estupiñán; Jashari, Rabiot; Hutchinson, Cisse, Moreira; Ramos.
+Olympiacos 4-2-3-1: Ortega; Saliakas, Retsos, Pirola, Bruno; Freuler, Gustavo Sá; Gelson Martins, Jota Silva, Fortounis; González.
+
+Analysen räknade med båda som startande, och båda anfallen är nu svagare än förutsättningen: Milan saknar sin främste målskytt utöver Modrić, Chukwueze, Saelemaekers, Loftus-Cheek och Camarda och har 198 minuter utan mål i turneringen; Olympiacos saknar Bailey utöver El Kaabi, som är borta säsongen ut.
+
+→ **BTTS-Nej höjs 54% → 61% (54–67%)**, rättvist odds **1,64**, brytpunkt 47,6% — nu utanför bandets undre kant i stället för tätt intill den. EV **+28%** mot indikativa 2,10. Utfallskonfidens 6 → **6,5/10** (A7-capet gäller BTTS **Ja**, inte Nej — BTTS Nej är WEAK EVIDENCE under A2b och får ingen prior åt något håll). Spelkvalitet 🟡 6 → **🟢 7**.
+
+Bandet är brett åt uppsidan av två namngivna skäl: Pulisic är bänkad, inte borta, och kan komma in efter en timme, och Cisse har tre mål i kampanjen — Milans provisoriska anfall är inte mållöst per konstruktion.
+
+**Marseille–Levski:** ingen bekräftad elva publicerad vid kontrolltillfället — kupongben 2 står kvar oförändrat på förväntad elva.
+
+**Vad detta gör med spelen:** Olympiacos–Milan BTTS-Nej höjs **25 → 45 kr** (kvartskelly fördubblas ungefär på den nya skattningen; spelet blir ändå inte kvällens största position, I6b). Inga andra insatser flyttas — 21:00-matcherna ligger mer än tre timmar bort och inget stort besked har kommit för någon av dem.
+
+Exponeringen blir därmed 145 kr på att målen uteblir och 70 kr på att två lag målar, totalt **215 av 300 kr**. Höjningen ökar medvetet koncentrationen åt det defensiva hållet (L6) och finansieras av att kanten i det enskilda spelet vuxit, inte av att en ny position lagts till.
+
+Priset 2,10 är indikativt och satt 24 november; det kan ha kortats efter elvorna. Faller det under 1,64 är kanten borta. Ingen källa prissatte BTTS-Nej på nytt vid kontrolltillfället.
