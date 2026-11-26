@@ -371,3 +371,23 @@ Bandet är brett åt uppsidan av två namngivna skäl: Pulisic är bänkad, inte
 Exponeringen blir därmed 145 kr på att målen uteblir och 70 kr på att två lag målar, totalt **215 av 300 kr**. Höjningen ökar medvetet koncentrationen åt det defensiva hållet (L6) och finansieras av att kanten i det enskilda spelet vuxit, inte av att en ny position lagts till.
 
 Priset 2,10 är indikativt och satt 24 november; det kan ha kortats efter elvorna. Faller det under 1,64 är kanten borta. Ingen källa prissatte BTTS-Nej på nytt vid kontrolltillfället.
+
+## 🔄 Tillägg 19:15 — sent lagbesked inför 21:00
+
+**Torreense–Celtic:** Nygren **har inte rest med till Portugal** ⚠ — Martin O'Neill bekräftar det själv (hälsenebesvär; han missade även St Mirren). Analysen förutsatte honom startande som tia. Jota är inlagd i europatruppen i Baurs ställe och Yang Hyun-jun är tillbaka, så anfallet tappar en startspelare men får två alternativ.
+
+Nudge, inte pull (**L7**): tesen vilar på att båda lagen gjort mål i var och en av sina fyra ligafasmatcher — och Nygren står för **0 mål och 0 assist på 247 ligafasminuter** (uefa.com). Den serien byggdes utan hans målpoäng, och då kan hans frånvaro inte rimligen fälla den.
+
+→ **BTTS sänks 71% → 69% (62–75%)**, rättvist odds **1,45**, brytpunkt 62,5% vid 1,60 — nu precis innanför bandets undre kant i stället för utanför den. Kanten är därmed inte längre robust (**L1**). EV **+10%** mot indikativa 1,60 (var +14%). Utfallskonfidens 6,5 → **6/10**, spelkvalitet 🟢 7 → **🟡 6,5**.
+
+Bandet vidgas nedåt av två namngivna skäl (**L2**), inte av schablon: tian är obesatt och ersättaren obekräftad, och Jotas bidrag är en gissning — O'Neill säger själv att han saknar matchskärpa. Torreense uppges dessutom sakna Baradji, men det är ett tveksamhetsbesked och inte bekräftat, så det får inte flytta skattningen.
+
+**Sunderland–Jagiellonia:** ingen ändring. Sylla och Sow är tveksamma och Wojtuszek är tillbaka i truppen utan att väntas starta — inget av det är bekräftat och inget rör under 2,5.
+**Hoffenheim–Sturm:** ingen ändring. Kabak är avstängd i Bundesliga men spelbar i Europa League, vilket snarare stöder benet än hotar det.
+**OFI–Anderlecht:** ingen ändring. Camara och Hey saknas hos Anderlecht, Kodro hos OFI; rotationsantagandet är varken bekräftat eller motsagt.
+
+**Vad detta gör med spelen:** Torreense–Celtic BTTS sänks **70 → 45 kr** — kvartskelly krymper på den lägre skattningen, och spelet ska inte längre vara kvällens största enskilda position när brytpunkten ligger inne i bandet. Inga andra insatser flyttas. Exponeringen blir 145 kr på att målen uteblir och 45 kr på att två lag målar, totalt **190 av 300 kr**.
+
+Priset 1,60 är indikativt, från toffeeweb med Ladbrokes som källa, satt 26 november 11:18. Oberoende noteringar 24–25 november ligger på 1,55–1,57 och predictz på ~1,61 — ingen tydlig prisrörelse går att belägga. Men vid **1,55 eller kortare** är brytpunkten 64,5%, alltså över skattningen, och då är spelet en PASS.
+
+Bekräftade startelvor var inte publicerade vid kontrolltillfället (19:15, cirka 105 minuter före avspark). De fångas av 20:00-körningen.
