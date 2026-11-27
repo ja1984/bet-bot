@@ -391,3 +391,151 @@ Bandet vidgas nedåt av två namngivna skäl (**L2**), inte av schablon: tian ä
 Priset 1,60 är indikativt, från toffeeweb med Ladbrokes som källa, satt 26 november 11:18. Oberoende noteringar 24–25 november ligger på 1,55–1,57 och predictz på ~1,61 — ingen tydlig prisrörelse går att belägga. Men vid **1,55 eller kortare** är brytpunkten 64,5%, alltså över skattningen, och då är spelet en PASS.
 
 Bekräftade startelvor var inte publicerade vid kontrolltillfället (19:15, cirka 105 minuter före avspark). De fångas av 20:00-körningen.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Ligafasen spelas i enkelmatcher, så ingen match kunde gå till förlängning. Två mål föll i ordinarie tilläggstid och räknas båda: Milans fjärde i 90+5 i en match som passerat 2,5 redan i 56:e, och Anderlechts tredje i 90+ i en match som passerat 2,5 i 54:e. Ingen av dem avgjorde en spelad position. Båda de kupongben som föll var döda i ordinarie tid — OFI i 54:e och Hoffenheim i 80:e — och kvällens enda vinnande singel var avgjord i 19:e minuten. Hoffenheims fjärde mål anges till 89:e av Bundesliga.com och 90:e av övriga källor; inom 90 minuter i båda fallen.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Olympiacos – Milan | 2–4 | Maignan självmål 31', Jota Silva 49', Hutchinson 56', Cisse 63', Pulisic 71', Moreira 90+5'. Pulisic och Cisse bänkades inte — Cisse startade, Pulisic hoppade in och båda målade |
+| Marseille – Levski Sofia | 1–0 | Gouiri straff 28'. Gouiri missade en andra straff omkring 50' |
+| Viktoria Plzeň – Benfica | 4–0 | Hrošovský 30', Adu 43', Kabongo 44' och 46'. Trubin sju räddningar, Benfica 69% boll |
+| Union Saint-Gilloise – Lech Poznań | 2–2 | Målskyttar: underlag saknas |
+| Dinamo Zagreb – Bayer Leverkusen | 0–2 | Tillman 10', Quansah 45' |
+| RB Salzburg – Ararat-Armenia | 2–0 | Målskyttar: underlag saknas |
+| Celta Vigo – Bournemouth | 1–2 | Aspas för Celta; Álvaro Rodríguez och Rayan för Bournemouth. Minuter: underlag saknas |
+| Beşiktaş – Hapoel Be'er Sheva | 2–1 | Målskyttar: underlag saknas. Spelad i Batumi utan hemmapublik |
+| Juventus – Omonia | 4–1 | Cambiaso, Ekhator, Conceição, Boga; Šatka för Omonia. Minuter: underlag saknas |
+| Lyon – Lillestrøm | 0–0 | Mållöst |
+| Ferencváros – Celje | 0–0 | 27 avslut och sex på mål mot Celjes dryga 0,2 i förväntade mål; Leban höll nollan |
+| Sparta Prag – AZ Alkmaar | 2–4 | Målskyttar: underlag saknas |
+| Crystal Palace – Real Sociedad | 2–1 | Mateta straff och McNeil; Sarr för Real Sociedad. Minuter: underlag saknas |
+| Sunderland – Jagiellonia Białystok | 1–1 | Tutierov 47' på pass av Le Fée, Jóźwiak 52' efter Reinildos korta bakåtpass |
+| Hoffenheim – Sturm Graz | 3–1 | Diakité 43', Hložek 72', Conté 80', Moerstedt 89' |
+| Torreense – Celtic | 1–2 | Javi Vázquez självmål 9', Dany Jean 19', Durán 84' på inhopp. Drammeh ensam med målvakten 70' och sköt utanför |
+| NEC Nijmegen – Rennes | 3–1 | Målskyttar: underlag saknas |
+| OFI – Anderlecht | 1–3 | Bentayeb 20', Aasgaard 39', Fountas straff 54', Bertaccini 90+ |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Olympiacos–Milan | BTTS-Nej | 54% → 61% | 2,10 | 45 kr | Båda målade | ❌ |
+| Olympiacos–Milan | Under 2,5 | 58% | 1,92 | | 6 mål | ❌ |
+| Olympiacos–Milan | Över 2,5 | 42% | 1,86 | | 6 mål | ✅ |
+| Olympiacos–Milan | Olympiacos över 0,5 | 73% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Marseille–Levski | Under 2,5 | 52% | 2,32 | ben, K2 | 1 mål | ✅ |
+| Marseille–Levski | Över 2,5 | 48% | 1,60 | | 1 mål | ❌ |
+| Marseille–Levski | BTTS | 50% | 1,88 | | Levski mållösa | ❌ |
+| Marseille–Levski | Marseille över 1,5 | 47% | `PRIS EJ TILLGÄNGLIGT` | | 1 mål | ❌ |
+| Plzeň–Benfica | Benfica över 1,5 | 70% | `PRIS EJ TILLGÄNGLIGT` | | 0 mål | ❌ |
+| Plzeň–Benfica | Över 2,5 | 65% | 1,42 | | 4 mål | ✅ |
+| Plzeň–Benfica | BTTS | 54% | 1,56 | | Benfica mållösa | ❌ |
+| Plzeň–Benfica | Under 2,5 | 35% | 2,85 | | 4 mål | ❌ |
+| Union SG–Lech | Union över 1,5 | 73% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Union SG–Lech | BTTS-Nej | 53% | 2,12 | | Båda målade | ❌ |
+| Union SG–Lech | Över 2,5 | 64% | 1,42 | | 4 mål | ✅ |
+| Union SG–Lech | BTTS | 47% | 1,66 | | Båda målade | ✅ |
+| Dinamo–Leverkusen | Under 2,5 | 61% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Dinamo–Leverkusen | BTTS-Nej | 56% | `PRIS EJ TILLGÄNGLIGT` | | Dinamo mållösa | ✅ |
+| Dinamo–Leverkusen | Dinamo över 0,5 | 59% | `PRIS EJ TILLGÄNGLIGT` | | 0 mål | ❌ |
+| Dinamo–Leverkusen | Leverkusen vinst | 55% | 1,73 | | 0–2 | ✅ |
+| Salzburg–Ararat | BTTS | 64% | `PRIS EJ TILLGÄNGLIGT` | | Ararat mållösa | ❌ |
+| Salzburg–Ararat | Över 3,5 | 43% | 1,82 | | 2 mål | ❌ |
+| Salzburg–Ararat | Salzburg över 1,5 | 59% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Salzburg–Ararat | Salzburg vinst | 72% | 1,16 | | 2–0 | ✅ |
+| Celta–Bournemouth | Över 2,5 | 55% | 1,90 | | 3 mål | ✅ |
+| Celta–Bournemouth | Bournemouth över 1,5 | 59% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Celta–Bournemouth | BTTS | 51% | 1,70 | | Båda målade | ✅ |
+| Celta–Bournemouth | Under 2,5 | 45% | 1,88 | | 3 mål | ❌ |
+| Beşiktaş–Hapoel | Beşiktaş över 1,5 | 70% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Beşiktaş–Hapoel | Över 2,5 | 66% | 1,34 | | 3 mål | ✅ |
+| Beşiktaş–Hapoel | BTTS | 56% | 1,76 | | Båda målade | ✅ |
+| Beşiktaş–Hapoel | BTTS-Nej | 44% | 1,98 | | Båda målade | ❌ |
+| Juventus–Omonia | Över 2,5 | 70% | `PRIS EJ TILLGÄNGLIGT` | | 5 mål | ✅ |
+| Juventus–Omonia | Juventus över 1,5 | 72% | `PRIS EJ TILLGÄNGLIGT` | | 4 mål | ✅ |
+| Juventus–Omonia | BTTS | 60% | `PRIS EJ TILLGÄNGLIGT` | | Båda målade | ✅ |
+| Juventus–Omonia | Juventus vinst | 68% | 1,19 | | 4–1 | ✅ |
+| Lyon–Lillestrøm | Lyon över 1,5 | 63% | `PRIS EJ TILLGÄNGLIGT` | | 0 mål | ❌ |
+| Lyon–Lillestrøm | Över 2,5 | 61% | 1,36 | | 0 mål | ❌ |
+| Lyon–Lillestrøm | BTTS-Nej | 44% | 1,86 | | Båda mållösa | ✅ |
+| Lyon–Lillestrøm | Lyon −2 handikapp | 23% | 1,84 | | 0–0 | ❌ |
+| Ferencváros–Celje | Över 2,5 | 73% | `PRIS EJ TILLGÄNGLIGT` | | 0 mål | ❌ |
+| Ferencváros–Celje | Ferencváros över 1,5 | 76% | `PRIS EJ TILLGÄNGLIGT` | | 0 mål | ❌ |
+| Ferencváros–Celje | Ferencváros vinst | 76% | 1,37 | | 0–0 | ❌ |
+| Ferencváros–Celje | BTTS | 58% | `PRIS EJ TILLGÄNGLIGT` | | Båda mållösa | ❌ |
+| Sparta–AZ | Under 2,5 | 45% | 2,23 | | 6 mål | ❌ |
+| Sparta–AZ | BTTS-Nej | 42% | 2,40 | | Båda målade | ❌ |
+| Sparta–AZ | Över 2,5 | 55% | 1,64 | | 6 mål | ✅ |
+| Sparta–AZ | Sparta över 1,5 | 39% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Palace–Real Sociedad | BTTS | 64% | 1,50 | | Båda målade | ✅ |
+| Palace–Real Sociedad | Över 2,5 | 63% | 1,57 | | 3 mål | ✅ |
+| Palace–Real Sociedad | Palace över 1,5 | 50% | `PRIS EJ TILLGÄNGLIGT` | | 2 mål | ✅ |
+| Palace–Real Sociedad | Under 2,5 | 37% | 2,38 | | 3 mål | ❌ |
+| Sunderland–Jagiellonia | Under 2,5 | 54% | 2,43 | ben, K1 | 2 mål | ✅ |
+| Sunderland–Jagiellonia | BTTS-Nej | 53% | 1,70 | | Båda målade | ❌ |
+| Sunderland–Jagiellonia | Över 2,5 | 46% | 1,55 | | 2 mål | ❌ |
+| Sunderland–Jagiellonia | Sunderland över 1,5 | 41% | `PRIS EJ TILLGÄNGLIGT` | | 1 mål | ❌ |
+| Hoffenheim–Sturm | Under 2,5 | 46% | 3,05 | ben, K2 | 4 mål | ❌ |
+| Hoffenheim–Sturm | Över 2,5 | 54% | 1,37 | | 4 mål | ✅ |
+| Hoffenheim–Sturm | BTTS-Nej | 48% | 2,20 | | Båda målade | ❌ |
+| Hoffenheim–Sturm | Hoffenheim över 1,5 | 48% | `PRIS EJ TILLGÄNGLIGT` | | 3 mål | ✅ |
+| Torreense–Celtic | BTTS | 71% → 69% | 1,60 | 45 kr | Båda målade, 9' och 19' | ✅ |
+| Torreense–Celtic | Under 2,5 | 24% | 2,30 | | 3 mål | ❌ |
+| Torreense–Celtic | Celtic vinst | 50% | 1,64 | | 1–2 | ✅ |
+| Torreense–Celtic | Torreense över 0,5 | 89% | `PRIS EJ TILLGÄNGLIGT` | | 1 mål | ✅ |
+| NEC–Rennes | Under 2,5 | 45% | 2,45 | | 4 mål | ❌ |
+| NEC–Rennes | BTTS-Nej | 42% | 2,55 | | Båda målade | ❌ |
+| NEC–Rennes | Över 2,5 | 55% | 1,54 | | 4 mål | ✅ |
+| NEC–Rennes | NEC över 1,5 | 41% | `PRIS EJ TILLGÄNGLIGT` | | 3 mål | ✅ |
+| OFI–Anderlecht | Under 2,5 | 57% | 2,20 | ben, K1 | 4 mål | ❌ |
+| OFI–Anderlecht | BTTS-Nej | 50% | 2,23 | | Båda målade | ❌ |
+| OFI–Anderlecht | Över 2,5 | 43% | 1,65 | | 4 mål | ✅ |
+| OFI–Anderlecht | Anderlecht över 1,5 | 34% | `PRIS EJ TILLGÄNGLIGT` | | 3 mål | ✅ |
+
+**38 av 72 bedömda marknader landade mot 39,4 förväntade** räknat på filens egna sannolikheter. Riktningsrätt — skattning över 50% som landade, eller under 50% som föll — blev **45 av 68** icke-neutrala rader.
+
+Kvällen gav **56 mål på arton matcher, 3,11 per match mot ligafasens 2,97**, med **över 2,5 i tolv matcher av arton (67%, mot 62%)** och **båda lagen målande i tolv av arton (67%, mot 53%)**. Fyra av kvällens fem positioner låg på att målen uteblir.
+
+**Singlarna, speglade ur sektion 3 i samma ordning:**
+
+| Tid | Match | Spel | Typ | Odds | Sannolikhet | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|---|---|
+| 21:00 | Torreense – Celtic | BTTS | Mål | 1,60 | 71% (64–76%) | 70 kr | Båda målade | ✅ |
+| 18:45 | Olympiacos – Milan | BTTS-Nej | Mål | 2,10 | 54% (47–60%) | 25 kr | Båda målade | ❌ |
+
+Sektion 3:s tabell uppdaterades aldrig efter tilläggen, och de två raderna ovan är därför inte de siffror insatserna låg på: 19:15-tillägget sänkte Torreense–Celtic till **69% och 45 kr**, 17:50-tillägget höjde Olympiacos–Milan till **61% och 45 kr**. Marknadstabellen och nettot nedan bygger på de reviderade siffrorna. Raderna städas inte — avvikelsen ligger i förhandsanalysen.
+
+### Skott på mål
+
+Inga skottrader publicerades. Spelarvis skott på mål per match gick inte att belägga i någon av kvällens arton matcher, så ingen rad finns att utvärdera och inga minuter att fylla i.
+
+### Kuponger
+
+| Kupong | Resultat | Fallet ben |
+|---|---|---|
+| 1 — Ankare, OFI–Anderlecht under 2,5 + Sunderland–Jagiellonia under 2,5, 55 kr × 5,35 | ❌ | OFI–Anderlecht under 2,5 (1–3). Sunderlandbenet landade på 1–1 |
+| 2 — Huvudspel, Hoffenheim–Sturm under 2,5 + Marseille–Levski under 2,5, 45 kr × 7,08 | ❌ | Hoffenheim–Sturm under 2,5 (3–1). Marseillebenet landade på 1–0 |
+
+Ett enda kupongset, lagt 12:10, med två tillägg som flyttade singelinsatser men varken lade till eller drog någon post. Avsnittstotal och dagstotal är därför samma siffra.
+
+### Totalt: 0/2 kuponger · 1/2 singlar · −118 kr
+
+Insats 190 kr: 100 kr i kuponger som båda föll, 45 kr på Torreense–Celtic BTTS som gav +27 kr och 45 kr på Olympiacos–Milan BTTS-Nej som föll. Räknat på filens egna rättvisa odds (1,45 på den enda vinnande positionen) blir kvällen −125 kr; spannet är −125 till −118 kr och den högre posten används, samma konvention som tidigare kvällar.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Hela exponeringen | −118 kr | Korrelation — fyra av fem positioner bar tesen "målen uteblir" på en kväll som gav 3,11 mål per match |
+| Kupong 1 — OFI under 2,5 + Sunderland under 2,5 | −55 kr | Varians — Sunderlandbenet landade som skattat, OFI-benet var dött i 54:e |
+| Kupong 2 — Hoffenheim under 2,5 + Marseille under 2,5 | −45 kr | Varians — Marseillebenet landade som skattat, Hoffenheimbenet var dött i 80:e |
+| Olympiacos–Milan BTTS-Nej | −45 kr | Dålig tolkning, och överkonfidens på insatsen — två försvagade anfall lästes som målsänkande mot gästernas egna 28 ligamål, och insatsen fördubblades på den läsningen |
+| Torreense–Celtic BTTS | +27 kr | Bra beslut — båda lagen målade före 20:e minuten, precis den matchbild tesen beskrev |
+| Ferencváros–Celje, fyra bedömda marknader | ±0 kr | Recensbias — fyra segrar och elva mål lästes som egenskap, och alla fyra marknaderna byggdes på den läsningen; matchen slutade 0–0 |
+| Plzeň–Benfica Benfica över 1,5 | ±0 kr | Recensbias — fyra segrar och tretton mål lästes som egenskap; laget nollades och förlorade med fyra |
