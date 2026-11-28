@@ -124,3 +124,79 @@ Madley ligger på 3,4 gula per match över 25 PL-matcher de två senaste säsong
 ligasnittet på cirka 3,8; fem matcher den här säsongen är för litet urval att döma på. Sesma
 ligger på 4,4 över 72 karriärmatcher, i linje med La Liga-snittet på cirka 4,3. Inget kortspel —
 inga kortlinjer gick att hämta för någondera matchen och lagens kort per match saknas.
+
+---
+
+## 📊 Efteranalys
+
+**90 minuter:** Båda matcherna är enkelmatcher i seriespel och kunde inte gå till förlängning.
+Fyra av nattens nio mål föll efter 80:e minuten, och det sista — Racings 1–3 — kom i ordinarie
+tilläggstid (90+5') och räknas därför in. Inget mål föll i förlängning. Samtliga mål- och
+BTTS-marknader avgörs alltså på de 90 minuter de ska avgöras på.
+
+### Resultat
+
+| Match | Resultat | Nyckelhändelser |
+|---|---|---|
+| Nottingham Forest – Chelsea | 3–2 | Igor Jesus 5' (Muñoz), Gibbs-White 51' straff och 72' (Schlager), Emegha 54' och 89' (Neto). Delap vann straffen, Fofana byttes ut 56'. Emegha kom in i halvtid för Welbeck. Skott 10–9, skott på mål 7–3, Chelsea 64% boll. Gult: Delap 72' |
+| Levante – Racing Santander | 1–3 | Iván Romero 42' (Oriol Rey), Pablo García 66' (Almeida) och 90+5' (Salinas), Zabiri 81' (Iñigo Vicente). Pablo García kom in 61' för Prati, Canales ut samma minut. Skott 23–15, skott på mål 3–8. Gult: Requena, Olasagasti, Pedro Felipe, Iker Luque |
+
+### Marknader
+
+| Match | Marknad | Sannolikhet | Odds | Insats | Utfall | Resultat |
+|---|---|---|---|---|---|---|
+| Nottingham Forest – Chelsea | Under 2,5 | 58% (52–64%) | 2,02 | 100 kr | 5 mål | ❌ −100 kr |
+| Nottingham Forest – Chelsea | BTTS-Nej | 53% (47–59%) | 2,25 | — | Båda lagen gjorde mål | ❌ |
+| Nottingham Forest – Chelsea | Chelsea över 1,5 | 39% (33–45%) | `PRIS EJ TILLGÄNGLIGT` | — | Chelsea 2 mål | ✅ |
+| Nottingham Forest – Chelsea | Över 2,5 | 42% (36–48%) | 1,77 | — | 5 mål | ✅ |
+| Levante – Racing Santander | Över 2,5 | 67% (61–73%) | 1,42 | — | 4 mål | ✅ |
+| Levante – Racing Santander | BTTS | 66% (60–72%) | 1,38 | — | 1–3 | ✅ |
+| Levante – Racing Santander | Levante över 1,5 | 59% (52–65%) | `PRIS EJ TILLGÄNGLIGT` | — | Levante 1 mål | ❌ |
+| Levante – Racing Santander | Under 2,5 | 33% (27–39%) | 2,80 | — | 4 mål | ❌ |
+| Levante – Racing Santander | Levante vinst | 50% | 2,02 | — | 1–3 | ❌ |
+| Levante – Racing Santander | Zabiri över 1,5 skott på mål | 40% | 2,15 | — | 3 skott på mål | ✅ |
+
+De tio bedömda marknaderna summerar till 5,07 förväntade träffar och gav fem. Kvällens enda
+spelade position är en av de fem som föll.
+
+### Skott på mål
+
+| Lag | Spelare | Linje | Sannolikhet | Minuter | Skott på mål | Utfall |
+|---|---|---|---|---|---|---|
+| Chelsea | Pedro Neto | 1+ | 62% | 90 | 0 (1 skott) | ❌ |
+| Chelsea | Cole Palmer | 1+ | 55% | 90 | ej bedömbar | — |
+| Chelsea | Morgan Rogers | 1+ | 52% | 90 | 0 (2 skott) | ❌ |
+| Forest | Igor Jesus | 1+ | 49% | 72 (ut 72') | 1 (mål 5') | ✅ |
+| Forest | Liam Delap | 1+ | 39% | 84 (ut 84') | 1 | ✅ |
+| Forest | James McAtee | 1+ | 36% | 90 (ut 90+3') | 2 | ✅ |
+| Racing | Yassir Zabiri | 1+ | 72% | 90 (ut 90') | 3 (mål 81') | ✅ |
+| Racing | Pablo García | 1+ | 52% | 34 (in 61') | minst 2 (mål 66' och 90+5') | ✅ |
+| Racing | Sergio Canales | 1+ | 52% | 61 (ut 61') | ej bedömbar | — |
+| Levante | Iván Romero | 1+ | 58% | 75 (ut 75') | 1 (mål 42') | ✅ |
+| Levante | Roger Brugué | 1+ | 55% | 20 (in 75') | 1 | ✅ |
+| Levante | Adrián de la Fuente | 1+ | 41% | 90 | ej bedömbar | — |
+
+Tolv rader, samtliga med verifierad minutsiffra, nio avgjorda mot 1+-linjen och sju träffar
+mot 4,75 förväntade. Ingen rad föll på speltid — alla tolv spelade. Emegha, som lämnades
+utanför tabellen för litet urval, satt på bänken i stället för att starta och gjorde Chelseas
+båda mål efter halvtidsbytet; hans två skott på mål är hela Chelseas träffbild utom ett.
+
+### Kuponger
+
+Inga kuponger publicerades.
+
+### Totalt: 0/0 kuponger · 0/1 singlar · −100 kr
+
+Priset 2,02 var indikativt, men en förlorad singel kostar insatsen oavsett pris — kvällens
+summa är exakt −100 kr och har inget spann.
+
+### Orsak
+
+| Spel | Utfall | Orsak |
+|---|---|---|
+| Forest–Chelsea under 2,5 | −100 kr | Recensbias — ett femmatchers hemmasvit under åttaribban bar hela tesen, och den bröts i femte minuten |
+| Forest–Chelsea BTTS-Nej (avstådd) | 0 kr | Bra beslut — samma tes som spelet, avstådd på utfallstäckning, och den föll likadant |
+| Levante–Racing pass | 0 kr | Bra beslut — båda målmarknaderna krävde mer än skattningen och landade ändå; ett utfall mäter inte ett pris |
+| Levante över 1,5 (bästa marknad, inget pris) | 0 kr | Varians — hemmalaget sköt 23 gånger mot 15 och gjorde ett mål |
+| Zabiri över 1,5 skott på mål (avstådd) | 0 kr | Varians — en fyrtioprocentare som landar bekräftar ingen siffra |
+| Skottraderna | 7/9 avgjorda | Dålig tolkning — raderna rangordnades enbart på spelarnas egen frekvens, och matchbilden som gav gästerna den tydligare vägen till mål höll inte: hemmalaget fick sju skott på mål mot tre |
